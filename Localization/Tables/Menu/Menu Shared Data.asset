@@ -1,0 +1,1526 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Menu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Menu
+  m_TableCollectionNameGuidString: 6578110d0d7f6fd47b65a5fbe8aef088
+  m_Entries:
+  - m_Id: 62270994624512
+    m_Key: MAIN.PRIVATE_GAME
+    m_Metadata:
+      m_Items:
+      - rid: 3967077751450763264
+  - m_Id: 62271019790336
+    m_Key: MAIN.PUBLIC_GAME
+    m_Metadata:
+      m_Items:
+      - rid: 3967077751450763265
+  - m_Id: 62271019790337
+    m_Key: MAIN.JOIN_FRIEND
+    m_Metadata:
+      m_Items:
+      - rid: 3967077751450763266
+  - m_Id: 62271019790338
+    m_Key: MAIN.SINGLEPLAYER
+    m_Metadata:
+      m_Items:
+      - rid: 3967077751450763267
+  - m_Id: 62271019790339
+    m_Key: MAIN.TUTORIAL
+    m_Metadata:
+      m_Items:
+      - rid: 3967077751450763268
+  - m_Id: 21739271462313984
+    m_Key: MAIN.CUSTOMIZE
+    m_Metadata:
+      m_Items:
+      - rid: 6163163130222608386
+  - m_Id: 62271019790340
+    m_Key: MAIN.SETTINGS
+    m_Metadata:
+      m_Items:
+      - rid: 3967077751450763269
+  - m_Id: 62271019790341
+    m_Key: MAIN.QUIT_GAME
+    m_Metadata:
+      m_Items:
+      - rid: 3967077751450763270
+  - m_Id: 754728038916096
+    m_Key: POPUP.PRIVATE_GAME.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887616
+    m_Key: POPUP.PRIVATE_GAME.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887617
+    m_Key: POPUP.PRIVATE_GAME.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887618
+    m_Key: POPUP.PRIVATE_GAME.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887619
+    m_Key: POPUP.PUBLIC_GAME.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887620
+    m_Key: POPUP.PUBLIC_GAME.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887621
+    m_Key: POPUP.PUBLIC_GAME.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887622
+    m_Key: POPUP.PUBLIC_GAME.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170002669568
+    m_Key: POPUP.QUIT_GAME.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029696
+    m_Key: POPUP.QUIT_GAME.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029697
+    m_Key: POPUP.QUIT_GAME.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029698
+    m_Key: POPUP.QUIT_GAME.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735488
+    m_Key: POPUP.MAIN_MENU.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735489
+    m_Key: POPUP.MAIN_MENU.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735490
+    m_Key: POPUP.MAIN_MENU.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735491
+    m_Key: POPUP.MAIN_MENU.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029699
+    m_Key: POPUP.SELF_DESTRUCT.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029700
+    m_Key: POPUP.SELF_DESTRUCT.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029701
+    m_Key: POPUP.SELF_DESTRUCT.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029702
+    m_Key: POPUP.SELF_DESTRUCT.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235048194048
+    m_Key: ESC.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554176
+    m_Key: ESC.CONTINUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554177
+    m_Key: ESC.CUSTOMIZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554178
+    m_Key: ESC.SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554179
+    m_Key: ESC.SELF_DESTRUCT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554180
+    m_Key: ESC.ACTIVE_MOONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554181
+    m_Key: ESC.MAIN_MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554182
+    m_Key: ESC.QUIT_GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118074785792
+    m_Key: MOONS.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757312
+    m_Key: MOONS.BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757313
+    m_Key: MOONS.MOON_1.NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757314
+    m_Key: MOONS.MOON_1.ATTRIBUTE_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757315
+    m_Key: MOONS.MOON_1.ATTRIBUTE_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757316
+    m_Key: MOONS.MOON_2.NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757317
+    m_Key: MOONS.MOON_2.ATTRIBUTE_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757318
+    m_Key: MOONS.MOON_2.ATTRIBUTE_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757319
+    m_Key: MOONS.MOON_2.ATTRIBUTE_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757320
+    m_Key: MOONS.MOON_3.NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757321
+    m_Key: MOONS.MOON_3.ATTRIBUTE_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757322
+    m_Key: MOONS.MOON_3.ATTRIBUTE_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757323
+    m_Key: MOONS.MOON_4.NAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757324
+    m_Key: MOONS.MOON_4.ATTRIBUTE_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757325
+    m_Key: MOONS.MOON_4.ATTRIBUTE_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757326
+    m_Key: MOONS.MOON_4.ATTRIBUTE_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029706
+    m_Key: SAVES.GO_BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029707
+    m_Key: SAVES.NEW_GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029708
+    m_Key: SAVES.SINGLEPLAYER_MODE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029709
+    m_Key: SAVES.MULTIPLAYER_MODE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029710
+    m_Key: SAVES.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029711
+    m_Key: SAVES.PAGE_INFO.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029712
+    m_Key: SAVES.PAGE_INFO.DESCRIPTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029713
+    m_Key: SAVES.SAVE_INFO.DELETE_SAVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029714
+    m_Key: SAVES.SAVE_INFO.LOAD_SAVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029715
+    m_Key: SAVES.SAVE_INFO.USE_BACKUP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10257803930230784
+    m_Key: SAVES.SAVE_INFO.CLICK_TO_RENAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7715786482245632
+    m_Key: SAVES.SAVE_INFO.CORRUPTED_SAVE_FILE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029717
+    m_Key: SAVES.SAVE_INFO.CURRENT_MOON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549056
+    m_Key: SAVES.SAVE_INFO.TOTAL_HAUL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549057
+    m_Key: SAVES.SAVE_INFO.SORRY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549058
+    m_Key: SAVES.SAVE_INFO.PRESS_DELETE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5801515992834048
+    m_Key: SAVES.SAVE_INFO.PLAYER_LIST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7730571982659584
+    m_Key: SAVES.SAVE_FILE.UH_OH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7730572012019712
+    m_Key: SAVES.SAVE_FILE.CORRUPTED_SAVE_FILE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179729825792
+    m_Key: SAVES_RENAME.RENAME_SAVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179754991616
+    m_Key: SAVES_RENAME.BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179754991617
+    m_Key: SAVES_RENAME.CONFIRM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296960
+    m_Key: POPUP.NEW_GAME.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296961
+    m_Key: POPUP.NEW_GAME.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296962
+    m_Key: POPUP.NEW_GAME.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296963
+    m_Key: POPUP.NEW_GAME.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853696
+    m_Key: POPUP.LOAD_SAVE.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853697
+    m_Key: POPUP.LOAD_SAVE.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853698
+    m_Key: POPUP.LOAD_SAVE.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853699
+    m_Key: POPUP.LOAD_SAVE.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853700
+    m_Key: POPUP.DELETE_SAVE.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853701
+    m_Key: POPUP.DELETE_SAVE.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853702
+    m_Key: POPUP.DELETE_SAVE.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853703
+    m_Key: POPUP.DELETE_SAVE.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853704
+    m_Key: POPUP.USE_BACKUP.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853705
+    m_Key: POPUP.USE_BACKUP.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853706
+    m_Key: POPUP.USE_BACKUP.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853707
+    m_Key: POPUP.USE_BACKUP.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853708
+    m_Key: REGIONS.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23207164712574976
+    m_Key: REGIONS.PING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853709
+    m_Key: REGIONS.BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853710
+    m_Key: REGIONS.REGION.PICK_BEST_REGION
+    m_Metadata:
+      m_Items:
+      - rid: 7803763103541493793
+  - m_Id: 5190661053853711
+    m_Key: REGIONS.REGION.ASIA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853712
+    m_Key: REGIONS.REGION.AU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853713
+    m_Key: REGIONS.REGION.CAE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853714
+    m_Key: REGIONS.REGION.CN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853715
+    m_Key: REGIONS.REGION.EU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853716
+    m_Key: REGIONS.REGION.HK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853717
+    m_Key: REGIONS.REGION.IN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853718
+    m_Key: REGIONS.REGION.JP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853719
+    m_Key: REGIONS.REGION.ZA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853720
+    m_Key: REGIONS.REGION.SA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853721
+    m_Key: REGIONS.REGION.KR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853722
+    m_Key: REGIONS.REGION.TR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853723
+    m_Key: REGIONS.REGION.UAE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853724
+    m_Key: REGIONS.REGION.US
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853725
+    m_Key: REGIONS.REGION.USW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853726
+    m_Key: REGIONS.REGION.USSC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343564980224
+    m_Key: SETTINGS.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534656
+    m_Key: SETTINGS.GAMEPLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534657
+    m_Key: SETTINGS.GRAPHICS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534658
+    m_Key: SETTINGS.AUDIO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534659
+    m_Key: SETTINGS.CONTROLS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534660
+    m_Key: SETTINGS.LANGUAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534661
+    m_Key: SETTINGS.BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534662
+    m_Key: SETTINGS.BOOL.ON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534663
+    m_Key: SETTINGS.BOOL.OFF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534664
+    m_Key: SETTINGS.BOOL.TOGGLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534665
+    m_Key: SETTINGS.BOOL.HOLD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938048
+    m_Key: SETTINGS.CAMERA_ANIMATION.OFF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938049
+    m_Key: SETTINGS.CAMERA_ANIMATION.VERY_LOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938050
+    m_Key: SETTINGS.CAMERA_ANIMATION.LOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938051
+    m_Key: SETTINGS.CAMERA_ANIMATION.MEDIUM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938052
+    m_Key: SETTINGS.CAMERA_ANIMATION.DEFAULT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938053
+    m_Key: SETTINGS.RICH_PRESENCE.OFF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938054
+    m_Key: SETTINGS.RICH_PRESENCE.MINIMAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938055
+    m_Key: SETTINGS.RICH_PRESENCE.FULL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938056
+    m_Key: SETTINGS.WINDOW_MODE.WINDOWED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938057
+    m_Key: SETTINGS.WINDOW_MODE.FULLSCREEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938058
+    m_Key: SETTINGS.MAX_FPS.UNLIMITED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938059
+    m_Key: SETTINGS.LIGHT_DISTANCE.VERY_LOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938060
+    m_Key: SETTINGS.LIGHT_DISTANCE.LOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938061
+    m_Key: SETTINGS.LIGHT_DISTANCE.MEDIUM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938062
+    m_Key: SETTINGS.LIGHT_DISTANCE.HIGH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938063
+    m_Key: SETTINGS.LIGHT_DISTANCE.VERY_HIGH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938064
+    m_Key: SETTINGS.SHADOW_QUALITY.VERY_LOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938065
+    m_Key: SETTINGS.SHADOW_QUALITY.LOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938066
+    m_Key: SETTINGS.SHADOW_QUALITY.MEDIUM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938067
+    m_Key: SETTINGS.SHADOW_QUALITY.HIGH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938068
+    m_Key: SETTINGS.SHADOW_QUALITY.VERY_HIGH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938069
+    m_Key: SETTINGS.SHADOW_DISTANCE.VERY_LOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938070
+    m_Key: SETTINGS.SHADOW_DISTANCE.LOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938071
+    m_Key: SETTINGS.SHADOW_DISTANCE.MEDIUM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938072
+    m_Key: SETTINGS.SHADOW_DISTANCE.HIGH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938073
+    m_Key: SETTINGS.SHADOW_DISTANCE.VERY_HIGH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938074
+    m_Key: SETTINGS.RENDER_SIZE.SMALL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938075
+    m_Key: SETTINGS.RENDER_SIZE.MEDIUM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938076
+    m_Key: SETTINGS.RENDER_SIZE.DEFAULT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938077
+    m_Key: SETTINGS.MIC_DEVICE.NONE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534674
+    m_Key: SETTINGS.GAMEPLAY.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534675
+    m_Key: SETTINGS.GAMEPLAY.RESET_TO_DEFAULT_SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605050462208
+    m_Key: POPUP.RESET_GAMEPLAY_SETTINGS.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822336
+    m_Key: POPUP.RESET_GAMEPLAY_SETTINGS.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822337
+    m_Key: POPUP.RESET_GAMEPLAY_SETTINGS.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822338
+    m_Key: POPUP.RESET_GAMEPLAY_SETTINGS.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534676
+    m_Key: SETTINGS.GAMEPLAY.TIPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534677
+    m_Key: SETTINGS.GAMEPLAY.PLAYER_NAMES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534678
+    m_Key: SETTINGS.GAMEPLAY.PHOTOSENSITIVITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534679
+    m_Key: SETTINGS.GAMEPLAY.ARACHNOPHOBIA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534680
+    m_Key: SETTINGS.GAMEPLAY.AIM_SENSITIVITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534681
+    m_Key: SETTINGS.GAMEPLAY.CAMERA_SMOOTHING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534682
+    m_Key: SETTINGS.GAMEPLAY.CAMERA_SHAKE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534683
+    m_Key: SETTINGS.GAMEPLAY.CAMERA_NOISE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534684
+    m_Key: SETTINGS.GAMEPLAY.CAMERA_ANIMATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534685
+    m_Key: SETTINGS.GAMEPLAY.INVERT_VERICAL_AIM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534686
+    m_Key: SETTINGS.GAMEPLAY.ITEM_UNEQUIP_AUTO_HOLD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534687
+    m_Key: SETTINGS.GAMEPLAY.RICH_PRESENCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534688
+    m_Key: SETTINGS.GAMEPLAY.COSMETICS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822339
+    m_Key: SETTINGS.GRAPHICS.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534689
+    m_Key: SETTINGS.GRAPHICS.RESET_TO_DEFAULT_SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822340
+    m_Key: POPUP.RESET_GRAPHICS_SETTINGS.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822341
+    m_Key: POPUP.RESET_GRAPHICS_SETTINGS.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822342
+    m_Key: POPUP.RESET_GRAPHICS_SETTINGS.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822343
+    m_Key: POPUP.RESET_GRAPHICS_SETTINGS.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534690
+    m_Key: SETTINGS.GRAPHICS.WINDOW_MODE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534691
+    m_Key: SETTINGS.GRAPHICS.VSYNC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534692
+    m_Key: SETTINGS.GRAPHICS.GAMMA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534693
+    m_Key: SETTINGS.GRAPHICS.MAX_FPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534694
+    m_Key: SETTINGS.GRAPHICS.LIGHT_DISTANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534695
+    m_Key: SETTINGS.GRAPHICS.SHADOW_QUALITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534696
+    m_Key: SETTINGS.GRAPHICS.SHADOW_DISTANCE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534697
+    m_Key: SETTINGS.GRAPHICS.MOTION_BLUR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534698
+    m_Key: SETTINGS.GRAPHICS.LENS_DISTORTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534699
+    m_Key: SETTINGS.GRAPHICS.BLOOM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534700
+    m_Key: SETTINGS.GRAPHICS.CHROMATIC_ABERRATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534701
+    m_Key: SETTINGS.GRAPHICS.GRAIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534702
+    m_Key: SETTINGS.GRAPHICS.GLITCH_LOOP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534703
+    m_Key: SETTINGS.GRAPHICS.PIXELATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534704
+    m_Key: SETTINGS.AUDIO.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534705
+    m_Key: SETTINGS.AUDIO.RESET_TO_DEFAULT_SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723968
+    m_Key: POPUP.RESET_AUDIO_SETTINGS.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723969
+    m_Key: POPUP.RESET_AUDIO_SETTINGS.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723970
+    m_Key: POPUP.RESET_AUDIO_SETTINGS.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723971
+    m_Key: POPUP.RESET_AUDIO_SETTINGS.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534706
+    m_Key: SETTINGS.AUDIO.MASTER_VOLUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534707
+    m_Key: SETTINGS.AUDIO.MUSIC_VOLUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10942035694444544
+    m_Key: SETTINGS.AUDIO.SFX_VOLUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534709
+    m_Key: SETTINGS.AUDIO.PROXIMITY_VOICE_VOLUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10942035694444545
+    m_Key: SETTINGS.AUDIO.TEXT_TO_SPEECH_VOLUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534711
+    m_Key: SETTINGS.AUDIO.MICROPHONE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534712
+    m_Key: SETTINGS.AUDIO.MICROPHONE_VOLUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534713
+    m_Key: SETTINGS.AUDIO.PUSH_TO_TALK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534714
+    m_Key: SETTINGS.CONTROLS.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534715
+    m_Key: SETTINGS.CONTROLS.RESET_TO_DEFAULT_SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723972
+    m_Key: POPUP.RESET_CONTROLS_SETTINGS.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723973
+    m_Key: POPUP.RESET_CONTROLS_SETTINGS.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723974
+    m_Key: POPUP.RESET_CONTROLS_SETTINGS.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723975
+    m_Key: POPUP.RESET_CONTROLS_SETTINGS.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534716
+    m_Key: SETTINGS.CONTROLS.MOVEMENT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534717
+    m_Key: SETTINGS.CONTROLS.MOVE_FORWARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534718
+    m_Key: SETTINGS.CONTROLS.MOVE_LEFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534719
+    m_Key: SETTINGS.CONTROLS.MOVE_BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534720
+    m_Key: SETTINGS.CONTROLS.MOVE_RIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534721
+    m_Key: SETTINGS.CONTROLS.JUMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534722
+    m_Key: SETTINGS.CONTROLS.CROUCH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534723
+    m_Key: SETTINGS.CONTROLS.SPRINT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534724
+    m_Key: SETTINGS.CONTROLS.TUMBLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534725
+    m_Key: SETTINGS.CONTROLS.GRABBING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534726
+    m_Key: SETTINGS.CONTROLS.GRAB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534727
+    m_Key: SETTINGS.CONTROLS.ROTATE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534728
+    m_Key: SETTINGS.CONTROLS.PUSH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534729
+    m_Key: SETTINGS.CONTROLS.PULL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534730
+    m_Key: SETTINGS.CONTROLS.OTHER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534731
+    m_Key: SETTINGS.CONTROLS.MAP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534732
+    m_Key: SETTINGS.CONTROLS.INTERACT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534733
+    m_Key: SETTINGS.CONTROLS.INVENTORY_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534734
+    m_Key: SETTINGS.CONTROLS.INVENTORY_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534735
+    m_Key: SETTINGS.CONTROLS.INVENTORY_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534736
+    m_Key: SETTINGS.CONTROLS.CHAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534737
+    m_Key: SETTINGS.CONTROLS.CONFIRM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534738
+    m_Key: SETTINGS.CONTROLS.BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534739
+    m_Key: SETTINGS.CONTROLS.MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534740
+    m_Key: SETTINGS.CONTROLS.SPECTATE_NEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534741
+    m_Key: SETTINGS.CONTROLS.SPECTATE_PREVIOUS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534742
+    m_Key: SETTINGS.CONTROLS.PUSH_TO_TALK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534743
+    m_Key: SETTINGS.CONTROLS.TOGGLE_MUTE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534744
+    m_Key: SETTINGS.CONTROLS.PLAYER_EXPRESSIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145570844672
+    m_Key: SETTINGS.CONTROLS.ANGRY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593408
+    m_Key: SETTINGS.CONTROLS.SAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593409
+    m_Key: SETTINGS.CONTROLS.SUSPICIOUS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593410
+    m_Key: SETTINGS.CONTROLS.EYES_CLOSED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593411
+    m_Key: SETTINGS.CONTROLS.SCARED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593412
+    m_Key: SETTINGS.CONTROLS.HAPPY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534751
+    m_Key: SETTINGS.LANGUAGE.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534752
+    m_Key: COSMETICS.CATEGORY.PRESETS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534753
+    m_Key: COSMETICS.CATEGORY.HEAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534754
+    m_Key: COSMETICS.CATEGORY.ARMS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534755
+    m_Key: COSMETICS.CATEGORY.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534756
+    m_Key: COSMETICS.CATEGORY.LEGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534757
+    m_Key: COSMETICS.CONFIRM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534758
+    m_Key: COSMETICS.COLOR.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534759
+    m_Key: COSMETICS.COLOR.CONFIRM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534760
+    m_Key: COSMETICS.PRESET.DELETE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534761
+    m_Key: COSMETICS.TYPE.HAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534762
+    m_Key: COSMETICS.TYPE.ARM_RIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534763
+    m_Key: COSMETICS.TYPE.ARM_LEFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534764
+    m_Key: COSMETICS.TYPE.LEG_RIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534765
+    m_Key: COSMETICS.TYPE.LEG_LEFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534766
+    m_Key: COSMETICS.TYPE.HEAD_TOP_MESH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534767
+    m_Key: COSMETICS.TYPE.HEAD_BOTTOM_MESH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534768
+    m_Key: COSMETICS.TYPE.BODY_TOP_MESH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534769
+    m_Key: COSMETICS.TYPE.BODY_BOTTOM_MESH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534770
+    m_Key: COSMETICS.TYPE.ARM_RIGHT_MESH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534771
+    m_Key: COSMETICS.TYPE.ARM_LEFT_MESH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534772
+    m_Key: COSMETICS.TYPE.LEG_RIGHT_MESH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534773
+    m_Key: COSMETICS.TYPE.LEG_LEFT_MESH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534774
+    m_Key: COSMETICS.TYPE.GRABBER_MESH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534775
+    m_Key: COSMETICS.TYPE.EYE_LID_RIGHT_MESH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728960
+    m_Key: COSMETICS.TYPE.EYE_LID_LEFT_MESH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21470840070594560
+    m_Key: COSMETICS.TYPE.FACE_TOP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21470840091566080
+    m_Key: COSMETICS.TYPE.FACE_BOTTOM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728962
+    m_Key: COSMETICS.TYPE.EARS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728963
+    m_Key: COSMETICS.TYPE.EYEWEAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15231403103870976
+    m_Key: COSMETICS.TYPE.FOOT_RIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728965
+    m_Key: COSMETICS.TYPE.BODY_TOP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728966
+    m_Key: COSMETICS.TYPE.BODY_BOTTOM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15231403133231104
+    m_Key: COSMETICS.TYPE.FOOT_LEFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728969
+    m_Key: COSMETICS.TYPE.HEAD_TOP_OVERLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728970
+    m_Key: COSMETICS.TYPE.HEAD_BOTTOM_OVERLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728961
+    m_Key: COSMETICS.TYPE.BODY_TOP_OVERLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728968
+    m_Key: COSMETICS.TYPE.BODY_BOTTOM_OVERLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008624496640
+    m_Key: COSMETICS.TYPE.ARM_RIGHT_OVERLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468160
+    m_Key: COSMETICS.TYPE.ARM_LEFT_OVERLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468161
+    m_Key: COSMETICS.TYPE.LEG_RIGHT_OVERLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468162
+    m_Key: COSMETICS.TYPE.LEG_LEFT_OVERLAY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16702161813680128
+    m_Key: COSMETICS.TYPE.HEAD_BOTTOM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728971
+    m_Key: POPUP.DELETE_PRESET.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728972
+    m_Key: POPUP.DELETE_PRESET.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728973
+    m_Key: POPUP.DELETE_PRESET.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728974
+    m_Key: POPUP.DELETE_PRESET.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241957765120
+    m_Key: POPUP.COSMETICS_RESET_ALL.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930944
+    m_Key: POPUP.COSMETICS_RESET_ALL.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930945
+    m_Key: POPUP.COSMETICS_RESET_ALL.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930946
+    m_Key: POPUP.COSMETICS_RESET_ALL.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930947
+    m_Key: POPUP.COSMETICS_RESET_BODY.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930948
+    m_Key: POPUP.COSMETICS_RESET_BODY.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930949
+    m_Key: POPUP.COSMETICS_RESET_BODY.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930950
+    m_Key: POPUP.COSMETICS_RESET_BODY.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930951
+    m_Key: POPUP.COSMETICS_RESET_COSMETICS.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930952
+    m_Key: POPUP.COSMETICS_RESET_COSMETICS.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930953
+    m_Key: POPUP.COSMETICS_RESET_COSMETICS.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930954
+    m_Key: POPUP.COSMETICS_RESET_COSMETICS.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930955
+    m_Key: POPUP.COSMETICS_RANDOMIZE_ALL.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930956
+    m_Key: POPUP.COSMETICS_RANDOMIZE_ALL.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930957
+    m_Key: POPUP.COSMETICS_RANDOMIZE_ALL.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930958
+    m_Key: POPUP.COSMETICS_RANDOMIZE_ALL.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930959
+    m_Key: POPUP.COSMETICS_RANDOMIZE_BODY.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930960
+    m_Key: POPUP.COSMETICS_RANDOMIZE_BODY.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930961
+    m_Key: POPUP.COSMETICS_RANDOMIZE_BODY.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930962
+    m_Key: POPUP.COSMETICS_RANDOMIZE_BODY.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930963
+    m_Key: POPUP.COSMETICS_RANDOMIZE_COSMETICS.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930964
+    m_Key: POPUP.COSMETICS_RANDOMIZE_COSMETICS.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930965
+    m_Key: POPUP.COSMETICS_RANDOMIZE_COSMETICS.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930966
+    m_Key: POPUP.COSMETICS_RANDOMIZE_COSMETICS.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835840
+    m_Key: POPUP.COSMETICS_COLOR_ALL.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835841
+    m_Key: POPUP.COSMETICS_COLOR_ALL.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835842
+    m_Key: POPUP.COSMETICS_COLOR_ALL.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835843
+    m_Key: POPUP.COSMETICS_COLOR_ALL.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930967
+    m_Key: POPUP.COSMETICS_COLOR_BODY.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930968
+    m_Key: POPUP.COSMETICS_COLOR_BODY.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930969
+    m_Key: POPUP.COSMETICS_COLOR_BODY.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930970
+    m_Key: POPUP.COSMETICS_COLOR_BODY.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930971
+    m_Key: POPUP.COSMETICS_COLOR_COSMETICS.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930972
+    m_Key: POPUP.COSMETICS_COLOR_COSMETICS.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930973
+    m_Key: POPUP.COSMETICS_COLOR_COSMETICS.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930974
+    m_Key: POPUP.COSMETICS_COLOR_COSMETICS.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15590857783631872
+    m_Key: PASSWORD.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15590857808797696
+    m_Key: PASSWORD.SKIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15673645669015552
+    m_Key: PASSWORD.CONFIRM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116045647872
+    m_Key: LOBBY.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008000
+    m_Key: LOBBY.CHAT_PROMPT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008001
+    m_Key: LOBBY.START_GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16030297698066432
+    m_Key: LOBBY.PLAYER_JOINING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008002
+    m_Key: LOBBY.INVITE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008003
+    m_Key: LOBBY.SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008004
+    m_Key: LOBBY.CUSTOMIZE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008005
+    m_Key: LOBBY.LEAVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23197572767145984
+    m_Key: LOBBY.PING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008006
+    m_Key: POPUP.START_GAME.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008007
+    m_Key: POPUP.START_GAME.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008008
+    m_Key: POPUP.START_GAME.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008009
+    m_Key: POPUP.START_GAME.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008010
+    m_Key: POPUP.LEAVE_LOBBY.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008011
+    m_Key: POPUP.LEAVE_LOBBY.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008012
+    m_Key: POPUP.LEAVE_LOBBY.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008013
+    m_Key: POPUP.LEAVE_LOBBY.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26475650059841536
+    m_Key: SPLASH.PHOTOSENSITIVITY_WARNING.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26475650085007360
+    m_Key: SPLASH.PHOTOSENSITIVITY_WARNING.SUBHEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26475650085007361
+    m_Key: SPLASH.PHOTOSENSITIVITY_WARNING.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972608
+    m_Key: LOADING.LOADING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972609
+    m_Key: LOADING.STUCK_PROMPT_TOP_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972610
+    m_Key: LOADING.STUCK_PROMPT_BOTTOM_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30862829494894592
+    m_Key: LOADING.LEVEL.SHOP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30862829524254720
+    m_Key: LOADING.LEVEL.LEVEL_NUMBER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30862829524254721
+    m_Key: LOADING.LEVEL.GAME_OVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599407521792
+    m_Key: LEVEL.NAME.SHOP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687616
+    m_Key: LEVEL.NAME.ARENA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687617
+    m_Key: LEVEL.NAME.ARCTIC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687618
+    m_Key: LEVEL.NAME.MANOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687619
+    m_Key: LEVEL.NAME.MUSEUM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687620
+    m_Key: LEVEL.NAME.WIZARD
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3967077747386744846
+  references:
+    version: 2
+    RefIds:
+    - rid: 3967077747386744846
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1770626790017
+    - rid: 3967077751450763264
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Menu button for starting a private game.
+    - rid: 3967077751450763265
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Menu button for starting a public game.
+    - rid: 3967077751450763266
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Menu button for joining a friend's lobby.
+    - rid: 3967077751450763267
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Menu button for starting a singleplayer game.
+    - rid: 3967077751450763268
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Menu button for starting the tutorial.
+    - rid: 3967077751450763269
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Menu button for changing the in-game settings.
+    - rid: 3967077751450763270
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Menu button for quitting the game.
+    - rid: 6163163130222608386
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Menu button for customizing the player's charactesr.
+    - rid: 7803763103541493793
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Menu button that once clicked, lets the game automatically
+          determine the region to connect to.

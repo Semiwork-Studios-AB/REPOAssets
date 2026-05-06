@@ -1,0 +1,823 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HUD_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 64fd365dff4a0674f9ea9125eb765214, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 6163163424511229961
+  m_TableData:
+  - m_Id: 2984229311066112
+    m_Localized: Extraction point activated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231936
+    m_Localized: Extraction point completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231937
+    m_Localized: Fill the extraction point with valuables
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231938
+    m_Localized: Avoid the grenades!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231939
+    m_Localized: Find the next extraction point
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231940
+    m_Localized: Get back to the truck!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442524647424
+    m_Localized: Good job!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813248
+    m_Localized: Use [move] to move.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813249
+    m_Localized: Move to fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813250
+    m_Localized: Use [move] on your keyboard until the progress bar is filled!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813251
+    m_Localized: Press [jump] to jump.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813252
+    m_Localized: Jump to fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813253
+    m_Localized: Press [jump] to do jumps until the progress bar is filled!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813254
+    m_Localized: Press [crouch] to sneak. Monsters are less likely to see you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813255
+    m_Localized: Sneak to fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813256
+    m_Localized: Hold [crouch] and use [move] until the progess is filled!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813257
+    m_Localized: Use [crouch] to sneak under stuff and hide.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813258
+    m_Localized: Hide to fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813259
+    m_Localized: Hold [crouch] and walk in under a prop, stay there until you fill
+      the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813260
+    m_Localized: Hold down [sprint] to sprint. This drains your energy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813261
+    m_Localized: Sprint to fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813262
+    m_Localized: Hold [sprint] and use [move] to sprint until you filled the progress
+      bar! If the energy runs out, wait for it to regenerate!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813263
+    m_Localized: Run and press [tumble] to fall with style. Jumping also helps!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813264
+    m_Localized: Run, jump and fall to fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813265
+    m_Localized: Run with [sprint], jump with [jump] and press [tumble] to throw
+      yourself. Do it until you fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813266
+    m_Localized: Grab objects using [grab].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813267
+    m_Localized: Carry that thing to fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813268
+    m_Localized: Press and hold [grab] on an object until you fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813269
+    m_Localized: Use [push] to alter the distance of grabbed objects.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813270
+    m_Localized: Alter the distance of a grabbed item!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813271
+    m_Localized: Press and hold [grab] on an object and use [push] to alter the distance
+      of the item you grabbed!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813272
+    m_Localized: Rotate grabbed objects using [grab2].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813273
+    m_Localized: Rotate stuff to fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813274
+    m_Localized: While holding an object with [grab], press and hold [grab2] and
+      move your aim to rotate it. Rotate until you fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813275
+    m_Localized: Grab and press [interact] to toggle items.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813276
+    m_Localized: Toggle that thing on and off!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813277
+    m_Localized: Grab the ball with [grab] and toggle it on and off using [interact]
+      until you fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813278
+    m_Localized: Grab an Item and use [inventory1]/[inventory2]/[inventory3] to put
+      it in your inventory.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813279
+    m_Localized: Fill your entire inventory!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813280
+    m_Localized: While holding an item with [grab], press [inventory1]/[inventory2]/[inventory3].
+      Fill all spots in your inventory to complete the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813281
+    m_Localized: Use [inventory1]/[inventory2]/[inventory3] to take items out of
+      your inventory.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813282
+    m_Localized: Empty your entire inventory!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813283
+    m_Localized: Use [inventory1]/[inventory2]/[inventory3] and empty all spots to
+      fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813284
+    m_Localized: Use [map] to view the map. The map is <b><u>IMPORTANT</u></b> for
+      navigation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813285
+    m_Localized: Check the map!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201856
+    m_Localized: Hold down [map] and view it until you have filled the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201857
+    m_Localized: This is a C.A.R.T. Grab it by the handle.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201858
+    m_Localized: Walk around with the C.A.R.T. a little!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201859
+    m_Localized: Grab the C.A.R.T. by the handle with [grab] and walk around with
+      it until you have filled the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201860
+    m_Localized: Fill C.A.R.T.s with valuables. C.A.R.T.s are <b><u>IMPORTANT</u></b>
+      for carrying more stuff.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201861
+    m_Localized: Fill the C.A.R.T. with valuables!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201862
+    m_Localized: Put three items into the C.A.R.T.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201863
+    m_Localized: Activate and fill <b><u>EXTRACTION POINTS</u></b> with valuables.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201864
+    m_Localized: Extract the valuables!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201865
+    m_Localized: HELLO! FILL THE <b><u>EXTRACTION POINT</u></b> WITH VALUABLES!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201866
+    m_Localized: Enter the <b><u>TRUCK</u></b> and send a message to your boss in
+      order to leave a level.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201867
+    m_Localized: Get into the truck and send a message!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201868
+    m_Localized: Walk into the truck, grab and hold the message area on the truck
+      screen with [grab] to send a message!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201869
+    m_Localized: Share your health with other players by grabbing their necks!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201870
+    m_Localized: Revive other players by extracting their heads!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201871
+    m_Localized: Buy <b><u>POWER CRYSTALS</u></b> for the <b><u>CHARGING STATION</u></b>
+      to recharge and repair your gear!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201872
+    m_Localized: Only one <b><u>EXTRACTION POINT</u></b> can be active at a time,
+      find the current one using your map!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201873
+    m_Localized: Press [chat] to open the chat! It's fun!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201874
+    m_Localized: Time to leave, the truck heals you and revives carried player heads!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201875
+    m_Localized: This level has multiple <b><u>EXTRACTION POINTS</u></b>, you must
+      clear them all to leave!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201876
+    m_Localized: This is the <b><u>SHOP</u></b>, extract items to purchase. No harm
+      lasts here!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201877
+    m_Localized: Use [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6]
+      to make expressions. You can even mix!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201878
+    m_Localized: Grabbing an enemy will now cause overcharge, when full you get blasted.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201879
+    m_Localized: Multiple people will dampen the overcharge effect.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201880
+    m_Localized: While dead your head charges, use that charge to briefly possess
+      your head.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201881
+    m_Localized: While possessing your head, hold [jump] to jump. Hold to jump higher
+      at a greater cost.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201882
+    m_Localized: PET THE DOG!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22956499448881152
+    m_Localized: '[menu] to skip'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23598574554132480
+    m_Localized: Fill <b><u>EXTRACTION POINTS</u></b> with valuables.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23609344067186688
+    m_Localized: This is a <b><u>COSMETIC BOX</u></b>, extract it for a reward.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23609344088158208
+    m_Localized: If it gets damaged, you can <b><u>HEAL</u></b> it using your own
+      health.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23623549780570112
+    m_Localized: Insert <b><u>TAX TOKENS</u></b> into the shop machine to claim your
+      rewards.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23920995436847104
+    m_Localized: FOCUS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25797701263065088
+    m_Localized: Buy stuff in the shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25797701284036608
+    m_Localized: Enjoy the ride, recharge stuff and GEAR UP!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25822090339713024
+    m_Localized: Press [interact] to insert tax token
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195824295936
+    m_Localized: C.A.R.T. Cannon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461760
+    m_Localized: C.A.R.T. Laser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461761
+    m_Localized: C.A.R.T.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461762
+    m_Localized: POCKET C.A.R.T.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461763
+    m_Localized: Recharge Drone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461764
+    m_Localized: Feather Drone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461766
+    m_Localized: Indestructible Drone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461767
+    m_Localized: Roll Drone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461768
+    m_Localized: Zero Gravity Drone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461769
+    m_Localized: Duck Bucket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461770
+    m_Localized: Extraction Tracker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461771
+    m_Localized: Duct Taped Grenades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461772
+    m_Localized: Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461773
+    m_Localized: Human Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461774
+    m_Localized: Shockwave Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461775
+    m_Localized: Stun Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461776
+    m_Localized: Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461777
+    m_Localized: Photon Blaster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461778
+    m_Localized: Pulse Pistol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461779
+    m_Localized: Shotgun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461780
+    m_Localized: Boltzap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461781
+    m_Localized: Tranq Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461782
+    m_Localized: Large Health Pack (100)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461783
+    m_Localized: Medium Health Pack (50)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461784
+    m_Localized: Small Health Pack (25)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461785
+    m_Localized: Leaf Blower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461786
+    m_Localized: Baseball Bat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461787
+    m_Localized: Frying Pan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461788
+    m_Localized: Inflatable Hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461789
+    m_Localized: Sledge Hammer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461790
+    m_Localized: Prodzap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461791
+    m_Localized: Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461792
+    m_Localized: Explosive Mine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461793
+    m_Localized: Shockwave Mine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461794
+    m_Localized: Trapzap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461801
+    m_Localized: Zero Gravity Orb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461802
+    m_Localized: Phase Bridge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461803
+    m_Localized: Energy Crystal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461804
+    m_Localized: Defibro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461805
+    m_Localized: Rubber Duck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461806
+    m_Localized: Roll Staff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461807
+    m_Localized: Void Staff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461808
+    m_Localized: Zero Gravity Staff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461809
+    m_Localized: Death Head Battery Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461810
+    m_Localized: Map Player Count Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461811
+    m_Localized: Crouch Rest Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461812
+    m_Localized: Stamina Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461813
+    m_Localized: Extra Jump Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461814
+    m_Localized: Range Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461815
+    m_Localized: Strength Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461816
+    m_Localized: Health Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461817
+    m_Localized: Sprint Speed Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461818
+    m_Localized: Tumble Climb Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461819
+    m_Localized: Tumble Launch Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461820
+    m_Localized: Tumble Wings Upgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461821
+    m_Localized: Valuable Tracker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461822
+    m_Localized: Hauler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461823
+    m_Localized: Scout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461824
+    m_Localized: Semibot Walkie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461825
+    m_Localized: Semibot Walkies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26108414590353408
+    m_Localized: Upgrades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26109748462911488
+    m_Localized: Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386432
+    m_Localized: Crouch Rest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386433
+    m_Localized: Death Head Battery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386434
+    m_Localized: Extra Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386435
+    m_Localized: Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386436
+    m_Localized: Tumble Launch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386437
+    m_Localized: Map Player Count
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386438
+    m_Localized: Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386439
+    m_Localized: Sprint Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386440
+    m_Localized: Stamina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386441
+    m_Localized: Strength
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386442
+    m_Localized: Tumble Climb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386443
+    m_Localized: Tumble Wings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244123594752
+    m_Localized: Animal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760576
+    m_Localized: Banger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760577
+    m_Localized: Clown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760578
+    m_Localized: Birthday Boy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760579
+    m_Localized: Cleanup Crew
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760580
+    m_Localized: Bowtie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760581
+    m_Localized: Peeper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760582
+    m_Localized: Apex Predator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760583
+    m_Localized: Elsa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760584
+    m_Localized: Mentalist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954880
+    m_Localized: Gnome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954881
+    m_Localized: Headman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954882
+    m_Localized: Headgrab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954883
+    m_Localized: Heart Hugger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954884
+    m_Localized: Hidden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954885
+    m_Localized: Huntsman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954886
+    m_Localized: Oogly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954887
+    m_Localized: Robe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954888
+    m_Localized: Reaper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954889
+    m_Localized: Loom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954890
+    m_Localized: Spewer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954891
+    m_Localized: Trudge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954892
+    m_Localized: Gambit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954893
+    m_Localized: Shadow Child
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954894
+    m_Localized: Tick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954895
+    m_Localized: Bella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954896
+    m_Localized: Chef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954897
+    m_Localized: Upscream
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954898
+    m_Localized: Rugrat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26547416404832256
+    m_Localized: Hold to Reroll ({cost})
+    m_Metadata:
+      m_Items:
+      - rid: 6163163424511229961
+  - m_Id: 26602567563980800
+    m_Localized: King of the Losers!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175104
+    m_Localized: Everyone's a Loser!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175105
+    m_Localized: Last Loser Standing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175106
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26610272068415488
+    m_Localized: 'The Broken Ones:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30522141892837376
+    m_Localized: 'Mode: Strong'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30522141918003200
+    m_Localized: 'Mode: Weak'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 6163163424511229961
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 26547416404832256

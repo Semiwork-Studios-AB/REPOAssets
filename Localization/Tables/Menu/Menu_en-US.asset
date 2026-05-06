@@ -1,0 +1,1547 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menu_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 6578110d0d7f6fd47b65a5fbe8aef088, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 3967078086496223239
+  m_TableData:
+  - m_Id: 62270994624512
+    m_Localized: Private Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790336
+    m_Localized: Public Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790337
+    m_Localized: Join Friend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790338
+    m_Localized: Singleplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790339
+    m_Localized: Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790340
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790341
+    m_Localized: Quit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728038916096
+    m_Localized: Host a Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887616
+    m_Localized: 'The friend with the best computer
+
+      should host.
+
+
+      Are
+      you this friend?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887617
+    m_Localized: Haha yes!  :)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887618
+    m_Localized: Not me...  :'(
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887619
+    m_Localized: Warning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887620
+    m_Localized: While playing with random players you may come across cheaters or
+      really mean people...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887621
+    m_Localized: I understand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887622
+    m_Localized: No thanks :(
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170002669568
+    m_Localized: Quit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029696
+    m_Localized: Close the entire application?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029697
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029698
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029699
+    m_Localized: Self Destruction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029700
+    m_Localized: Is that really so?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029701
+    m_Localized: It's over for me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029702
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029706
+    m_Localized: < Go Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029707
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029708
+    m_Localized: Singleplayer Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029709
+    m_Localized: Multiplayer Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029710
+    m_Localized: Saved Games
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029711
+    m_Localized: Saved Games
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029712
+    m_Localized: Here's all the fun you've had and the opportunity to pick up right
+      where you left off.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029713
+    m_Localized: Delete Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029714
+    m_Localized: Load Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029715
+    m_Localized: Use Backup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029717
+    m_Localized: 'Current Moon:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735490
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735489
+    m_Localized: Exit to main menu?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735488
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549056
+    m_Localized: 'Total Haul:'
+    m_Metadata:
+      m_Items:
+      - rid: 3967078086496223239
+  - m_Id: 5190661053853696
+    m_Localized: Load Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853697
+    m_Localized: Load this save file?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853698
+    m_Localized: Yes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853699
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853700
+    m_Localized: Delete Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853701
+    m_Localized: Are you REALLY SURE you want to delete this save FOREVER?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853702
+    m_Localized: Yes! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853703
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853704
+    m_Localized: Restore From Backup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853705
+    m_Localized: 'Overwrite this save file with the latest backup?
+
+
+      This is
+      irreversible!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853706
+    m_Localized: Yes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853707
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853708
+    m_Localized: Regions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853709
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853710
+    m_Localized: Pick Best Region
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853711
+    m_Localized: Asia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853712
+    m_Localized: Australia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853713
+    m_Localized: Canada East
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853714
+    m_Localized: Chinese Mainland
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853715
+    m_Localized: Europe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853716
+    m_Localized: Hong Kong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853717
+    m_Localized: India
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853718
+    m_Localized: Japan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853719
+    m_Localized: South Africa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853720
+    m_Localized: South America
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853721
+    m_Localized: South Korea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853722
+    m_Localized: Turkey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853723
+    m_Localized: United Arab Emirates
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853724
+    m_Localized: USA East
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853725
+    m_Localized: USA West
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853726
+    m_Localized: USA South Central
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549057
+    m_Localized: Sorry!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549058
+    m_Localized: "Press \"Delete Save\" to delete \nentire saves folder."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5801515992834048
+    m_Localized: '{players:list:{}|,   |   and   }'
+    m_Metadata:
+      m_Items:
+      - rid: 3967078086496223239
+  - m_Id: 7715786482245632
+    m_Localized: Corrupted Save File
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7730571982659584
+    m_Localized: Uh Oh!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7730572012019712
+    m_Localized: Corrupted Save File
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179729825792
+    m_Localized: Rename Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179754991616
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179754991617
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10257803930230784
+    m_Localized: (Click to Rename)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343564980224
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534656
+    m_Localized: Gameplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534657
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534658
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534659
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534660
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534661
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534662
+    m_Localized: On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534663
+    m_Localized: Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534664
+    m_Localized: Toggle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534665
+    m_Localized: Hold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534674
+    m_Localized: Gameplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534675
+    m_Localized: Reset to Default Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534676
+    m_Localized: Tips
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534677
+    m_Localized: Player Names
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534678
+    m_Localized: Photosensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534679
+    m_Localized: 'Arachnophobia '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534680
+    m_Localized: Aim Sensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534681
+    m_Localized: Camera Smoothing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534682
+    m_Localized: Camera Shake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534683
+    m_Localized: Camera Noise
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534684
+    m_Localized: Camera Animation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534685
+    m_Localized: Invert Vertical Aim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534686
+    m_Localized: Item Unequip Auto Hold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534687
+    m_Localized: Rich Presence
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534688
+    m_Localized: Cosmetics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534689
+    m_Localized: Reset to Default Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534690
+    m_Localized: Window Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534691
+    m_Localized: 'VSync '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534692
+    m_Localized: Gamma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534693
+    m_Localized: Max FPS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534694
+    m_Localized: Light Distance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534695
+    m_Localized: Shadow Quality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534696
+    m_Localized: Shadow Distance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534697
+    m_Localized: Motion Blur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534698
+    m_Localized: Lens Distortion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534699
+    m_Localized: Bloom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534700
+    m_Localized: Chromatic Aberration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534701
+    m_Localized: Grain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534702
+    m_Localized: Glitch Loop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534703
+    m_Localized: Pixelation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534704
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534705
+    m_Localized: Reset to Default Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534706
+    m_Localized: Master Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534707
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534709
+    m_Localized: Proximity Voice Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534711
+    m_Localized: Microphone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534712
+    m_Localized: Microphone Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534713
+    m_Localized: Push to Talk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534714
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534715
+    m_Localized: Reset to Default Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534716
+    m_Localized: Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534717
+    m_Localized: Move Forward
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534718
+    m_Localized: Move Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534719
+    m_Localized: Move Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534720
+    m_Localized: Move Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534721
+    m_Localized: Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534722
+    m_Localized: Crouch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534723
+    m_Localized: Sprint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534724
+    m_Localized: Tumble
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534725
+    m_Localized: Grabbing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534726
+    m_Localized: Grabbing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534727
+    m_Localized: Rotate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534728
+    m_Localized: Push
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534729
+    m_Localized: Pull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534730
+    m_Localized: Other
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534731
+    m_Localized: Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534732
+    m_Localized: Interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534733
+    m_Localized: Inventory 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534734
+    m_Localized: Inventory 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534735
+    m_Localized: Inventory 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534736
+    m_Localized: Chat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534737
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534738
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534739
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534740
+    m_Localized: Spectate Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534741
+    m_Localized: Spectate Previous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534742
+    m_Localized: Push to Talk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534743
+    m_Localized: Toggle Mute
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534744
+    m_Localized: Player Expressions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534751
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534752
+    m_Localized: Presets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534753
+    m_Localized: Head
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534754
+    m_Localized: Arms
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534755
+    m_Localized: Body
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534756
+    m_Localized: Legs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534757
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534758
+    m_Localized: Select Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534759
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534760
+    m_Localized: Delete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534761
+    m_Localized: Hat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534762
+    m_Localized: Armwear Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534763
+    m_Localized: Armwear Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534764
+    m_Localized: Legwear Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534765
+    m_Localized: Legwear Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534766
+    m_Localized: Head Top
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534767
+    m_Localized: Head Bottom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534768
+    m_Localized: Body Top
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534769
+    m_Localized: Body Bottom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534770
+    m_Localized: Arm Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534771
+    m_Localized: Arm Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534772
+    m_Localized: Leg Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534773
+    m_Localized: Leg Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534774
+    m_Localized: Grabber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534775
+    m_Localized: Eye Lid Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728960
+    m_Localized: Eye Lid Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728961
+    m_Localized: Body Top Overlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728962
+    m_Localized: Ears
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728963
+    m_Localized: Eyewear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728965
+    m_Localized: Bodywear Top
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728966
+    m_Localized: Bodywear Bottom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728968
+    m_Localized: Body Bottom Overlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728969
+    m_Localized: Head Top Overlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728970
+    m_Localized: Head Bottom Overlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728971
+    m_Localized: Delete Preset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728972
+    m_Localized: Are you REALLY SURE you want to delete this preset FOREVER?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728973
+    m_Localized: Yes! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728974
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145570844672
+    m_Localized: Angry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593408
+    m_Localized: Sad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593409
+    m_Localized: Suspicious
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593410
+    m_Localized: Eyes Closed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593411
+    m_Localized: Scared
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593412
+    m_Localized: Happy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835840
+    m_Localized: Change Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835841
+    m_Localized: 'This will replace the colors on all body parts and cosmetics.
+
+
+      This
+      is irreversible!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835842
+    m_Localized: Yes! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835843
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10942035694444544
+    m_Localized: SFX Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10942035694444545
+    m_Localized: Text to Speech Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938048
+    m_Localized: Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938049
+    m_Localized: Very Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938050
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938051
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938052
+    m_Localized: Default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938053
+    m_Localized: Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938054
+    m_Localized: Minimal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938055
+    m_Localized: Full
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938056
+    m_Localized: Windowed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938057
+    m_Localized: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938058
+    m_Localized: Unlimited
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938059
+    m_Localized: Very Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938060
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938061
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938062
+    m_Localized: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938063
+    m_Localized: Very High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938064
+    m_Localized: Very Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938065
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938066
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938067
+    m_Localized: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938068
+    m_Localized: Very High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938069
+    m_Localized: Very Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938070
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938071
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938072
+    m_Localized: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938073
+    m_Localized: Very High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938074
+    m_Localized: Small
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938075
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938076
+    m_Localized: Default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938077
+    m_Localized: None
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605050462208
+    m_Localized: Reset Gameplay Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822336
+    m_Localized: Reset gameplay settings to default?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822337
+    m_Localized: Yes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822338
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822339
+    m_Localized: Graphics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822340
+    m_Localized: Reset Graphics Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822341
+    m_Localized: Reset graphics settings to default?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822342
+    m_Localized: Yes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822343
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723968
+    m_Localized: Reset Audio Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723969
+    m_Localized: Reset audio settings to default?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723970
+    m_Localized: Yes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723971
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723972
+    m_Localized: Reset Controls Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723973
+    m_Localized: Reset controls settings to default?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723974
+    m_Localized: Yes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723975
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15231403103870976
+    m_Localized: Footwear Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15231403133231104
+    m_Localized: Footwear Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008624496640
+    m_Localized: Arm Right Overlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468160
+    m_Localized: Arm Left Overlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468161
+    m_Localized: Leg Right Overlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468162
+    m_Localized: Leg Left Overlay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15590857783631872
+    m_Localized: Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15590857808797696
+    m_Localized: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972608
+    m_Localized: Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972609
+    m_Localized: Stuck in loading?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972610
+    m_Localized: Press [menu] to exit to main menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116045647872
+    m_Localized: Lobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008000
+    m_Localized: Press [chat] to chat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008001
+    m_Localized: Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008002
+    m_Localized: Invite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008003
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008004
+    m_Localized: Customize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008005
+    m_Localized: Leave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008006
+    m_Localized: Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008007
+    m_Localized: 'Everyone ready?
+
+
+      Once the game is started
+
+      new players
+      cannot join.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008008
+    m_Localized: Yes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008009
+    m_Localized: No wait!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008010
+    m_Localized: Leave Lobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008011
+    m_Localized: Are you sure?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008012
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008013
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296960
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296961
+    m_Localized: Do you want to start a game?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296962
+    m_Localized: Yes!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296963
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15673645669015552
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16030297698066432
+    m_Localized: Player Joining...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16702161813680128
+    m_Localized: Face Lower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241957765120
+    m_Localized: Clear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930944
+    m_Localized: 'Are you sure you want to unequip all body parts and cosmetics?
+
+
+      This
+      is irreversible!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930945
+    m_Localized: Yes! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930946
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930947
+    m_Localized: Clear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930948
+    m_Localized: 'Are you sure you want to unequip all body parts?
+
+
+      This is
+      irreversible!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930949
+    m_Localized: Yes! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930950
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930951
+    m_Localized: Clear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930952
+    m_Localized: 'Are you sure you want to unequip all cosmetics?
+
+
+      This is
+      irreversible!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930953
+    m_Localized: Yes! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930954
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930955
+    m_Localized: Randomize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930956
+    m_Localized: 'Are you sure you want to randomize all body parts and cosmetics?
+
+
+      This
+      is irreversible!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930957
+    m_Localized: Yes! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930958
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930959
+    m_Localized: Randomize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930960
+    m_Localized: 'Are you sure you want to randomize all body parts?
+
+
+      This
+      is irreversible!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930961
+    m_Localized: Yes! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930962
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930963
+    m_Localized: Randomize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930964
+    m_Localized: 'Are you sure you want to randomize all cosmetics?
+
+
+      This
+      is irreversible!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930965
+    m_Localized: Yes! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930966
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930967
+    m_Localized: Change Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930968
+    m_Localized: 'This will replace the colors on all body parts.
+
+
+      This is
+      irreversible!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930969
+    m_Localized: Yes! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930970
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930971
+    m_Localized: Change Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930972
+    m_Localized: 'This will replace the colors on all cosmetics.
+
+
+      This is
+      irreversible!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930973
+    m_Localized: Yes! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930974
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21470840070594560
+    m_Localized: Face Upper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21470840091566080
+    m_Localized: Face Middle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21739271462313984
+    m_Localized: Customize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235048194048
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554176
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554177
+    m_Localized: Customize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554178
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554179
+    m_Localized: Self Destruct
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554180
+    m_Localized: Active Moons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554181
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554182
+    m_Localized: Quit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735491
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118074785792
+    m_Localized: Active Moons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757312
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757313
+    m_Localized: Crescent Moon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757314
+    m_Localized: The truck healer now restores 35 health.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757315
+    m_Localized: Monsters are now harder to knock down with valuables.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757316
+    m_Localized: Half Moon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757317
+    m_Localized: Monsters now overcharge your grabber.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757318
+    m_Localized: Monsters take heavy damage from pits, but can survive.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757319
+    m_Localized: The truck healer now restores 25 health.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757320
+    m_Localized: Full Moon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757321
+    m_Localized: Monsters now overcharge your grabber by a total increase of 25%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757322
+    m_Localized: Monsters now take less damage from pits.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757323
+    m_Localized: Super Moon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757324
+    m_Localized: Enemy Orbs now explode when destroyed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757325
+    m_Localized: Monsters now overcharge your grabber by a total increase of 50%
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757326
+    m_Localized: Monsters now take even less damage from pits.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23197572767145984
+    m_Localized: '{ping} ms'
+    m_Metadata:
+      m_Items:
+      - rid: 3967078086496223239
+  - m_Id: 23207164712574976
+    m_Localized: '{ping} ms'
+    m_Metadata:
+      m_Items:
+      - rid: 3967078086496223239
+  - m_Id: 26475650059841536
+    m_Localized: Photosensivity Warning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26475650085007360
+    m_Localized: This game contains flashing lights.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26475650085007361
+    m_Localized: Some individuals may experience epileptic seizures when exposed
+      to light patterns and flashing lights. If you feel any discomfort when playing,
+      immediately stop playing and consult a doctor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599407521792
+    m_Localized: Service Station
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687616
+    m_Localized: Disposal Arena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687617
+    m_Localized: McJannek Station
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687618
+    m_Localized: Headman Manor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687619
+    m_Localized: Museum of Human Art
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687620
+    m_Localized: Swiftbroom Academy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30862829494894592
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30862829524254720
+    m_Localized: Level {number}
+    m_Metadata:
+      m_Items:
+      - rid: 3967078086496223239
+  - m_Id: 30862829524254721
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 3967078086496223239
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 5450952597549056
+        - id: 5801515992834048
+        - id: 23197572767145984
+        - id: 23207164712574976
+        - id: 30862829524254720

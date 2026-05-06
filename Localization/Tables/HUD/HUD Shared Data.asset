@@ -1,0 +1,811 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: HUD Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: HUD
+  m_TableCollectionNameGuidString: 64fd365dff4a0674f9ea9125eb765214
+  m_Entries:
+  - m_Id: 22956499448881152
+    m_Key: MOON_UI.SKIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229311066112
+    m_Key: BIG_MESSAGE.EXTRACTION.ACTIVATED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231936
+    m_Key: BIG_MESSAGE.EXTRACTION.COMPLETED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23920995436847104
+    m_Key: FOCUS.PREFIX
+    m_Metadata:
+      m_Items:
+      - rid: 6163163265947926530
+  - m_Id: 2984229336231937
+    m_Key: FOCUS.EXTRACTION.FILL_VALUABLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231938
+    m_Key: FOCUS.EXTRACTION.AVOID_GRENADES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231939
+    m_Key: FOCUS.EXTRACTION.FIND_NEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231940
+    m_Key: FOCUS.EXTRACTION.BACK_TO_TRUCK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25797701263065088
+    m_Key: FOCUS.SHOP.INTRO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25797701284036608
+    m_Key: FOCUS.TRUCK.INTRO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442524647424
+    m_Key: TUTORIAL.TRANSITION_TEXT
+    m_Metadata:
+      m_Items:
+      - rid: 6163162926145601539
+  - m_Id: 18554442549813248
+    m_Key: TUTORIAL.MOVEMENT.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813249
+    m_Key: TUTORIAL.MOVEMENT.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813250
+    m_Key: TUTORIAL.MOVEMENT.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813251
+    m_Key: TUTORIAL.JUMPING.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813252
+    m_Key: TUTORIAL.JUMPING.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813253
+    m_Key: TUTORIAL.JUMPING.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813254
+    m_Key: TUTORIAL.SNEAKING.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813255
+    m_Key: TUTORIAL.SNEAKING.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813256
+    m_Key: TUTORIAL.SNEAKING.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813257
+    m_Key: TUTORIAL.HIDING.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813258
+    m_Key: TUTORIAL.HIDING.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813259
+    m_Key: TUTORIAL.HIDING.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813260
+    m_Key: TUTORIAL.SPRINTING.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813261
+    m_Key: TUTORIAL.SPRINTING.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813262
+    m_Key: TUTORIAL.SPRINTING.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813263
+    m_Key: TUTORIAL.TUMBLING.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813264
+    m_Key: TUTORIAL.TUMBLING.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813265
+    m_Key: TUTORIAL.TUMBLING.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813266
+    m_Key: TUTORIAL.GRABBING.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813267
+    m_Key: TUTORIAL.GRABBING.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813268
+    m_Key: TUTORIAL.GRABBING.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813269
+    m_Key: TUTORIAL.PUSHING_AND_PULLING.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813270
+    m_Key: TUTORIAL.PUSHING_AND_PULLING.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813271
+    m_Key: TUTORIAL.PUSHING_AND_PULLING.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813272
+    m_Key: TUTORIAL.ROTATING.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813273
+    m_Key: TUTORIAL.ROTATING.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813274
+    m_Key: TUTORIAL.ROTATING.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813275
+    m_Key: TUTORIAL.ITEM_TOGGLING.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813276
+    m_Key: TUTORIAL.ITEM_TOGGLING.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813277
+    m_Key: TUTORIAL.ITEM_TOGGLING.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813278
+    m_Key: TUTORIAL.INVENTORY_FILL.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813279
+    m_Key: TUTORIAL.INVENTORY_FILL.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813280
+    m_Key: TUTORIAL.INVENTORY_FILL.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813281
+    m_Key: TUTORIAL.INVENTORY_EMPTY.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813282
+    m_Key: TUTORIAL.INVENTORY_EMPTY.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813283
+    m_Key: TUTORIAL.INVENTORY_EMPTY.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813284
+    m_Key: TUTORIAL.MAP.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813285
+    m_Key: TUTORIAL.MAP.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201856
+    m_Key: TUTORIAL.MAP.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201857
+    m_Key: TUTORIAL.CART_HANDLING_1.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201858
+    m_Key: TUTORIAL.CART_HANDLING_1.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201859
+    m_Key: TUTORIAL.CART_HANDLING_1.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201860
+    m_Key: TUTORIAL.CART_HANDLING_2.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201861
+    m_Key: TUTORIAL.CART_HANDLING_2.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201862
+    m_Key: TUTORIAL.CART_HANDLING_2.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201863
+    m_Key: TUTORIAL.EXTRACTION_POINTS.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201864
+    m_Key: TUTORIAL.EXTRACTION_POINTS.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201865
+    m_Key: TUTORIAL.EXTRACTION_POINTS.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201866
+    m_Key: TUTORIAL.TRUCK.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201867
+    m_Key: TUTORIAL.TRUCK.FOCUS_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201868
+    m_Key: TUTORIAL.TRUCK.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201869
+    m_Key: TUTORIAL.HEALING.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201870
+    m_Key: TUTORIAL.REVIVING.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201871
+    m_Key: TUTORIAL.CHARGING_STATION.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201872
+    m_Key: TUTORIAL.ONLY_ONE_EXTRACTION.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201873
+    m_Key: TUTORIAL.CHAT.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201874
+    m_Key: TUTORIAL.FINAL_EXTRACTION.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201875
+    m_Key: TUTORIAL.MULTIPLE_EXTRACTIONS.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201876
+    m_Key: TUTORIAL.SHOP.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201877
+    m_Key: TUTORIAL.EXPRESSIONS.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201878
+    m_Key: TUTORIAL.OVERCHARGE_1.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201879
+    m_Key: TUTORIAL.OVERCHARGE_2.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201880
+    m_Key: TUTORIAL.HEAD_SPECTATE_1.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201881
+    m_Key: TUTORIAL.HEAD_SPECTATE_2.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201882
+    m_Key: TUTORIAL.ENEMY_ELSA.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23598574554132480
+    m_Key: TUTORIAL.EXTRACTION_REMINDER.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23609344067186688
+    m_Key: TUTORIAL.COSMETIC_WORLD_OBJECT_1.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23609344088158208
+    m_Key: TUTORIAL.COSMETIC_WORLD_OBJECT_2.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23623549780570112
+    m_Key: TUTORIAL.COSMETIC_SHOP_MACHINE.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25822090339713024
+    m_Key: COSMETIC_SHOP_MACHINE.INFO_TEXT
+    m_Metadata:
+      m_Items:
+      - rid: 6163163379451559948
+  - m_Id: 26094195824295936
+    m_Key: ITEM.CART_CANNON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461760
+    m_Key: ITEM.CART_LASER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30522141892837376
+    m_Key: ITEM.CART.MODE_STRONG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30522141918003200
+    m_Key: ITEM.CART.MODE_WEAK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461761
+    m_Key: ITEM.CART_MEDIUM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461762
+    m_Key: ITEM.CART_SMALL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461763
+    m_Key: ITEM.DRONE_BATTERY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461764
+    m_Key: ITEM.DRONE_FEATHER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461766
+    m_Key: ITEM.DRONE_INDESTRUCTIBLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461767
+    m_Key: ITEM.DRONE_TORQUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461768
+    m_Key: ITEM.DRONE_ZERO_GRAVITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461769
+    m_Key: ITEM.DUCK_BUCKET
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461770
+    m_Key: ITEM.EXTRACTION_TRACKER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461771
+    m_Key: ITEM.GRENADE_DUCT_TAPED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461772
+    m_Key: ITEM.GRENADE_EXPLOSIVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461773
+    m_Key: ITEM.GRENADE_HUMAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461774
+    m_Key: ITEM.GRENADE_SHOCKWAVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461775
+    m_Key: ITEM.GRENADE_STUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461776
+    m_Key: ITEM.GUN_HANDGUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461777
+    m_Key: ITEM.GUN_LASER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461778
+    m_Key: ITEM.GUN_SHOCKWAVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461779
+    m_Key: ITEM.GUN_SHOTGUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461780
+    m_Key: ITEM.GUN_STUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461781
+    m_Key: ITEM.GUN_TRANQ
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461782
+    m_Key: ITEM.HEALTH_PACK_LARGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461783
+    m_Key: ITEM.HEALTH_PACK_MEDIUM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461784
+    m_Key: ITEM.HEALTH_PACK_SMALL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461785
+    m_Key: ITEM.LEAF_BLOWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461786
+    m_Key: ITEM.MELEE_BASEBALL_BAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461787
+    m_Key: ITEM.MELEE_FRYING_PAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461788
+    m_Key: ITEM.MELEE_INFLATABLE_HAMMER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461789
+    m_Key: ITEM.MELEE_SLEDGE_HAMMER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461790
+    m_Key: ITEM.MELEE_STUN_BATON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461791
+    m_Key: ITEM.MELEE_SWORD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461792
+    m_Key: ITEM.MINE_EXPLOSIVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461793
+    m_Key: ITEM.MINE_SHOCKWAVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461794
+    m_Key: ITEM.MINE_STUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461801
+    m_Key: ITEM.ORB_ZERO_GRAVITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461802
+    m_Key: ITEM.PHASE_BRIDGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461803
+    m_Key: ITEM.POWER_CRYSTAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461804
+    m_Key: ITEM.REVIVE_ITEM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461805
+    m_Key: ITEM.RUBBER_DUCK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461806
+    m_Key: ITEM.STAFF_TORQUE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461807
+    m_Key: ITEM.STAFF_VOID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461808
+    m_Key: ITEM.STAFF_ZERO_GRAVITY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461809
+    m_Key: ITEM.UPGRADE_DEATH_HEAD_BATTERY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461810
+    m_Key: ITEM.UPGRADE_MAP_PLAYER_COUNT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461811
+    m_Key: ITEM.UPGRADE_PLAYER_CROUCH_REST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461812
+    m_Key: ITEM.UPGRADE_PLAYER_ENERGY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461813
+    m_Key: ITEM.UPGRADE_PLAYER_EXTRA_JUMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461814
+    m_Key: ITEM.UPGRADE_PLAYER_GRAB_RANGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461815
+    m_Key: ITEM.UPGRADE_PLAYER_GRAB_STRENGTH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461816
+    m_Key: ITEM.UPGRADE_PLAYER_HEALTH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461817
+    m_Key: ITEM.UPGRADE_PLAYER_SPRINT_SPEED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461818
+    m_Key: ITEM.UPGRADE_PLAYER_TUMBLE_CLIMB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461819
+    m_Key: ITEM.UPGRADE_PLAYER_TUMBLE_LAUNCH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461820
+    m_Key: ITEM.UPGRADE_PLAYER_TUMBLE_WINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461821
+    m_Key: ITEM.VALUABLE_TRACKER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461822
+    m_Key: ITEM.VEHICLE_SEMISCOOTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461823
+    m_Key: ITEM.VEHICLE_SEMISCOOTER_SMALL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461824
+    m_Key: ITEM.WALKIE_TALKIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461825
+    m_Key: ITEM.WALKIE_TALKIE_BOX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26109748462911488
+    m_Key: LEVEL.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26108414590353408
+    m_Key: STATS.UPGRADES.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386432
+    m_Key: STATS.UPGRADE.CROUCH_REST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386433
+    m_Key: STATS.UPGRADE.DEATH_HEAD_BATTERY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386434
+    m_Key: STATS.UPGRADE.EXTRA_JUMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386435
+    m_Key: STATS.UPGRADE.HEALTH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386436
+    m_Key: STATS.UPGRADE.LAUNCH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386437
+    m_Key: STATS.UPGRADE.MAP_PLAYER_COUNT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386438
+    m_Key: STATS.UPGRADE.RANGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386439
+    m_Key: STATS.UPGRADE.SPEED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386440
+    m_Key: STATS.UPGRADE.STAMINA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386441
+    m_Key: STATS.UPGRADE.STRENGTH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386442
+    m_Key: STATS.UPGRADE.TUMBLE_CLIMB
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386443
+    m_Key: STATS.UPGRADE.TUMBLE_WINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244123594752
+    m_Key: ENEMY.ANIMAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760576
+    m_Key: ENEMY.BANG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760577
+    m_Key: ENEMY.BEAMER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760578
+    m_Key: ENEMY.BIRTHDAY_BOY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760579
+    m_Key: ENEMY.BOMB_THROWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760580
+    m_Key: ENEMY.BOWTIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760581
+    m_Key: ENEMY.CEILING_EYE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760582
+    m_Key: ENEMY.DUCK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760583
+    m_Key: ENEMY.ELSA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760584
+    m_Key: ENEMY.FLOATER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954880
+    m_Key: ENEMY.GNOME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954881
+    m_Key: ENEMY.HEAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954882
+    m_Key: ENEMY.HEAD_GRABBER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954883
+    m_Key: ENEMY.HEART_HUGGER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954884
+    m_Key: ENEMY.HIDDEN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954885
+    m_Key: ENEMY.HUNTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954886
+    m_Key: ENEMY.OOGLY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954887
+    m_Key: ENEMY.ROBE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954888
+    m_Key: ENEMY.RUNNER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954889
+    m_Key: ENEMY.SHADOW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954890
+    m_Key: ENEMY.SLOW_MOUTH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954891
+    m_Key: ENEMY.SLOW_WALKER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954892
+    m_Key: ENEMY.SPINNY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954893
+    m_Key: ENEMY.THIN_MAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954894
+    m_Key: ENEMY.TICK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954895
+    m_Key: ENEMY.TRICYCLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954896
+    m_Key: ENEMY.TUMBLER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954897
+    m_Key: ENEMY.UPSCREAM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954898
+    m_Key: ENEMY.VALUABLE_THROWER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26547416404832256
+    m_Key: UPGRADE_STAND.INTERACT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567563980800
+    m_Key: ARENA.WINNER.KING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175104
+    m_Key: ARENA.WINNER.LOSERS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175105
+    m_Key: ARENA.MESSAGE.LAST_LOSER_STANDING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175106
+    m_Key: ARENA.MESSAGE.GAME_OVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26610272068415488
+    m_Key: SPECTATE_LIST.HEADER
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3967077747386744845
+  references:
+    version: 2
+    RefIds:
+    - rid: 3967077747386744845
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1770626771185
+    - rid: 6163162926145601539
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Text shown to users directly after completing a tutorial task.
+    - rid: 6163163265947926530
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: A prefix shown directly before the focus objective text.
+    - rid: 6163163379451559948
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Interact text shown when looking at the Cosmetic Shop Machine.
