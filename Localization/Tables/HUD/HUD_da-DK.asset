@@ -20,127 +20,132 @@ MonoBehaviour:
     - rid: 6163163424511229959
   m_TableData:
   - m_Id: 2984229311066112
-    m_Localized: (da) Extraction point activated
+    m_Localized: Udvindingspunkt aktiveret
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231936
-    m_Localized: (da) Extraction point completed
+    m_Localized: Udvindingspunkt klaret
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231937
-    m_Localized: (da) Fill the extraction point with valuables
+    m_Localized: "Fyld udvindingspunktet med v\xE6rdigenstande"
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231938
-    m_Localized: (da) Avoid the grenades!
+    m_Localized: Undvig granaterne!
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231939
-    m_Localized: (da) Find the next extraction point
+    m_Localized: "Find det n\xE6ste udvindingspunkt"
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231940
-    m_Localized: (da) Get back to the truck!
+    m_Localized: "L\xF8b tilbage til flyttebilen!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442524647424
-    m_Localized: (da) Good job!
+    m_Localized: Flot klaret!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813248
-    m_Localized: (da) Use [move] to move.
+    m_Localized: "Brug [move] for at bev\xE6ge dig."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813249
-    m_Localized: (da) Move to fill the progress bar!
+    m_Localized: "Bev\xE6g dig for at fylde forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813250
-    m_Localized: (da) Use [move] on your keyboard until the progress bar is filled!
+    m_Localized: "Brug [move] p\xE5 dit tastatur indtil forl\xF8bsindikatoren er
+      fyldt!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813251
-    m_Localized: (da) Press [jump] to jump.
+    m_Localized: "Tryk p\xE5 [jump] for at hoppe."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813252
-    m_Localized: (da) Jump to fill the progress bar!
+    m_Localized: "Hop for at fylde forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813253
-    m_Localized: (da) Press [jump] to do jumps until the progress bar is filled!
+    m_Localized: "Tryk p\xE5 [jump] for at hoppe indtil forl\xF8bsindikatoren er
+      fyldt!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813254
-    m_Localized: (da) Press [crouch] to sneak. Monsters are less likely to see you.
+    m_Localized: "Tryk [crouch] for at snige dig. S\xE5 har monstre sv\xE6rere ved
+      at se dig."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813255
-    m_Localized: (da) Sneak to fill the progress bar!
+    m_Localized: "Snig dig rundt for at fylde forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813256
-    m_Localized: (da) Hold [crouch] and use [move] until the progess is filled!
+    m_Localized: "Hold [crouch] nede og brug [move] indtil forl\xF8bsindikatorener
+      fyldt!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813257
-    m_Localized: (da) Use [crouch] to sneak under stuff and hide.
+    m_Localized: "Brug [crouch] til at krybe under ting s\xE5 du kan gemme dig."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813258
-    m_Localized: (da) Hide to fill the progress bar!
+    m_Localized: "Gem dig for at fylde forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813259
-    m_Localized: (da) Hold [crouch] and walk in under a prop, stay there until you
-      fill the progress bar!
+    m_Localized: "Hold [crouch] nede og snig dig under et m\xF8bel. Bliv der indtil
+      forl\xF8bsindikatorener fyldt!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813260
-    m_Localized: (da) Hold down [sprint] to sprint. This drains your energy.
+    m_Localized: Hold [sprint] nede for at sprinte. Det koster energi.
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813261
-    m_Localized: (da) Sprint to fill the progress bar!
+    m_Localized: "Sprint for at fylde forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813262
-    m_Localized: (da) Hold [sprint] and use [move] to sprint until you filled the
-      progress bar! If the energy runs out, wait for it to regenerate!
+    m_Localized: "Hold [sprint] nede og brug [move] for at sprinte indtil du har
+      fyldt forl\xF8bsindikatoren! Hvis du l\xF8ber t\xF8r for energi, vent p\xE5
+      at den genopbygges."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813263
-    m_Localized: (da) Run and press [tumble] to fall with style. Jumping also helps!
+    m_Localized: "Sprint og tryk [tumble] for at falde med ynde. Det hj\xE6lper hvis
+      man hopper!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813264
-    m_Localized: (da) Run, jump and fall to fill the progress bar!
+    m_Localized: "Sprint, hop og fald for at fylde forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813265
-    m_Localized: (da) Run with [sprint], jump with [jump] and press [tumble] to throw
-      yourself. Do it until you fill the progress bar!
+    m_Localized: "Sprint med [sprint], hop med [jump] og tryk s\xE5 [tumble] for
+      at kaste dig selv afsted. G\xF8r det indtil du har fyldt forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813266
-    m_Localized: (da) Grab objects using [grab].
+    m_Localized: "Haps ting ved hj\xE6lp af [grab]."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813267
-    m_Localized: (da) Carry that thing to fill the progress bar!
+    m_Localized: "B\xE6r rundt p\xE5 den der ting for at fylde forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813268
-    m_Localized: (da) Press and hold [grab] on an object until you fill the progress
-      bar!
+    m_Localized: "Tryk og hold [grab] nede p\xE5 et objekt indtil du har fyldt forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813269
-    m_Localized: (da) Use [push] to alter the distance of grabbed objects.
+    m_Localized: "Brug [push] for at \xE6ndre afstanden p\xE5 ting du har hapset."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813270
-    m_Localized: (da) Alter the distance of a grabbed item!
+    m_Localized: "\xC6ndr afstanden p\xE5 en ting du har hapset!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813271
@@ -166,7 +171,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813276
-    m_Localized: (da) Toggle that thing on and off!
+    m_Localized: "T\xE6nd og sluk for den der ting!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813277
@@ -208,7 +213,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813285
-    m_Localized: (da) Check the map!
+    m_Localized: Tjek kortet!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201856
@@ -334,7 +339,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22956499448881152
-    m_Localized: (da) [menu] to skip
+    m_Localized: '[menu] for at springe over'
     m_Metadata:
       m_Items: []
   - m_Id: 23598574554132480
@@ -356,15 +361,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 23920995436847104
-    m_Localized: (da) FOCUS
+    m_Localized: FOKUS
     m_Metadata:
       m_Items: []
   - m_Id: 25797701263065088
-    m_Localized: (da) Buy stuff in the shop
+    m_Localized: "K\xF8b ting hos k\xF8bmanden"
     m_Metadata:
       m_Items: []
   - m_Id: 25797701284036608
-    m_Localized: (da) Enjoy the ride, recharge stuff and GEAR UP!
+    m_Localized: Nyd turen, genoplad dine ting og UDRUST DIG!
     m_Metadata:
       m_Items: []
   - m_Id: 25822090339713024

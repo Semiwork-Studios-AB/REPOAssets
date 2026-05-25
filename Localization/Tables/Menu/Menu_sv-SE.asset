@@ -20,1518 +20,1612 @@ MonoBehaviour:
     - rid: 3967078086496223243
   m_TableData:
   - m_Id: 62270994624512
-    m_Localized: (se) Privatspel
+    m_Localized: Privatspel
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790336
-    m_Localized: (se) Offentligt Spel
+    m_Localized: Offentligt Spel
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790337
-    m_Localized: "(se) Spela med V\xE4n"
+    m_Localized: "Joina en v\xE4n"
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790338
-    m_Localized: (se) Enspelare
+    m_Localized: "Spela sj\xE4lv"
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790339
-    m_Localized: (se) Handledning
+    m_Localized: Handledning
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790340
-    m_Localized: "(se) Inst\xE4llningar"
+    m_Localized: "Inst\xE4llningar"
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790341
-    m_Localized: (se) Avsluta Spelet
+    m_Localized: Avsluta Spelet
     m_Metadata:
       m_Items: []
   - m_Id: 754728038916096
-    m_Localized: (se) Host a Game
+    m_Localized: Hosta spel
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887616
-    m_Localized: '(se) The friend with the best computer
-
-      should host.
-
-
-      Are
-      you this friend?'
+    m_Localized: "V\xE4nnen med den b\xE4sta datorn borde hosta.\n\n\n\xC4r du denna
+      v\xE4n?"
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887617
-    m_Localized: (se) Haha yes!  :)
+    m_Localized: Haha ja! :)
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887618
-    m_Localized: (se) Not me...  :'(
+    m_Localized: Inte jag... :'(
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887619
-    m_Localized: (se) Warning
+    m_Localized: Varning
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887620
-    m_Localized: (se) While playing with random players you may come across cheaters
-      or really mean people...
+    m_Localized: "N\xE4r du spelar med random folk kan du tr\xE4ffa fuskare eller
+      riktigt elaka m\xE4nniskor..."
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887621
-    m_Localized: (se) I understand
+    m_Localized: "Jag f\xF6rst\xE5r"
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887622
-    m_Localized: (se) No thanks :(
+    m_Localized: Nej tack :(
     m_Metadata:
       m_Items: []
   - m_Id: 4093170002669568
-    m_Localized: (se) Quit Game
+    m_Localized: Avsluta Spelet
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029696
-    m_Localized: (se) Close the entire application?
+    m_Localized: "St\xE4ng av hela programmet"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029697
-    m_Localized: (se) Yes
+    m_Localized: Ja
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029698
-    m_Localized: (se) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029699
-    m_Localized: (se) Self Destruction
+    m_Localized: "Sj\xE4lvf\xF6rst\xF6relse"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029700
-    m_Localized: (se) Is that really so?
+    m_Localized: "\xC4r det verkligen s\xE5?"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029701
-    m_Localized: (se) It's over for me
+    m_Localized: "Det \xE4r \xF6ver f\xF6r mig"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029702
-    m_Localized: (se) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 21828124860735490
-    m_Localized: (se) Yes
+    m_Localized: Ja
     m_Metadata:
       m_Items: []
   - m_Id: 21828124860735489
-    m_Localized: (se) Exit to main menu?
+    m_Localized: Tillbaka till huvudmenyn
     m_Metadata:
       m_Items: []
   - m_Id: 21828124860735488
-    m_Localized: (se) Main Menu
+    m_Localized: Huvudmeny
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029706
-    m_Localized: (se) < Go Back
+    m_Localized: "< G\xE5 tillbaka"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029707
-    m_Localized: (se) New Game
+    m_Localized: Nytt Spel
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029708
-    m_Localized: (se) Singleplayer Mode
+    m_Localized: "Sj\xE4lvspelarl\xE4ge"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029709
-    m_Localized: (se) Multiplayer Mode
+    m_Localized: "Flerspelarl\xE4ge"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029710
-    m_Localized: (se) Saved Games
+    m_Localized: Sparade Spel
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029711
-    m_Localized: (se) Saved Games
+    m_Localized: Sparade Spel
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029712
-    m_Localized: (se) Here's all the fun you've had and the opportunity to pick up
-      right where you left off.
+    m_Localized: "H\xE4r \xE4r allt skoj du hade och m\xF6jligheten att forts\xE4tta
+      d\xE4r du slutade."
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029713
-    m_Localized: (se) Delete Save
+    m_Localized: Radera Sparfil
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029714
-    m_Localized: (se) Load Save
+    m_Localized: Ladda Sparfil
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029715
-    m_Localized: (se) Use Backup
+    m_Localized: "Anv\xE4nd Backup"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029717
-    m_Localized: '(se) Current Moon:'
+    m_Localized: "Nuvarande M\xE5ne:"
     m_Metadata:
       m_Items: []
   - m_Id: 5450952597549056
-    m_Localized: '(se) Total Haul:'
+    m_Localized: 'Total Last:'
     m_Metadata:
       m_Items:
       - rid: 3967078086496223243
   - m_Id: 5190661053853696
-    m_Localized: (se) Load Save
+    m_Localized: Ladda Sparfil
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853697
-    m_Localized: (se) Load this save file?
+    m_Localized: Ladda denna sparfil?
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853698
-    m_Localized: (se) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853699
-    m_Localized: (se) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853700
-    m_Localized: (se) Delete Save
+    m_Localized: Radera Sparfil
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853701
-    m_Localized: (se) Are you REALLY SURE you want to delete this save FOREVER?
+    m_Localized: "\xC4r du s\xE4ker? \xC4r du riktigt s\xE4ker?"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853702
-    m_Localized: (se) Yes! :')
+    m_Localized: Ja! :')
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853703
-    m_Localized: (se) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853704
-    m_Localized: (se) Restore From Backup
+    m_Localized: "Restaurera fr\xE5n Backup"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853705
-    m_Localized: '(se) Overwrite this save file with the latest backup?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Skriv \xF6ver denna sparfil med senaste backup?\n\nDetta \xE4r
+      o\xE5terkalleligt!"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853706
-    m_Localized: (se) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853707
-    m_Localized: (se) No
+    m_Localized: No
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853708
-    m_Localized: (se) Regions
+    m_Localized: Regioner
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853709
-    m_Localized: (se) Back
+    m_Localized: Tillbaka
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853710
-    m_Localized: (se) Pick Best Region
+    m_Localized: "V\xE4lj B\xE4sta Region"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853711
-    m_Localized: (se) Asia
+    m_Localized: Asien
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853712
-    m_Localized: (se) Australia
+    m_Localized: Australien
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853713
-    m_Localized: (se) Canada East
+    m_Localized: "\xD6stra Kanada"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853714
-    m_Localized: (se) Chinese Mainland
+    m_Localized: Kinesiska Fastlandet
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853715
-    m_Localized: (se) Europe
+    m_Localized: Europa
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853716
-    m_Localized: (se) Hong Kong
+    m_Localized: Hong Kong
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853717
-    m_Localized: (se) India
+    m_Localized: Indien
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853718
-    m_Localized: (se) Japan
+    m_Localized: Japan
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853719
-    m_Localized: (se) South Africa
+    m_Localized: Sydafrika
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853720
-    m_Localized: (se) South America
+    m_Localized: Sydamerika
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853721
-    m_Localized: (se) South Korea
+    m_Localized: Sydkorea
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853722
-    m_Localized: (se) Turkey
+    m_Localized: Turkiet
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853723
-    m_Localized: (se) United Arab Emirates
+    m_Localized: "F\xF6renade Arabemiraterna"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853724
-    m_Localized: (se) USA East
+    m_Localized: "\xD6stra USA"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853725
-    m_Localized: (se) USA West
+    m_Localized: "V\xE4stra USA"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853726
-    m_Localized: (se) USA South Central
+    m_Localized: Sydcentrala USA
     m_Metadata:
       m_Items: []
   - m_Id: 5450952597549057
-    m_Localized: (se) Sorry!
+    m_Localized: Ledsen!
     m_Metadata:
       m_Items: []
   - m_Id: 5450952597549058
-    m_Localized: "(se) Press \"Delete Save\" to delete \nentire saves folder."
+    m_Localized: "Tryck \"Radera Sparfil\" f\xF6r att ta bort hela sparfilsmappen."
     m_Metadata:
       m_Items: []
   - m_Id: 5801515992834048
-    m_Localized: (se) {players:list:{}|,   |   och   }
+    m_Localized: '{players:list:{}|,   |   och   }'
     m_Metadata:
       m_Items:
       - rid: 3967078086496223243
   - m_Id: 7715786482245632
-    m_Localized: (se) Corrupted Save File
+    m_Localized: Korrupterad Sparfil
     m_Metadata:
       m_Items: []
   - m_Id: 7730571982659584
-    m_Localized: (se) Ajabaja!
+    m_Localized: "Aj d\xE5!"
     m_Metadata:
       m_Items: []
   - m_Id: 7730572012019712
-    m_Localized: (se) Corrupted Save File
+    m_Localized: Korrupterad Sparfil
     m_Metadata:
       m_Items: []
   - m_Id: 8038179729825792
-    m_Localized: (se) Rename Save
+    m_Localized: Byt Sparfilsnamn
     m_Metadata:
       m_Items: []
   - m_Id: 8038179754991616
-    m_Localized: (se) Back
+    m_Localized: Tillbaka
     m_Metadata:
       m_Items: []
   - m_Id: 8038179754991617
-    m_Localized: (se) Confirm
+    m_Localized: "Godk\xE4nn"
     m_Metadata:
       m_Items: []
   - m_Id: 10257803930230784
-    m_Localized: (se) (Click to Rename)
+    m_Localized: "(Klicka f\xF6r att byta namn)"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343564980224
-    m_Localized: (se) Settings
+    m_Localized: "Inst\xE4llningar"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534656
-    m_Localized: (se) Gameplay
+    m_Localized: "Speluppl\xE4gg"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534657
-    m_Localized: (se) Graphics
+    m_Localized: Grafik
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534658
-    m_Localized: (se) Audio
+    m_Localized: Ljud
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534659
-    m_Localized: (se) Controls
+    m_Localized: Kontroller
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534660
-    m_Localized: (se) Language
+    m_Localized: "Spr\xE5k"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534661
-    m_Localized: (se) Back
+    m_Localized: Tillbaka
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534662
-    m_Localized: (se) On
+    m_Localized: "P\xE5"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534663
-    m_Localized: (se) Off
+    m_Localized: Av
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534664
-    m_Localized: (se) Toggle
+    m_Localized: "V\xE4xla"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534665
-    m_Localized: (se) Hold
+    m_Localized: "H\xE5ll in"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534674
-    m_Localized: (se) Gameplay
+    m_Localized: "Speluppl\xE4gg"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534675
-    m_Localized: (se) Reset to Default Settings
+    m_Localized: "\xC5terst\xE4ll Standardinst\xE4llningar"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534676
-    m_Localized: (se) Tips
+    m_Localized: Tips
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534677
-    m_Localized: (se) Player Names
+    m_Localized: Spelarnamn
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534678
-    m_Localized: (se) Photosensitivity
+    m_Localized: "Ljusk\xE4nslighet"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534679
-    m_Localized: '(se) Arachnophobia '
+    m_Localized: Araknofobi
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534680
-    m_Localized: (se) Aim Sensitivity
+    m_Localized: "Siktk\xE4nslighet"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534681
-    m_Localized: (se) Camera Smoothing
+    m_Localized: "Kameraj\xE4mnhet"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534682
-    m_Localized: (se) Camera Shake
+    m_Localized: Kameraskak
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534683
-    m_Localized: (se) Camera Noise
+    m_Localized: Kamerabrus
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534684
-    m_Localized: (se) Camera Animation
+    m_Localized: Kameraanimationer
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534685
-    m_Localized: (se) Invert Vertical Aim
+    m_Localized: Invertera Vertikal Siktning
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534686
-    m_Localized: (se) Item Unequip Auto Hold
+    m_Localized: "Autoh\xE5ll utrustning n\xE4r du unequippar"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534687
-    m_Localized: (se) Rich Presence
+    m_Localized: "Rik N\xE4rvaro (Rich Presence)"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534688
-    m_Localized: (se) Cosmetics
+    m_Localized: "Kl\xE4der"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534689
-    m_Localized: (se) Reset to Default Settings
+    m_Localized: "\xC5terst\xE4ll Standardinst\xE4llningar"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534690
-    m_Localized: (se) Window Mode
+    m_Localized: "F\xF6nsterl\xE4ge"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534691
-    m_Localized: '(se) VSync '
+    m_Localized: Vsynk
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534692
-    m_Localized: (se) Gamma
+    m_Localized: Gamma
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534693
-    m_Localized: (se) Max FPS
+    m_Localized: Maximal Bildruteuppdatering
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534694
-    m_Localized: (se) Light Distance
+    m_Localized: Ljusdistans
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534695
-    m_Localized: (se) Shadow Quality
+    m_Localized: "Skuggkvalit\xE9"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534696
-    m_Localized: (se) Shadow Distance
+    m_Localized: Skuggdistans
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534697
-    m_Localized: (se) Motion Blur
+    m_Localized: "R\xF6relsesudd"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534698
-    m_Localized: (se) Lens Distortion
+    m_Localized: "Linsf\xF6rvr\xE4ngning"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534699
-    m_Localized: (se) Bloom
+    m_Localized: Bloom
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534700
-    m_Localized: (se) Chromatic Aberration
+    m_Localized: Kromatisk Abberation
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534701
-    m_Localized: (se) Grain
+    m_Localized: Gryn
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534702
-    m_Localized: (se) Glitch Loop
+    m_Localized: Laggloop
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534703
-    m_Localized: (se) Pixelation
+    m_Localized: Pixelering
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534704
-    m_Localized: (se) Audio
+    m_Localized: Ljud
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534705
-    m_Localized: (se) Reset to Default Settings
+    m_Localized: "\xC5terst\xE4ll Standardinst\xE4llningar\n"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534706
-    m_Localized: (se) Master Volume
+    m_Localized: "M\xE4starvolym"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534707
-    m_Localized: (se) Music Volume
+    m_Localized: Musikvolym
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534709
-    m_Localized: (se) Proximity Voice Volume
+    m_Localized: "N\xE4rhetsr\xF6stvolym"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534711
-    m_Localized: (se) Microphone
+    m_Localized: Mikrofon
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534712
-    m_Localized: (se) Microphone Volume
+    m_Localized: Mikrofonvolym
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534713
-    m_Localized: (se) Push to Talk
+    m_Localized: "Tryck f\xF6r att Snacka"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534714
-    m_Localized: (se) Controls
+    m_Localized: Kontroller
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534715
-    m_Localized: (se) Reset to Default Settings
+    m_Localized: "\xC5terst\xE4ll Standardinst\xE4llningar"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534716
-    m_Localized: (se) Movement
+    m_Localized: "R\xF6relse"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534717
-    m_Localized: (se) Move Forward
+    m_Localized: "Fram\xE5t"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534718
-    m_Localized: (se) Move Left
+    m_Localized: "V\xE4nster"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534719
-    m_Localized: (se) Move Back
+    m_Localized: "Bak\xE5t"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534720
-    m_Localized: (se) Move Right
+    m_Localized: "H\xF6ger"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534721
-    m_Localized: (se) Jump
+    m_Localized: Hoppa
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534722
-    m_Localized: (se) Crouch
+    m_Localized: Ducka
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534723
-    m_Localized: (se) Sprint
+    m_Localized: Spring
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534724
-    m_Localized: (se) Tumble
+    m_Localized: Tumla
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534725
-    m_Localized: (se) Grabbing
+    m_Localized: Greppa
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534726
-    m_Localized: (se) Grabbing
+    m_Localized: Greppa
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534727
-    m_Localized: (se) Rotate
+    m_Localized: Rotera
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534728
-    m_Localized: (se) Push
+    m_Localized: Tryck
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534729
-    m_Localized: (se) Pull
+    m_Localized: Dra
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534730
-    m_Localized: (se) Other
+    m_Localized: Annat
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534731
-    m_Localized: (se) Map
+    m_Localized: Karta
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534732
-    m_Localized: (se) Interact
+    m_Localized: Interagera
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534733
-    m_Localized: (se) Inventory 1
+    m_Localized: Inventarie 1
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534734
-    m_Localized: (se) Inventory 2
+    m_Localized: Inventarie 2
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534735
-    m_Localized: (se) Inventory 3
+    m_Localized: Inventarie 3
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534736
-    m_Localized: (se) Chat
+    m_Localized: Chatta
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534737
-    m_Localized: (se) Confirm
+    m_Localized: "Godk\xE4nn"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534738
-    m_Localized: (se) Back
+    m_Localized: Tillbaka
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534739
-    m_Localized: (se) Menu
+    m_Localized: Meny
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534740
-    m_Localized: (se) Spectate Next
+    m_Localized: Specca
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534741
-    m_Localized: (se) Spectate Previous
+    m_Localized: Specca tidigare
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534742
-    m_Localized: (se) Push to Talk
+    m_Localized: "Truck f\xF6r att snacka"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534743
-    m_Localized: (se) Toggle Mute
+    m_Localized: Mutea
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534744
-    m_Localized: (se) Player Expressions
+    m_Localized: Spelarutryck
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534751
-    m_Localized: (se) Language
+    m_Localized: "Spr\xE5k"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534752
-    m_Localized: (se) Presets
+    m_Localized: Garderob
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534753
-    m_Localized: (se) Head
+    m_Localized: Huvud
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534754
-    m_Localized: (se) Arms
+    m_Localized: Armar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534755
-    m_Localized: (se) Body
+    m_Localized: Kropp
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534756
-    m_Localized: (se) Legs
+    m_Localized: Ben
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534757
-    m_Localized: (se) Confirm
+    m_Localized: "Godk\xE4nn"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534758
-    m_Localized: (se) Select Color
+    m_Localized: "V\xE4lj F\xE4rg"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534759
-    m_Localized: (se) Confirm
+    m_Localized: "Godk\xE4nn"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534760
-    m_Localized: (se) Delete
+    m_Localized: Radera
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534761
-    m_Localized: (se) Hat
+    m_Localized: Hatt
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534762
-    m_Localized: (se) Armwear Right
+    m_Localized: "H\xF6ger Armplagg"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534763
-    m_Localized: (se) Armwear Left
+    m_Localized: "V\xE4nster Armplagg"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534764
-    m_Localized: (se) Legwear Right
+    m_Localized: "H\xF6ger Benplagg"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534765
-    m_Localized: (se) Legwear Left
+    m_Localized: "V\xE4nster Benplagg"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534766
-    m_Localized: (se) Head Top
+    m_Localized: "\xD6verhuvud"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534767
-    m_Localized: (se) Head Bottom
+    m_Localized: Underhuvud
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534768
-    m_Localized: (se) Body Top
+    m_Localized: Toppkropp
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534769
-    m_Localized: (se) Body Bottom
+    m_Localized: Bottenkropp
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534770
-    m_Localized: (se) Arm Right
+    m_Localized: "H\xF6gerarm"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534771
-    m_Localized: (se) Arm Left
+    m_Localized: "V\xE4nsterarm"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534772
-    m_Localized: (se) Leg Right
+    m_Localized: "H\xF6gerben"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534773
-    m_Localized: (se) Leg Left
+    m_Localized: "V\xE4nsterben"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534774
-    m_Localized: (se) Grabber
+    m_Localized: Greppare
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534775
-    m_Localized: (se) Eye Lid Right
+    m_Localized: "H\xF6ger \xD6gonlock"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728960
-    m_Localized: (se) Eye Lid Left
+    m_Localized: "V\xE4nster \xD6gonlock"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728961
-    m_Localized: (se) Body Top Overlay
+    m_Localized: Toppkroppsdekal
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728962
-    m_Localized: (se) Ears
+    m_Localized: "\xD6ron"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728963
-    m_Localized: (se) Eyewear
+    m_Localized: "\xD6gontillbeh\xF6r"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728965
-    m_Localized: (se) Bodywear Top
+    m_Localized: "Toppkroppskl\xE4der"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728966
-    m_Localized: (se) Bodywear Bottom
+    m_Localized: "Bottenkroppskl\xE4der"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728968
-    m_Localized: (se) Body Bottom Overlay
+    m_Localized: Bottenkroppsdekal
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728969
-    m_Localized: (se) Head Top Overlay
+    m_Localized: Topphuvudsdekal
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728970
-    m_Localized: (se) Head Bottom Overlay
+    m_Localized: Bottenhuvudsdekal
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728971
-    m_Localized: (se) Delete Preset
+    m_Localized: Ta bort garderob
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728972
-    m_Localized: (se) Are you REALLY SURE you want to delete this preset FOREVER?
+    m_Localized: "\xC4r du s\xE4ker? \xC4r du riktigt s\xE4ker?"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728973
-    m_Localized: (se) Yes! :')
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728974
-    m_Localized: (se) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 10625145570844672
-    m_Localized: (se) Angry
+    m_Localized: Arg
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593408
-    m_Localized: (se) Sad
+    m_Localized: Ledsen!
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593409
-    m_Localized: (se) Suspicious
+    m_Localized: "Misst\xE4nksam"
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593410
-    m_Localized: (se) Eyes Closed
+    m_Localized: "St\xE4ngda \xD6gon"
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593411
-    m_Localized: (se) Scared
+    m_Localized: "R\xE4dd"
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593412
-    m_Localized: (se) Happy
+    m_Localized: Glad
     m_Metadata:
       m_Items: []
   - m_Id: 10892493724835840
-    m_Localized: (se) Change Color
+    m_Localized: "\xC4ndra F\xE4rg"
     m_Metadata:
       m_Items: []
   - m_Id: 10892493724835841
-    m_Localized: '(se) This will replace the colors on all body parts and cosmetics.
-
-
-      This
-      is irreversible!'
+    m_Localized: "Detta kommer ers\xE4tta f\xE4rgen p\xE5 alla kroppsdelar och kl\xE4der.\n\nDetta
+      \xE4r o\xE5terkalleligt!"
     m_Metadata:
       m_Items: []
   - m_Id: 10892493724835842
-    m_Localized: (se) Yes! :')
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 10892493724835843
-    m_Localized: (se) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 10942035694444544
-    m_Localized: (se) SFX Volume
+    m_Localized: Ljudeffektsvolym
     m_Metadata:
       m_Items: []
   - m_Id: 10942035694444545
-    m_Localized: (se) Text to Speech Volume
+    m_Localized: Text till Tal Volym
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938048
-    m_Localized: (se) Off
+    m_Localized: Av
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938049
-    m_Localized: (se) Very Low
+    m_Localized: "V\xE4ldigt L\xE5gt"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938050
-    m_Localized: (se) Low
+    m_Localized: "L\xE5gt"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938051
-    m_Localized: (se) Medium
+    m_Localized: Mellan
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938052
-    m_Localized: (se) Default
+    m_Localized: Standard
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938053
-    m_Localized: (se) Off
+    m_Localized: Av
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938054
-    m_Localized: (se) Minimal
+    m_Localized: Minimalt
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938055
-    m_Localized: (se) Full
+    m_Localized: Fullt
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938056
-    m_Localized: (se) Windowed
+    m_Localized: "F\xF6nsterl\xE4ge"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938057
-    m_Localized: (se) Fullscreen
+    m_Localized: "Helsk\xE4rmsl\xE4ge"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938058
-    m_Localized: (se) Unlimited
+    m_Localized: "O\xE4ndlig"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938059
-    m_Localized: (se) Very Low
+    m_Localized: "V\xE4ldigt L\xE5gt"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938060
-    m_Localized: (se) Low
+    m_Localized: "L\xE5gt"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938061
-    m_Localized: (se) Medium
+    m_Localized: Mellan
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938062
-    m_Localized: (se) High
+    m_Localized: "H\xF6gt"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938063
-    m_Localized: (se) Very High
+    m_Localized: "V\xE4ldigt H\xF6gt"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938064
-    m_Localized: (se) Very Low
+    m_Localized: "V\xE4ldigt L\xE5gt"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938065
-    m_Localized: (se) Low
+    m_Localized: "L\xE5gt"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938066
-    m_Localized: (se) Medium
+    m_Localized: Mellan
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938067
-    m_Localized: (se) High
+    m_Localized: "H\xF6gt"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938068
-    m_Localized: (se) Very High
+    m_Localized: "V\xE4ldigt H\xF6gt"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938069
-    m_Localized: (se) Very Low
+    m_Localized: "V\xE4ldigt L\xE5gt"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938070
-    m_Localized: (se) Low
+    m_Localized: "L\xE5gt"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938071
-    m_Localized: (se) Medium
+    m_Localized: Mellan
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938072
-    m_Localized: (se) High
+    m_Localized: "H\xF6gt"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938073
-    m_Localized: (se) Very High
+    m_Localized: "V\xE4ldigt H\xF6gt"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938074
-    m_Localized: (se) Small
+    m_Localized: Litet
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938075
-    m_Localized: (se) Medium
+    m_Localized: Mellan
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938076
-    m_Localized: (se) Default
+    m_Localized: Standard
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938077
-    m_Localized: (se) None
+    m_Localized: Ingen
     m_Metadata:
       m_Items: []
   - m_Id: 11624605050462208
-    m_Localized: (se) Reset Gameplay Settings
+    m_Localized: "\xC5terst\xE4ll Speluppl\xE4ggsinst\xE4llningar"
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822336
-    m_Localized: (se) Reset gameplay settings to default?
+    m_Localized: "\xC5terst\xE4ll Speluppl\xE4ggsinst\xE4llningar till standard?\n"
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822337
-    m_Localized: (se) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822338
-    m_Localized: (se) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822339
-    m_Localized: (se) Graphics
+    m_Localized: Grafik
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822340
-    m_Localized: (se) Reset Graphics Settings
+    m_Localized: "\xC5terst\xE4ll Grafikinst\xE4llningar\n"
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822341
-    m_Localized: (se) Reset graphics settings to default?
+    m_Localized: "\xC5terst\xE4ll Grafikinst\xE4llningar till standard\n"
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822342
-    m_Localized: (se) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822343
-    m_Localized: (se) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723968
-    m_Localized: (se) Reset Audio Settings
+    m_Localized: "\xC5terst\xE4ll Ljudinst\xE4llningar"
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723969
-    m_Localized: (se) Reset audio settings to default?
+    m_Localized: "\xC5terst\xE4ll Ljudinst\xE4llningar till standard"
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723970
-    m_Localized: (se) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723971
-    m_Localized: (se) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723972
-    m_Localized: (se) Reset Controls Settings
+    m_Localized: "\xC5terst\xE4ll Kontrollinst\xE4llningar"
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723973
-    m_Localized: (se) Reset controls settings to default?
+    m_Localized: "\xC5terst\xE4ll Kontrollinst\xE4llningar till standard"
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723974
-    m_Localized: (se) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723975
-    m_Localized: (se) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 15231403103870976
-    m_Localized: (se) Footwear Right
+    m_Localized: "H\xF6ger Sko"
     m_Metadata:
       m_Items: []
   - m_Id: 15231403133231104
-    m_Localized: (se) Footwear Left
+    m_Localized: "V\xE4nster Sko"
     m_Metadata:
       m_Items: []
   - m_Id: 15240008624496640
-    m_Localized: (se) Arm Right Overlay
+    m_Localized: "H\xF6ger Armdekal"
     m_Metadata:
       m_Items: []
   - m_Id: 15240008645468160
-    m_Localized: (se) Arm Left Overlay
+    m_Localized: "V\xE4nster Armdekal"
     m_Metadata:
       m_Items: []
   - m_Id: 15240008645468161
-    m_Localized: (se) Leg Right Overlay
+    m_Localized: "H\xF6ger Bendekal"
     m_Metadata:
       m_Items: []
   - m_Id: 15240008645468162
-    m_Localized: (se) Leg Left Overlay
+    m_Localized: "V\xE4nster Bendekal"
     m_Metadata:
       m_Items: []
   - m_Id: 15590857783631872
-    m_Localized: (se) Password
+    m_Localized: "L\xF6senord"
     m_Metadata:
       m_Items: []
   - m_Id: 15590857808797696
-    m_Localized: (se) Skip
+    m_Localized: Skippa
     m_Metadata:
       m_Items: []
   - m_Id: 15592435403972608
-    m_Localized: (se) Loading
+    m_Localized: Laddar
     m_Metadata:
       m_Items: []
   - m_Id: 15592435403972609
-    m_Localized: (se) Stuck in loading?
+    m_Localized: Fastnat i laddningen?
     m_Metadata:
       m_Items: []
   - m_Id: 15592435403972610
-    m_Localized: (se) Press [menu] to exit to main menu
+    m_Localized: "Tryck [menu] f\xF6r att g\xE5 tillbaka till huvudmenyn"
     m_Metadata:
       m_Items: []
   - m_Id: 15661116045647872
-    m_Localized: (se) Lobby
+    m_Localized: Lobby
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008000
-    m_Localized: (se) Press [chat] to chat
+    m_Localized: "Tryck [chat] f\xF6r att chatta"
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008001
-    m_Localized: (se) Start Game
+    m_Localized: Starta Spel
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008002
-    m_Localized: (se) Invite
+    m_Localized: Bjud in
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008003
-    m_Localized: (se) Settings
+    m_Localized: "Inst\xE4llningar"
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008004
-    m_Localized: (se) Customize
+    m_Localized: Anpassa
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008005
-    m_Localized: (se) Leave
+    m_Localized: "L\xE4mna"
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008006
-    m_Localized: (se) Start Game
+    m_Localized: Starta Spel
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008007
-    m_Localized: '(se) Everyone ready?
-
-
-      Once the game is started
-
-      new
-      players cannot join.'
+    m_Localized: "Alla redo?\n\nN\xE4r spelet har b\xF6rjat kan \ninte nya spelare
+      g\xE5 med."
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008008
-    m_Localized: (se) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008009
-    m_Localized: (se) No wait!
+    m_Localized: "Nej v\xE4nta!!!"
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008010
-    m_Localized: (se) Leave Lobby
+    m_Localized: "L\xE4mna Lobby"
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008011
-    m_Localized: (se) Are you sure?
+    m_Localized: "\xC4r du s\xE4ker?"
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008012
-    m_Localized: (se) Yes
+    m_Localized: Ja
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008013
-    m_Localized: (se) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296960
-    m_Localized: (se) New Game
+    m_Localized: Nytt Spel
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296961
-    m_Localized: (se) Do you want to start a game?
+    m_Localized: Vill du starta ett spel?
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296962
-    m_Localized: (se) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296963
-    m_Localized: (se) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 15673645669015552
-    m_Localized: (se) Confirm
+    m_Localized: "Godk\xE4nn"
     m_Metadata:
       m_Items: []
   - m_Id: 16030297698066432
-    m_Localized: (se) Player Joining...
+    m_Localized: Spelare Joinar
     m_Metadata:
       m_Items: []
   - m_Id: 16702161813680128
-    m_Localized: (se) Face Lower
+    m_Localized: Undre Ansikte
     m_Metadata:
       m_Items: []
   - m_Id: 17747241957765120
-    m_Localized: (se) Clear
+    m_Localized: Rensa
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930944
-    m_Localized: '(se) Are you sure you want to unequip all body parts and cosmetics?
-
-
-      This
-      is irreversible!'
+    m_Localized: "\xC4r du s\xE4ker p\xE5 att du vill ta av dig alla kroppsdelar
+      och kl\xE4der?\n\nDetta \xE4r o\xE5terkalleligt!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930945
-    m_Localized: (se) Yes! :')
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930946
-    m_Localized: (se) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930947
-    m_Localized: (se) Clear
+    m_Localized: Rensa
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930948
-    m_Localized: '(se) Are you sure you want to unequip all body parts?
-
-
-      This
-      is irreversible!'
+    m_Localized: "\xC4r du s\xE4ker p\xE5 att du vill ta av dig alla kroppsdelar?\n\nDetta
+      \xE4r o\xE5terkalleligt!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930949
-    m_Localized: (se) Yes! :')
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930950
-    m_Localized: (se) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930951
-    m_Localized: (se) Clear
+    m_Localized: Rensa
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930952
-    m_Localized: '(se) Are you sure you want to unequip all cosmetics?
-
-
-      This
-      is irreversible!'
+    m_Localized: "\xC4r du s\xE4ker p\xE5 att du vill ta av dig alla kl\xE4der?\n\nDetta
+      \xE4r o\xE5terkalleligt!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930953
-    m_Localized: (se) Yes! :')
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930954
-    m_Localized: (se) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930955
-    m_Localized: (se) Randomize
+    m_Localized: Randomisera
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930956
-    m_Localized: '(se) Are you sure you want to randomize all body parts and cosmetics?
-
-
-      This
-      is irreversible!'
+    m_Localized: "\xC4r du s\xE4ker p\xE5 att du vill randomisera alla kroppsdelar
+      och kl\xE4der?\n\nDetta \xE4r o\xE5terkalleligt!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930957
-    m_Localized: (se) Yes! :')
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930958
-    m_Localized: (se) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930959
-    m_Localized: (se) Randomize
+    m_Localized: Randomisera
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930960
-    m_Localized: '(se) Are you sure you want to randomize all body parts?
-
-
-      This
-      is irreversible!'
+    m_Localized: "\xC4r du s\xE4ker p\xE5 att du vill randomisera alla kroppsdelar?\n\nDetta
+      \xE4r o\xE5terkalleligt!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930961
-    m_Localized: (se) Yes! :')
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930962
-    m_Localized: (se) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930963
-    m_Localized: (se) Randomize
+    m_Localized: Randomsiera
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930964
-    m_Localized: '(se) Are you sure you want to randomize all cosmetics?
-
-
-      This
-      is irreversible!'
+    m_Localized: "\xC4r du s\xE4ker p\xE5 att du vill randomisera alla kl\xE4der?\n\nDetta
+      \xE4r o\xE5terkalleligt!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930965
-    m_Localized: (se) Yes! :')
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930966
-    m_Localized: (se) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930967
-    m_Localized: (se) Change Color
+    m_Localized: "\xC4ndra F\xE4rg"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930968
-    m_Localized: '(se) This will replace the colors on all body parts.
-
-
-      This
-      is irreversible!'
+    m_Localized: "Detta kommer ers\xE4tta f\xE4rgen p\xE5 alla kroppsdelar.\n\nDetta
+      \xE4r o\xE5terkalleligt!\n"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930969
-    m_Localized: (se) Yes! :')
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930970
-    m_Localized: (se) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930971
-    m_Localized: (se) Change Color
+    m_Localized: "\xC4ndra F\xE4rg"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930972
-    m_Localized: '(se) This will replace the colors on all cosmetics.
-
-
-      This
-      is irreversible!'
+    m_Localized: "Detta kommer ers\xE4tta f\xE4rgen p\xE5 alla kl\xE4der.\n\nDetta
+      \xE4r o\xE5terkalleligt!\n"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930973
-    m_Localized: (se) Yes! :')
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930974
-    m_Localized: (se) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 21470840070594560
-    m_Localized: (se) Face Upper
+    m_Localized: "\xD6vre Ansikte"
     m_Metadata:
       m_Items: []
   - m_Id: 21470840091566080
-    m_Localized: (se) Face Middle
+    m_Localized: Mellanansikte
     m_Metadata:
       m_Items: []
   - m_Id: 21739271462313984
-    m_Localized: (se) Anpassa
+    m_Localized: Anpassa
     m_Metadata:
       m_Items: []
   - m_Id: 21825235048194048
-    m_Localized: (se) Menu
+    m_Localized: Meny
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554176
-    m_Localized: (se) Continue
+    m_Localized: "Forts\xE4tt"
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554177
-    m_Localized: (se) Customize
+    m_Localized: Anpassa
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554178
-    m_Localized: (se) Settings
+    m_Localized: "Inst\xE4llningar"
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554179
-    m_Localized: (se) Self Destruct
+    m_Localized: "Sj\xE4lvf\xF6rst\xF6r"
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554180
-    m_Localized: (se) Active Moons
+    m_Localized: "Aktiva M\xE5nar"
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554181
-    m_Localized: (se) Main Menu
+    m_Localized: Huvudmeny
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554182
-    m_Localized: (se) Quit Game
+    m_Localized: Avsluta Spelet
     m_Metadata:
       m_Items: []
   - m_Id: 21828124860735491
-    m_Localized: (se) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 22911118074785792
-    m_Localized: (se) Active Moons
+    m_Localized: "Aktiva M\xE5nar"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757312
-    m_Localized: (se) Back
+    m_Localized: Tillbaka
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757313
-    m_Localized: (se) Crescent Moon
+    m_Localized: "Sk\xE4rm\xE5ne"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757314
-    m_Localized: (se) The truck healer now restores 35 health.
+    m_Localized: "Truckhelaren \xE5terger 35 hp."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757315
-    m_Localized: (se) Monsters are now harder to knock down with valuables.
+    m_Localized: "Monster \xE4r nu sv\xE5rare att knuffa omkull med v\xE4rdesaker."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757316
-    m_Localized: (se) Half Moon
+    m_Localized: "Halvm\xE5ne"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757317
-    m_Localized: (se) Monsters now overcharge your grabber.
+    m_Localized: "Monster \xF6verbelastar din greppstr\xE5le."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757318
-    m_Localized: (se) Monsters take heavy damage from pits, but can survive.
+    m_Localized: "Monster skadas h\xE5rt av d\xF6dsh\xE5l, men kan \xF6verleva."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757319
-    m_Localized: (se) The truck healer now restores 25 health.
+    m_Localized: "Truckhelaren \xE5terger 25 hp."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757320
-    m_Localized: (se) Full Moon
+    m_Localized: "Fullm\xE5ne"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757321
-    m_Localized: (se) Monsters now overcharge your grabber by a total increase of
-      25%
+    m_Localized: "Monster \xF6verbelastar din greppstr\xE5le med en \xF6kning av
+      25%"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757322
-    m_Localized: (se) Monsters now take less damage from pits.
+    m_Localized: "Monster skadas mindre av d\xF6dsh\xE5l."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757323
-    m_Localized: (se) Super Moon
+    m_Localized: "Superm\xE5ne"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757324
-    m_Localized: (se) Enemy Orbs now explode when destroyed.
+    m_Localized: "Fiendebollar exploderar n\xE4r dom pajjar."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757325
-    m_Localized: (se) Monsters now overcharge your grabber by a total increase of
-      50%
+    m_Localized: "Monster \xF6verbelastar din greppstr\xE5le med en \xF6kning av
+      50%"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757326
-    m_Localized: (se) Monsters now take even less damage from pits.
+    m_Localized: "Monster skadas \xE4nnu mindre av d\xF6dsh\xE5l."
     m_Metadata:
       m_Items: []
   - m_Id: 23197572767145984
-    m_Localized: (se) {ping} ms
+    m_Localized: '{ping} ms'
     m_Metadata:
       m_Items:
       - rid: 3967078086496223243
   - m_Id: 23207164712574976
-    m_Localized: (se) {ping} ms
+    m_Localized: '{ping} ms'
     m_Metadata:
       m_Items:
       - rid: 3967078086496223243
   - m_Id: 26475650059841536
-    m_Localized: (se) Photosensivity Warning
+    m_Localized: "Ljusk\xE4nslighetsvarning"
     m_Metadata:
       m_Items: []
   - m_Id: 26475650085007360
-    m_Localized: (se) This game contains flashing lights.
+    m_Localized: "Detta spel inneh\xE5ller blinkade ljus."
     m_Metadata:
       m_Items: []
   - m_Id: 26475650085007361
-    m_Localized: (se) Some individuals may experience epileptic seizures when exposed
-      to light patterns and flashing lights. If you feel any discomfort when playing,
-      immediately stop playing and consult a doctor.
+    m_Localized: "Vissa individer kan uppleva epileptiska anfall n\xE4r de uts\xE4tts
+      f\xF6r ljusm\xF6nster och blinkade ljus. Om du k\xE4nner dig konstig ska du
+      sluta spela och kontakta en l\xE4kare."
     m_Metadata:
       m_Items: []
   - m_Id: 30857599407521792
-    m_Localized: (se) Service Station
+    m_Localized: Macken
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687616
-    m_Localized: (se) Disposal Arena
+    m_Localized: Avfallsarena
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687617
-    m_Localized: (se) McJannek Station
+    m_Localized: McJannek Basen
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687618
-    m_Localized: (se) Headman Manor
+    m_Localized: "Huvudmannens Herrg\xE5rd"
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687619
-    m_Localized: (se) Museum of Human Art
+    m_Localized: "Museet av M\xE4nsklig Konst"
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687620
-    m_Localized: (se) Swiftbroom Academy
+    m_Localized: Snabbkvastens Trollskola
     m_Metadata:
       m_Items: []
   - m_Id: 30862829494894592
-    m_Localized: (se) Shop
+    m_Localized: "Aff\xE4r"
     m_Metadata:
       m_Items: []
   - m_Id: 30862829524254720
-    m_Localized: (se) Level {number}
+    m_Localized: Bana {number}
     m_Metadata:
       m_Items:
       - rid: 3967078086496223243
   - m_Id: 30862829524254721
-    m_Localized: (se) Game Over
+    m_Localized: Spelet Slut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33065608682569728
+    m_Localized: "Du gjorde det helt sj\xE4lv!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954568257536
+    m_Localized: "Sparfilsgr\xE4ns N\xE5dd"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954593423360
+    m_Localized: "Du kan bara ha {limit} save files at a time. Sn\xE4lla ta bort
+      n\xE5gra och g\xF6r plats f\xF6r nya."
+    m_Metadata:
+      m_Items:
+      - rid: 3967078086496223243
+  - m_Id: 33437954593423361
+    m_Localized: Okej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689910808576
+    m_Localized: Kickad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168704
+    m_Localized: Du blev kickad av hosten.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168705
+    m_Localized: "Okej D\xE5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168706
+    m_Localized: "Fr\xE5nkopplad"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390400
+    m_Localized: 'Anledning:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168708
+    m_Localized: Fast i laddning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168709
+    m_Localized: Host disconnectade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390401
+    m_Localized: "Du blev bannad fr\xE5n denna lobby."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168710
+    m_Localized: "Ok D\xE5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168711
+    m_Localized: Fel Spelversion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168712
+    m_Localized: "Lobbyn anv\xE4nder denna version\n{version}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168713
+    m_Localized: "Ok D\xE5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168714
+    m_Localized: "Lobby St\xE4ngd"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168715
+    m_Localized: "Lobbyn har st\xE4ngt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168716
+    m_Localized: "Ok D\xE5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074834644992
+    m_Localized: Offentligt Spel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810816
+    m_Localized: Randomiserad Matchmaking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810817
+    m_Localized: Serverlista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810818
+    m_Localized: Tillbaka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810819
+    m_Localized: Serverlista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810820
+    m_Localized: "S\xF6k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810821
+    m_Localized: Skapa nytt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810822
+    m_Localized: Tillbaka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810823
+    m_Localized: "S\xF6k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810824
+    m_Localized: Konfirmera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810825
+    m_Localized: Tillbaka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810826
+    m_Localized: Skapa ny server
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810827
+    m_Localized: Konfirmera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810828
+    m_Localized: Tillbaka
     m_Metadata:
       m_Items: []
   references:
@@ -1547,3 +1641,4 @@ MonoBehaviour:
         - id: 23197572767145984
         - id: 23207164712574976
         - id: 30862829524254720
+        - id: 33437954593423360

@@ -20,4 +20,10 @@ All the currently available localization-related assets have been mirrored here 
 
 Please do note that localization is still a work in progress and issues may occur when adding your own localizations.
 
-Fallback fonts have been added for most writing scripts, so it _should_ no longer be necessary to add your own fonts manually. 
+Fallback fonts have been added for most writing scripts, so it _should_ no longer be necessary to add your own fonts manually.
+
+The base localization strings have been added as TSV (Tab-Separated Values) files to: `REPO/REPO_Data/StreamingAssets/Localization/Default/`.
+
+Custom string overrides can now be made by copying these TSV files to the `StreamingAssets/Localization/` folder and editing them in a text editor.
+
+For example, you can copy the HUD TSV file to `StreamingAssets/Localization/HUD.tsv` to load custom HUD-specific strings.

@@ -414,7 +414,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534679
-    m_Localized: 'Arachnophobia '
+    m_Localized: Arachnophobia
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534680
@@ -462,7 +462,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534691
-    m_Localized: 'VSync '
+    m_Localized: VSync
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534692
@@ -1532,6 +1532,142 @@ MonoBehaviour:
     m_Localized: Game Over
     m_Metadata:
       m_Items: []
+  - m_Id: 33065608682569728
+    m_Localized: You did it all alone!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954568257536
+    m_Localized: Save File Limit Reached
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954593423360
+    m_Localized: You can only have {limit} save files at a time. Please delete some
+      save files to make room for new ones.
+    m_Metadata:
+      m_Items:
+      - rid: 3967078086496223239
+  - m_Id: 33437954593423361
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689910808576
+    m_Localized: Kicked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168704
+    m_Localized: You were kicked by the host.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168705
+    m_Localized: Ok Dang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168706
+    m_Localized: Disconnected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168708
+    m_Localized: Stuck in loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168709
+    m_Localized: Host disconnected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168710
+    m_Localized: Ok Dang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168711
+    m_Localized: Wrong Game Version
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168712
+    m_Localized: 'Game lobby is using version:
+
+      {version}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168713
+    m_Localized: Ok Dang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168714
+    m_Localized: Lobby Closed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168715
+    m_Localized: The lobby has closed.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168716
+    m_Localized: Ok Dang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390400
+    m_Localized: 'Cause:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390401
+    m_Localized: You are banned from this lobby.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074834644992
+    m_Localized: Public Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810816
+    m_Localized: Random Matchmaking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810817
+    m_Localized: Server List
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810818
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810819
+    m_Localized: Server List
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810820
+    m_Localized: Search
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810821
+    m_Localized: Create New
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810822
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810823
+    m_Localized: Search
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810824
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810825
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810826
+    m_Localized: Create New Server
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810827
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810828
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
@@ -1545,3 +1681,4 @@ MonoBehaviour:
         - id: 23197572767145984
         - id: 23207164712574976
         - id: 30862829524254720
+        - id: 33437954593423360

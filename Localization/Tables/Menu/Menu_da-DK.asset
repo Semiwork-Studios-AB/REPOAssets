@@ -20,1517 +20,1558 @@ MonoBehaviour:
     - rid: 7803763168112017414
   m_TableData:
   - m_Id: 62270994624512
-    m_Localized: (da) Privat Spil
+    m_Localized: Privat spil
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790336
-    m_Localized: (da) Offenligt spil
+    m_Localized: Offenligt spil
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790337
-    m_Localized: (da) Join en ven
+    m_Localized: Tag med en ven
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790338
-    m_Localized: (da) Singleplayer
+    m_Localized: Enkeltspiller
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790339
-    m_Localized: (da) Tutorial
+    m_Localized: "Tr\xE6ning"
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790340
-    m_Localized: (da) Settings
+    m_Localized: Indstillinger
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790341
-    m_Localized: (da) Quit Game
+    m_Localized: Afslut spillet
     m_Metadata:
       m_Items: []
   - m_Id: 754728038916096
-    m_Localized: (da) Host a Game
+    m_Localized: "Opret spil som v\xE6rt"
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887616
-    m_Localized: '(da) The friend with the best computer
-
-      should host.
-
-
-      Are
-      you this friend?'
+    m_Localized: "Vennen med den bedste computer skal helst v\xE6re v\xE6rt.\n\n\nEr
+      du den ven?"
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887617
-    m_Localized: (da) Haha yes!  :)
+    m_Localized: Haha jaaa! :)
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887618
-    m_Localized: (da) Not me...  :'(
+    m_Localized: Det er ikke mig... :'(
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887619
-    m_Localized: (da) Warning
+    m_Localized: Advarsel
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887620
-    m_Localized: (da) While playing with random players you may come across cheaters
-      or really mean people...
+    m_Localized: "N\xE5r du spiller med tilf\xE6ldige spillere, kan det v\xE6re du
+      m\xF8der folk der snyder, eller bare er rigtig ubehaglige..."
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887621
-    m_Localized: (da) I understand
+    m_Localized: "Jeg forst\xE5r"
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887622
-    m_Localized: (da) No thanks :(
+    m_Localized: Ellers tak :(
     m_Metadata:
       m_Items: []
   - m_Id: 4093170002669568
-    m_Localized: (da) Quit Game
+    m_Localized: Afslut spillet
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029696
-    m_Localized: (da) Close the entire application?
+    m_Localized: Sluk for hele programmet?
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029697
-    m_Localized: (da) Yes
+    m_Localized: Ja
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029698
-    m_Localized: (da) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029699
-    m_Localized: (da) Self Destruction
+    m_Localized: Selvdestruktion
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029700
-    m_Localized: (da) Is that really so?
+    m_Localized: "Helt s\xE6ri\xF8st?"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029701
-    m_Localized: (da) It's over for me
+    m_Localized: Det er ude med mig
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029702
-    m_Localized: (da) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 21828124860735490
-    m_Localized: (da) Yes
+    m_Localized: Ja
     m_Metadata:
       m_Items: []
   - m_Id: 21828124860735489
-    m_Localized: (da) Exit to main menu?
+    m_Localized: Afslut til hovedmenuen
     m_Metadata:
       m_Items: []
   - m_Id: 21828124860735488
-    m_Localized: (da) Main Menu
+    m_Localized: Hovedmenu
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029706
-    m_Localized: (da) < Go Back
+    m_Localized: "< G\xE5 tilbage"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029707
-    m_Localized: (da) New Game
+    m_Localized: Nyt spil
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029708
-    m_Localized: (da) Singleplayer Mode
+    m_Localized: Singleplayer-tilstand
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029709
-    m_Localized: (da) Multiplayer Mode
+    m_Localized: Multiplayer-tilstand
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029710
-    m_Localized: (da) Saved Games
+    m_Localized: Gemte spil
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029711
-    m_Localized: (da) Saved Games
+    m_Localized: Gemte spil
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029712
-    m_Localized: (da) Here's all the fun you've had and the opportunity to pick up
-      right where you left off.
+    m_Localized: "Her er alt det spas og l\xF8jer du har lavet, og her kan du forts\xE6tte
+      lige hvor du slap."
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029713
-    m_Localized: (da) Delete Save
+    m_Localized: Slet gemt spil
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029714
-    m_Localized: (da) Load Save
+    m_Localized: "Indl\xE6s gemt spil"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029715
-    m_Localized: (da) Use Backup
+    m_Localized: Brug backup
     m_Metadata:
       m_Items: []
   - m_Id: 10257803930230784
-    m_Localized: (da) (Click to Rename)
+    m_Localized: "(Klik for at omd\xF8be)"
     m_Metadata:
       m_Items: []
   - m_Id: 7715786482245632
-    m_Localized: (da) Corrupted Save File
+    m_Localized: Beskadiget spilfil
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029717
-    m_Localized: '(da) Current Moon:'
+    m_Localized: "Aktuel m\xE5ne:"
     m_Metadata:
       m_Items: []
   - m_Id: 5450952597549056
-    m_Localized: '(da) Total Haul:'
+    m_Localized: "Samlet indt\xE6gt:"
     m_Metadata:
       m_Items: []
   - m_Id: 5450952597549057
-    m_Localized: (da) Sorry!
+    m_Localized: "Det var ikke s\xE5 godt!"
     m_Metadata:
       m_Items: []
   - m_Id: 5450952597549058
-    m_Localized: "(da) Press \"Delete Save\" to delete \nentire saves folder."
+    m_Localized: "Tryk p\xE5 \"Slet gemt spil\" for at slette hele spilfilsmappen."
     m_Metadata:
       m_Items: []
   - m_Id: 5801515992834048
-    m_Localized: (da) {players:list:{}|,   |   and   }
+    m_Localized: '{players:list:{}|,   |   og   }'
     m_Metadata:
       m_Items:
       - rid: 7803763168112017414
   - m_Id: 7730571982659584
-    m_Localized: (da) Uh Oh!
+    m_Localized: "\xC5h nej!"
     m_Metadata:
       m_Items: []
   - m_Id: 7730572012019712
-    m_Localized: (da) Corrupted Save File
+    m_Localized: Beskadiget spilfil
     m_Metadata:
       m_Items: []
   - m_Id: 8038179729825792
-    m_Localized: (da) Rename Save
+    m_Localized: "Omd\xF8b gemt spil"
     m_Metadata:
       m_Items: []
   - m_Id: 8038179754991616
-    m_Localized: (da) Back
+    m_Localized: Tilbage
     m_Metadata:
       m_Items: []
   - m_Id: 8038179754991617
-    m_Localized: (da) Confirm
+    m_Localized: Godkend
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853696
-    m_Localized: (da) Load Save
+    m_Localized: "Indl\xE6s gemt spil"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853697
-    m_Localized: (da) Load this save file?
+    m_Localized: "Indl\xE6s det her gemte spil?"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853698
-    m_Localized: (da) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853699
-    m_Localized: (da) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853700
-    m_Localized: (da) Delete Save
+    m_Localized: Slet gemt spil
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853701
-    m_Localized: (da) Are you REALLY SURE you want to delete this save FOREVER?
+    m_Localized: "Er du HELT SIKKER p\xE5 at du vil slette det her gemte spil FOR
+      EVIGT?"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853702
-    m_Localized: (da) Yes! :')
+    m_Localized: Jaer! :')
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853703
-    m_Localized: (da) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853704
-    m_Localized: (da) Restore From Backup
+    m_Localized: Gendan fra backup
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853705
-    m_Localized: '(da) Overwrite this save file with the latest backup?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Overskriv det her gemte spil med den seneste backup?\n\nDet kan
+      ikke g\xF8res om!"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853706
-    m_Localized: (da) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853707
-    m_Localized: (da) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853708
-    m_Localized: (da) Regions
+    m_Localized: Regioner
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853709
-    m_Localized: (da) Back
+    m_Localized: Tilbage
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853710
-    m_Localized: (da) Pick Best Region
+    m_Localized: "V\xE6lg bedste region"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853711
-    m_Localized: (da) Asia
+    m_Localized: Asien
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853712
-    m_Localized: (da) Australia
+    m_Localized: Australien
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853713
-    m_Localized: (da) Canada East
+    m_Localized: "\xD8stcanada"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853714
-    m_Localized: (da) Chinese Mainland
+    m_Localized: Kinas fastland
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853715
-    m_Localized: (da) Europe
+    m_Localized: Europa
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853716
-    m_Localized: (da) Hong Kong
+    m_Localized: Hong Kong
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853717
-    m_Localized: (da) India
+    m_Localized: Indien
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853718
-    m_Localized: (da) Japan
+    m_Localized: Japan
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853719
-    m_Localized: (da) South Africa
+    m_Localized: Sydafrika
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853720
-    m_Localized: (da) South America
+    m_Localized: Sydamerika
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853721
-    m_Localized: (da) South Korea
+    m_Localized: Sydkorea
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853722
-    m_Localized: (da) Turkey
+    m_Localized: Tyrkiet
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853723
-    m_Localized: (da) United Arab Emirates
+    m_Localized: Forenede Arabiske Emirater
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853724
-    m_Localized: (da) USA East
+    m_Localized: "Amerikas Forenede Staters \xF8stlige del"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853725
-    m_Localized: (da) USA West
+    m_Localized: Amerikas Forenede Staters vestlige del
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853726
-    m_Localized: (da) USA South Central
+    m_Localized: Amerikas Forenede Staters sydlige centraldel
     m_Metadata:
       m_Items: []
   - m_Id: 10581343564980224
-    m_Localized: (da) Settings
+    m_Localized: Indstillinger
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534656
-    m_Localized: (da) Gameplay
+    m_Localized: Spiloplevelse
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534657
-    m_Localized: (da) Graphics
+    m_Localized: Grafik
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534658
-    m_Localized: (da) Audio
+    m_Localized: Lyd
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534659
-    m_Localized: (da) Controls
+    m_Localized: Styring
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534660
-    m_Localized: (da) Language
+    m_Localized: Sprog
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534661
-    m_Localized: (da) Back
+    m_Localized: Tilbage
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534662
-    m_Localized: (da) On
+    m_Localized: Til
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534663
-    m_Localized: (da) Off
+    m_Localized: Fra
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534664
-    m_Localized: (da) Toggle
+    m_Localized: Skift
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534665
-    m_Localized: (da) Hold
+    m_Localized: Hold nede
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534674
-    m_Localized: (da) Gameplay
+    m_Localized: Spiloplevelse
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534675
-    m_Localized: (da) Reset to Default Settings
+    m_Localized: Nulstil til standardindstillinger
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534676
-    m_Localized: (da) Tips
+    m_Localized: Tips
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534677
-    m_Localized: (da) Player Names
+    m_Localized: Spillernavne
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534678
-    m_Localized: (da) Photosensitivity
+    m_Localized: Fotosensitivitet
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534679
-    m_Localized: '(da) Arachnophobia '
+    m_Localized: Edderkoppefobi
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534680
-    m_Localized: (da) Aim Sensitivity
+    m_Localized: "Sigtef\xF8lsomhed"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534681
-    m_Localized: (da) Camera Smoothing
+    m_Localized: "Kameraj\xE6vnhed"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534682
-    m_Localized: (da) Camera Shake
+    m_Localized: Kamerarystelser
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534683
-    m_Localized: (da) Camera Noise
+    m_Localized: "Kamerast\xF8j"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534684
-    m_Localized: (da) Camera Animation
+    m_Localized: Kameraanimationer
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534685
-    m_Localized: (da) Invert Vertical Aim
+    m_Localized: Omvend lodret sigtning
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534686
-    m_Localized: (da) Item Unequip Auto Hold
+    m_Localized: Hold automatisk fast i udstyr du tager frem
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534687
-    m_Localized: (da) Rich Presence
+    m_Localized: Rich Presence
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534688
-    m_Localized: (da) Cosmetics
+    m_Localized: Udseende
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534689
-    m_Localized: (da) Reset to Default Settings
+    m_Localized: Nulstil til standardindstillinger
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534690
-    m_Localized: (da) Window Mode
+    m_Localized: Vinduestilstand
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534691
-    m_Localized: '(da) VSync '
+    m_Localized: Vsynk
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534692
-    m_Localized: (da) Gamma
+    m_Localized: Gamma
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534693
-    m_Localized: (da) Max FPS
+    m_Localized: Maksimal billedhastighed
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534694
-    m_Localized: (da) Light Distance
+    m_Localized: Lysafstand
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534695
-    m_Localized: (da) Shadow Quality
+    m_Localized: Skyggekvalitet
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534696
-    m_Localized: (da) Shadow Distance
+    m_Localized: Skyggeafstand
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534697
-    m_Localized: (da) Motion Blur
+    m_Localized: "Bev\xE6gelsessl\xF8r"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534698
-    m_Localized: (da) Lens Distortion
+    m_Localized: "Linseforvr\xE6ngning"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534699
-    m_Localized: (da) Bloom
+    m_Localized: "Lysgl\xF8d"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534700
-    m_Localized: (da) Chromatic Aberration
+    m_Localized: Kromatisk aberration
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534701
-    m_Localized: (da) Grain
+    m_Localized: Korn
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534702
-    m_Localized: (da) Glitch Loop
+    m_Localized: Gentagende billedforstyrrelse
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534703
-    m_Localized: (da) Pixelation
+    m_Localized: Pixelering
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534704
-    m_Localized: (da) Audio
+    m_Localized: Lyd
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534705
-    m_Localized: (da) Reset to Default Settings
+    m_Localized: Nulstil til standardindstillinger
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534706
-    m_Localized: (da) Master Volume
+    m_Localized: Hovedlydstyrke
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534707
-    m_Localized: (da) Music Volume
+    m_Localized: Musiklydstyrke
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534709
-    m_Localized: (da) Proximity Voice Volume
+    m_Localized: Spillerstemmelydstyrke
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534711
-    m_Localized: (da) Microphone
+    m_Localized: Mikrofon
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534712
-    m_Localized: (da) Microphone Volume
+    m_Localized: Mikrofonlydstyrke
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534713
-    m_Localized: (da) Push to Talk
+    m_Localized: Tryk for at tale
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534714
-    m_Localized: (da) Controls
+    m_Localized: Styring
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534715
-    m_Localized: (da) Reset to Default Settings
+    m_Localized: Nulstil til standardindstillinger
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534716
-    m_Localized: (da) Movement
+    m_Localized: "Bev\xE6gelse"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534717
-    m_Localized: (da) Move Forward
+    m_Localized: "G\xE5 fremad"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534718
-    m_Localized: (da) Move Left
+    m_Localized: "G\xE5 til venstre"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534719
-    m_Localized: (da) Move Back
+    m_Localized: "G\xE5 bagl\xE6ns"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534720
-    m_Localized: (da) Move Right
+    m_Localized: "G\xE5 til h\xF8jre"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534721
-    m_Localized: (da) Jump
+    m_Localized: Hop
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534722
-    m_Localized: (da) Crouch
+    m_Localized: Duk
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534723
-    m_Localized: (da) Sprint
+    m_Localized: Sprint
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534724
-    m_Localized: (da) Tumble
+    m_Localized: Tuml
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534725
-    m_Localized: (da) Grabbing
+    m_Localized: Haps
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534726
-    m_Localized: (da) Grabbing
+    m_Localized: Haps
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534727
-    m_Localized: (da) Rotate
+    m_Localized: Drej
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534728
-    m_Localized: (da) Push
+    m_Localized: Skub
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534729
-    m_Localized: (da) Pull
+    m_Localized: "Tr\xE6k"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534730
-    m_Localized: (da) Other
+    m_Localized: Andet
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534731
-    m_Localized: (da) Map
+    m_Localized: Kort
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534732
-    m_Localized: (da) Interact
+    m_Localized: Interager
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534733
-    m_Localized: (da) Inventory 1
+    m_Localized: Inventar 1
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534734
-    m_Localized: (da) Inventory 2
+    m_Localized: Inventar 2
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534735
-    m_Localized: (da) Inventory 3
+    m_Localized: Inventar 3
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534736
-    m_Localized: (da) Chat
+    m_Localized: Chat
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534737
-    m_Localized: (da) Confirm
+    m_Localized: Godkend
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534738
-    m_Localized: (da) Back
+    m_Localized: Tilbage
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534739
-    m_Localized: (da) Menu
+    m_Localized: Menu
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534740
-    m_Localized: (da) Spectate Next
+    m_Localized: "Kig p\xE5 n\xE6ste"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534741
-    m_Localized: (da) Spectate Previous
+    m_Localized: "Kig p\xE5 forrige"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534742
-    m_Localized: (da) Push to Talk
+    m_Localized: Tryk for at tale
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534743
-    m_Localized: (da) Toggle Mute
+    m_Localized: Bliv stum
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534744
-    m_Localized: (da) Player Expressions
+    m_Localized: Spillerudtryk
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534751
-    m_Localized: (da) Language
+    m_Localized: Sprog
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534752
-    m_Localized: (da) Presets
+    m_Localized: Looks
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534753
-    m_Localized: (da) Head
+    m_Localized: Hoved
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534754
-    m_Localized: (da) Arms
+    m_Localized: Arme
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534755
-    m_Localized: (da) Body
+    m_Localized: Krop
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534756
-    m_Localized: (da) Legs
+    m_Localized: Ben
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534757
-    m_Localized: (da) Confirm
+    m_Localized: Godkend
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534758
-    m_Localized: (da) Select Color
+    m_Localized: "V\xE6lg farve"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534759
-    m_Localized: (da) Confirm
+    m_Localized: Godkend
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534760
-    m_Localized: (da) Delete
+    m_Localized: Slet
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534761
-    m_Localized: (da) Hat
+    m_Localized: Hat
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534762
-    m_Localized: (da) Armwear Right
+    m_Localized: "H\xF8jre \xE6rme"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534763
-    m_Localized: (da) Armwear Left
+    m_Localized: "Venstre \xE6rme"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534764
-    m_Localized: (da) Legwear Right
+    m_Localized: "H\xF8jre bukseben"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534765
-    m_Localized: (da) Legwear Left
+    m_Localized: Venstre bukseben
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534766
-    m_Localized: (da) Head Top
+    m_Localized: Toppen af hovedet
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534767
-    m_Localized: (da) Head Bottom
+    m_Localized: Bunden af hovedet
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534768
-    m_Localized: (da) Body Top
+    m_Localized: Toppen af kroppen
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534769
-    m_Localized: (da) Body Bottom
+    m_Localized: Bunden af kroppen
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534770
-    m_Localized: (da) Arm Right
+    m_Localized: "H\xF8jre arm"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534771
-    m_Localized: (da) Arm Left
+    m_Localized: Venstre arm
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534772
-    m_Localized: (da) Leg Right
+    m_Localized: "H\xF8jre ben"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534773
-    m_Localized: (da) Leg Left
+    m_Localized: Venstre ben
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534774
-    m_Localized: (da) Grabber
+    m_Localized: Griberen
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534775
-    m_Localized: (da) Eye Lid Right
+    m_Localized: "H\xF8jre \xF8jenl\xE5g"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728960
-    m_Localized: (da) Eye Lid Left
+    m_Localized: "Venstre \xF8jenl\xE5g"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728961
-    m_Localized: (da) Body Top Overlay
+    m_Localized: "M\xF8nster p\xE5 toppen af kroppen"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728962
-    m_Localized: (da) Ears
+    m_Localized: "\xD8re"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728963
-    m_Localized: (da) Eyewear
+    m_Localized: "\xD8jenudstyr"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728965
-    m_Localized: (da) Bodywear Top
+    m_Localized: "\xD8vre kropsd\xE6kning"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728966
-    m_Localized: (da) Bodywear Bottom
+    m_Localized: "Nedre kropsd\xE6kning"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728968
-    m_Localized: (da) Body Bottom Overlay
+    m_Localized: "M\xF8nster p\xE5 bunden af kroppen"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728969
-    m_Localized: (da) Head Top Overlay
+    m_Localized: "M\xF8nster p\xE5 toppen af hovedet"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728970
-    m_Localized: (da) Head Bottom Overlay
+    m_Localized: "M\xF8nster p\xE5 bunden af hovedet"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728971
-    m_Localized: (da) Delete Preset
+    m_Localized: Slet look
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728972
-    m_Localized: (da) Are you REALLY SURE you want to delete this preset FOREVER?
+    m_Localized: "Er du HELT SIKKER p\xE5 at du vil slette det her look FOR EVIGT?"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728973
-    m_Localized: (da) Yes! :')
+    m_Localized: Jaer :')
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728974
-    m_Localized: (da) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 10625145570844672
-    m_Localized: (da) Angry
+    m_Localized: Sur
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593408
-    m_Localized: (da) Sad
+    m_Localized: Ked af det
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593409
-    m_Localized: (da) Suspicious
+    m_Localized: "Mist\xE6nksom"
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593410
-    m_Localized: (da) Eyes Closed
+    m_Localized: "Lukkede \xF8jne"
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593411
-    m_Localized: (da) Scared
+    m_Localized: Bange
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593412
-    m_Localized: (da) Happy
+    m_Localized: Glad
     m_Metadata:
       m_Items: []
   - m_Id: 10892493724835840
-    m_Localized: (da) Change Color
+    m_Localized: Skift farve
     m_Metadata:
       m_Items: []
   - m_Id: 10892493724835841
-    m_Localized: '(da) This will replace the colors on all body parts and cosmetics.
-
-
-      This
-      is irreversible!'
+    m_Localized: "Det kommer til at erstatte farven p\xE5 alt dit t\xF8j og kropsdele.\n\nDet
+      kan ikke g\xF8res om!"
     m_Metadata:
       m_Items: []
   - m_Id: 10892493724835842
-    m_Localized: (da) Yes! :')
+    m_Localized: Jaer :')
     m_Metadata:
       m_Items: []
   - m_Id: 10892493724835843
-    m_Localized: (da) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 10942035694444544
-    m_Localized: (da) SFX Volume
+    m_Localized: Lydeffektslydstyrke
     m_Metadata:
       m_Items: []
   - m_Id: 10942035694444545
-    m_Localized: (da) Text to Speech Volume
+    m_Localized: Tekst-til-tale-lydstyrke
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938048
-    m_Localized: (da) Off
+    m_Localized: Fra
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938049
-    m_Localized: (da) Very Low
+    m_Localized: Meget lav
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938050
-    m_Localized: (da) Low
+    m_Localized: Lav
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938051
-    m_Localized: (da) Medium
+    m_Localized: Mellem
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938052
-    m_Localized: (da) Default
+    m_Localized: Standard
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938053
-    m_Localized: (da) Off
+    m_Localized: Fra
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938054
-    m_Localized: (da) Minimal
+    m_Localized: Minimal
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938055
-    m_Localized: (da) Full
+    m_Localized: Fuld
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938056
-    m_Localized: (da) Windowed
+    m_Localized: Vindue
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938057
-    m_Localized: (da) Fullscreen
+    m_Localized: "Fuld sk\xE6rm"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938058
-    m_Localized: (da) Unlimited
+    m_Localized: "Ubegr\xE6nset"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938059
-    m_Localized: (da) Very Low
+    m_Localized: Meget lav
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938060
-    m_Localized: (da) Low
+    m_Localized: Lav
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938061
-    m_Localized: (da) Medium
+    m_Localized: Mellem
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938062
-    m_Localized: (da) High
+    m_Localized: "H\xF8j"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938063
-    m_Localized: (da) Very High
+    m_Localized: "Meget h\xF8j"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938064
-    m_Localized: (da) Very Low
+    m_Localized: Meget lav
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938065
-    m_Localized: (da) Low
+    m_Localized: Lav
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938066
-    m_Localized: (da) Medium
+    m_Localized: Mellem
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938067
-    m_Localized: (da) High
+    m_Localized: "H\xF8j"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938068
-    m_Localized: (da) Very High
+    m_Localized: "Meget h\xF8j"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938069
-    m_Localized: (da) Very Low
+    m_Localized: Meget lav
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938070
-    m_Localized: (da) Low
+    m_Localized: Lav
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938071
-    m_Localized: (da) Medium
+    m_Localized: Mellem
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938072
-    m_Localized: (da) High
+    m_Localized: "H\xF8j"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938073
-    m_Localized: (da) Very High
+    m_Localized: "Meget h\xF8j"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938074
-    m_Localized: (da) Small
+    m_Localized: Lille
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938075
-    m_Localized: (da) Medium
+    m_Localized: Mellem
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938076
-    m_Localized: (da) Default
+    m_Localized: Standard
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938077
-    m_Localized: (da) None
+    m_Localized: Ingen
     m_Metadata:
       m_Items: []
   - m_Id: 11624605050462208
-    m_Localized: (da) Reset Gameplay Settings
+    m_Localized: Nulstil spilindstillinger
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822336
-    m_Localized: (da) Reset gameplay settings to default?
+    m_Localized: Nulstil spilindstillinger til standard?
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822337
-    m_Localized: (da) Yes!
+    m_Localized: Jeps!
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822338
-    m_Localized: (da) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822339
-    m_Localized: (da) Graphics
+    m_Localized: Grafik
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822340
-    m_Localized: (da) Reset Graphics Settings
+    m_Localized: Nulstil grafikindstillinger
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822341
-    m_Localized: (da) Reset graphics settings to default?
+    m_Localized: Nulstil grafikindstillinger til standard?
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822342
-    m_Localized: (da) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822343
-    m_Localized: (da) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723968
-    m_Localized: (da) Reset Audio Settings
+    m_Localized: Nulstil lydindstillinger
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723969
-    m_Localized: (da) Reset audio settings to default?
+    m_Localized: Nulstil lydindstillinger til standard?
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723970
-    m_Localized: (da) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723971
-    m_Localized: (da) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723972
-    m_Localized: (da) Reset Controls Settings
+    m_Localized: Nulstil styringsindstillinger
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723973
-    m_Localized: (da) Reset controls settings to default?
+    m_Localized: Nulstil styringsindstillinger til standard?
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723974
-    m_Localized: (da) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723975
-    m_Localized: (da) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 15231403103870976
-    m_Localized: (da) Footwear Right
+    m_Localized: "H\xF8jre fodt\xF8j"
     m_Metadata:
       m_Items: []
   - m_Id: 15231403133231104
-    m_Localized: (da) Footwear Left
+    m_Localized: "Venstre fodt\xF8j"
     m_Metadata:
       m_Items: []
   - m_Id: 15240008624496640
-    m_Localized: (da) Arm Right Overlay
+    m_Localized: "M\xF8nster p\xE5 h\xF8jre arm"
     m_Metadata:
       m_Items: []
   - m_Id: 15240008645468160
-    m_Localized: (da) Arm Left Overlay
+    m_Localized: "M\xF8nster p\xE5 venstre arm"
     m_Metadata:
       m_Items: []
   - m_Id: 15240008645468161
-    m_Localized: (da) Leg Right Overlay
+    m_Localized: "M\xF8nster p\xE5 h\xF8jre ben"
     m_Metadata:
       m_Items: []
   - m_Id: 15240008645468162
-    m_Localized: (da) Leg Left Overlay
+    m_Localized: "M\xF8nster p\xE5 venstre ben"
     m_Metadata:
       m_Items: []
   - m_Id: 15590857783631872
-    m_Localized: (da) Password
+    m_Localized: Kodeord
     m_Metadata:
       m_Items: []
   - m_Id: 15590857808797696
-    m_Localized: (da) Skip
+    m_Localized: Spring over
     m_Metadata:
       m_Items: []
   - m_Id: 15592435403972608
-    m_Localized: (da) Loading
+    m_Localized: "Indl\xE6ser"
     m_Metadata:
       m_Items: []
   - m_Id: 15592435403972609
-    m_Localized: (da) Stuck in loading?
+    m_Localized: "H\xE6nger indl\xE6sningen?"
     m_Metadata:
       m_Items: []
   - m_Id: 15592435403972610
-    m_Localized: (da) Press [menu] to exit to main menu
+    m_Localized: Tryk [menu] for at afslutte til hovedmenuen
     m_Metadata:
       m_Items: []
   - m_Id: 15661116045647872
-    m_Localized: (da) Lobby
+    m_Localized: Lobby
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008000
-    m_Localized: (da) Press [chat] to chat
+    m_Localized: Tryk [chat] for at chatte
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008001
-    m_Localized: (da) Start Game
+    m_Localized: Start spil
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008002
-    m_Localized: (da) Invite
+    m_Localized: "Invit\xE9r"
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008003
-    m_Localized: (da) Settings
+    m_Localized: Indstillinger
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008004
-    m_Localized: (da) Customize
+    m_Localized: Tilpas karakter
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008005
-    m_Localized: (da) Leave
+    m_Localized: Skrid
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008006
-    m_Localized: (da) Start Game
+    m_Localized: Start spil
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008007
-    m_Localized: '(da) Everyone ready?
-
-
-      Once the game is started
-
-      new
-      players cannot join.'
+    m_Localized: "Er alle klar?\n\nN\xE5r spillet k\xF8rer kan nye spillere ikke
+      komme med."
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008008
-    m_Localized: (da) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008009
-    m_Localized: (da) No wait!
+    m_Localized: Nej vent lige!
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008010
-    m_Localized: (da) Leave Lobby
+    m_Localized: Forlad lobby
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008011
-    m_Localized: (da) Are you sure?
+    m_Localized: Er du sikker?
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008012
-    m_Localized: (da) Yes
+    m_Localized: Ja
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008013
-    m_Localized: (da) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296960
-    m_Localized: (da) New Game
+    m_Localized: Nyt spil
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296961
-    m_Localized: (da) Do you want to start a game?
+    m_Localized: Vil du starte et spil?
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296962
-    m_Localized: (da) Yes!
+    m_Localized: Ja!
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296963
-    m_Localized: (da) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 15673645669015552
-    m_Localized: (da) Confirm
+    m_Localized: Godkend
     m_Metadata:
       m_Items: []
   - m_Id: 16030297698066432
-    m_Localized: (da) Player Joining...
+    m_Localized: "Spiller p\xE5 vej..."
     m_Metadata:
       m_Items: []
   - m_Id: 16702161813680128
-    m_Localized: (da) Face Lower
+    m_Localized: Nedre ansigt
     m_Metadata:
       m_Items: []
   - m_Id: 17747241957765120
-    m_Localized: (da) Clear
+    m_Localized: Ryd
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930944
-    m_Localized: '(da) Are you sure you want to unequip all body parts and cosmetics?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Er du sikker p\xE5 at du vil tage alt dit t\xF8j og kropsdele og
+      hall\xF8j af?\n\nDet kan ikke g\xF8res om!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930945
-    m_Localized: (da) Yes! :')
+    m_Localized: Jaer :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930946
-    m_Localized: (da) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930947
-    m_Localized: (da) Clear
+    m_Localized: Ryd
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930948
-    m_Localized: '(da) Are you sure you want to unequip all body parts?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Er du sikker p\xE5 at du vil tage alle dine kropsdele af?\n\nDet
+      kan ikke g\xF8res om!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930949
-    m_Localized: (da) Yes! :')
+    m_Localized: Jaer :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930950
-    m_Localized: (da) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930951
-    m_Localized: (da) Clear
+    m_Localized: Ryd
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930952
-    m_Localized: '(da) Are you sure you want to unequip all cosmetics?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Er du sikker p\xE5 at du vil tage alt dit t\xF8j af?\n\nDet kan
+      ikke g\xF8res om!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930953
-    m_Localized: (da) Yes! :')
+    m_Localized: Jaer :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930954
-    m_Localized: (da) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930955
-    m_Localized: (da) Randomize
+    m_Localized: "Bland tilf\xE6ldigt"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930956
-    m_Localized: '(da) Are you sure you want to randomize all body parts and cosmetics?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Er du sikker p\xE5 at du tilf\xE6ldigt vil blande alt dit t\xF8j
+      og kropsdele?\n\nDet kan ikke g\xF8res om!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930957
-    m_Localized: (da) Yes! :')
+    m_Localized: Jaer :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930958
-    m_Localized: (da) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930959
-    m_Localized: (da) Randomize
+    m_Localized: "Bland tilf\xE6ldigt"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930960
-    m_Localized: '(da) Are you sure you want to randomize all body parts?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Er du sikker p\xE5 at du tilf\xE6ldigt vil blande alle kropsdele?\n\nDet
+      kan ikke g\xF8res om!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930961
-    m_Localized: (da) Yes! :')
+    m_Localized: Jaer :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930962
-    m_Localized: (da) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930963
-    m_Localized: (da) Randomize
+    m_Localized: "Bland tilf\xE6ldigt"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930964
-    m_Localized: '(da) Are you sure you want to randomize all cosmetics?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Er du sikker p\xE5 at du tilf\xE6ldigt vil blande alt t\xF8j?\n\nDet
+      kan ikke g\xF8res om!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930965
-    m_Localized: (da) Yes! :')
+    m_Localized: Jaer :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930966
-    m_Localized: (da) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930967
-    m_Localized: (da) Change Color
+    m_Localized: Skift farve
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930968
-    m_Localized: '(da) This will replace the colors on all body parts.
-
-
-      This
-      is irreversible!'
+    m_Localized: "Det kommer til at erstatte farven p\xE5 alle dine kropsdele.\n\nDet
+      kan ikke g\xF8res om!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930969
-    m_Localized: (da) Yes! :')
+    m_Localized: Jaer :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930970
-    m_Localized: (da) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930971
-    m_Localized: (da) Change Color
+    m_Localized: Skift farve
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930972
-    m_Localized: '(da) This will replace the colors on all cosmetics.
-
-
-      This
-      is irreversible!'
+    m_Localized: "Det kommer til at erstatte farven p\xE5 alt dit t\xF8j.\n\nDet
+      kan ikke g\xF8res om!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930973
-    m_Localized: (da) Yes! :')
+    m_Localized: Jaer :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930974
-    m_Localized: (da) No...
+    m_Localized: Nej...
     m_Metadata:
       m_Items: []
   - m_Id: 21470840070594560
-    m_Localized: (da) Face Upper
+    m_Localized: "\xD8vre ansigt"
     m_Metadata:
       m_Items: []
   - m_Id: 21470840091566080
-    m_Localized: (da) Face Middle
+    m_Localized: Midt ansigt
     m_Metadata:
       m_Items: []
   - m_Id: 21739271462313984
-    m_Localized: (da) Customize
+    m_Localized: Tilpas karakter
     m_Metadata:
       m_Items: []
   - m_Id: 21825235048194048
-    m_Localized: (da) Menu
+    m_Localized: Menu
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554176
-    m_Localized: (da) Continue
+    m_Localized: "Forts\xE6t"
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554177
-    m_Localized: (da) Customize
+    m_Localized: Tilpas karakter
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554178
-    m_Localized: (da) Settings
+    m_Localized: Indstillinger
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554179
-    m_Localized: (da) Self Destruct
+    m_Localized: Selvdestruktion
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554180
-    m_Localized: (da) Active Moons
+    m_Localized: "Aktive m\xE5ner"
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554181
-    m_Localized: (da) Main Menu
+    m_Localized: Hovedmenu
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554182
-    m_Localized: (da) Quit Game
+    m_Localized: Afslut spillet
     m_Metadata:
       m_Items: []
   - m_Id: 21828124860735491
-    m_Localized: (da) No
+    m_Localized: Nej
     m_Metadata:
       m_Items: []
   - m_Id: 22911118074785792
-    m_Localized: (da) Active Moons
+    m_Localized: "Aktive m\xE5ner"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757312
-    m_Localized: (da) Back
+    m_Localized: Tilbage
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757313
-    m_Localized: (da) Crescent Moon
+    m_Localized: "M\xE5nesegl"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757314
-    m_Localized: (da) The truck healer now restores 35 health.
+    m_Localized: Livgiveren i flyttebilen giver nu 35 liv.
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757315
-    m_Localized: (da) Monsters are now harder to knock down with valuables.
+    m_Localized: "Monstre er nu sv\xE6rere at sl\xE5 omkuld med v\xE6rdigenstande."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757316
-    m_Localized: (da) Half Moon
+    m_Localized: "Halvm\xE5ne"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757317
-    m_Localized: (da) Monsters now overcharge your grabber.
+    m_Localized: "Monstre overbelaster nu din hapsestr\xE5le."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757318
-    m_Localized: (da) Monsters take heavy damage from pits, but can survive.
+    m_Localized: Monstre tager stor skade fra huller, men kan overleve.
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757319
-    m_Localized: (da) The truck healer now restores 25 health.
+    m_Localized: Livgiveren i flyttebilen giver nu 25 liv.
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757320
-    m_Localized: (da) Full Moon
+    m_Localized: "Fuldm\xE5ne"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757321
-    m_Localized: (da) Monsters now overcharge your grabber by a total increase of
-      25%
+    m_Localized: "Monstre overbelaster nu din hapsestr\xE5le med en samlet for\xF8gelse
+      p\xE5 25%."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757322
-    m_Localized: (da) Monsters now take less damage from pits.
+    m_Localized: Monstre tager nu mindre skade fra huller.
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757323
-    m_Localized: (da) Super Moon
+    m_Localized: "Superm\xE5ne"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757324
-    m_Localized: (da) Enemy Orbs now explode when destroyed.
+    m_Localized: "Fjendekugler eksploderer nu n\xE5r de g\xE5r i stykker."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757325
-    m_Localized: (da) Monsters now overcharge your grabber by a total increase of
-      50%
+    m_Localized: "Monstre overbelaster nu din hapsestr\xE5le med en samlet for\xF8gelse
+      p\xE5 50%."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757326
-    m_Localized: (da) Monsters now take even less damage from pits.
+    m_Localized: Monstre tager nu endu mindre skade fra huller.
     m_Metadata:
       m_Items: []
   - m_Id: 23197572767145984
-    m_Localized: (da) {ping} ms
+    m_Localized: '{ping} ms'
     m_Metadata:
       m_Items:
       - rid: 7803763168112017414
   - m_Id: 23207164712574976
-    m_Localized: (da) {ping} ms
+    m_Localized: '{ping} ms'
     m_Metadata:
       m_Items:
       - rid: 7803763168112017414
   - m_Id: 26475650059841536
-    m_Localized: (da) Photosensivity Warning
+    m_Localized: Fotosensitivitetsadvarsel
     m_Metadata:
       m_Items: []
   - m_Id: 26475650085007360
-    m_Localized: (da) This game contains flashing lights.
+    m_Localized: Spillet indeholder blinkende lys.
     m_Metadata:
       m_Items: []
   - m_Id: 26475650085007361
-    m_Localized: (da) Some individuals may experience epileptic seizures when exposed
-      to light patterns and flashing lights. If you feel any discomfort when playing,
-      immediately stop playing and consult a doctor.
+    m_Localized: "Visse personer kan opleve epileptiske anfald, n\xE5r de uds\xE6ttes
+      for lysm\xF8nstre og blinkende lys. Stop straks med at spille hvis du f\xF8ler
+      ubehag, og kontakt en l\xE6ge."
     m_Metadata:
       m_Items: []
   - m_Id: 30857599407521792
-    m_Localized: (da) Service Station
+    m_Localized: Servicestationen
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687616
-    m_Localized: (da) Disposal Arena
+    m_Localized: "Kv\xE6rnearenaen"
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687617
-    m_Localized: (da) McJannek Station
+    m_Localized: McJannek stationen
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687618
-    m_Localized: (da) Headman Manor
+    m_Localized: "Hovedmandens herreg\xE5rd"
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687619
-    m_Localized: (da) Museum of Human Art
+    m_Localized: Museet for menneskets kunst
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687620
-    m_Localized: (da) Swiftbroom Academy
+    m_Localized: "Vimsekost h\xF8jskole"
     m_Metadata:
       m_Items: []
   - m_Id: 30862829494894592
-    m_Localized: (da) Shop
+    m_Localized: "K\xF8bmanden"
     m_Metadata:
       m_Items: []
   - m_Id: 30862829524254720
-    m_Localized: (da) Level {number}
+    m_Localized: Niveau {number}
     m_Metadata:
       m_Items:
       - rid: 7803763168112017414
   - m_Id: 30862829524254721
-    m_Localized: (da) Game Over
+    m_Localized: Spillet er ude
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33065608682569728
+    m_Localized: Du gjorde det helt selv!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954568257536
+    m_Localized: "Gr\xE6nsen for gemte spil er n\xE5et"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954593423360
+    m_Localized: "Du kan kun have {limit} gemte spil ad gangen. Du er n\xF8dt til
+      at slette nogle gemte spil for at lave plads."
+    m_Metadata:
+      m_Items:
+      - rid: 7803763168112017414
+  - m_Id: 33437954593423361
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689910808576
+    m_Localized: Sparket ud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168704
+    m_Localized: "Du er blevet sparket ud af v\xE6rten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168705
+    m_Localized: Okay, nederen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168706
+    m_Localized: Frakoblet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390400
+    m_Localized: "\xC5rsag:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168708
+    m_Localized: "Indl\xE6sningen h\xE6nger"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168709
+    m_Localized: "V\xE6rten er frakoblet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390401
+    m_Localized: Du er banlyst fra den her lobby.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168710
+    m_Localized: Okay, nederen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168711
+    m_Localized: Forkert spilversion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168712
+    m_Localized: 'Spillobbyen bruger version:
+
+      {version}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168713
+    m_Localized: Okay, nederen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168714
+    m_Localized: Lobby lukket
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168715
+    m_Localized: Lobbyen er blevet lukket.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168716
+    m_Localized: Okay, nederen
     m_Metadata:
       m_Items: []
   references:
@@ -1545,3 +1586,4 @@ MonoBehaviour:
         - id: 23197572767145984
         - id: 23207164712574976
         - id: 30862829524254720
+        - id: 33437954593423360

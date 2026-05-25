@@ -43,11 +43,24 @@ MonoBehaviour:
     m_Key: EXTRACTION.COMPLETED
     m_Metadata:
       m_Items: []
-  - m_Id: 76998429093891
-    m_Key: SCREEN.TAXMAN
+  - m_Id: 33712840729591808
+    m_Key: TRUCK_SCREEN.TAXMAN
     m_Metadata:
       m_Items:
-      - rid: 3967077819507277824
+      - rid: 3989850923563483138
+  - m_Id: 33712840754757632
+    m_Key: TRUCK_SCREEN.DESTROYING_SLACKERS
+    m_Metadata:
+      m_Items:
+      - rid: 3989850923563483139
+  - m_Id: 33712840754757633
+    m_Key: TRUCK_SCREEN.STARTING_ENGINE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712840754757634
+    m_Key: TRUCK_SCREEN.HITTING_THE_ROAD
+    m_Metadata:
+      m_Items: []
   - m_Id: 21794657889497088
     m_Key: COSMETIC_SHOP_MACHINE.NEW
     m_Metadata:
@@ -99,8 +112,13 @@ MonoBehaviour:
       type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_CommentText: In-game text displayed when an extraction is active.
-    - rid: 3967077819507277824
+    - rid: 3989850923563483138
       type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
       data:
         m_CommentText: In-game text display on the truck's screen. Represents the
           Taxman's username in the simulated chat.
+    - rid: 3989850923563483139
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: In-game text display on the truck's screen when leaving the
+          level before all players are back in the truck.

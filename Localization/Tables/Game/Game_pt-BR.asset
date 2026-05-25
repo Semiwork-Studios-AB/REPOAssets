@@ -19,47 +19,59 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 76998412316672
-    m_Localized: (pt-BR) Tax Return
+    m_Localized: Impostos
     m_Metadata:
       m_Items: []
   - m_Id: 76998429093888
-    m_Localized: (pt-BR) Locked
+    m_Localized: Por desbloquear
     m_Metadata:
       m_Items: []
   - m_Id: 76998429093889
-    m_Localized: (pt-BR) Ready
+    m_Localized: Pronto
     m_Metadata:
       m_Items: []
   - m_Id: 76998429093890
-    m_Localized: (pt-BR) Active
+    m_Localized: Ativo
     m_Metadata:
       m_Items: []
   - m_Id: 1545717751721984
-    m_Localized: (pt-BR) Extracting
+    m_Localized: Extraindo
     m_Metadata:
       m_Items: []
   - m_Id: 1545717772693504
-    m_Localized: (pt-BR) Completed
-    m_Metadata:
-      m_Items: []
-  - m_Id: 76998429093891
-    m_Localized: (pt-BR) Taxman
+    m_Localized: "Conclu\xEDdo"
     m_Metadata:
       m_Items: []
   - m_Id: 21794657889497088
-    m_Localized: (pt-BR) New
+    m_Localized: Novo
     m_Metadata:
       m_Items: []
   - m_Id: 25878060419940352
-    m_Localized: (pt-BR) Too big
+    m_Localized: Grande demais
     m_Metadata:
       m_Items: []
   - m_Id: 25878060449300480
-    m_Localized: (pt-BR) Too full
+    m_Localized: Cheio demais
     m_Metadata:
       m_Items: []
   - m_Id: 25878060449300481
-    m_Localized: (pt-BR) Extract
+    m_Localized: Extrair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712840729591808
+    m_Localized: Taxas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712840754757632
+    m_Localized: Acabamdo com os folgados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712840754757633
+    m_Localized: Dando partida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712840754757634
+    m_Localized: Pegando a estrada
     m_Metadata:
       m_Items: []
   references:

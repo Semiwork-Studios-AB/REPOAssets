@@ -20,35 +20,35 @@ MonoBehaviour:
     - rid: 7803763168112017411
   m_TableData:
   - m_Id: 62270994624512
-    m_Localized: (pt-PT) Private Game
+    m_Localized: Sala privada
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790336
-    m_Localized: (pt-PT) Public Game
+    m_Localized: Sala publica
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790337
-    m_Localized: (pt-PT) Join Friend
+    m_Localized: Juntar-se a um amigo
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790338
-    m_Localized: (pt-PT) Singleplayer
+    m_Localized: Um jogador
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790339
-    m_Localized: (pt-PT) Tutorial
+    m_Localized: Tutorial
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790340
-    m_Localized: (pt-PT) Settings
+    m_Localized: "Defini\xE7\xF5es"
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790341
-    m_Localized: (pt-PT) Quit Game
+    m_Localized: Sair do jogo
     m_Metadata:
       m_Items: []
   - m_Id: 754728038916096
-    m_Localized: (pt-PT) Host a Game
+    m_Localized: Criar jogo
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887616
@@ -62,15 +62,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887617
-    m_Localized: (pt-PT) Haha yes!  :)
+    m_Localized: 'Haha sim! :) '
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887618
-    m_Localized: (pt-PT) Not me...  :'(
+    m_Localized: "Eu n\xE3o..  :'("
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887619
-    m_Localized: (pt-PT) Warning
+    m_Localized: Alerta
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887620
@@ -79,108 +79,107 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887621
-    m_Localized: (pt-PT) I understand
+    m_Localized: Entendido
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887622
-    m_Localized: (pt-PT) No thanks :(
+    m_Localized: "N\xE3o, obrigado :("
     m_Metadata:
       m_Items: []
   - m_Id: 4093170002669568
-    m_Localized: (pt-PT) Quit Game
+    m_Localized: Sair do jogo
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029696
-    m_Localized: (pt-PT) Close the entire application?
+    m_Localized: "Fechar toda a aplica\xE7\xE3o?"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029697
-    m_Localized: (pt-PT) Yes
+    m_Localized: Sim
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029698
-    m_Localized: (pt-PT) No
+    m_Localized: "N\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029699
-    m_Localized: (pt-PT) Self Destruction
+    m_Localized: "Autodestrui\xE7\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029700
-    m_Localized: (pt-PT) Is that really so?
+    m_Localized: Tens a certeza?
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029701
-    m_Localized: (pt-PT) It's over for me
+    m_Localized: Adeus, mundo cruel
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029702
-    m_Localized: (pt-PT) No
+    m_Localized: "N\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 21828124860735490
-    m_Localized: (pt-PT) Yes
+    m_Localized: Sim
     m_Metadata:
       m_Items: []
   - m_Id: 21828124860735489
-    m_Localized: (pt-PT) Exit to main menu?
+    m_Localized: Sair para o menu principal?
     m_Metadata:
       m_Items: []
   - m_Id: 21828124860735488
-    m_Localized: (pt-PT) Main Menu
+    m_Localized: Menu Principal
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029706
-    m_Localized: (pt-PT) < Go Back
+    m_Localized: < Voltar
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029707
-    m_Localized: (pt-PT) New Game
+    m_Localized: Novo jogo
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029708
-    m_Localized: (pt-PT) Singleplayer Mode
+    m_Localized: Modo a solo
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029709
-    m_Localized: (pt-PT) Multiplayer Mode
+    m_Localized: Modo multiplayer
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029710
-    m_Localized: (pt-PT) Saved Games
+    m_Localized: Jogos salvos
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029711
-    m_Localized: (pt-PT) Saved Games
+    m_Localized: Jogos salvos
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029712
-    m_Localized: (pt-PT) Here's all the fun you've had and the opportunity to pick
-      up right where you left off.
+    m_Localized: "O teu progresso est\xE1 \xE0 tua espera. \xC9 s\xF3 voltar ao jogo."
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029713
-    m_Localized: (pt-PT) Delete Save
+    m_Localized: Apagar jogo salvo
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029714
-    m_Localized: (pt-PT) Load Save
+    m_Localized: Carregar jogo salvo
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029715
-    m_Localized: (pt-PT) Use Backup
+    m_Localized: Usar backup
     m_Metadata:
       m_Items: []
   - m_Id: 10257803930230784
-    m_Localized: (pt-PT) (Click to Rename)
+    m_Localized: Clica para mudar o nome
     m_Metadata:
       m_Items: []
   - m_Id: 7715786482245632
-    m_Localized: (pt-PT) Corrupted Save File
+    m_Localized: "Ficheiro de grava\xE7\xE3o corrompido"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029717
-    m_Localized: '(pt-PT) Current Moon:'
+    m_Localized: 'Lua Atual:'
     m_Metadata:
       m_Items: []
   - m_Id: 5450952597549056
@@ -188,11 +187,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5450952597549057
-    m_Localized: (pt-PT) Sorry!
+    m_Localized: Desculpa!
     m_Metadata:
       m_Items: []
   - m_Id: 5450952597549058
-    m_Localized: "(pt-PT) Press \"Delete Save\" to delete \nentire saves folder."
+    m_Localized: "Carrege \"Apagar jogo salvo\" para apagar toda a pasta de grava\xE7\xF5es."
     m_Metadata:
       m_Items: []
   - m_Id: 5801515992834048
@@ -217,7 +216,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8038179754991617
-    m_Localized: (pt-PT) Confirm
+    m_Localized: Confirmar
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853696
@@ -229,11 +228,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853698
-    m_Localized: (pt-PT) Yes!
+    m_Localized: Sim!
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853699
-    m_Localized: (pt-PT) No
+    m_Localized: "N\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853700
@@ -245,11 +244,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853702
-    m_Localized: (pt-PT) Yes! :')
+    m_Localized: Sim!  :')
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853703
-    m_Localized: (pt-PT) No...
+    m_Localized: "N\xE3o..."
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853704
@@ -265,87 +264,87 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853706
-    m_Localized: (pt-PT) Yes!
+    m_Localized: Sim!
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853707
-    m_Localized: (pt-PT) No
+    m_Localized: "N\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853708
-    m_Localized: (pt-PT) Regions
+    m_Localized: "Regi\xF5es"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853709
-    m_Localized: (pt-PT) Back
+    m_Localized: Voltar
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853710
-    m_Localized: (pt-PT) Pick Best Region
+    m_Localized: "Escolher a melhor regi\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853711
-    m_Localized: (pt-PT) Asia
+    m_Localized: "\xC1sia"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853712
-    m_Localized: (pt-PT) Australia
+    m_Localized: "Austr\xE1lia"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853713
-    m_Localized: (pt-PT) Canada East
+    m_Localized: "Canad\xE1 Leste"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853714
-    m_Localized: (pt-PT) Chinese Mainland
+    m_Localized: China Continental
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853715
-    m_Localized: (pt-PT) Europe
+    m_Localized: Europa
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853716
-    m_Localized: (pt-PT) Hong Kong
+    m_Localized: Hong Kong
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853717
-    m_Localized: (pt-PT) India
+    m_Localized: "\xCDndia"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853718
-    m_Localized: (pt-PT) Japan
+    m_Localized: "Jap\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853719
-    m_Localized: (pt-PT) South Africa
+    m_Localized: "\xC1frica do Sul"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853720
-    m_Localized: (pt-PT) South America
+    m_Localized: "Am\xE9rica do Sul"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853721
-    m_Localized: (pt-PT) South Korea
+    m_Localized: Coreia do Sul
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853722
-    m_Localized: (pt-PT) Turkey
+    m_Localized: Turquia
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853723
-    m_Localized: (pt-PT) United Arab Emirates
+    m_Localized: "Emirados \xC1rabes Unidos"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853724
-    m_Localized: (pt-PT) USA East
+    m_Localized: EUA Leste
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853725
-    m_Localized: (pt-PT) USA West
+    m_Localized: EUA Oeste
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853726
-    m_Localized: (pt-PT) USA South Central
+    m_Localized: EUA Centro-Sul
     m_Metadata:
       m_Items: []
   - m_Id: 10581343564980224
@@ -413,7 +412,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534679
-    m_Localized: '(pt-PT) Arachnophobia '
+    m_Localized: (pt-PT) Arachnophobia
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534680
@@ -461,7 +460,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534691
-    m_Localized: '(pt-PT) VSync '
+    m_Localized: (pt-PT) VSync
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534692
@@ -1147,7 +1146,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008008
-    m_Localized: (pt-PT) Yes!
+    m_Localized: Sim!
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008009
@@ -1155,15 +1154,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008010
-    m_Localized: (pt-PT) Leave Lobby
+    m_Localized: Sair do Lobby
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008011
-    m_Localized: (pt-PT) Are you sure?
+    m_Localized: Tens a certeza?
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008012
-    m_Localized: (pt-PT) Yes
+    m_Localized: 'Sim '
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008013
@@ -1171,7 +1170,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296960
-    m_Localized: (pt-PT) New Game
+    m_Localized: Novo jogo
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296961
@@ -1179,11 +1178,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296962
-    m_Localized: (pt-PT) Yes!
+    m_Localized: Sim!
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296963
-    m_Localized: (pt-PT) No
+    m_Localized: "N\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 15673645669015552
@@ -1367,55 +1366,55 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 21739271462313984
-    m_Localized: (pt-PT) Customize
+    m_Localized: Personalizar
     m_Metadata:
       m_Items: []
   - m_Id: 21825235048194048
-    m_Localized: (pt-PT) Menu
+    m_Localized: Menu
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554176
-    m_Localized: (pt-PT) Continue
+    m_Localized: Continuar
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554177
-    m_Localized: (pt-PT) Customize
+    m_Localized: Personalizar
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554178
-    m_Localized: (pt-PT) Settings
+    m_Localized: "Defini\xE7\xF5es"
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554179
-    m_Localized: (pt-PT) Self Destruct
+    m_Localized: "Autodestrui\xE7\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554180
-    m_Localized: (pt-PT) Active Moons
+    m_Localized: Luas ativas
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554181
-    m_Localized: (pt-PT) Main Menu
+    m_Localized: Menu principal
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554182
-    m_Localized: (pt-PT) Quit Game
+    m_Localized: Sair do jogo
     m_Metadata:
       m_Items: []
   - m_Id: 21828124860735491
-    m_Localized: (pt-PT) No
+    m_Localized: "N\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118074785792
-    m_Localized: (pt-PT) Active Moons
+    m_Localized: Luas ativas
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757312
-    m_Localized: (pt-PT) Back
+    m_Localized: Voltar
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757313
-    m_Localized: (pt-PT) Crescent Moon
+    m_Localized: Lua Crescente
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757314
@@ -1423,11 +1422,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757315
-    m_Localized: (pt-PT) Monsters are now harder to knock down with valuables.
+    m_Localized: "Agora \xE9 mais dificil derrubar monstros com objetos valiosos"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757316
-    m_Localized: (pt-PT) Half Moon
+    m_Localized: Meia Lua
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757317
@@ -1443,7 +1442,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757320
-    m_Localized: (pt-PT) Full Moon
+    m_Localized: Lua Cheia
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757321
@@ -1456,11 +1455,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757323
-    m_Localized: (pt-PT) Super Moon
+    m_Localized: Super Lua
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757324
-    m_Localized: (pt-PT) Enemy Orbs now explode when destroyed.
+    m_Localized: "Orbes inimigos agora explodem ao serem destru\xEDdos."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757325
@@ -1497,27 +1496,27 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 30857599407521792
-    m_Localized: (pt-PT) Service Station
+    m_Localized: "Esta\xE7\xE3o de servi\xE7o"
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687616
-    m_Localized: (pt-PT) Disposal Arena
+    m_Localized: Arena de descarte
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687617
-    m_Localized: (pt-PT) McJannek Station
+    m_Localized: "Esta\xE7\xE3o McJannek"
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687618
-    m_Localized: (pt-PT) Headman Manor
+    m_Localized: "Mans\xE3o do Cabe\xE7udo"
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687619
-    m_Localized: (pt-PT) Museum of Human Art
+    m_Localized: Museu da Arte Humana
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687620
-    m_Localized: (pt-PT) Swiftbroom Academy
+    m_Localized: Academia Swiftbroom
     m_Metadata:
       m_Items: []
   - m_Id: 30862829494894592
@@ -1533,6 +1532,56 @@ MonoBehaviour:
     m_Localized: (pt-PT) Game Over
     m_Metadata:
       m_Items: []
+  - m_Id: 33065608682569728
+    m_Localized: (pt-PT) You did it all alone!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954568257536
+    m_Localized: (pt-PT) Save File Limit Reached
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954593423360
+    m_Localized: (pt-PT) You can only have {limit} save files at a time. Please delete
+      some save files to make room for new ones.
+    m_Metadata:
+      m_Items:
+      - rid: 7803763168112017411
+  - m_Id: 33437954593423361
+    m_Localized: (pt-PT) OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689910808576
+    m_Localized: Kickado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168704
+    m_Localized: "O host p\xF4s-te na rua"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168705
+    m_Localized: "\xC9 pr\xF3 lado que durmo melhor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168706
+    m_Localized: Desconectado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168710
+    m_Localized: Ok, bolas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168714
+    m_Localized: Lobby fechado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168716
+    m_Localized: Ok, bolas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390400
+    m_Localized: 'Causa:'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
@@ -1545,3 +1594,4 @@ MonoBehaviour:
         - id: 23197572767145984
         - id: 23207164712574976
         - id: 30862829524254720
+        - id: 33437954593423360

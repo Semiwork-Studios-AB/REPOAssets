@@ -20,289 +20,299 @@ MonoBehaviour:
     - rid: 6163163424511229958
   m_TableData:
   - m_Id: 2984229311066112
-    m_Localized: (fi) Extraction point activated
+    m_Localized: Toimituspiste aktivoitu
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231936
-    m_Localized: (fi) Extraction point completed
+    m_Localized: Toimituspiste valmis
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231937
-    m_Localized: (fi) Fill the extraction point with valuables
+    m_Localized: "T\xE4yt\xE4 toimituspiste arvoesineill\xE4"
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231938
-    m_Localized: (fi) Avoid the grenades!
+    m_Localized: "V\xE4lttele kranaatteja!"
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231939
-    m_Localized: (fi) Find the next extraction point
+    m_Localized: Etsi seuraava toimituspiste
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231940
-    m_Localized: (fi) Get back to the truck!
+    m_Localized: Palaa rekkaan!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442524647424
-    m_Localized: (fi) Good job!
+    m_Localized: Hyvin tehty!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813248
-    m_Localized: (fi) Use [move] to move.
+    m_Localized: Paina [move] liikkuaksesi
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813249
-    m_Localized: (fi) Move to fill the progress bar!
+    m_Localized: "Liiku t\xE4ytt\xE4\xE4ksesi edistymispalkin!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813250
-    m_Localized: (fi) Use [move] on your keyboard until the progress bar is filled!
+    m_Localized: "Paina [move] n\xE4pp\xE4imist\xF6ss\xE4si kunnes edistymispalkki
+      on t\xE4ynn\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813251
-    m_Localized: (fi) Press [jump] to jump.
+    m_Localized: "Paina [jump] hypp\xE4\xE4ksesi."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813252
-    m_Localized: (fi) Jump to fill the progress bar!
+    m_Localized: "Hypp\xE4\xE4 t\xE4ytt\xE4\xE4ksesi edistymispalkin!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813253
-    m_Localized: (fi) Press [jump] to do jumps until the progress bar is filled!
+    m_Localized: "Paina [jump] kunnes edistymispalkki on t\xE4ynn\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813254
-    m_Localized: (fi) Press [crouch] to sneak. Monsters are less likely to see you.
+    m_Localized: "Paina [crouch] hiipi\xE4ksesi. Hirvi\xF6t eiv\xE4t huomaa sinua
+      silloin yht\xE4 helposti."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813255
-    m_Localized: (fi) Sneak to fill the progress bar!
+    m_Localized: "Hiivi t\xE4ytt\xE4\xE4ksesi edistymispalkin!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813256
-    m_Localized: (fi) Hold [crouch] and use [move] until the progess is filled!
+    m_Localized: "Paina [crouch] ja liiku painamalla [move] t\xE4ytt\xE4\xE4ksesi
+      edistymispalkin!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813257
-    m_Localized: (fi) Use [crouch] to sneak under stuff and hide.
+    m_Localized: Paina [crouch] ja hiivi huonekalujen alle piiloutuaksesi.
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813258
-    m_Localized: (fi) Hide to fill the progress bar!
+    m_Localized: "Piiloudu t\xE4ytt\xE4\xE4ksesi edistymispalkin!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813259
-    m_Localized: (fi) Hold [crouch] and walk in under a prop, stay there until you
-      fill the progress bar!
+    m_Localized: "Paina [crouch], hiivi huonekalun alle, ja pysy siell\xE4 kunnes
+      edistymispalkki on t\xE4ynn\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813260
-    m_Localized: (fi) Hold down [sprint] to sprint. This drains your energy.
+    m_Localized: "Paina [sprint] juostaksesi. T\xE4m\xE4 k\xE4ytt\xE4\xE4 energiaa."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813261
-    m_Localized: (fi) Sprint to fill the progress bar!
+    m_Localized: "Juokse t\xE4ytt\xE4\xE4ksesi edistymispalkin!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813262
-    m_Localized: (fi) Hold [sprint] and use [move] to sprint until you filled the
-      progress bar! If the energy runs out, wait for it to regenerate!
+    m_Localized: "Paina [sprint] ja liiku k\xE4ytt\xE4m\xE4ll\xE4 [move] kunnes edistymispalkki
+      on t\xE4ynn\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813263
-    m_Localized: (fi) Run and press [tumble] to fall with style. Jumping also helps!
+    m_Localized: "Juokse, hypp\xE4\xE4 ja paina [tumble] heitt\xE4\xE4ksesi itsesi."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813264
-    m_Localized: (fi) Run, jump and fall to fill the progress bar!
+    m_Localized: "Juokse, hypp\xE4\xE4 ja heit\xE4 itsesi t\xE4ytt\xE4\xE4ksesi edistymispalkin!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813265
-    m_Localized: (fi) Run with [sprint], jump with [jump] and press [tumble] to throw
-      yourself. Do it until you fill the progress bar!
+    m_Localized: "Juokse painamalla [sprint], hypp\xE4\xE4 painamalla [jump], ja
+      paina [tumble] heitt\xE4\xE4ksesi itsesi. Toista t\xE4m\xE4 kunnes edistymispalkki
+      on t\xE4ynn\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813266
-    m_Localized: (fi) Grab objects using [grab].
+    m_Localized: Tartu esineisiin painamalla [grab].
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813267
-    m_Localized: (fi) Carry that thing to fill the progress bar!
+    m_Localized: "Kanna esinett\xE4 t\xE4ytt\xE4\xE4ksesi edistymispalkin!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813268
-    m_Localized: (fi) Press and hold [grab] on an object until you fill the progress
-      bar!
+    m_Localized: "Paina ja pid\xE4 [grab] pohjassa kunnes edistymispalkki on t\xE4ynn\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813269
-    m_Localized: (fi) Use [push] to alter the distance of grabbed objects.
+    m_Localized: "K\xE4yt\xE4 [push] muuttaaksesi esineen et\xE4isyytt\xE4 sinuun."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813270
-    m_Localized: (fi) Alter the distance of a grabbed item!
+    m_Localized: "Muuta esineen et\xE4isyytt\xE4 sinuun!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813271
-    m_Localized: (fi) Press and hold [grab] on an object and use [push] to alter
-      the distance of the item you grabbed!
+    m_Localized: "Paina ja pid\xE4 [grab] pohjassa, ja muuta esineen et\xE4isyytt\xE4
+      k\xE4ytt\xE4m\xE4ll\xE4 [push] kunnes edistymispalkki on t\xE4ynn\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813272
-    m_Localized: (fi) Rotate grabbed objects using [grab2].
+    m_Localized: "Kierr\xE4 esinett\xE4 painamalla [grab2]."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813273
-    m_Localized: (fi) Rotate stuff to fill the progress bar!
+    m_Localized: "Kierr\xE4 esinett\xE4 kunnes edistymispalkki on t\xE4ynn\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813274
-    m_Localized: (fi) While holding an object with [grab], press and hold [grab2]
-      and move your aim to rotate it. Rotate until you fill the progress bar!
+    m_Localized: "Pid\xE4 esinett\xE4 k\xE4dess\xE4si pit\xE4m\xE4ll\xE4 [grab] pohjassa,
+      ja kierr\xE4 esinett\xE4 pit\xE4m\xE4ll\xE4 [grab2] pohjassa ja liikuttamalla
+      t\xE4ht\xE4int\xE4si. Tee n\xE4in kunnes edistymispalkki on t\xE4ynn\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813275
-    m_Localized: (fi) Grab and press [interact] to toggle items.
+    m_Localized: "Tartu esineeseen, ja paina [interact] pist\xE4\xE4ksesi se p\xE4\xE4lle
+      ja pois p\xE4\xE4lt\xE4."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813276
-    m_Localized: (fi) Toggle that thing on and off!
+    m_Localized: "Pist\xE4 esine p\xE4\xE4lle ja pois p\xE4\xE4lt\xE4 kunnes edistymispalkki
+      on t\xE4ynn\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813277
-    m_Localized: (fi) Grab the ball with [grab] and toggle it on and off using [interact]
-      until you fill the progress bar!
+    m_Localized: "Tartu palloon pit\xE4m\xE4ll\xE4 [grab] pohjassa, ja pist\xE4 esine
+      p\xE4\xE4lle ja pois p\xE4\xE4lt\xE4 painamalla [interact] kunnes edistymispalkki
+      on t\xE4ynn\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813278
-    m_Localized: (fi) Grab an Item and use [inventory1]/[inventory2]/[inventory3]
-      to put it in your inventory.
+    m_Localized: "Tartu esineeseen, ja paina [inventory1]/[inventory2]/[inventory3]
+      pist\xE4\xE4ksesi esineit\xE4 taskuusi!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813279
-    m_Localized: (fi) Fill your entire inventory!
+    m_Localized: "T\xE4yt\xE4 kaikki taskusi!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813280
-    m_Localized: (fi) While holding an item with [grab], press [inventory1]/[inventory2]/[inventory3].
-      Fill all spots in your inventory to complete the progress bar!
+    m_Localized: "Kun pid\xE4t tavaraa k\xE4dess\xE4si pit\xE4m\xE4ll\xE4 [grab]
+      pohjassa, paina [inventory1]/[inventory2]/[inventory3]. T\xE4yt\xE4 kaikki
+      taskusi!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813281
-    m_Localized: (fi) Use [inventory1]/[inventory2]/[inventory3] to take items out
-      of your inventory.
+    m_Localized: Paina [inventory1]/[inventory2]/[inventory3] ottaaksesi esineet
+      pois taskuistasi.
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813282
-    m_Localized: (fi) Empty your entire inventory!
+    m_Localized: "Tyhjenn\xE4 kaikki taskusi!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813283
-    m_Localized: (fi) Use [inventory1]/[inventory2]/[inventory3] and empty all spots
-      to fill the progress bar!
+    m_Localized: "Tyhjenn\xE4 kaikki taskusi painamalla [inventory1]/[inventory2]/[inventory3]
+      t\xE4ytt\xE4\xE4ksesi edistymispalkin!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813284
-    m_Localized: (fi) Use [map] to view the map. The map is <b><u>IMPORTANT</u></b>
-      for navigation.
+    m_Localized: "Paina [map] katsoaksesi karttaan. Kartta on <b><u>T\xC4RKE\xC4</u></b>
+      navigointia varten."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813285
-    m_Localized: (fi) Check the map!
+    m_Localized: Katso karttaa!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201856
-    m_Localized: (fi) Hold down [map] and view it until you have filled the progress
-      bar!
+    m_Localized: "Pid\xE4 [map] pohjassa, ja katso karttaa kunnes edistymispalkki
+      on t\xE4ynn\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201857
-    m_Localized: (fi) This is a C.A.R.T. Grab it by the handle.
+    m_Localized: "T\xE4m\xE4 on K.\xC4.R.R.Y. Tartu siihen kahvasta"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201858
-    m_Localized: (fi) Walk around with the C.A.R.T. a little!
+    m_Localized: "K\xE4vele K.\xC4.R.R.Y.n kanssa v\xE4h\xE4n!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201859
-    m_Localized: (fi) Grab the C.A.R.T. by the handle with [grab] and walk around
-      with it until you have filled the progress bar!
+    m_Localized: "Tartu K.\xC4.R.R.Y.yn painamalla [grab] ja k\xE4vele sen kanssa
+      t\xE4ytt\xE4\xE4ksesi edistyspalkin!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201860
-    m_Localized: (fi) Fill C.A.R.T.s with valuables. C.A.R.T.s are <b><u>IMPORTANT</u></b>
-      for carrying more stuff.
+    m_Localized: "T\xE4yt\xE4 K.\xC4.R.R.Y arvoesineill\xE4. K.\xC4.R.R.Y.t ovat
+      <b><u>T\xC4RKEIT\xC4</u></b> tavaroiden kuljettamista varten."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201861
-    m_Localized: (fi) Fill the C.A.R.T. with valuables!
+    m_Localized: "T\xE4yt\xE4 K.\xC4.R.R.Y. arvoesineill\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201862
-    m_Localized: (fi) Put three items into the C.A.R.T.
+    m_Localized: "Pist\xE4 K.\xC4.R.R.Y.yn 3 arvoesinett\xE4."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201863
-    m_Localized: (fi) Activate and fill <b><u>EXTRACTION POINTS</u></b> with valuables.
+    m_Localized: "Aktivoi ja t\xE4yt\xE4 <b><u>TOIMITUSPISTEIT\xC4</u></b> arvoesineill\xE4."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201864
-    m_Localized: (fi) Extract the valuables!
+    m_Localized: "L\xE4het\xE4 arvoesineet matkaan!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201865
-    m_Localized: (fi) HELLO! FILL THE <b><u>EXTRACTION POINT</u></b> WITH VALUABLES!
+    m_Localized: "HALOO! T\xC4YT\xC4 <b><u>TOIMITUSPISTE</u></b> ARVOESINEILL\xC4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201866
-    m_Localized: (fi) Enter the <b><u>TRUCK</u></b> and send a message to your boss
-      in order to leave a level.
+    m_Localized: "Mene <b><u>REKKAAN</u></b> ja l\xE4het\xE4 viesti pomollesi l\xE4hte\xE4ksesi
+      pois."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201867
-    m_Localized: (fi) Get into the truck and send a message!
+    m_Localized: "Mene rekkaan ja l\xE4het\xE4 viesti!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201868
-    m_Localized: (fi) Walk into the truck, grab and hold the message area on the
-      truck screen with [grab] to send a message!
+    m_Localized: "Mene rekkaan, pid\xE4 viestin\xE4yt\xF6n viestialuetta pohjassa
+      painamalla [grab] ja l\xE4het\xE4 viesti pomollesi."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201869
-    m_Localized: (fi) Share your health with other players by grabbing their necks!
+    m_Localized: "Jaa terveyspisteit\xE4 muiden pelaajien kanssa tarttumalla heid\xE4n
+      niskoihin!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201870
-    m_Localized: (fi) Revive other players by extracting their heads!
+    m_Localized: "Elvyt\xE4 toiset pelaajan l\xE4hett\xE4m\xE4ll\xE4 heid\xE4n p\xE4\xE4t
+      toimituspisteell\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201871
-    m_Localized: (fi) Buy <b><u>POWER CRYSTALS</u></b> for the <b><u>CHARGING STATION</u></b>
-      to recharge and repair your gear!
+    m_Localized: Osta <b><u>ENERGIAKRISTALLEJA LATAUSPISTEELLE</u></b> lataaksesi
+      tavaroitasi.
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201872
-    m_Localized: (fi) Only one <b><u>EXTRACTION POINT</u></b> can be active at a
-      time, find the current one using your map!
+    m_Localized: Vain yksi <b>TOIMITUSPISTE<u></u></b> voi olla aktiivinen kerrallaan.
+      Etsi nykyinen aktiivinen toimituspiste kartallasi!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201873
-    m_Localized: (fi) Press [chat] to open the chat! It's fun!
+    m_Localized: "Paina [chat] avataksesi ch\xE4tin. Se on tosi hauskaa! Jee!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201874
-    m_Localized: (fi) Time to leave, the truck heals you and revives carried player
-      heads!
+    m_Localized: "Aika l\xE4hte\xE4. Rekka parantaa sinua ja elvytt\xE4\xE4 kuolleiden
+      kavereittesi p\xE4\xE4t!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201875
-    m_Localized: (fi) This level has multiple <b><u>EXTRACTION POINTS</u></b>, you
-      must clear them all to leave!
+    m_Localized: "T\xE4ss\xE4 tasossa on monta <b><u>TOIMITUSPISTETT\xC4</u></b>.
+      Sinun pit\xE4\xE4 saada kaikki niist\xE4 valmiiksi ennen kuin voit l\xE4hte\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201876
-    m_Localized: (fi) This is the <b><u>SHOP</u></b>, extract items to purchase.
-      No harm lasts here!
+    m_Localized: "T\xE4m\xE4 on <b><u>KAUPPA</u></b>. Toimita tavaroita toimituspisteell\xE4
+      ostaaksesi ne. Mik\xE4\xE4n vahinko t\xE4\xE4ll\xE4 ei ole pysyv\xE4\xE4!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201877
@@ -334,7 +344,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22956499448881152
-    m_Localized: (fi) [menu] to skip
+    m_Localized: '[menu] ohittaaksesi'
     m_Metadata:
       m_Items: []
   - m_Id: 23598574554132480
@@ -356,15 +366,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 23920995436847104
-    m_Localized: (fi) FOCUS
+    m_Localized: "TEHT\xC4V\xC4"
     m_Metadata:
       m_Items: []
   - m_Id: 25797701263065088
-    m_Localized: (fi) Buy stuff in the shop
+    m_Localized: Osta kamaa kaupasta
     m_Metadata:
       m_Items: []
   - m_Id: 25797701284036608
-    m_Localized: (fi) Enjoy the ride, recharge stuff and GEAR UP!
+    m_Localized: Nauti matkasta, lataa kamasi ja VARUSTAUDU!
     m_Metadata:
       m_Items: []
   - m_Id: 25822090339713024
@@ -668,7 +678,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 26516244123594752
-    m_Localized: (fi) Animal
+    m_Localized: Olento
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760576
@@ -676,27 +686,27 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760577
-    m_Localized: (fi) Clown
+    m_Localized: Pelle
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760579
-    m_Localized: (fi) Cleanup Crew
+    m_Localized: Siivoojat
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760580
-    m_Localized: (fi) Bowtie
+    m_Localized: Rusetti
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760581
-    m_Localized: (fi) Peeper
+    m_Localized: Kurkistaja
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760582
-    m_Localized: (fi) Apex Predator
+    m_Localized: Huippupeto
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760583
-    m_Localized: (fi) Elsa
+    m_Localized: Elsa
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760584
@@ -704,15 +714,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954880
-    m_Localized: (fi) Gnome
+    m_Localized: "Mennink\xE4inen"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954881
-    m_Localized: (fi) Headman
+    m_Localized: "P\xE4\xE4mies"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954882
-    m_Localized: (fi) Headgrab
+    m_Localized: "P\xE4\xE4varas"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954883
@@ -720,31 +730,31 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954884
-    m_Localized: (fi) Hidden
+    m_Localized: Piilo
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954885
-    m_Localized: (fi) Huntsman
+    m_Localized: "Mets\xE4st\xE4j\xE4"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954886
-    m_Localized: (fi) Oogly
+    m_Localized: "T\xF6ll\xF6tt\xE4j\xE4"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954887
-    m_Localized: (fi) Robe
+    m_Localized: Kaapu
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954888
-    m_Localized: (fi) Reaper
+    m_Localized: "Veitset\xE4r"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954889
-    m_Localized: (fi) Loom
+    m_Localized: Varjo
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954890
-    m_Localized: (fi) Spewer
+    m_Localized: "Yrj\xF6"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954891
@@ -752,7 +762,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954892
-    m_Localized: (fi) Gambit
+    m_Localized: Lotto
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954893
@@ -760,27 +770,27 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954894
-    m_Localized: (fi) Tick
+    m_Localized: Punkki
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954895
-    m_Localized: (fi) Bella
+    m_Localized: Kellotar
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954896
-    m_Localized: (fi) Chef
+    m_Localized: Kokki
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954897
-    m_Localized: (fi) Upscream
+    m_Localized: "Yl\xF6shuutaja"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954898
-    m_Localized: (fi) Rugrat
+    m_Localized: Kakara
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760578
-    m_Localized: (fi) Birthday Boy
+    m_Localized: "Syntt\xE4risankari"
     m_Metadata:
       m_Items: []
   - m_Id: 26547416404832256

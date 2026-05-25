@@ -670,75 +670,75 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 26516244123594752
-    m_Localized: (pt-PT) Animal
+    m_Localized: Animal
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760576
-    m_Localized: (pt-PT) Banger
+    m_Localized: Bomba
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760577
-    m_Localized: (pt-PT) Clown
+    m_Localized: Nariz Vermelho
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760579
-    m_Localized: (pt-PT) Cleanup Crew
+    m_Localized: Liga Limpeza
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760580
-    m_Localized: (pt-PT) Bowtie
+    m_Localized: Gravatinha
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760581
-    m_Localized: (pt-PT) Peeper
+    m_Localized: "Olh\xE1ki"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760582
-    m_Localized: (pt-PT) Apex Predator
+    m_Localized: Pato chato
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760583
-    m_Localized: (pt-PT) Elsa
+    m_Localized: Elsa
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760584
-    m_Localized: (pt-PT) Mentalist
+    m_Localized: Mentalista
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954880
-    m_Localized: (pt-PT) Gnome
+    m_Localized: Gnomo
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954881
-    m_Localized: (pt-PT) Headman
+    m_Localized: "Cabe\xE7udo"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954882
-    m_Localized: (pt-PT) Headgrab
+    m_Localized: "Agarra-Cabe\xE7as"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954883
-    m_Localized: (pt-PT) Heart Hugger
+    m_Localized: "Abra\xE7a-Cora\xE7\xF5es"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954884
-    m_Localized: (pt-PT) Hidden
+    m_Localized: Oculto
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954885
-    m_Localized: (pt-PT) Huntsman
+    m_Localized: "Ca\xE7ador"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954886
-    m_Localized: (pt-PT) Oogly
+    m_Localized: Oogly
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954887
-    m_Localized: (pt-PT) Robe
+    m_Localized: Manto
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954888
-    m_Localized: (pt-PT) Reaper
+    m_Localized: Espanta
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954889
@@ -746,43 +746,43 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954890
-    m_Localized: (pt-PT) Spewer
+    m_Localized: Parasita
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954891
-    m_Localized: (pt-PT) Trudge
+    m_Localized: "P\xE9-de-chumbo"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954892
-    m_Localized: (pt-PT) Gambit
+    m_Localized: Gambito
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954893
-    m_Localized: (pt-PT) Shadow Child
+    m_Localized: Sombrinha
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954894
-    m_Localized: (pt-PT) Tick
+    m_Localized: "Carra\xE7a"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954895
-    m_Localized: (pt-PT) Bella
+    m_Localized: Bella
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954896
-    m_Localized: (pt-PT) Chef
+    m_Localized: Chef
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954897
-    m_Localized: (pt-PT) Upscream
+    m_Localized: "Grit\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954898
-    m_Localized: (pt-PT) Rugrat
+    m_Localized: Pestinha
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760578
-    m_Localized: (pt-PT) Birthday Boy
+    m_Localized: "Jo\xE3o Bal\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 26547416404832256
@@ -791,15 +791,15 @@ MonoBehaviour:
       m_Items:
       - rid: 6163163424511229957
   - m_Id: 26602567563980800
-    m_Localized: (pt-PT) King of the Losers!
+    m_Localized: Rei dos cromos!
     m_Metadata:
       m_Items: []
   - m_Id: 26602567568175104
-    m_Localized: (pt-PT) Everyone's a Loser!
+    m_Localized: "S\xE3o todos uns cromos!"
     m_Metadata:
       m_Items: []
   - m_Id: 26602567568175105
-    m_Localized: (pt-PT) Last Loser Standing
+    m_Localized: "\xDAltimo cromo de p\xE9"
     m_Metadata:
       m_Items: []
   - m_Id: 26602567568175106
@@ -807,7 +807,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 26610272068415488
-    m_Localized: '(pt-PT) The Broken Ones:'
+    m_Localized: 'Os Arruinados:'
     m_Metadata:
       m_Items: []
   - m_Id: 30522141892837376

@@ -135,6 +135,66 @@ MonoBehaviour:
     m_Key: POPUP.SELF_DESTRUCT.OPT2
     m_Metadata:
       m_Items: []
+  - m_Id: 33712689910808576
+    m_Key: POPUP.KICKED.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168704
+    m_Key: POPUP.KICKED.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168705
+    m_Key: POPUP.KICKED.BUTTON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168706
+    m_Key: POPUP.DISCONNECTED.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390400
+    m_Key: POPUP.DISCONNECTED.CAUSE_PREFIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168708
+    m_Key: POPUP.DISCONNECTED.STUCK_LOADING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168709
+    m_Key: POPUP.DISCONNECTED.HOST_DISCONNECTED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390401
+    m_Key: POPUP.DISCONNECTED.BANNED_LOBBY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168710
+    m_Key: POPUP.DISCONNECTED.BUTTON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168711
+    m_Key: POPUP.VERSION_MISMATCH.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168712
+    m_Key: POPUP.VERSION_MISMATCH.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168713
+    m_Key: POPUP.VERSION_MISMATCH.BUTTON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168714
+    m_Key: POPUP.LOBBY_CLOSED.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168715
+    m_Key: POPUP.LOBBY_CLOSED.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168716
+    m_Key: POPUP.LOBBY_CLOSED.BUTTON
+    m_Metadata:
+      m_Items: []
   - m_Id: 21825235048194048
     m_Key: ESC.HEADER
     m_Metadata:
@@ -299,6 +359,10 @@ MonoBehaviour:
     m_Key: SAVES.SAVE_INFO.PLAYER_LIST
     m_Metadata:
       m_Items: []
+  - m_Id: 33065608682569728
+    m_Key: SAVES.SAVE_INFO.PLAYER_SOLO
+    m_Metadata:
+      m_Items: []
   - m_Id: 7730571982659584
     m_Key: SAVES.SAVE_FILE.UH_OH
     m_Metadata:
@@ -333,6 +397,18 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 15667952224296963
     m_Key: POPUP.NEW_GAME.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954568257536
+    m_Key: POPUP.SAVE_LIMIT.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954593423360
+    m_Key: POPUP.SAVE_LIMIT.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954593423361
+    m_Key: POPUP.SAVE_LIMIT.BUTTON
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853696
@@ -462,6 +538,62 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 5190661053853726
     m_Key: REGIONS.REGION.USSC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074834644992
+    m_Key: PUBLIC_GAME_CHOICE.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810816
+    m_Key: PUBLIC_GAME_CHOICE.RANDOM_MATCHMAKING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810817
+    m_Key: PUBLIC_GAME_CHOICE.SERVER_LIST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810818
+    m_Key: PUBLIC_GAME_CHOICE.BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810819
+    m_Key: SERVER_LIST.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810820
+    m_Key: SERVER_LIST.SEARCH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810821
+    m_Key: SERVER_LIST.CREATE_NEW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810822
+    m_Key: SERVER_LIST.BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810823
+    m_Key: SERVER_LIST_SEARCH.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810824
+    m_Key: SERVER_LIST_SEARCH.CONFIRM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810825
+    m_Key: SERVER_LIST_SEARCH.BACK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810826
+    m_Key: SERVER_LIST_CREATE_NEW.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810827
+    m_Key: SERVER_LIST_CREATE_NEW.CONFIRM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810828
+    m_Key: SERVER_LIST_CREATE_NEW.BACK
     m_Metadata:
       m_Items: []
   - m_Id: 10581343564980224
