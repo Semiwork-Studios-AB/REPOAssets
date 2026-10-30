@@ -1,0 +1,303 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Subtitles_en-US
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: d7769f30d4d5aeb45ab0918f43fed15a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1049453162127360
+    m_Localized: Well, can me up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049453208264704
+    m_Localized: and call me "beans"!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067686980214784
+    m_Localized: I can see the stoneshine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687022157824
+    m_Localized: even with my eyes closed!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352128
+    m_Localized: HA! HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352129
+    m_Localized: That's what they said back then, everyone.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352130
+    m_Localized: Stoneshine is the illuminating
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352131
+    m_Localized: high energy particles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352132
+    m_Localized: emitting from the sunstones.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352133
+    m_Localized: In the year--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907347210240
+    m_Localized: Howdy, partner!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153282
+    m_Localized: You might hear a song!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153283
+    m_Localized: I can't hear anything!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153284
+    m_Localized: Maybe because I don't have
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153285
+    m_Localized: a human brain!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153286
+    m_Localized: What do you mean?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153287
+    m_Localized: We're humans!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153288
+    m_Localized: Right?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365444215693312
+    m_Localized: Hold up a Sunstone to your ear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365444215693313
+    m_Localized: and it might tickle your neurons.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734112038912
+    m_Localized: Hello visitor!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981952
+    m_Localized: Welcome to Sunstone Valley Resort!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981953
+    m_Localized: The most authentic representation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981954
+    m_Localized: of our great crystal mining history.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981955
+    m_Localized: Combined with all the amenities
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981956
+    m_Localized: that modern day--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981957
+    m_Localized: My name is Jenny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981958
+    m_Localized: and I have been working here for--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981959
+    m_Localized: 73...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981960
+    m_Localized: ... years!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981961
+    m_Localized: Hope you enjoy your stay!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981962
+    m_Localized: The Wifi password is...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981963
+    m_Localized: 6...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981964
+    m_Localized: 7...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981965
+    m_Localized: 4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981966
+    m_Localized: 4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428943054823424
+    m_Localized: 4--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852471349248
+    m_Localized: Stoneshine is the energy of the future!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709376
+    m_Localized: Without it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709377
+    m_Localized: there would be no--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709378
+    m_Localized: robots!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438646992363520
+    m_Localized: These minecarts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112256
+    m_Localized: were used to traverse the
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112257
+    m_Localized: dark, dangerous mines that we
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112258
+    m_Localized: the miners
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112259
+    m_Localized: explore and extract
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112260
+    m_Localized: the Sunstones from!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112261
+    m_Localized: Ironically...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112262
+    m_Localized: to ride them...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112263
+    m_Localized: you can't be a minor!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191595347968
+    m_Localized: Our world
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096704
+    m_Localized: runs on these peculiar glowing rocks.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096705
+    m_Localized: Did you know that
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096706
+    m_Localized: only a handful of them are enough
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096707
+    m_Localized: to power a large
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096708
+    m_Localized: metropolitan area.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096709
+    m_Localized: It's quite interesting, right?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375914909696
+    m_Localized: Hello children!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375961047040
+    m_Localized: Which of these animal noises are not native
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375961047041
+    m_Localized: to Sunstone Valley?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782301851648
+    m_Localized: Come on guys, you can do it!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406080
+    m_Localized: Just a little bit more!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406081
+    m_Localized: Almost there!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406082
+    m_Localized: Ha ha!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406083
+    m_Localized: What a crazy situation, right?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406084
+    m_Localized: This is how it is around these parts!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5022492442746880
+    m_Localized: My horse is DEAD--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717449428992
+    m_Localized: Boo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717491372032
+    m_Localized: I am hiding behind the green cylinder!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717491372033
+    m_Localized: Ha ha ha!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

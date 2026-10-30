@@ -19,59 +19,59 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 76998412316672
-    m_Localized: (fi) Tax Return
+    m_Localized: Veropalautus
     m_Metadata:
       m_Items: []
   - m_Id: 76998429093888
-    m_Localized: (fi) Locked
+    m_Localized: Lukittu
     m_Metadata:
       m_Items: []
   - m_Id: 76998429093889
-    m_Localized: (fi) Ready
+    m_Localized: Valmis
     m_Metadata:
       m_Items: []
   - m_Id: 76998429093890
-    m_Localized: (fi) Active
+    m_Localized: Aktiivinen
     m_Metadata:
       m_Items: []
   - m_Id: 1545717751721984
-    m_Localized: (fi) Extracting
+    m_Localized: Toimitus
     m_Metadata:
       m_Items: []
   - m_Id: 1545717772693504
-    m_Localized: (fi) Completed
+    m_Localized: Valmis
     m_Metadata:
       m_Items: []
   - m_Id: 21794657889497088
-    m_Localized: (fi) New
+    m_Localized: Uusi
     m_Metadata:
       m_Items: []
   - m_Id: 25878060419940352
-    m_Localized: (fi) Too big
+    m_Localized: Liian iso
     m_Metadata:
       m_Items: []
   - m_Id: 25878060449300480
-    m_Localized: (fi) Too full
+    m_Localized: "Liian t\xE4ynn\xE4"
     m_Metadata:
       m_Items: []
   - m_Id: 25878060449300481
-    m_Localized: (fi) Extract
+    m_Localized: Toimita
     m_Metadata:
       m_Items: []
   - m_Id: 33712840729591808
-    m_Localized: (fi) Taxman
+    m_Localized: Veromies
     m_Metadata:
       m_Items: []
   - m_Id: 33712840754757632
-    m_Localized: (fi) Destroying Slackers
+    m_Localized: Tuhotaan laiskottelijoita
     m_Metadata:
       m_Items: []
   - m_Id: 33712840754757633
-    m_Localized: (fi) Starting Engine
+    m_Localized: "K\xE4ynnistet\xE4\xE4n moottoria"
     m_Metadata:
       m_Items: []
   - m_Id: 33712840754757634
-    m_Localized: (fi) Hitting the Road
+    m_Localized: Menoksi
     m_Metadata:
       m_Items: []
   references:

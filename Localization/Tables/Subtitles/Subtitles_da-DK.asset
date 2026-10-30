@@ -1,0 +1,303 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Subtitles_da-DK
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: da-DK
+  m_SharedData: {fileID: 11400000, guid: d7769f30d4d5aeb45ab0918f43fed15a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1049453162127360
+    m_Localized: "Put mig p\xE5 d\xE5se"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049453208264704
+    m_Localized: "og kald mig \"b\xF8nner\"!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067686980214784
+    m_Localized: Jeg kan se stenskinnet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687022157824
+    m_Localized: "selv med lukkede \xF8jne!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352128
+    m_Localized: HA! HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352129
+    m_Localized: "S\xE5dan sagde de virkelig f\xF8r i tiden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352130
+    m_Localized: Stenskin er den oplysende
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352131
+    m_Localized: "h\xF8jenergipartikkel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352132
+    m_Localized: "som solstenene udstr\xE5ler."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352133
+    m_Localized: "Under \xE5ret--"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734112038912
+    m_Localized: "Hejsa bes\xF8gende!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981952
+    m_Localized: Velkommen til Solstensdalen Feriecenter!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981953
+    m_Localized: Den mest autentiske representation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981954
+    m_Localized: "af vores storsl\xE5ede krystalminehistorie,"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852471349248
+    m_Localized: Stenskin er fremtidens energi!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709376
+    m_Localized: Uden den
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709377
+    m_Localized: ville vi hverken have--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709378
+    m_Localized: robotter!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981955
+    m_Localized: kombinereret med alle bekvemmelighederne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981956
+    m_Localized: som den moderne verden--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981957
+    m_Localized: Mit navn er Jenny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981958
+    m_Localized: og jeg har arbejdet her i--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981959
+    m_Localized: 73...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981960
+    m_Localized: "... \xE5r!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981961
+    m_Localized: "H\xE5ber I nyder jeres ophold!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981962
+    m_Localized: Koden til internettet er...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981963
+    m_Localized: 6...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981964
+    m_Localized: 7...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981965
+    m_Localized: 4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981966
+    m_Localized: 4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428943054823424
+    m_Localized: 4--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438646992363520
+    m_Localized: De her minevogne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112256
+    m_Localized: blev brugt til at forcere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112257
+    m_Localized: "de m\xF8rke, farlige miner som vi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112258
+    m_Localized: minearbejderne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112259
+    m_Localized: udforsker og udvinder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112260
+    m_Localized: Solstenene fra!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112261
+    m_Localized: Sjovt nok...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112262
+    m_Localized: "for at k\xF8re i dem..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112263
+    m_Localized: "skal du v\xE6re gammel nok!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191595347968
+    m_Localized: Vores verden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096704
+    m_Localized: "k\xF8rer p\xE5 disse ejendommelige gl\xF8dende sten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096705
+    m_Localized: Vidste du
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096706
+    m_Localized: "at bare en h\xE5ndfuld er nok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096707
+    m_Localized: "til at give str\xF8m til et st\xF8rre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096708
+    m_Localized: "storbyomr\xE5de."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096709
+    m_Localized: "Ret s\xE5 interessant, ikke ogs\xE5?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365444215693312
+    m_Localized: "Hold en Solsten mod \xF8ret"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365444215693313
+    m_Localized: "og m\xE5ske kilder det i hjernecellerne."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153282
+    m_Localized: "M\xE5ske kan du h\xF8re en sang!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153283
+    m_Localized: "Jeg kan ingenting h\xF8re!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153284
+    m_Localized: "M\xE5ske fordi jeg ikke har"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153285
+    m_Localized: en menneskehjerne!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153286
+    m_Localized: Hvad mener du?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153287
+    m_Localized: Vi er mennesker!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153288
+    m_Localized: Ikke?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375914909696
+    m_Localized: "Hej b\xF8rn!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375961047040
+    m_Localized: Hvilke af disse dyrelyde findes ikke i naturen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375961047041
+    m_Localized: i Solstensdalen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907347210240
+    m_Localized: "Hall\xF8jsa, makker!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782301851648
+    m_Localized: "Kom s\xE5 gutterne, I kan klare den!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406080
+    m_Localized: "Bare lidt l\xE6ngere!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406081
+    m_Localized: "I er der n\xE6sten!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406082
+    m_Localized: Ha ha!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406083
+    m_Localized: "Sikke en sk\xF8r situation, hva'?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406084
+    m_Localized: "S\xE5dan g\xE5r det til her omkring!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5022492442746880
+    m_Localized: "Min hest er D\xD8D--"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717449428992
+    m_Localized: "B\xF8h!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717491372032
+    m_Localized: "Jeg gemmer mig bag den gr\xF8nne cylinder!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717491372033
+    m_Localized: Ha ha ha!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

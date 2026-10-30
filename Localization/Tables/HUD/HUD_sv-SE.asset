@@ -130,7 +130,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813266
-    m_Localized: Grabba saker med [grab]
+    m_Localized: 'Grabba saker med [grab]'
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813267
@@ -142,8 +142,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813269
-    m_Localized: "Anv\xE4nd [push] f\xF6r att \xE4ndra distansen du h\xE5ller ett
-      objekt."
+    m_Localized: "Anv\xE4nd [pushAndPull] f\xF6r att \xE4ndra distansen du h\xE5ller
+      ett objekt."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813270
@@ -151,12 +151,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813271
-    m_Localized: "Tryck och h\xE5ll [grab] p\xE5 ett objekt och anv\xE4nd [push]
+    m_Localized: "Tryck och h\xE5ll [grab] p\xE5 ett objekt och anv\xE4nd [pushAndPull]
       f\xF6r att \xE4ndra distansen p\xE5 objektet du grabbat!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813272
-    m_Localized: Rotera grabbade objekt med [grab2]
+    m_Localized: 'Rotera grabbade objekt med [grab2]'
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813273
@@ -317,7 +317,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201878
-    m_Localized: (se) Grabbing an enemy will now cause overcharge, when full you
+    m_Localized: (se) Grabbing a monster will now cause overcharge, when full you
       get blasted.
     m_Metadata:
       m_Items: []
@@ -340,7 +340,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22956499448881152
-    m_Localized: '[menu] skippa'
+    m_Localized: '[back] skippa'
     m_Metadata:
       m_Items: []
   - m_Id: 23598574554132480
@@ -353,7 +353,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 23609344088158208
-    m_Localized: "Om den skadas s\xE5 kan du <b><u>hela</u></b> den med din egen
+    m_Localized: "Om den skadas s\xE5 kan du <b><u>HELA</u></b> den med din egen
       h\xE4lsa."
     m_Metadata:
       m_Items: []
@@ -821,6 +821,22 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 30522141918003200
     m_Localized: "L\xE4ge: Svagt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37110069994258432
+    m_Localized: 'Chatt:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37111979069472768
+    m_Localized: 'Tryck [interact]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086219382784
+    m_Localized: Ingen Signal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915759992832
+    m_Localized: 
     m_Metadata:
       m_Items: []
   references:

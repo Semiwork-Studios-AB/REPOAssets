@@ -56,7 +56,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813250
-    m_Localized: Use [move] on your keyboard until the progress bar is filled!
+    m_Localized: Use [move] on your device until the progress bar is filled!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813251
@@ -80,7 +80,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813256
-    m_Localized: Hold [crouch] and use [move] until the progess is filled!
+    m_Localized: Hold [crouch] and use [move] until the progress bar is filled!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813257
@@ -135,7 +135,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813269
-    m_Localized: Use [push] to alter the distance of grabbed objects.
+    m_Localized: Use [pushAndPull] to alter the distance of grabbed objects.
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813270
@@ -143,8 +143,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813271
-    m_Localized: Press and hold [grab] on an object and use [push] to alter the distance
-      of the item you grabbed!
+    m_Localized: Press and hold [grab] on an object and use [pushAndPull] to alter
+      the distance of the item you grabbed!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813272
@@ -275,7 +275,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201871
-    m_Localized: Buy <b><u>POWER CRYSTALS</u></b> for the <b><u>CHARGING STATION</u></b>
+    m_Localized: Buy <b><u>ENERGY CRYSTALS</u></b> for the <b><u>CHARGING STATION</u></b>
       to recharge and repair your gear!
     m_Metadata:
       m_Items: []
@@ -308,7 +308,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201878
-    m_Localized: Grabbing an enemy will now cause overcharge, when full you get blasted.
+    m_Localized: Grabbing a monster will now cause overcharge, when full you get
+      blasted.
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201879
@@ -321,8 +322,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201881
-    m_Localized: While possessing your head, hold [jump] to jump. Hold to jump higher
-      at a greater cost.
+    m_Localized: While possessing your head, hold [jump] to jump. Hold longer to
+      jump higher at a greater cost.
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201882
@@ -330,7 +331,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22956499448881152
-    m_Localized: '[menu] to skip'
+    m_Localized: '[back] to skip'
     m_Metadata:
       m_Items: []
   - m_Id: 23598574554132480
@@ -810,6 +811,47 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 30522141918003200
     m_Localized: 'Mode: Weak'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37110069994258432
+    m_Localized: 'Chat:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37111979069472768
+    m_Localized: 'Press [interact]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56998176310747136
+    m_Localized: Pony
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086219382784
+    m_Localized: Signal Offline
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086252937217
+    m_Localized: Empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509706196234240
+    m_Localized: Shopping List
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915759992832
+    m_Localized: Use [pushPull] and aim [aim] to alter the distance of grabbed objects.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915806130176
+    m_Localized: While grabbing an object with [grab], hold [pushPull] to alter distance
+      with [aim] until you fill the progress bar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128640
+    m_Localized: Human Gun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128641
+    m_Localized: Charging Orb
     m_Metadata:
       m_Items: []
   references:

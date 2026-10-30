@@ -167,7 +167,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10257803930230784
-    m_Localized: "(Napsauta nime\xE4ksesi uudelleen)"
+    m_Localized: "(Nime\xE4 uudelleen)"
     m_Metadata:
       m_Items: []
   - m_Id: 7715786482245632
@@ -330,11 +330,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853724
-    m_Localized: "It\xE4 Amerikka"
+    m_Localized: "It\xE4 USA"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853725
-    m_Localized: "L\xE4nsi Amerikka"
+    m_Localized: "L\xE4nsi USA"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853726
@@ -410,7 +410,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534680
-    m_Localized: "T\xE4ht\xE4ysherkkyys"
+    m_Localized: Hiiren nopeus
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534681
@@ -427,10 +427,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 10581343598534684
     m_Localized: Kameran animaatio
-    m_Metadata:
-      m_Items: []
-  - m_Id: 10581343598534685
-    m_Localized: "K\xE4\xE4nn\xE4 pystysuuntainen t\xE4ht\xE4ys"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534686
@@ -462,7 +458,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534693
-    m_Localized: Maksimi kuvaa sekunnissa
+    m_Localized: Maksimi kuvataajuus
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534694
@@ -590,7 +586,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534727
-    m_Localized: "Py\xF6ritt\xE4minen"
+    m_Localized: "Esineiden k\xE4\xE4nt\xE4minen"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534728
@@ -610,7 +606,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534732
-    m_Localized: Interaktoida
+    m_Localized: Interaktoiminen
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534733
@@ -666,7 +662,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534752
-    m_Localized: Esiasetukset
+    m_Localized: Tallennetut asut
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534753
@@ -686,7 +682,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534757
-    m_Localized: Tallenna
+    m_Localized: Valmis
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534758
@@ -694,7 +690,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534759
-    m_Localized: Tallenna
+    m_Localized: Valmis
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534760
@@ -1092,7 +1088,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15592435403972610
-    m_Localized: "Paina [menu] palataksesi p\xE4\xE4valikkoon"
+    m_Localized: "Paina [back] palataksesi p\xE4\xE4valikkoon"
     m_Metadata:
       m_Items: []
   - m_Id: 15661116045647872
@@ -1397,7 +1393,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 22911118095757318
     m_Localized: "Hirvi\xF6t vahingoittuvat paljon kuopista, mutta voivat selvit\xE4
-      hengiss\xE4 "
+      hengiss\xE4"
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757319
@@ -1511,6 +1507,281 @@ MonoBehaviour:
     m_Localized: OK
     m_Metadata:
       m_Items: []
+  - m_Id: 33712689940168712
+    m_Localized: 'Sinun versio: {versionSelf}
+
+      Aulan versio: {version}'
+    m_Metadata:
+      m_Items:
+      - rid: 7803763168112017413
+  - m_Id: 33712689910808576
+    m_Localized: Potkittu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168704
+    m_Localized: "Is\xE4nn\xF6itsij\xE4 potki sinut aulasta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168705
+    m_Localized: "Jahas, selv\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168706
+    m_Localized: Yhteys katkennut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390400
+    m_Localized: 'Syy:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168708
+    m_Localized: Jumissa latausruudussa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168709
+    m_Localized: "Is\xE4nn\xF6itsij\xE4 l\xE4hti pois"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390401
+    m_Localized: "Sinut on estetty t\xE4st\xE4 aulasta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168710
+    m_Localized: "Jahas, selv\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168711
+    m_Localized: "V\xE4\xE4r\xE4 peliversio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168713
+    m_Localized: "Jahas, selv\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168714
+    m_Localized: Aula suljettu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168715
+    m_Localized: Aula on suljettu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168716
+    m_Localized: "Jahas, selv\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074834644992
+    m_Localized: Julkinen peli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810816
+    m_Localized: Satunnainen aulan muodostus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810817
+    m_Localized: Serverilista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810818
+    m_Localized: Takaisin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810819
+    m_Localized: Serverilista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810820
+    m_Localized: Etsi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810821
+    m_Localized: Luo uusi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810822
+    m_Localized: Takaisin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810823
+    m_Localized: Etsi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810824
+    m_Localized: "Selv\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810825
+    m_Localized: Takaisin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810826
+    m_Localized: Luo uusi serveri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810827
+    m_Localized: "Selv\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810828
+    m_Localized: Takaisin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36617102426701824
+    m_Localized: "K\xE4\xE4nn\xE4 pystysuuntainen t\xE4ht\xE4ys"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507528912896
+    m_Localized: Liity serveriin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661632
+    m_Localized: "Oletko varma, ett\xE4 haluat liitty\xE4 {lobbyName}:n?"
+    m_Metadata:
+      m_Items:
+      - rid: 7803763168112017413
+  - m_Id: 53350507566661633
+    m_Localized: Jeps!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661634
+    m_Localized: No en!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53646107088584704
+    m_Localized: Paina Uutta Nappia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54361496021958656
+    m_Localized: Peilin laatu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474049
+    m_Localized: '{hours:conditional:{hours}h |}{minutes:conditional:{minutes}m |}{seconds:conditional:{seconds}s|}'
+    m_Metadata:
+      m_Items:
+      - rid: 7803763168112017413
+  - m_Id: 74362528585474048
+    m_Localized: 'Aurinkokivilaaksolomakeskus
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74361386170310656
+    m_Localized: Peliohjain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474050
+    m_Localized: "Tekstist\xE4 puheeksi kieli"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81298091666300928
+    m_Localized: Sama kieli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856340672512
+    m_Localized: "Ty\xF6nn\xE4 / ved\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615552
+    m_Localized: "K\xE4ytt\xF6liittym\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615553
+    m_Localized: Vaihto seuraavaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615554
+    m_Localized: Vaihto edelliseen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615555
+    m_Localized: Klikkaa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87379731429711872
+    m_Localized: "T\xE4ht\xE4imen kiihdytys"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062029873152
+    m_Localized: Ajoneuvo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010496
+    m_Localized: Kiihdytys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010497
+    m_Localized: Jarrutus / Peruuttaminen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010498
+    m_Localized: Vasemmalle ajautuminen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010499
+    m_Localized: Oikealle ajautuminen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010500
+    m_Localized: Ajoneuvoon istuminen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010501
+    m_Localized: Ilmekiekko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269605806080
+    m_Localized: Tarraus ohjaus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166208
+    m_Localized: Tarraus ohjaus nopeus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166209
+    m_Localized: Meelee tarraus ohjaus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166210
+    m_Localized: Meelee tarraus ohjaus nopeus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166211
+    m_Localized: "V\xE4rin\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484512382976
+    m_Localized: "Yhdess\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484554326016
+    m_Localized: "Erill\xE4\xE4n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338642206720
+    m_Localized: Ilmetila
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338684149760
+    m_Localized: "Ty\xF6nt\xF6 / veto "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442817417216
+    m_Localized: Oikea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442855165952
+    m_Localized: Vasen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93863369772097536
+    m_Localized: Ilmekiekko-ohjainsauva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94776138692288512
+    m_Localized: "V\xE4rin\xE4"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
@@ -1524,3 +1795,6 @@ MonoBehaviour:
         - id: 23207164712574976
         - id: 30862829524254720
         - id: 33437954593423360
+        - id: 33712689940168712
+        - id: 53350507566661632
+        - id: 74362528585474049

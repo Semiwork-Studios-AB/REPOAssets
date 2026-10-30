@@ -1,0 +1,303 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Subtitles_pt-PT
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pt-PT
+  m_SharedData: {fileID: 11400000, guid: d7769f30d4d5aeb45ab0918f43fed15a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1049453162127360
+    m_Localized: 'Ora, enlatem-me '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049453208264704
+    m_Localized: "e chamem-me \"feij\xE3o\"!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067686980214784
+    m_Localized: Consigo ver o brilho das pedras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687022157824
+    m_Localized: "at\xE9 de olhos fechados!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352128
+    m_Localized: HA! HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352129
+    m_Localized: Era o que se dizia na altura, malta.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352130
+    m_Localized: O brilho das pedras vem das
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352131
+    m_Localized: "part\xEDculas de alta energia "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352132
+    m_Localized: 'emitidas pelas Pedras de Sol. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352133
+    m_Localized: No ano de--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907347210240
+    m_Localized: Viva, companheiro!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365444215693312
+    m_Localized: Encosta uma Pedra do Sol ao ouvido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365444215693313
+    m_Localized: "e talvez te fa\xE7a c\xF3cegas nos neur\xF3nios."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153282
+    m_Localized: "Talvez ou\xE7as uma can\xE7\xE3o!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153283
+    m_Localized: "N\xE3o ou\xE7o nada!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153284
+    m_Localized: "Talvez porque n\xE3o tenho"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153285
+    m_Localized: "um c\xE9rebro humano!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153286
+    m_Localized: Como assim?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153287
+    m_Localized: Somos humanos!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153288
+    m_Localized: 'Certo? '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734112038912
+    m_Localized: "Ol\xE1, malta!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981952
+    m_Localized: Bem-vindos ao Resort Sunstone Valley!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981953
+    m_Localized: "A representa\xE7\xE3o mais aut\xEAntica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981954
+    m_Localized: "da nossa grande hist\xF3ria de extra\xE7\xE3o de cristais."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981955
+    m_Localized: Com todas as comodidades
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981956
+    m_Localized: que os tempos modernos--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981957
+    m_Localized: "O meu nome \xE9 Jenny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981958
+    m_Localized: "e trabalho aqui h\xE1--"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981959
+    m_Localized: 73...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981960
+    m_Localized: ... anos!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981961
+    m_Localized: Espero que gostem da estadia!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981962
+    m_Localized: "A palavra-passe do Wi-Fi \xE9..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981963
+    m_Localized: 6...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981964
+    m_Localized: 7...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981965
+    m_Localized: 4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981966
+    m_Localized: 4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428943054823424
+    m_Localized: 4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852471349248
+    m_Localized: "O brilho das pedras \xE9 a energia do futuro!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709376
+    m_Localized: Sem ele
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709377
+    m_Localized: "n\xE3o haveria--"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709378
+    m_Localized: "rob\xF4s!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438646992363520
+    m_Localized: Estes carrinhos de mina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112256
+    m_Localized: eram usados para percorrer as
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112257
+    m_Localized: "minas escuras e perigosas que n\xF3s, "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112258
+    m_Localized: 'os mineiros, '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112259
+    m_Localized: "exploramos e de onde extra\xEDmos "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112260
+    m_Localized: as Pedras do Sol!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112261
+    m_Localized: Ironicamente...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112262
+    m_Localized: para andares neles...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112263
+    m_Localized: "n\xE3o podes ser \"mi-NOR\"!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191595347968
+    m_Localized: 'O nosso mundo '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096704
+    m_Localized: "funciona gra\xE7as a estas estranhas pedras brilhantes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096705
+    m_Localized: Sabias que
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096706
+    m_Localized: bastam umas poucas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096707
+    m_Localized: 'para abastecer uma grande '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096708
+    m_Localized: "\xE1rea metropolitana?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096709
+    m_Localized: "\xC9 bastante interessante, n\xE3o \xE9?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375914909696
+    m_Localized: "Ol\xE1 crian\xE7as!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375961047040
+    m_Localized: "Quais destes sons s\xE3o de animais que n\xE3o s\xE3o nativos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375961047041
+    m_Localized: de Sunstone Valley?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782301851648
+    m_Localized: "Bora l\xE1 malta, voc\xEAs conseguem! "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406080
+    m_Localized: "S\xF3 mais um bocadinho!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406081
+    m_Localized: "Est\xE1 quase!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406082
+    m_Localized: Ha ha!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406083
+    m_Localized: "Que situa\xE7\xE3o maluca, n\xE9?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406084
+    m_Localized: "Por estas bandas \xE9 assim! "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5022492442746880
+    m_Localized: "O meu cavalo est\xE1 MORTO-- "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717449428992
+    m_Localized: Boo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717491372032
+    m_Localized: "Estou escondido atr\xE1s do cilindro verde!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717491372033
+    m_Localized: Ha ha ha!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,1687 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menu_pl-PL
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: 6578110d0d7f6fd47b65a5fbe8aef088, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2515126557588324493
+  m_TableData:
+  - m_Id: 33712689940168712
+    m_Localized: 'Twoja wersja: {versionSelf}
+
+      Wersja tego lobby: {version}'
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324493
+  - m_Id: 53350507566661632
+    m_Localized: "Czy na pewno chcesz do\u0142\u0105czy\u0107?\n{lobbyName}"
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324493
+  - m_Id: 5801515992834048
+    m_Localized: '{players:list:{}|,   |   i   }'
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324493
+  - m_Id: 33437954593423360
+    m_Localized: "Limit zapisanych gier wynosi {limit}. Aby stworzy\u0107 nowy zapis,
+      nale\u017Cy usun\u0105\u0107 wcze\u015Bniejszy."
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324493
+  - m_Id: 23207164712574976
+    m_Localized: '{ping} ms'
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324493
+  - m_Id: 23197572767145984
+    m_Localized: '{ping} ms'
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324493
+  - m_Id: 30862829524254720
+    m_Localized: Poziom {number}
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324493
+  - m_Id: 62270994624512
+    m_Localized: Gra prywatna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790336
+    m_Localized: Gra publiczna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790337
+    m_Localized: "Do\u0142\u0105cz do znajomego"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790338
+    m_Localized: Gra solo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790339
+    m_Localized: Samouczek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21739271462313984
+    m_Localized: Personalizacja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790340
+    m_Localized: Ustawienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790341
+    m_Localized: "Wyjd\u017A z gry"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728038916096
+    m_Localized: "Stw\xF3rz gr\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887616
+    m_Localized: "Znajomy z najlepszym sprz\u0119tem \npowinien by\u0107 gospodarzem.\n\nCzy
+      jeste\u015B tym znajomym?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887617
+    m_Localized: Haha, no ba!  :)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887618
+    m_Localized: "Nie, raczej nie\u2026  :'("
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887619
+    m_Localized: Uwaga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887620
+    m_Localized: "Podczas rozgrywki jest mo\u017Cliwo\u015B\u0107 natrafienia na
+      osoby oszukuj\u0105ce lub nieuprzejme\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887621
+    m_Localized: Rozumiem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887622
+    m_Localized: "Nie, dzi\u0119ki :("
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170002669568
+    m_Localized: "Wyjd\u017A z gry"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029696
+    m_Localized: "Zamkn\u0105\u0107 aplikacj\u0119?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029697
+    m_Localized: Tak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029698
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735488
+    m_Localized: "Menu g\u0142\xF3wne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735489
+    m_Localized: "Wyj\u015B\u0107 do menu g\u0142\xF3wnego?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735490
+    m_Localized: Tak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735491
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029699
+    m_Localized: Autodestrukcja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029700
+    m_Localized: "Naprawd\u0119?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029701
+    m_Localized: Dla mnie to koniec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029702
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689910808576
+    m_Localized: "Wyrzucono ci\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168704
+    m_Localized: "Gospodarz wyrzuci\u0142 ci\u0119 z gry."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168705
+    m_Localized: Cholibka, no ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168706
+    m_Localized: "Roz\u0142\u0105czono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390400
+    m_Localized: "Pow\xF3d:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168708
+    m_Localized: Przekroczono limit czasu wczytywania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168709
+    m_Localized: "Gospodarz si\u0119 roz\u0142\u0105czy\u0142"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390401
+    m_Localized: "Masz zakaz wst\u0119pu do tego lobby."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168710
+    m_Localized: Cholibka, no ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168711
+    m_Localized: "Z\u0142a wersja gry"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168713
+    m_Localized: Cholibka, no ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168714
+    m_Localized: "Lobby zamkni\u0119te"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168715
+    m_Localized: "Lobby zosta\u0142o zamkni\u0119te."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168716
+    m_Localized: Cholibka, no ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507528912896
+    m_Localized: "Do\u0142\u0105cz do serwera"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661633
+    m_Localized: Jeszcze jak!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661634
+    m_Localized: Nie!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235048194048
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554176
+    m_Localized: Kontynuuj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554177
+    m_Localized: Modyfikuj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554178
+    m_Localized: Ustawienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554179
+    m_Localized: Autodestrukcja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554180
+    m_Localized: "Aktywne ksi\u0119\u017Cyce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554181
+    m_Localized: "Menu g\u0142\xF3wne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554182
+    m_Localized: "Wyjd\u017A z gry"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118074785792
+    m_Localized: "Aktywne ksi\u0119\u017Cyce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757312
+    m_Localized: "Wr\xF3\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757313
+    m_Localized: "Ksi\u0119\u017Cyc w nowiu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757314
+    m_Localized: "Modu\u0142 leczniczy w ci\u0119\u017Car\xF3wce przywraca teraz
+      35 pkt zdrowia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757315
+    m_Localized: "Potwory trudniej teraz przewr\xF3ci\u0107 warto\u015Bciowymi przedmiotami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757316
+    m_Localized: "P\xF3\u0142ksi\u0119\u017Cyc"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757317
+    m_Localized: "Potwory przeci\u0105\u017Caj\u0105 teraz tw\xF3j chwytak."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757318
+    m_Localized: "Potwory otrzymuj\u0105 powa\u017Cne obra\u017Cenia od do\u0142\xF3w,
+      ale mog\u0105 przetrwa\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757319
+    m_Localized: "Modu\u0142 leczniczy w ci\u0119\u017Car\xF3wce przywraca teraz
+      25 pkt zdrowia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757320
+    m_Localized: "Ksi\u0119\u017Cyc w pe\u0142ni"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757321
+    m_Localized: "Potwory przeci\u0105\u017Caj\u0105 teraz tw\xF3j chwytak o 25%
+      szybciej."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757322
+    m_Localized: "Potwory otrzymuj\u0105 teraz mniejsze obra\u017Cenia od do\u0142\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757323
+    m_Localized: "Superksi\u0119\u017Cyc"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757324
+    m_Localized: "Kule przeciwnik\xF3w teraz wybuchaj\u0105 podczas zniszczenia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757325
+    m_Localized: "Potwory przeci\u0105\u017Caj\u0105 teraz tw\xF3j chwytak o 50%
+      szybciej."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757326
+    m_Localized: "Potwory otrzymuj\u0105 teraz mniejsze obra\u017Cenia od do\u0142\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029706
+    m_Localized: "< Wr\xF3\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029707
+    m_Localized: Nowa gra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029708
+    m_Localized: Tryb gry solo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029709
+    m_Localized: Tryb gry wieloosobowej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029710
+    m_Localized: Zapisane gry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029711
+    m_Localized: Zapisane gry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029712
+    m_Localized: "Oto ca\u0142a zabawa, kt\xF3r\u0105 uda\u0142o ci si\u0119 prze\u017Cy\u0107,
+      i szansa na to, by j\u0105 kontynuowa\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029713
+    m_Localized: "Usu\u0144 zapisan\u0105 gr\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029714
+    m_Localized: "Wczytaj zapisan\u0105 gr\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029715
+    m_Localized: "U\u017Cyj kopii zapasowej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10257803930230784
+    m_Localized: "(Naci\u015Bnij, by zmieni\u0107 nazw\u0119)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7715786482245632
+    m_Localized: Uszkodzony plik zapisu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029717
+    m_Localized: "Obecna faza ksi\u0119\u017Cyca:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549056
+    m_Localized: "\u0141\u0105czny zysk:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549057
+    m_Localized: Przepraszamy!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549058
+    m_Localized: "Wci\u015Bnij \u201EUsu\u0144 zapisan\u0105 gr\u0119\u201D, aby
+      usun\u0105\u0107 \nca\u0142y folder z plikami zapisu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33065608682569728
+    m_Localized: "Uda\u0142o ci si\u0119 w\u0142asnymi si\u0142ami!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7730571982659584
+    m_Localized: Ups!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7730572012019712
+    m_Localized: Uszkodzony plik zapisu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179729825792
+    m_Localized: "Zmie\u0144 nazw\u0119 zapisanej gry"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179754991616
+    m_Localized: "Wr\xF3\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179754991617
+    m_Localized: "Potwierd\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296960
+    m_Localized: Nowa gra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296961
+    m_Localized: "Czy chcesz rozpocz\u0105\u0107 now\u0105 gr\u0119?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296962
+    m_Localized: Tak!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296963
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954568257536
+    m_Localized: "Osi\u0105gni\u0119to limit zapis\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954593423361
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853696
+    m_Localized: "Wczytaj zapisan\u0105 gr\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853697
+    m_Localized: "Wczyta\u0107 ten zapis?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853698
+    m_Localized: Tak!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853699
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853700
+    m_Localized: "Usu\u0144 zapisan\u0105 gr\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853701
+    m_Localized: "Czy NA PEWNO chcesz usun\u0105\u0107 ten zapis NA ZAWSZE?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853702
+    m_Localized: Tak! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853703
+    m_Localized: "Nie\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853704
+    m_Localized: "Przywr\xF3\u0107 z kopii zapasowej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853705
+    m_Localized: "Czy chcesz nadpisa\u0107 ten zapis kopi\u0105 zapasow\u0105?\n\nTo
+      jest nieodwracalne!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853706
+    m_Localized: Tak!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853707
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853708
+    m_Localized: Regiony
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853709
+    m_Localized: "Wr\xF3\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853710
+    m_Localized: Wybierz najlepszy region
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853711
+    m_Localized: Azja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853712
+    m_Localized: Australia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853713
+    m_Localized: Wschodnia Kanada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853714
+    m_Localized: Chiny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853715
+    m_Localized: Europa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853716
+    m_Localized: Hongkong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853717
+    m_Localized: Indie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853718
+    m_Localized: Japonia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853719
+    m_Localized: "Republika Po\u0142udniowej Afryki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853720
+    m_Localized: "Ameryka Po\u0142udniowa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853721
+    m_Localized: "Korea Po\u0142udniowa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853722
+    m_Localized: Turcja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853723
+    m_Localized: Zjednoczone Emiraty Arabskie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853724
+    m_Localized: Wschodnie USA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853725
+    m_Localized: Zachodnie USA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853726
+    m_Localized: "Po\u0142udniowo-centralne USA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074834644992
+    m_Localized: Gra publiczna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810816
+    m_Localized: Losowe dobieranie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810817
+    m_Localized: "Lista serwer\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810818
+    m_Localized: "Wr\xF3\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810819
+    m_Localized: "Lista serwer\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810820
+    m_Localized: Szukaj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810821
+    m_Localized: "Stw\xF3rz nowy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810822
+    m_Localized: "Wr\xF3\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810823
+    m_Localized: Szukaj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810824
+    m_Localized: "Potwierd\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810825
+    m_Localized: "Wr\xF3\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810826
+    m_Localized: "Stw\xF3rz nowy serwer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810827
+    m_Localized: "Potwierd\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810828
+    m_Localized: "Wr\xF3\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343564980224
+    m_Localized: Ustawienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534656
+    m_Localized: Rozgrywka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534657
+    m_Localized: Grafika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534658
+    m_Localized: "D\u017Awi\u0119k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534659
+    m_Localized: Sterowanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534660
+    m_Localized: "J\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534661
+    m_Localized: "Wr\xF3\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534662
+    m_Localized: "W\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534663
+    m_Localized: "Wy\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534664
+    m_Localized: "Prze\u0142\u0105cz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534665
+    m_Localized: Przytrzymaj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938048
+    m_Localized: "Wy\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938049
+    m_Localized: Bardzo niska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938050
+    m_Localized: Niska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938051
+    m_Localized: "\u015Arednia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938052
+    m_Localized: "Domy\u015Blna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938053
+    m_Localized: "Wy\u0142."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938054
+    m_Localized: Minimalne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938055
+    m_Localized: "Pe\u0142ne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938056
+    m_Localized: W oknie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938057
+    m_Localized: "Pe\u0142ny ekran"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938058
+    m_Localized: Bez limitu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938059
+    m_Localized: Bardzo niski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938060
+    m_Localized: Niski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938061
+    m_Localized: "\u015Aredni"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938062
+    m_Localized: Wysoki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938063
+    m_Localized: Bardzo wysoki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938064
+    m_Localized: Bardzo niska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938065
+    m_Localized: Niska
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938066
+    m_Localized: "\u015Arednia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938067
+    m_Localized: Wysoka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938068
+    m_Localized: Bardzo wysoka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938069
+    m_Localized: Bardzo niski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938070
+    m_Localized: Niski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938071
+    m_Localized: "\u015Aredni"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938072
+    m_Localized: Wysoki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938073
+    m_Localized: Bardzo wysoki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938074
+    m_Localized: "Ma\u0142a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938075
+    m_Localized: "\u015Arednia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938076
+    m_Localized: "Domy\u015Blna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938077
+    m_Localized: Brak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534674
+    m_Localized: Rozgrywka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534675
+    m_Localized: "Przywr\xF3\u0107 domy\u015Blne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605050462208
+    m_Localized: "Przywr\xF3\u0107 domy\u015Blne ustawienia rozgrywki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822336
+    m_Localized: "Czy chcesz przywr\xF3ci\u0107 domy\u015Blne ustawienia rozgrywki?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822337
+    m_Localized: Tak!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822338
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534676
+    m_Localized: Porady
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534677
+    m_Localized: Nazwy graczy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534678
+    m_Localized: "\u015Awiat\u0142oczu\u0142o\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534679
+    m_Localized: Arachnofobia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534680
+    m_Localized: "Czu\u0142o\u015B\u0107 sterowania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534681
+    m_Localized: Stabilizacja kamery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534682
+    m_Localized: "Wstrz\u0105sy kamery"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534683
+    m_Localized: Szum kamery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534684
+    m_Localized: Animacja kamery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36617102426701824
+    m_Localized: "Odwr\xF3\u0107 celowanie w pionie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534686
+    m_Localized: Automatyczne trzymanie wyjmowanego przedmiotu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534687
+    m_Localized: "Udost\u0119pnianie aktywno\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534688
+    m_Localized: Przedmioty kosmetyczne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822339
+    m_Localized: Grafika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534689
+    m_Localized: "Przywr\xF3\u0107 domy\u015Blne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822340
+    m_Localized: "Przywr\xF3\u0107 domy\u015Blne ustawienia grafiki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822341
+    m_Localized: "Czy chcesz przywr\xF3ci\u0107 domy\u015Blne ustawienia grafiki?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822342
+    m_Localized: Tak!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822343
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534690
+    m_Localized: Tryb gry w oknie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534691
+    m_Localized: Vsync
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534692
+    m_Localized: Gamma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534693
+    m_Localized: Maks. liczba klatek/sek.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534694
+    m_Localized: "Zasi\u0119g \u015Bwiate\u0142"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534695
+    m_Localized: "Jako\u015B\u0107 cieni"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534696
+    m_Localized: "Zasi\u0119g cieni"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534697
+    m_Localized: Rozmycie ekranu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534698
+    m_Localized: "Zniekszta\u0142cenie optyczne"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534699
+    m_Localized: "Po\u015Bwiata"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534700
+    m_Localized: Aberracja chromatyczna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534701
+    m_Localized: Ziarno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534702
+    m_Localized: "Zap\u0119tlenie zak\u0142\xF3ce\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534703
+    m_Localized: Pikselizacja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54361496021958656
+    m_Localized: "Jako\u015B\u0107 odbi\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534704
+    m_Localized: "D\u017Awi\u0119k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534705
+    m_Localized: "Przywr\xF3\u0107 domy\u015Blne ustawienia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723968
+    m_Localized: "Przywr\xF3\u0107 domy\u015Blne ustawienia d\u017Awi\u0119ku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723969
+    m_Localized: "Czy chcesz przywr\xF3ci\u0107 domy\u015Blne ustawienia d\u017Awi\u0119ku?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723970
+    m_Localized: Tak!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723971
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534706
+    m_Localized: "Og\xF3lna g\u0142o\u015Bno\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534707
+    m_Localized: "G\u0142o\u015Bno\u015B\u0107 muzyki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10942035694444544
+    m_Localized: "G\u0142o\u015Bno\u015B\u0107 efekt\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534709
+    m_Localized: "G\u0142o\u015Bno\u015B\u0107 zbli\u017Ceniowego czatu g\u0142osowego"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10942035694444545
+    m_Localized: "G\u0142o\u015Bno\u015B\u0107 syntezatora mowy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534711
+    m_Localized: Mikrofon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534712
+    m_Localized: "G\u0142o\u015Bno\u015B\u0107 mikrofonu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534713
+    m_Localized: "Wci\u015Bnij, aby m\xF3wi\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534714
+    m_Localized: Sterowanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534715
+    m_Localized: "Przywr\xF3\u0107 domy\u015Blne ustawienia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723972
+    m_Localized: "Przywr\xF3\u0107 domy\u015Blne ustawienia sterowania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723973
+    m_Localized: "Czy chcesz przywr\xF3ci\u0107 domy\u015Blne ustawienia sterowania?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723974
+    m_Localized: Tak!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723975
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53646107088584704
+    m_Localized: "Wci\u015Bnij nowy przycisk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534716
+    m_Localized: "Poruszanie si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534717
+    m_Localized: Ruch do przodu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534718
+    m_Localized: Ruch w lewo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534719
+    m_Localized: "Ruch do ty\u0142u"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534720
+    m_Localized: Ruch w prawo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534721
+    m_Localized: Skok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534722
+    m_Localized: "Kucni\u0119cie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534723
+    m_Localized: Bieg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534724
+    m_Localized: "Skul si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534725
+    m_Localized: Chwytanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534726
+    m_Localized: Chwytanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534727
+    m_Localized: "Obr\xF3t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534728
+    m_Localized: "Odepchni\u0119cie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534729
+    m_Localized: "Przyci\u0105gni\u0119cie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534730
+    m_Localized: Inne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534731
+    m_Localized: Mapa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534732
+    m_Localized: Akcja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534733
+    m_Localized: Ekwipunek 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534734
+    m_Localized: Ekwipunek 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534735
+    m_Localized: Ekwipunek 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534736
+    m_Localized: Czat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534737
+    m_Localized: "Potwierd\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534738
+    m_Localized: "Wr\xF3\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534739
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534740
+    m_Localized: "Ogl\u0105daj nast\u0119pnego"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534741
+    m_Localized: "Ogl\u0105daj poprzedniego"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534742
+    m_Localized: "Wci\u015Bnij, aby m\xF3wi\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534743
+    m_Localized: "Prze\u0142\u0105cz wyciszenie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534744
+    m_Localized: Emocje gracza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145570844672
+    m_Localized: "Z\u0142o\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593408
+    m_Localized: Smutek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593409
+    m_Localized: "Podejrzliwo\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593410
+    m_Localized: "Zamkni\u0119te oczy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593411
+    m_Localized: Strach
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593412
+    m_Localized: "Rado\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534751
+    m_Localized: "J\u0119zyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534752
+    m_Localized: Zestawy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534753
+    m_Localized: "G\u0142owa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534754
+    m_Localized: Ramiona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534755
+    m_Localized: "Cia\u0142o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534756
+    m_Localized: Nogi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534757
+    m_Localized: "Potwierd\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534758
+    m_Localized: Wybierz kolor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534759
+    m_Localized: "Potwierd\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534760
+    m_Localized: "Usu\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534761
+    m_Localized: "Nakrycie g\u0142owy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534762
+    m_Localized: "Na prawe rami\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534763
+    m_Localized: "Na lewe rami\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534764
+    m_Localized: "Na praw\u0105 nog\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534765
+    m_Localized: "Na lew\u0105 nog\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534766
+    m_Localized: "G\xF3rna cz\u0119\u015B\u0107 g\u0142owy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534767
+    m_Localized: "Dolna cz\u0119\u015B\u0107 g\u0142owy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534768
+    m_Localized: "G\xF3rna cz\u0119\u015B\u0107 cia\u0142a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534769
+    m_Localized: "Dolna cz\u0119\u015B\u0107 cia\u0142a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534770
+    m_Localized: "Prawe rami\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534771
+    m_Localized: "Lewe rami\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534772
+    m_Localized: Prawa noga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534773
+    m_Localized: Lewa noga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534774
+    m_Localized: Chwytak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534775
+    m_Localized: Prawa powieka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728960
+    m_Localized: Lewa powieka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21470840070594560
+    m_Localized: "G\xF3rna cz\u0119\u015B\u0107 twarzy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21470840091566080
+    m_Localized: "\u015Arodkowa cz\u0119\u015B\u0107 twarzy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728962
+    m_Localized: Uszy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728963
+    m_Localized: Okulary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15231403103870976
+    m_Localized: But prawy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728965
+    m_Localized: "G\xF3ra stroju"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728966
+    m_Localized: "D\xF3\u0142 stroju"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15231403133231104
+    m_Localized: But lewy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728969
+    m_Localized: "Wz\xF3r g\xF3rnej cz\u0119\u015Bci g\u0142owy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728970
+    m_Localized: "Wz\xF3r dolnej cz\u0119\u015Bci g\u0142owy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728961
+    m_Localized: "Wz\xF3r g\xF3rnej cz\u0119\u015Bci cia\u0142a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728968
+    m_Localized: "Wz\xF3r dolnej cz\u0119\u015Bci cia\u0142a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008624496640
+    m_Localized: "Wz\xF3r prawego ramienia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468160
+    m_Localized: "Wz\xF3r lewego ramienia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468161
+    m_Localized: "Wz\xF3r prawej nogi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468162
+    m_Localized: "Wz\xF3r lewej nogi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16702161813680128
+    m_Localized: "Dolna cz\u0119\u015B\u0107 twarzy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728971
+    m_Localized: "Usu\u0144 zestaw"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728972
+    m_Localized: "Czy NA PEWNO chcesz usun\u0105\u0107 ten zestaw NA ZAWSZE?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728973
+    m_Localized: Tak! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728974
+    m_Localized: Nie...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241957765120
+    m_Localized: "Wyczy\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930944
+    m_Localized: "Czy na pewno chcesz zdj\u0105\u0107 wszystkie cz\u0119\u015Bci
+      cia\u0142a i przedmioty kosmetyczne?\n\nTo jest nieodwracalne!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930945
+    m_Localized: Tak! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930946
+    m_Localized: Nie...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930947
+    m_Localized: "Wyczy\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930948
+    m_Localized: "Czy na pewno chcesz zdj\u0105\u0107 wszystkie cz\u0119\u015Bci
+      cia\u0142a?\n\nTo jest nieodwracalne!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930949
+    m_Localized: Tak! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930950
+    m_Localized: Nie...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930951
+    m_Localized: "Wyczy\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930952
+    m_Localized: "Czy na pewno chcesz zdj\u0105\u0107 wszystkie przedmioty kosmetyczne?\n\nTo
+      jest nieodwracalne!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930953
+    m_Localized: Tak! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930954
+    m_Localized: Nie...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930955
+    m_Localized: Wybierz losowo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930956
+    m_Localized: "Czy na pewno chcesz losowo wybra\u0107 wszystkie cz\u0119\u015Bci
+      cia\u0142a i przedmioty kosmetyczne?\n\nTo jest nieodwracalne!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930957
+    m_Localized: Tak! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930958
+    m_Localized: "Nie\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930959
+    m_Localized: Wybierz losowo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930960
+    m_Localized: "Czy na pewno chcesz losowo wybra\u0107 wszystkie cz\u0119\u015Bci
+      cia\u0142a?\n\nTo jest nieodwracalne!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930961
+    m_Localized: Tak! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930962
+    m_Localized: "Nie\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930963
+    m_Localized: Wybierz losowo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930964
+    m_Localized: "Czy na pewno chcesz losowo wybra\u0107 wszystkie przedmioty kosmetyczne?\n\nTo
+      jest nieodwracalne!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930965
+    m_Localized: Tak! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930966
+    m_Localized: Nie...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835840
+    m_Localized: "Zmie\u0144 kolor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835841
+    m_Localized: "Ta opcja zmieni kolor wszystkich cz\u0119\u015Bci cia\u0142a i
+      przedmiot\xF3w kosmetycznych.\n\nTo jest nieodwracalne!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835842
+    m_Localized: Tak! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835843
+    m_Localized: "Nie\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930967
+    m_Localized: "Zmie\u0144 kolor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930968
+    m_Localized: "Ta opcja zmieni kolor wszystkich cz\u0119\u015Bci cia\u0142a.\n\nTo
+      jest nieodwracalne!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930969
+    m_Localized: Tak! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930970
+    m_Localized: "Nie\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930971
+    m_Localized: "Zmie\u0144 kolor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930972
+    m_Localized: "Ta opcja zmieni kolor wszystkich przedmiot\xF3w kosmetycznych?\n\nTo
+      jest nieodwracalne!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930973
+    m_Localized: Tak! :')
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930974
+    m_Localized: "Nie\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15590857783631872
+    m_Localized: "Has\u0142o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15590857808797696
+    m_Localized: "Pomi\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15673645669015552
+    m_Localized: "Potwierd\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116045647872
+    m_Localized: Lobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008000
+    m_Localized: "Wci\u015Bnij [chat], aby czatowa\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008001
+    m_Localized: "Rozpocznij gr\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16030297698066432
+    m_Localized: "Gracz do\u0142\u0105cza..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008002
+    m_Localized: "Zapro\u015B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008003
+    m_Localized: Ustawienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008004
+    m_Localized: Modyfikuj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008005
+    m_Localized: "Opu\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008006
+    m_Localized: "Rozpocznij gr\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008007
+    m_Localized: "Wszyscy gotowi?\n\nGdy gra si\u0119 rozpocznie,\nnowi gracze nie
+      b\u0119d\u0105 mogli do\u0142\u0105czy\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008008
+    m_Localized: Tak!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008009
+    m_Localized: Nie, moment!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008010
+    m_Localized: "Opu\u015B\u0107 lobby"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008011
+    m_Localized: Na pewno?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008012
+    m_Localized: Tak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008013
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26475650059841536
+    m_Localized: "Ostrze\u017Cenie o \u015Bwiat\u0142oczu\u0142o\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26475650085007360
+    m_Localized: "W tej grze pojawiaj\u0105 si\u0119 b\u0142yskaj\u0105ce \u015Bwiat\u0142a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26475650085007361
+    m_Localized: "Niekt\xF3re osoby mog\u0105 do\u015Bwiadczy\u0107 ataku epileptycznego
+      na skutek oddzia\u0142ywania efekt\xF3w \u015Bwietlnych lub b\u0142yskaj\u0105cych
+      \u015Bwiate\u0142. Je\u015Bli podczas grania odczujesz dyskomfort, natychmiast
+      przesta\u0144 gra\u0107 i skontaktuj si\u0119 z lekarzem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972608
+    m_Localized: Wczytywanie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972609
+    m_Localized: "Wczytywanie si\u0119 zawiesi\u0142o?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972610
+    m_Localized: "Wci\u015Bnij [back], aby wyj\u015B\u0107 do menu g\u0142\xF3wnego"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30862829494894592
+    m_Localized: Sklep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30862829524254721
+    m_Localized: Koniec gry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599407521792
+    m_Localized: Stacja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687616
+    m_Localized: "Wysypisko \u015Bmieci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687617
+    m_Localized: "Plac\xF3wka McJannek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687618
+    m_Localized: "Posiad\u0142o\u015B\u0107 G\u0142owackiego"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687619
+    m_Localized: Muzeum Sztuki Ludzkiej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687620
+    m_Localized: "Akademia Zmiot\u0142y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474048
+    m_Localized: "Resort w Dolinie S\u0142onecznych G\u0142az\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474049
+    m_Localized: '{hours:conditional:{hours}g |}{minutes:conditional:{minutes}m |}{seconds:conditional:{seconds}s|}'
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324493
+  references:
+    version: 2
+    RefIds:
+    - rid: 2515126557588324493
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 33712689940168712
+        - id: 53350507566661632
+        - id: 5801515992834048
+        - id: 33437954593423360
+        - id: 23207164712574976
+        - id: 23197572767145984
+        - id: 30862829524254720
+        - id: 74362528585474049

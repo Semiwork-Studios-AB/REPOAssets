@@ -1,0 +1,883 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HUD_tr-TR
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: tr-TR
+  m_SharedData: {fileID: 11400000, guid: 64fd365dff4a0674f9ea9125eb765214, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2515126557588324468
+  m_TableData:
+  - m_Id: 26547416404832256
+    m_Localized: "Yenilemek \u0130\xE7in Bas\u0131l\u0131 Tut ({cost})"
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324468
+  - m_Id: 22956499448881152
+    m_Localized: '[back] atla'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229311066112
+    m_Localized: "\xC7\u0131karma noktas\u0131 etkinle\u015Ftirildi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231936
+    m_Localized: "\xC7\u0131karma noktas\u0131 tamamland\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23920995436847104
+    m_Localized: HEDEF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231937
+    m_Localized: "\xC7\u0131karma noktas\u0131n\u0131 de\u011Ferli e\u015Fyalarla
+      doldur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231938
+    m_Localized: "Bombalardan sak\u0131n!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231939
+    m_Localized: "Sonraki \xE7\u0131karma noktas\u0131n\u0131 bul"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231940
+    m_Localized: "Kamyona d\xF6n!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25797701263065088
+    m_Localized: "D\xFCkk\xE2ndan al\u0131\u015Fveri\u015F yap"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25797701284036608
+    m_Localized: "Yolculu\u011Fun tad\u0131n\u0131 \xE7\u0131kar, malzemelerini tazele
+      ve HAZIRLI\u011EINI YAP!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442524647424
+    m_Localized: "\u0130yi i\u015F \xE7\u0131kard\u0131n!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813248
+    m_Localized: "Hareket etmek i\xE7in [move] tu\u015Flar\u0131na bas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813249
+    m_Localized: "\u0130lerleme bar\u0131n\u0131 doldurmak i\xE7in hareket et!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813250
+    m_Localized: "\u0130lerleme bar\u0131 dolana kadar klavyedeki [move] tu\u015Flar\u0131na
+      bas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813251
+    m_Localized: "Z\u0131plamak i\xE7in [jump] tu\u015Funa bas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813252
+    m_Localized: "\u0130lerleme bar\u0131n\u0131 doldurmak i\xE7in z\u0131pla!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813253
+    m_Localized: "\u0130lerleme bar\u0131 dolana kadar [jump] tu\u015Funa basarak
+      z\u0131pla!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813254
+    m_Localized: "Gizlice hareket etmek i\xE7in [crouch] tu\u015Funa bas. Canavarlar\u0131n
+      seni g\xF6rme \u015Fans\u0131 azal\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813255
+    m_Localized: "\u0130lerleme bar\u0131n\u0131 doldurmak i\xE7in gizlice hareket
+      et!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813256
+    m_Localized: "\u0130lerleme bar\u0131 dolana kadar [crouch] tu\u015Funu bas\u0131l\u0131
+      tut ve [move] tu\u015Flar\u0131na bas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813257
+    m_Localized: "Mobilyalar\u0131n alt\u0131na saklanmak i\xE7in [crouch] tu\u015Funa
+      bas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813258
+    m_Localized: "\u0130lerleme bar\u0131n\u0131 doldurmak i\xE7in saklan!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813259
+    m_Localized: "[crouch] tu\u015Funu bas\u0131l\u0131 tutarak bir mobilyan\u0131n
+      alt\u0131na gir ve ilerleme bar\u0131 dolana kadar orada kal!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813260
+    m_Localized: "Depar atmak i\xE7in [sprint] tu\u015Funu bas\u0131l\u0131 tut.
+      Depar atmak enerjini t\xFCketir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813261
+    m_Localized: "\u0130lerleme bar\u0131n\u0131 doldurmak i\xE7in depar at!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813262
+    m_Localized: "\u0130lerleme bar\u0131 dolana kadar [sprint] tu\u015Funu bas\u0131l\u0131
+      tutup [move] tu\u015Flar\u0131na basarak depar at! Enerjin t\xFCkenirse dolmas\u0131n\u0131
+      bekle!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813263
+    m_Localized: "Tarz bir \u015Fekilde d\xFC\u015Fmek i\xE7in ko\u015F ve [tumble]
+      tu\u015Funa bas. Z\u0131plama da olur!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813264
+    m_Localized: "\u0130lerleme bar\u0131n\u0131 doldurmak i\xE7in ko\u015F, z\u0131pla
+      ve d\xFC\u015F!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813265
+    m_Localized: "[sprint] ile ko\u015F, [jump] ile z\u0131pla ve [tumble] tu\u015Funa
+      basarak kendini f\u0131rlat. \u0130lerleme bar\u0131 dolana kadar buna devam
+      et!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813266
+    m_Localized: "[grab] tu\u015Funa basarak nesneleri tut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813267
+    m_Localized: "\u0130lerleme bar\u0131n\u0131 doldurmak i\xE7in bu nesneyi ta\u015F\u0131!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813268
+    m_Localized: "\u0130lerleme bar\u0131 dolana kadar bir nesnenin \xFCzerine gelip
+      [grab] tu\u015Funu bas\u0131l\u0131 tut!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813269
+    m_Localized: "Tutulan nesneleri kendine yakla\u015Ft\u0131r\u0131p uzakla\u015Ft\u0131rmak
+      i\xE7in [pushAndPull] tu\u015Funa bas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813270
+    m_Localized: "Tutulan e\u015Fyay\u0131 kendine yakla\u015Ft\u0131r\u0131p uzakla\u015Ft\u0131r!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813271
+    m_Localized: "Tuttu\u011Fun nesneyi kendine yakla\u015Ft\u0131r\u0131p uzakla\u015Ft\u0131rmak
+      i\xE7in bir nesnenin \xFCzerine gelip [grab] tu\u015Funu bas\u0131l\u0131 tut
+      ve [pushAndPull] tu\u015Funa bas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813272
+    m_Localized: "[grab2] tu\u015Funa basarak tutulan nesneleri d\xF6nd\xFCr."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813273
+    m_Localized: "\u0130lerleme bar\u0131n\u0131 doldurmak i\xE7in nesneleri d\xF6nd\xFCr!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813274
+    m_Localized: "Nesneleri d\xF6nd\xFCrmek i\xE7in [grab] ile tutarken [grab2] tu\u015Funu
+      bas\u0131l\u0131 tut ve hedefini hareket ettir. \u0130lerleme bar\u0131 dolana
+      kadar d\xF6nd\xFCr!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813275
+    m_Localized: "E\u015Fyalar\u0131 a\xE7\u0131p kapatmak i\xE7in tut ve [interact]
+      tu\u015Funa bas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813276
+    m_Localized: "Bu nesneyi a\xE7 ve kapat!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813277
+    m_Localized: "\u0130lerleme bar\u0131 dolana kadar [grab] ile topu tut ve [interact]
+      tu\u015Funa basarak a\xE7 ve kapat!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813278
+    m_Localized: "E\u015Fyalar\u0131 envanterine koymak i\xE7in tut ve [inventory1]/[inventory2]/[inventory3]
+      tu\u015Flar\u0131na bas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813279
+    m_Localized: Envanterini tamamen doldur!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813280
+    m_Localized: "[grab] ile bir e\u015Fya tutarken [inventory1]/[inventory2]/[inventory3]
+      tu\u015Flar\u0131na bas. \u0130lerleme bar\u0131n\u0131 doldurmak i\xE7in envanterindeki
+      t\xFCm yuvalar\u0131 doldur!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813281
+    m_Localized: "E\u015Fyalar\u0131 envanterinden \xE7\u0131karmak i\xE7in [inventory1]/[inventory2]/[inventory3]
+      tu\u015Flar\u0131na bas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813282
+    m_Localized: "Envanterini tamamen bo\u015Falt!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813283
+    m_Localized: "\u0130lerleme bar\u0131n\u0131 doldurmak i\xE7in [inventory1]/[inventory2]/[inventory3]
+      tu\u015Flar\u0131na bas ve t\xFCm yuvalar\u0131 bo\u015Falt!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813284
+    m_Localized: "Haritaya bakmak i\xE7in [map] tu\u015Funa bas. Harita, y\xF6n bulmak
+      i\xE7in <b><u>GEREKL\u0130D\u0130R</u></b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813285
+    m_Localized: Haritaya bak!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201856
+    m_Localized: "\u0130lerleme bar\u0131 dolana kadar [map] tu\u015Funu bas\u0131l\u0131
+      tut ve haritaya bak!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201857
+    m_Localized: "Bu A.R.A.B.A'd\u0131r. Tutaca\u011F\u0131ndan tutabilirsin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201858
+    m_Localized: "A.R.A.B.A. ile biraz dola\u015F!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201859
+    m_Localized: "\u0130lerleme \xE7ubu\u011Fu dolana kadar [grab] ile A.R.A.B.A.'y\u0131
+      tutaca\u011F\u0131ndan tut ve onunla dola\u015F!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201860
+    m_Localized: "A.R.A.B.A.'y\u0131 de\u011Ferli e\u015Fyalarla doldur. A.R.A.B.A.,
+      daha fazla e\u015Fya ta\u015F\u0131mak i\xE7in <b><u>GEREKL\u0130D\u0130R</u></b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201861
+    m_Localized: "A.R.A.B.A.'y\u0131 de\u011Ferli e\u015Fyalarla doldur!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201862
+    m_Localized: "A.R.A.B.A.'ya \xFC\xE7 e\u015Fya koy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201863
+    m_Localized: "<b><u>\xC7IKARMA NOKTALARINI</u></b> etkinle\u015Ftirerek de\u011Ferli
+      e\u015Fyalarla doldur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201864
+    m_Localized: "De\u011Ferli e\u015Fyalar\u0131 \xE7\u0131kar!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201865
+    m_Localized: "MERHABA! <b><u>\xC7IKARMA NOKTASINI</u></b> DE\u011EERLi E\u015EYALARLA
+      DOLDUR!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201866
+    m_Localized: "B\xF6l\xFCmden ayr\u0131lmak i\xE7in <b><u>KAMYONA</u></b> gir
+      ve patronuna mesaj g\xF6nder."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201867
+    m_Localized: "Kamyona bin ve mesaj g\xF6nder!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201868
+    m_Localized: "Mesaj g\xF6ndermek i\xE7in kamyona gir, kamyon ekran\u0131ndaki
+      mesaj alan\u0131n\u0131 [grab] ile se\xE7 ve bas\u0131l\u0131 tut!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201869
+    m_Localized: "Di\u011Fer oyuncular\u0131 boyunlar\u0131ndan tutarak sa\u011Fl\u0131k
+      durumunu onlarla payla\u015F!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201870
+    m_Localized: "Di\u011Fer oyuncular\u0131 kafalar\u0131n\u0131 \xE7\u0131kararak
+      dirilt!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201871
+    m_Localized: "Ekipmanlar\u0131n\u0131 <b><u>\u015EARJ \u0130STASYONUNDA</u></b>
+      tamir ve \u015Farj edebilmek i\xE7in <b><u>ENERJ\u0130 KR\u0130STAL\u0130</u></b>
+      sat\u0131n al!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201872
+    m_Localized: "Ayn\u0131 anda sadece tek bir <b><u>\xC7IKARMA NOKTASI</u></b>
+      etkin olabilir, \u015Fu anda etkin olan noktay\u0131 haritadan bul!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201873
+    m_Localized: "Sohbeti a\xE7mak i\xE7in [chat] tu\u015Funa bas. \xC7ok e\u011Flencelidir!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201874
+    m_Localized: "Gitme zaman\u0131, kamyon seni iyile\u015Ftirir ve oyuncular\u0131n
+      kafalar\u0131n\u0131 getirdi\u011Finde onlar\u0131 diriltir!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201875
+    m_Localized: "Bu b\xF6l\xFCmde birden fazla <b><u>\xC7IKARMA NOKTASI</u></b>
+      var, buradan ayr\u0131labilmek i\xE7in hepsini tamamlamal\u0131s\u0131n!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201876
+    m_Localized: "Buras\u0131 <b><u>D\xDCKK\xC2N</u></b>, e\u015Fyalar\u0131 sat\u0131n
+      alabilmek i\xE7in \xE7\u0131kar. Burada al\u0131nan hasar ge\xE7ersizdir!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201877
+    m_Localized: "Y\xFCz ifadesi sergilemek i\xE7in [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6]
+      tu\u015Flar\u0131na bas. \u0130fadeleri birbiriyle birle\u015Ftirebilirsin
+      de!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201878
+    m_Localized: "Canavarlar\u0131 tutmak art\u0131k a\u015F\u0131r\u0131 y\xFCklemeye
+      neden olur ve maksimuma ula\u015Ft\u0131\u011F\u0131nda patlars\u0131n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201879
+    m_Localized: "Canavarlar\u0131 birden fazla ki\u015Fi tuttu\u011Funda a\u015F\u0131r\u0131
+      y\xFCkleme etkisi azal\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201880
+    m_Localized: "\xD6ld\xFC\u011F\xFCnde kafan \u015Farj olur. Bu \u015Farj ile
+      kafan\u0131 k\u0131sa bir s\xFCreli\u011Fine kontrol edebilirsin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201881
+    m_Localized: "Kafan\u0131 kontrol ederken z\u0131plamak i\xE7in [jump] tu\u015Funu
+      bas\u0131l\u0131 tut. Daha fazla \u015Farj harcayarak daha y\xFCkse\u011Fe
+      z\u0131plamak i\xE7in tu\u015Fu bas\u0131l\u0131 tut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201882
+    m_Localized: "K\xD6PE\u011E\u0130 OK\u015EA!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23598574554132480
+    m_Localized: "<b><u>\xC7IKARMA NOKTALARINI</u></b> de\u011Ferli e\u015Fyalarla
+      doldur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23609344067186688
+    m_Localized: "Bu bir <b><u>KOZMET\u0130K KUTUSU</u></b>. \xD6d\xFCl kazanmak
+      i\xE7in \xE7\u0131kar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23609344088158208
+    m_Localized: "Hasar g\xF6r\xFCrse kendi sa\u011Fl\u0131\u011F\u0131n\u0131 kullanarak
+      <b><u>ONARAB\u0130L\u0130RS\u0130N</u></b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23623549780570112
+    m_Localized: "\xD6d\xFCllerini almak i\xE7in al\u0131\u015Fveri\u015F otomat\u0131na
+      <b><u>VERG\u0130 JETONU</u></b> at."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25822090339713024
+    m_Localized: "Vergi jetonu atmak i\xE7in [interact] tu\u015Funa bas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195824295936
+    m_Localized: A.R.A.B.A. Topu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461760
+    m_Localized: A.R.A.B.A. Lazeri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30522141892837376
+    m_Localized: "Mod: G\xFC\xE7l\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30522141918003200
+    m_Localized: "Mod: Zay\u0131f"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461761
+    m_Localized: A.R.A.B.A.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461762
+    m_Localized: "M\u0130N\u0130 A.R.A.B.A."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461763
+    m_Localized: "\u015Earj Dronu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461764
+    m_Localized: "T\xFCy Dronu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461766
+    m_Localized: "Dayan\u0131kl\u0131 Dron"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461767
+    m_Localized: Yuvarlama Dronu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461768
+    m_Localized: "Yer \xC7ekimsizle\u015Ftirme Dronu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461769
+    m_Localized: "\xD6rdekli Kova"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461770
+    m_Localized: "\xC7\u0131karma Noktas\u0131 Bulucu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461771
+    m_Localized: "Bantlanm\u0131\u015F El Bombalar\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461772
+    m_Localized: "El Bombas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461773
+    m_Localized: "\u0130nsan Yap\u0131m\u0131 El Bombas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461774
+    m_Localized: "\u015Eok Dalgas\u0131 Bombas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461775
+    m_Localized: "Sersemletme Bombas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461776
+    m_Localized: "T\xFCfek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461777
+    m_Localized: "Foton Silah\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461778
+    m_Localized: "I\u015F\u0131n Tabancas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461779
+    m_Localized: "Pompal\u0131 T\xFCfek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461780
+    m_Localized: Elektrikli Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461781
+    m_Localized: "Bay\u0131lt\u0131c\u0131 Tabanca"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461782
+    m_Localized: "B\xFCy\xFCk Sa\u011Fl\u0131k Paketi (100)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461783
+    m_Localized: "Orta Sa\u011Fl\u0131k Paketi (50)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461784
+    m_Localized: "K\xFC\xE7\xFCk Sa\u011Fl\u0131k Paketi (25)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461785
+    m_Localized: "Yaprak \xDCfleme Makinesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461786
+    m_Localized: "Beyzbol Sopas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461787
+    m_Localized: Tava
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461788
+    m_Localized: "\u015Ei\u015Fme \xC7eki\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461789
+    m_Localized: Balyoz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461790
+    m_Localized: Elektrikli Jop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461791
+    m_Localized: "K\u0131l\u0131\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461792
+    m_Localized: "Patlay\u0131c\u0131 May\u0131n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461793
+    m_Localized: "\u015Eok Dalgas\u0131 May\u0131n\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461794
+    m_Localized: Elektrikli Tuzak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461801
+    m_Localized: "Yer \xC7ekimsizle\u015Ftirme K\xFCresi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461802
+    m_Localized: "Faz K\xF6pr\xFCs\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461803
+    m_Localized: Enerji Kristali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461804
+    m_Localized: "Defibrilat\xF6r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461805
+    m_Localized: "Plastik \xD6rdek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461806
+    m_Localized: "Yuvarlama Asas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461807
+    m_Localized: "Girdap Asas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461808
+    m_Localized: "Yer \xC7ekimsizle\u015Ftirme Asas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461809
+    m_Localized: "Kafa Batarya Y\xFCkseltmesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461810
+    m_Localized: "Haritadaki Oyuncu Say\u0131s\u0131 Y\xFCkseltmesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461811
+    m_Localized: "\xC7\xF6melerek Dinlenme Y\xFCkseltmesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461812
+    m_Localized: "Stamina Y\xFCkseltmesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461813
+    m_Localized: "Ekstra Z\u0131plama Y\xFCkseltmesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461814
+    m_Localized: "Menzil Y\xFCkseltmesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461815
+    m_Localized: "G\xFC\xE7 Y\xFCkseltmesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461816
+    m_Localized: "Sa\u011Fl\u0131k Y\xFCkseltmesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461817
+    m_Localized: "Depar H\u0131z\u0131 Y\xFCkseltmesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461818
+    m_Localized: "F\u0131rlayarak \xC7\u0131kma Y\xFCkseltmesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461819
+    m_Localized: "F\u0131rlayarak U\xE7ma Y\xFCkseltmesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461820
+    m_Localized: "F\u0131rlama Kanad\u0131 Y\xFCkseltmesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461821
+    m_Localized: "De\u011Ferli E\u015Fya Bulucu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461822
+    m_Localized: "Y\xFCk Ta\u015F\u0131y\u0131c\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461823
+    m_Localized: "G\xF6zc\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461824
+    m_Localized: Semibot Telsizi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461825
+    m_Localized: Semibot Telsizleri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26109748462911488
+    m_Localized: "B\xF6l\xFCm"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26108414590353408
+    m_Localized: "Y\xFCkseltmeler"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386432
+    m_Localized: "\xC7\xF6melerek Dinlenme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386433
+    m_Localized: "Kafa Bataryas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386434
+    m_Localized: "Ekstra Z\u0131plama"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386435
+    m_Localized: "Sa\u011Fl\u0131k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386436
+    m_Localized: "F\u0131rlayarak U\xE7ma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386437
+    m_Localized: "Haritadaki Oyuncu Say\u0131s\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386438
+    m_Localized: Menzil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386439
+    m_Localized: "Depar H\u0131z\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386440
+    m_Localized: Stamina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386441
+    m_Localized: "G\xFC\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386442
+    m_Localized: "F\u0131rlayarak \xC7\u0131kma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386443
+    m_Localized: "F\u0131rlama Kanad\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244123594752
+    m_Localized: Hayvanat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760576
+    m_Localized: Dinamitkafa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760577
+    m_Localized: "Palya\xE7o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760578
+    m_Localized: "Do\u011Fum G\xFCn\xFC \xC7ocu\u011Fu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760579
+    m_Localized: Temizlik Ekibi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760580
+    m_Localized: Papyonlu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760581
+    m_Localized: "R\xF6ntgenci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760582
+    m_Localized: "S\xFCper Avc\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760583
+    m_Localized: Elsa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760584
+    m_Localized: Mentalist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954880
+    m_Localized: "C\xFCce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954881
+    m_Localized: "A\u011Fa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954882
+    m_Localized: "Ba\u015Fg\xF6t\xFCren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954883
+    m_Localized: Kalpkapan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954884
+    m_Localized: "G\xF6r\xFCnmez"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954885
+    m_Localized: "Avc\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954886
+    m_Localized: "P\xF6rtlek G\xF6z"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954887
+    m_Localized: "C\xFCbbe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954888
+    m_Localized: "Bi\xE7ici"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954889
+    m_Localized: "Karart\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954890
+    m_Localized: "T\xFCk\xFCr\xFCk\xE7\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954891
+    m_Localized: "A\u011F\u0131r Vas\u0131ta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954892
+    m_Localized: Oyunbaz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954893
+    m_Localized: "G\xF6lge \xC7ocuk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954894
+    m_Localized: Kene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954895
+    m_Localized: Bella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954896
+    m_Localized: "\u015Eef"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954897
+    m_Localized: "\xC7\u0131\u011F\u0131rtkan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954898
+    m_Localized: Bezli Bebek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56998176310747136
+    m_Localized: Midilli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567563980800
+    m_Localized: "Eziklerin Kral\u0131!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175104
+    m_Localized: Hepiniz De Eziksiniz!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175105
+    m_Localized: Ayakta Kalan Son Ezik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175106
+    m_Localized: Oyun Bitti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26610272068415488
+    m_Localized: 'Cortlayanlar:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37110069994258432
+    m_Localized: 'Sohbet:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37111979069472768
+    m_Localized: 'Bas [interact]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086219382784
+    m_Localized: Sinyal Yok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509706196234240
+    m_Localized: "Al\u0131\u015Fveri\u015F Listesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086252937217
+    m_Localized: "Bo\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915759992832
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2515126557588324468
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 26547416404832256

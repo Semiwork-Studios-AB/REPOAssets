@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Input_fr-FR
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: f761f3bb4028f7c489d15d8dfebd3f88, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2515126557588324472
+  m_TableData:
+  - m_Id: 981428330519
+    m_Localized: "Pav\xE9 num\xE9rique {value}"
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324472
+  - m_Id: 981428330528
+    m_Localized: Souris {value}
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324472
+  - m_Id: 981386387456
+    m_Localized: Echap.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981424136192
+    m_Localized: Espace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981424136193
+    m_Localized: "Entr\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981424136194
+    m_Localized: Tab.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330496
+    m_Localized: "Fl\xE8che haut"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330497
+    m_Localized: "Fl\xE8che bas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330498
+    m_Localized: "Fl\xE8che gauche"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330499
+    m_Localized: "Fl\xE8che droite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330500
+    m_Localized: Maj. gauche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330501
+    m_Localized: Maj. droite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330502
+    m_Localized: Alt. gauche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330503
+    m_Localized: Alt. droit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330504
+    m_Localized: Ctrl. gauche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330505
+    m_Localized: Ctrl. droit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330508
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330509
+    m_Localized: "Retour arri\xE8re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330510
+    m_Localized: Page bas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330511
+    m_Localized: Page haut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330512
+    m_Localized: Accueil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330513
+    m_Localized: Fin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330514
+    m_Localized: Inser.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330515
+    m_Localized: Suppr.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330516
+    m_Localized: Verr. maj.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330517
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330518
+    m_Localized: Verr. num.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330520
+    m_Localized: "Pav\xE9 num\xE9rique Entr\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2676774395904
+    m_Localized: Lecture/Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330521
+    m_Localized: Clic gauche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330522
+    m_Localized: Molette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330523
+    m_Localized: Clic droit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330524
+    m_Localized: Bouton avant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302213200076800
+    m_Localized: "Bouton arri\xE8re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330526
+    m_Localized: "D\xE9f. haut/bas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330527
+    m_Localized: "D\xE9f. gauche/droite"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2515126557588324472
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 981428330519
+        - id: 981428330528

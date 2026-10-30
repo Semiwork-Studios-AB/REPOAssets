@@ -1,0 +1,621 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TTS_fi-FI
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: fi-FI
+  m_SharedData: {fileID: 11400000, guid: bc4b19486e3f94d4a9fd44e4d2661ea1, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2601145633132773462
+  m_TableData:
+  - m_Id: 2168907096064
+    m_Localized: "L\xE4hden"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816320
+    m_Localized: "Hyv\xE4sti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816321
+    m_Localized: Adieu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816322
+    m_Localized: sayonara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816323
+    m_Localized: auf wiedersehen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816324
+    m_Localized: Adios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816325
+    m_Localized: ciao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816326
+    m_Localized: au revoir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816327
+    m_Localized: hasta la vista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816328
+    m_Localized: "N\xE4hd\xE4\xE4n my\xF6hemmin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816329
+    m_Localized: "N\xE4hd\xE4\xE4n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816330
+    m_Localized: Moido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816331
+    m_Localized: "N\xE4hd\xE4\xE4n pian"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816332
+    m_Localized: Moikkelis Poippelis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816333
+    m_Localized: Moikkis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816334
+    m_Localized: Hei hei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816335
+    m_Localized: Moikka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816336
+    m_Localized: AAAAAAAAAA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816337
+    m_Localized: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816338
+    m_Localized: heippa.... ou?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816339
+    m_Localized: "T\xE4m\xE4 tulee sattumaan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816340
+    m_Localized: "Loppuni on t\xE4\xE4ll\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816341
+    m_Localized: "Miksi min\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816342
+    m_Localized: Anteeksi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816343
+    m_Localized: "N\xE4en valon"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816344
+    m_Localized: Surullista mutta tarpeellista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816345
+    m_Localized: HEIDO!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816346
+    m_Localized: ITSETUHOSEKVENSSI PERUTTU!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816347
+    m_Localized: "J\xE4titte minut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816348
+    m_Localized: "He j\xE4ttiv\xE4t minut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816349
+    m_Localized: "Tiimini pettiv\xE4t minut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816350
+    m_Localized: Kaikki unohtivat minut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816351
+    m_Localized: "Yst\xE4v\xE4ni tuhosivat minut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816352
+    m_Localized: "Jengi hylk\xE4s minut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816353
+    m_Localized: "Ryhm\xE4 j\xE4tti mut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816354
+    m_Localized: "Kaikki heittiv\xE4t minut pois."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816355
+    m_Localized: "He joihin luotin j\xE4ttiv\xE4t minut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816356
+    m_Localized: "Yst\xE4v\xE4ni hylk\xE4siv\xE4t minut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816357
+    m_Localized: Olen eksynyt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816358
+    m_Localized: Miksei he odottaneet?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816359
+    m_Localized: "Mit\xE4 tein v\xE4\xE4rin?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816360
+    m_Localized: "En voi uskoa t\xE4t\xE4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816361
+    m_Localized: Miten saatoitte?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816362
+    m_Localized: "T\xE4m\xE4 ei voi olla totta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816363
+    m_Localized: Olen aivan yksin.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816364
+    m_Localized: He olivat ainoa toivoni.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816365
+    m_Localized: "Minun olisi pit\xE4nyt arvata t\xE4m\xE4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816366
+    m_Localized: "T\xE4m\xE4 on niin ep\xE4reilua."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816367
+    m_Localized: "He j\xE4ttiv\xE4t minut j\xE4lkeen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816368
+    m_Localized: "He j\xE4ttiv\xE4t minut yksin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816369
+    m_Localized: "He heittiv\xE4t minut pime\xE4\xE4n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816370
+    m_Localized: "He hylk\xE4siv\xE4t minut sanomatta mit\xE4\xE4n..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816371
+    m_Localized: "He l\xE4htiv\xE4t ilman varoitusta..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816372
+    m_Localized: "He j\xE4ttiv\xE4t minut salaa..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816373
+    m_Localized: "He j\xE4ttiv\xE4t minut eiv\xE4tk\xE4 katsonut taakseen..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816374
+    m_Localized: He unohtivat minut kokonaan...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816375
+    m_Localized: Minut on petetty.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816376
+    m_Localized: "Yst\xE4v\xE4ni pettiv\xE4t minut."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816377
+    m_Localized: "Minun pit\xE4\xE4 p\xE4\xE4st\xE4 rekkaan pian ..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816378
+    m_Localized: Petos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816379
+    m_Localized: Petos havaittu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816380
+    m_Localized: Anteeksi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816381
+    m_Localized: "Ep\xE4onnistuin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816382
+    m_Localized: Voi ei, ei taas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816383
+    m_Localized: "tiimity\xF6 tekee unelmista totta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816384
+    m_Localized: "Luulin, ett\xE4 olimme yst\xE4vi\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816385
+    m_Localized: "Luulin, ett\xE4 olimme tiimi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816386
+    m_Localized: "Luulin, ett\xE4 oltais yhdess\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816387
+    m_Localized: "Luulin, ett\xE4 olitte minun perhe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816388
+    m_Localized: "{playerName} saa syd\xE4mmeni sanomaan pim pom."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816389
+    m_Localized: "Joka kerta kun n\xE4en {playerName}n, menet\xE4n itseni t\xE4ysin."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816390
+    m_Localized: "Haluan vain ajaa K.\xC4.R.R.Y.ss\xE4 {playerName}n kanssa."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816391
+    m_Localized: "{playerName} on vaan niin s\xF6p\xF6, eik\xF6s?"
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816392
+    m_Localized: '{playerName} on minun lempi velho.'
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816393
+    m_Localized: "Haluan vain viett\xE4\xE4 aikaa {playerName}n kanssa."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816394
+    m_Localized: '{playerName} saa minut lataamaan uusimman ohjelmaversion.'
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816395
+    m_Localized: '{playerName}, saat minut sanomaan gugu gaga ding dong.'
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816396
+    m_Localized: "Ehk\xE4 veromies voisi vihki\xE4 minut {playerName} kanssa."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816397
+    m_Localized: "Haluan menn\xE4 Japaniin {playerName}n kanssa."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816398
+    m_Localized: Olen ihastunut {playerName}n.
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816399
+    m_Localized: '{playerName}n hymy saa minut sulamaan.'
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816400
+    m_Localized: '{playerName} on minun unelmani.'
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816401
+    m_Localized: "Aina kun n\xE4en {playerName}n, haluan alkaa tanssimaan."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816402
+    m_Localized: '{playerName} on minun lemppari.'
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816403
+    m_Localized: '{playerName}, haluan kutittaa sinua.'
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816404
+    m_Localized: "{playerName} pelastaa p\xE4iv\xE4n."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816405
+    m_Localized: "{playerName} saa minun syd\xE4mmeni hakkaamaan."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816406
+    m_Localized: '{playerName} saa minut haluamaan kertomaan kaikki salaisuuteni.'
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816407
+    m_Localized: "{playerName} saa minut hymyilem\xE4\xE4n."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773462
+  - m_Id: 2168965816408
+    m_Localized: "T\xE4m\xE4 taikajuoma on niin s\xF6p\xF6."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816409
+    m_Localized: "Rakastan t\xE4t\xE4 taikajuomaa niin paljon!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816410
+    m_Localized: "T\xE4m\xE4 taikajuoma saa minut sanomaan piip puup."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816411
+    m_Localized: "T\xE4m\xE4 taikajuoma on minun rakkaani."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816412
+    m_Localized: "Joka kerta kun n\xE4en t\xE4m\xE4n taikajuoman, julistan rakkauteni."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816413
+    m_Localized: "T\xE4m\xE4 taikajuoma tekee p\xE4ivist\xE4ni kirkkaita."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816414
+    m_Localized: "Tykk\xE4\xE4n t\xE4st\xE4 taikajuomasta tosi paljon."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816415
+    m_Localized: "El\xE4m\xE4 on ihanaa t\xE4m\xE4n taikajuoman kanssa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816416
+    m_Localized: "T\xE4m\xE4 taikajuoma k\xE4ynnist\xE4\xE4 syd\xE4mmeni."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816417
+    m_Localized: "Tulen niin onnelliseksi kun vain ajattelen t\xE4t\xE4 taikajuomaa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816418
+    m_Localized: Auts! Auts! Auts!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816419
+    m_Localized: Ou ou ou!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816420
+    m_Localized: Au au au!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816421
+    m_Localized: Auu! Vau! Wauu!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816422
+    m_Localized: Auts auts auts!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816423
+    m_Localized: Error Error Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816424
+    m_Localized: System Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816425
+    m_Localized: Fatal Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816426
+    m_Localized: Error 404
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816427
+    m_Localized: Runtime error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816428
+    m_Localized: Putoan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816429
+    m_Localized: Kaadun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816430
+    m_Localized: ooooooouuuu!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816431
+    m_Localized: Voi eiiiiiiiiii!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816432
+    m_Localized: AAAAAAAA! AAAA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816433
+    m_Localized: AAAAAAAAAA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816434
+    m_Localized: AAAAAAAAAAAAAAAAAAAAAAAAAAAAA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816435
+    m_Localized: Ou! Ou! Ou!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816436
+    m_Localized: Ah! Ah! Ah!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816437
+    m_Localized: kolme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816438
+    m_Localized: kaksi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816439
+    m_Localized: yksi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816440
+    m_Localized: Saat liikkua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816441
+    m_Localized: Tanssi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816442
+    m_Localized: Juokse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816443
+    m_Localized: Liikuta kehoasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816444
+    m_Localized: Jatka liikkumista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816445
+    m_Localized: Nopeammin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816446
+    m_Localized: "Py\xF6r\xE4hd\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816447
+    m_Localized: Mene mene mene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816448
+    m_Localized: "Viihdyt\xE4 minua"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816449
+    m_Localized: "Heiluta itse\xE4si"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816450
+    m_Localized: Stop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816451
+    m_Localized: Et liiku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816452
+    m_Localized: "Pys\xE4hdy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816453
+    m_Localized: Pysy paikallasi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816454
+    m_Localized: "\xC4l\xE4 liiku"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816455
+    m_Localized: Ei askeltakaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816456
+    m_Localized: "J\xE4\xE4"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2601145633132773462
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 2168965816388
+        - id: 2168965816389
+        - id: 2168965816390
+        - id: 2168965816391
+        - id: 2168965816392
+        - id: 2168965816393
+        - id: 2168965816394
+        - id: 2168965816395
+        - id: 2168965816396
+        - id: 2168965816397
+        - id: 2168965816398
+        - id: 2168965816399
+        - id: 2168965816400
+        - id: 2168965816401
+        - id: 2168965816402
+        - id: 2168965816403
+        - id: 2168965816404
+        - id: 2168965816405
+        - id: 2168965816406
+        - id: 2168965816407

@@ -173,8 +173,7 @@ MonoBehaviour:
   - m_Id: 5450952597549056
     m_Localized: 'Total Last:'
     m_Metadata:
-      m_Items:
-      - rid: 3967078086496223243
+      m_Items: []
   - m_Id: 5190661053853696
     m_Localized: Ladda Sparfil
     m_Metadata:
@@ -427,10 +426,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 10581343598534684
     m_Localized: Kameraanimationer
-    m_Metadata:
-      m_Items: []
-  - m_Id: 10581343598534685
-    m_Localized: Invertera Vertikal Siktning
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534686
@@ -1091,7 +1086,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15592435403972610
-    m_Localized: "Tryck [menu] f\xF6r att g\xE5 tillbaka till huvudmenyn"
+    m_Localized: "Tryck [back] f\xF6r att g\xE5 tillbaka till huvudmenyn"
     m_Metadata:
       m_Items: []
   - m_Id: 15661116045647872
@@ -1115,7 +1110,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008004
-    m_Localized: Anpassa
+    m_Localized: "Skr\xE4ddarsy"
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008005
@@ -1328,7 +1323,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 21739271462313984
-    m_Localized: Anpassa
+    m_Localized: "Skr\xE4ddarsy"
     m_Metadata:
       m_Items: []
   - m_Id: 21825235048194048
@@ -1340,7 +1335,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554177
-    m_Localized: Anpassa
+    m_Localized: "Skr\xE4ddarsy"
     m_Metadata:
       m_Items: []
   - m_Id: 21825235077554178
@@ -1521,7 +1516,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 33712689940168705
-    m_Localized: "Okej D\xE5"
+    m_Localized: "Ok D\xE5"
     m_Metadata:
       m_Items: []
   - m_Id: 33712689940168706
@@ -1553,9 +1548,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 33712689940168712
-    m_Localized: "Lobbyn anv\xE4nder denna version\n{version}"
+    m_Localized: 'Din version: {versionSelf}
+
+      Lobbyversion: {version}'
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 3967078086496223243
   - m_Id: 33712689940168713
     m_Localized: "Ok D\xE5"
     m_Metadata:
@@ -1628,6 +1626,39 @@ MonoBehaviour:
     m_Localized: Tillbaka
     m_Metadata:
       m_Items: []
+  - m_Id: 36617102426701824
+    m_Localized: Invertera Vertikal Siktning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507528912896
+    m_Localized: "G\xE5 med i server"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661632
+    m_Localized: "\xC4r du s\xE4ker p\xE5 att du vill vara med?\n{lobbyName}"
+    m_Metadata:
+      m_Items:
+      - rid: 3967078086496223243
+  - m_Id: 53350507566661633
+    m_Localized: Japp!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661634
+    m_Localized: Nepp!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53646107088584704
+    m_Localized: "Tryck p\xE5 en ny knapp"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54361496021958656
+    m_Localized: Spegelkvalitet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474048
+    m_Localized: Solstensdalens Resort
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
@@ -1636,9 +1667,10 @@ MonoBehaviour:
       data:
         m_Entries: 
         m_SharedEntries:
-        - id: 5450952597549056
         - id: 5801515992834048
         - id: 23197572767145984
         - id: 23207164712574976
         - id: 30862829524254720
         - id: 33437954593423360
+        - id: 33712689940168712
+        - id: 53350507566661632

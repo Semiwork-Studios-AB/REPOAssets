@@ -18,43 +18,35 @@ MonoBehaviour:
   - m_Id: 62270994624512
     m_Key: MAIN.PRIVATE_GAME
     m_Metadata:
-      m_Items:
-      - rid: 3967077751450763264
+      m_Items: []
   - m_Id: 62271019790336
     m_Key: MAIN.PUBLIC_GAME
     m_Metadata:
-      m_Items:
-      - rid: 3967077751450763265
+      m_Items: []
   - m_Id: 62271019790337
     m_Key: MAIN.JOIN_FRIEND
     m_Metadata:
-      m_Items:
-      - rid: 3967077751450763266
+      m_Items: []
   - m_Id: 62271019790338
     m_Key: MAIN.SINGLEPLAYER
     m_Metadata:
-      m_Items:
-      - rid: 3967077751450763267
+      m_Items: []
   - m_Id: 62271019790339
     m_Key: MAIN.TUTORIAL
     m_Metadata:
-      m_Items:
-      - rid: 3967077751450763268
+      m_Items: []
   - m_Id: 21739271462313984
     m_Key: MAIN.CUSTOMIZE
     m_Metadata:
-      m_Items:
-      - rid: 6163163130222608386
+      m_Items: []
   - m_Id: 62271019790340
     m_Key: MAIN.SETTINGS
     m_Metadata:
-      m_Items:
-      - rid: 3967077751450763269
+      m_Items: []
   - m_Id: 62271019790341
     m_Key: MAIN.QUIT_GAME
     m_Metadata:
-      m_Items:
-      - rid: 3967077751450763270
+      m_Items: []
   - m_Id: 754728038916096
     m_Key: POPUP.PRIVATE_GAME.HEADER
     m_Metadata:
@@ -193,6 +185,22 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 33712689940168716
     m_Key: POPUP.LOBBY_CLOSED.BUTTON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507528912896
+    m_Key: POPUP.JOIN_SERVER.HEADER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661632
+    m_Key: POPUP.JOIN_SERVER.BODY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661633
+    m_Key: POPUP.JOIN_SERVER.OPT1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661634
+    m_Key: POPUP.JOIN_SERVER.OPT2
     m_Metadata:
       m_Items: []
   - m_Id: 21825235048194048
@@ -474,8 +482,7 @@ MonoBehaviour:
   - m_Id: 5190661053853710
     m_Key: REGIONS.REGION.PICK_BEST_REGION
     m_Metadata:
-      m_Items:
-      - rid: 7803763103541493793
+      m_Items: []
   - m_Id: 5190661053853711
     m_Key: REGIONS.REGION.ASIA
     m_Metadata:
@@ -614,6 +621,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 10581343598534659
     m_Key: SETTINGS.CONTROLS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74361386170310656
+    m_Key: SETTINGS.GAMEPAD
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534660
@@ -820,8 +831,8 @@ MonoBehaviour:
     m_Key: SETTINGS.GAMEPLAY.CAMERA_ANIMATION
     m_Metadata:
       m_Items: []
-  - m_Id: 10581343598534685
-    m_Key: SETTINGS.GAMEPLAY.INVERT_VERICAL_AIM
+  - m_Id: 36617102426701824
+    m_Key: SETTINGS.GAMEPLAY.INVERT_VERTICAL_AIM
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534686
@@ -916,6 +927,10 @@ MonoBehaviour:
     m_Key: SETTINGS.GRAPHICS.PIXELATION
     m_Metadata:
       m_Items: []
+  - m_Id: 54361496021958656
+    m_Key: SETTINGS.GRAPHICS.MIRROR_QUALITY
+    m_Metadata:
+      m_Items: []
   - m_Id: 10581343598534704
     m_Key: SETTINGS.AUDIO.HEADER
     m_Metadata:
@@ -994,6 +1009,10 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 11669347536723975
     m_Key: POPUP.RESET_CONTROLS_SETTINGS.OPT2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53646107088584704
+    m_Key: SETTINGS.CONTROLS.PRESS_NEW_BUTTON
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534716
@@ -1608,6 +1627,126 @@ MonoBehaviour:
     m_Key: LEVEL.NAME.WIZARD
     m_Metadata:
       m_Items: []
+  - m_Id: 74362528585474048
+    m_Key: LEVEL.NAME.DESERT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474049
+    m_Key: TIME.DURATION_SHORT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474050
+    m_Key: SETTINGS.LANGUAGE.TEXT_TO_SPEECH_LANGUAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81298091666300928
+    m_Key: SETTINGS.LANGUAGE.MATCH_LANGUAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856340672512
+    m_Key: SETTINGS.CONTROLS.PUSH_PULL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615552
+    m_Key: SETTINGS.CONTROLS.UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615553
+    m_Key: SETTINGS.CONTROLS.TAB_NEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615554
+    m_Key: SETTINGS.CONTROLS.TAB_PREVIOUS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615555
+    m_Key: SETTINGS.CONTROLS.CLICK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87379731429711872
+    m_Key: SETTINGS.GAMEPAD.AIM_ACCELERATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062029873152
+    m_Key: SETTINGS.CONTROLS.VEHICLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010496
+    m_Key: SETTINGS.CONTROLS.VEHICLE_ACCELERATE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010497
+    m_Key: SETTINGS.CONTROLS.VEHICLE_BRAKE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010498
+    m_Key: SETTINGS.CONTROLS.VEHICLE_DRIFT_LEFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010499
+    m_Key: SETTINGS.CONTROLS.VEHICLE_DRIFT_RIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010500
+    m_Key: SETTINGS.CONTROLS.VEHICLE_MOUNTING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010501
+    m_Key: SETTINGS.CONTROLS.EXPRESSION_WHEEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269605806080
+    m_Key: SETTINGS.CONTROLS.GRAB_LEAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166208
+    m_Key: SETTINGS.CONTROLS.GRAB_LEAD_SPEED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166209
+    m_Key: SETTINGS.CONTROLS.MELEE_GRAB_LEAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166210
+    m_Key: SETTINGS.CONTROLS.MELEE_GRAB_LEAD_SPEED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166211
+    m_Key: SETTINGS.GAMEPAD.RUMBLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94776138692288512
+    m_Key: SETTINGS.GAMEPAD.VIBRATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484512382976
+    m_Key: SETTINGS.BOOL.COMBINED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484554326016
+    m_Key: SETTINGS.BOOL.SEPARATED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338642206720
+    m_Key: SETTINGS.CONTROLS.EXPRESSION_MODE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338684149760
+    m_Key: SETTINGS.CONTROLS.PUSH_PULL_MODE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442817417216
+    m_Key: SETTINGS.BOOL.RIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442855165952
+    m_Key: SETTINGS.BOOL.LEFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93863369772097536
+    m_Key: SETTINGS.GAMEPAD.EXPRESSION_WHEEL_STICK
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
@@ -1619,40 +1758,3 @@ MonoBehaviour:
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
         m_CustomEpoch: 1770626790017
-    - rid: 3967077751450763264
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: Menu button for starting a private game.
-    - rid: 3967077751450763265
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: Menu button for starting a public game.
-    - rid: 3967077751450763266
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: Menu button for joining a friend's lobby.
-    - rid: 3967077751450763267
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: Menu button for starting a singleplayer game.
-    - rid: 3967077751450763268
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: Menu button for starting the tutorial.
-    - rid: 3967077751450763269
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: Menu button for changing the in-game settings.
-    - rid: 3967077751450763270
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: Menu button for quitting the game.
-    - rid: 6163163130222608386
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: Menu button for customizing the player's charactesr.
-    - rid: 7803763103541493793
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: Menu button that once clicked, lets the game automatically
-          determine the region to connect to.

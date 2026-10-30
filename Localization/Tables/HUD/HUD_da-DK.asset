@@ -83,12 +83,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813256
-    m_Localized: "Hold [crouch] nede og brug [move] indtil forl\xF8bsindikatorener
-      fyldt!"
+    m_Localized: "Hold [crouch] nede og brug [move] indtil forl\xF8bsindikatoren
+      er fyldt!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813257
-    m_Localized: "Brug [crouch] til at krybe under ting s\xE5 du kan gemme dig."
+    m_Localized: Brug [crouch] til at krybe under ting for at gemme dig.
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813258
@@ -97,7 +97,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 18554442549813259
     m_Localized: "Hold [crouch] nede og snig dig under et m\xF8bel. Bliv der indtil
-      forl\xF8bsindikatorener fyldt!"
+      forl\xF8bsindikatoren er fyldt!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813260
@@ -116,7 +116,7 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 18554442549813263
     m_Localized: "Sprint og tryk [tumble] for at falde med ynde. Det hj\xE6lper hvis
-      man hopper!"
+      du hopper!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813264
@@ -141,7 +141,8 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813269
-    m_Localized: "Brug [push] for at \xE6ndre afstanden p\xE5 ting du har hapset."
+    m_Localized: "Brug [pushAndPull] for at \xE6ndre afstanden p\xE5 ting du har
+      hapset."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813270
@@ -149,25 +150,26 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813271
-    m_Localized: (da) Press and hold [grab] on an object and use [push] to alter
-      the distance of the item you grabbed!
+    m_Localized: "Tryk og hold [grab] nede p\xE5 et objekt, og brug s\xE5 [pushAndPull]
+      til at \xE6ndre afstanden p\xE5 den ting du har hapset!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813272
-    m_Localized: (da) Rotate grabbed objects using [grab2].
+    m_Localized: "Rot\xE9r hapsede objekter med [grab2]."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813273
-    m_Localized: (da) Rotate stuff to fill the progress bar!
+    m_Localized: "Rot\xE9r et eller andet for at fylde forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813274
-    m_Localized: (da) While holding an object with [grab], press and hold [grab2]
-      and move your aim to rotate it. Rotate until you fill the progress bar!
+    m_Localized: "Mens du har fat i noget med [grab], tryk og hold [grab2] nede,
+      og sigt s\xE5 rundt for at rotere det du har fat i. Rot\xE9r indtil du har
+      fyldt forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813275
-    m_Localized: (da) Grab and press [interact] to toggle items.
+    m_Localized: "Haps og tryk [interact] for at t\xE6nde og slukke for udstyr."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813276
@@ -175,41 +177,41 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813277
-    m_Localized: (da) Grab the ball with [grab] and toggle it on and off using [interact]
-      until you fill the progress bar!
+    m_Localized: "Haps bolden med [grab] og t\xE6nd og sluk for den med [interact]
+      indtil du har fyldt forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813278
-    m_Localized: (da) Grab an Item and use [inventory1]/[inventory2]/[inventory3]
-      to put it in your inventory.
+    m_Localized: "Haps et stykke udstyr og brug [inventory1]/[inventory2]/[inventory3]
+      til at l\xE6gge det i dit inventar."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813279
-    m_Localized: (da) Fill your entire inventory!
+    m_Localized: Fyld hele dit inventar!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813280
-    m_Localized: (da) While holding an item with [grab], press [inventory1]/[inventory2]/[inventory3].
-      Fill all spots in your inventory to complete the progress bar!
+    m_Localized: "Tryk [inventory1]/[inventory2]/[inventory3] mens du har fat i et
+      stykke udstyr med [grab]. Fyld alle pladserne i dit inventar for at fylde forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813281
-    m_Localized: (da) Use [inventory1]/[inventory2]/[inventory3] to take items out
-      of your inventory.
+    m_Localized: Brug [inventory1]/[inventory2]/[inventory3] til at tage udstyr ud
+      af dit inventar.
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813282
-    m_Localized: (da) Empty your entire inventory!
+    m_Localized: "T\xF8m hele dit inventar!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813283
-    m_Localized: (da) Use [inventory1]/[inventory2]/[inventory3] and empty all spots
-      to fill the progress bar!
+    m_Localized: "Brug [inventory1]/[inventory2]/[inventory3] og t\xF8m alle pladser
+      for at fylde forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813284
-    m_Localized: (da) Use [map] to view the map. The map is <b><u>IMPORTANT</u></b>
-      for navigation.
+    m_Localized: "Brug [map] for at se kortet. Kortet er <b><u>VIGTIGT</u></b> n\xE5r
+      du navigerer."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813285
@@ -217,147 +219,147 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201856
-    m_Localized: (da) Hold down [map] and view it until you have filled the progress
-      bar!
+    m_Localized: "Hold [map] nede og kig p\xE5 kortet indtil du har fyldt forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201857
-    m_Localized: (da) This is a C.A.R.T. Grab it by the handle.
+    m_Localized: "Det her er en V.O.G.N. Tag fat i h\xE5ndtaget p\xE5 den."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201858
-    m_Localized: (da) Walk around with the C.A.R.T. a little!
+    m_Localized: "G\xE5 lige lidt rundt med V.O.G.N.en!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201859
-    m_Localized: (da) Grab the C.A.R.T. by the handle with [grab] and walk around
-      with it until you have filled the progress bar!
+    m_Localized: "Tag fat i h\xE5ndtaget p\xE5 V.O.G.N.en med [grab] og g\xE5 rundt
+      med den indtil du har fyldt forl\xF8bsindikatoren!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201860
-    m_Localized: (da) Fill C.A.R.T.s with valuables. C.A.R.T.s are <b><u>IMPORTANT</u></b>
-      for carrying more stuff.
+    m_Localized: "Fyld V.O.G.N.en med v\xE6rdigenstande. V.O.G.N.e er <b><u>VIGTIGE</u></b>
+      n\xE5r du vil b\xE6re flere ting."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201861
-    m_Localized: (da) Fill the C.A.R.T. with valuables!
+    m_Localized: "Fyld V.O.G.N.en med v\xE6rdigenstande!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201862
-    m_Localized: (da) Put three items into the C.A.R.T.
+    m_Localized: "L\xE6g tre v\xE6rdigenstande i V.O.G.N.en."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201863
-    m_Localized: (da) Activate and fill <b><u>EXTRACTION POINTS</u></b> with valuables.
+    m_Localized: "Aktiv\xE9r og fyld <b><u>UDVINDINGSPUNKTER</u></b> med v\xE6rdigenstande."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201864
-    m_Localized: (da) Extract the valuables!
+    m_Localized: "Udvind v\xE6rdigenstandene!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201865
-    m_Localized: (da) HELLO! FILL THE <b><u>EXTRACTION POINT</u></b> WITH VALUABLES!
+    m_Localized: "HALLO! FYLD <b><u>UDVINDINGSPUNKTET</u></b> MED V\xC6RDIGENSTANDE!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201866
-    m_Localized: (da) Enter the <b><u>TRUCK</u></b> and send a message to your boss
-      in order to leave a level.
+    m_Localized: "G\xE5 ind i <b><u>FLYTTEBILEN</u></b> og send en besked til din
+      chef for at forlade banen."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201867
-    m_Localized: (da) Get into the truck and send a message!
+    m_Localized: "G\xE5 ind i flyttebilen og send en besked!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201868
-    m_Localized: (da) Walk into the truck, grab and hold the message area on the
-      truck screen with [grab] to send a message!
+    m_Localized: "G\xE5 ind i flyttebilen, tag fat i beskedomr\xE5det p\xE5 flyttevognssk\xE6rmen
+      med [grab] og send en besked!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201869
-    m_Localized: (da) Share your health with other players by grabbing their necks!
+    m_Localized: "Del dit liv med andre spillere ved at tage fat i nakken p\xE5 dem!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201870
-    m_Localized: (da) Revive other players by extracting their heads!
+    m_Localized: "Genopliv andre spillere ved at udvinde deres d\xF8dningehoveder!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201871
-    m_Localized: (da) Buy <b><u>POWER CRYSTALS</u></b> for the <b><u>CHARGING STATION</u></b>
-      to recharge and repair your gear!
+    m_Localized: "K\xF8b <b><u>ENERGIKRYSTALLER</u></b> til <b><u>LADESTANDEREN</u></b>
+      for at genoplade og fikse dit udstyr!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201872
-    m_Localized: (da) Only one <b><u>EXTRACTION POINT</u></b> can be active at a
-      time, find the current one using your map!
+    m_Localized: "Kun \xE9t <b><u>UDVINDINGSPUNKT</u></b> kan v\xE6re aktivt ad gangen.
+      Find det aktive punkt ved hj\xE6lp ad dit kort!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201873
-    m_Localized: (da) Press [chat] to open the chat! It's fun!
+    m_Localized: "Tryk p\xE5 [chat] for at \xE5bne chatten! Det er sjovt!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201874
-    m_Localized: (da) Time to leave, the truck heals you and revives carried player
-      heads!
+    m_Localized: "S\xE5 skal vi videre. Flyttebilen heler dig og genopliver spillere's
+      d\xF8dningehoveder!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201875
-    m_Localized: (da) This level has multiple <b><u>EXTRACTION POINTS</u></b>, you
-      must clear them all to leave!
+    m_Localized: "Det her niveau har flere <b><u>UDVINDINGSPUNKTER</u></b>. Du er
+      n\xF8dt til at klare dem alle sammen f\xF8r du kan tage videre!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201876
-    m_Localized: (da) This is the <b><u>SHOP</u></b>, extract items to purchase.
-      No harm lasts here!
+    m_Localized: "Det her er <b><u>K\xD8BMANDEN</u></b>. Udvind udstyr for at k\xF8be
+      det. Hvis du tager skade her s\xE5 t\xE6ller det ikke!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201877
-    m_Localized: (da) Use [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6]
-      to make expressions. You can even mix!
+    m_Localized: Brug [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6]
+      for at lave ansigtsudtryk. Du kan endda blande!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201878
-    m_Localized: (da) Grabbing an enemy will now cause overcharge, when full you
-      get blasted.
+    m_Localized: "Der opbygges nu overbelastning n\xE5r du hapser monstre. N\xE5r
+      overbelastningen n\xE5r maks, bliver du spr\xE6ngt."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201879
-    m_Localized: (da) Multiple people will dampen the overcharge effect.
+    m_Localized: "Flere spillere d\xE6mper overbelastningseffekten."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201880
-    m_Localized: (da) While dead your head charges, use that charge to briefly possess
-      your head.
+    m_Localized: "N\xE5r du er d\xF8d, oplader dit hoved sig. Brug ladningen til
+      kortvarigt at bes\xE6tte dit d\xF8dningehoved."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201881
-    m_Localized: (da) While possessing your head, hold [jump] to jump. Hold to jump
-      higher at a greater cost.
+    m_Localized: "Mens du bes\xE6tter dit d\xF8dningehoved, hold [jump] nede for
+      at at hoppe. Hold den nede l\xE6ngere for at bruge mere ladning og hoppe h\xF8jere."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201882
-    m_Localized: (da) PET THE DOG!
+    m_Localized: "K\xC6L FOR HUNDEN!"
     m_Metadata:
       m_Items: []
   - m_Id: 22956499448881152
-    m_Localized: '[menu] for at springe over'
+    m_Localized: '[back] for at springe over'
     m_Metadata:
       m_Items: []
   - m_Id: 23598574554132480
-    m_Localized: (da) Fill <b><u>EXTRACTION POINTS</u></b> with valuables.
+    m_Localized: "Fyld <b><u>UDVINDINGSPUNKTER</u></b> med v\xE6rdigenstande."
     m_Metadata:
       m_Items: []
   - m_Id: 23609344067186688
-    m_Localized: (da) This is a <b><u>COSMETIC BOX</u></b>, extract it for a reward.
+    m_Localized: "Det her er en <b><u>GARDEROBEKASSE</u></b>, udvind den og f\xE5
+      en bel\xF8nning."
     m_Metadata:
       m_Items: []
   - m_Id: 23609344088158208
-    m_Localized: (da) If it gets damaged, you can <b><u>HEAL</u></b> it using your
-      own health.
+    m_Localized: Hvis den tager skade, kan du <b><u>HELE</u></b> den med dit eget
+      liv.
     m_Metadata:
       m_Items: []
   - m_Id: 23623549780570112
-    m_Localized: (da) Insert <b><u>TAX TOKENS</u></b> into the shop machine to claim
-      your rewards.
+    m_Localized: "Indl\xF8s <b><u>SKATTEPOLETTER</u></b> i k\xF8bmandsmaskinen for
+      at f\xE5 dine bel\xF8nninger."
     m_Metadata:
       m_Items: []
   - m_Id: 23920995436847104
@@ -373,452 +375,494 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 25822090339713024
-    m_Localized: (da) Press [interact] to insert tax token
+    m_Localized: "Tryk [interact] for at indl\xF8se skattepolet"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195824295936
-    m_Localized: (da) C.A.R.T. Cannon
+    m_Localized: V.O.G.N.-kanon
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461760
-    m_Localized: (da) C.A.R.T. Laser
+    m_Localized: V.O.G.N.-laser
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461761
-    m_Localized: (da) C.A.R.T.
+    m_Localized: V.O.G.N.
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461762
-    m_Localized: (da) POCKET C.A.R.T.
+    m_Localized: LOMME-V.O.G.N.
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461763
-    m_Localized: (da) Recharge Drone
+    m_Localized: Genopladningsdrone
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461764
-    m_Localized: (da) Feather Drone
+    m_Localized: Fjerdrone
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461766
-    m_Localized: (da) Indestructible Drone
+    m_Localized: "Uforg\xE6ngelighedsdrone"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461767
-    m_Localized: (da) Roll Drone
+    m_Localized: Trilledrone
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461768
-    m_Localized: (da) Zero Gravity Drone
+    m_Localized: Nultyngdekraftsdrone
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461769
-    m_Localized: (da) Duck Bucket
+    m_Localized: Andespand
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461770
-    m_Localized: (da) Extraction Tracker
+    m_Localized: Udvindingsvejviser
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461771
-    m_Localized: (da) Duct Taped Grenades
+    m_Localized: Gaffagranater
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461772
-    m_Localized: (da) Grenade
+    m_Localized: Granat
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461773
-    m_Localized: (da) Human Grenade
+    m_Localized: Menneskegranat
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461774
-    m_Localized: (da) Shockwave Grenade
+    m_Localized: "Trykb\xF8lgegranat"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461775
-    m_Localized: (da) Stun Grenade
+    m_Localized: Shockgranat
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461776
-    m_Localized: (da) Gun
+    m_Localized: Skyder
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461777
-    m_Localized: (da) Photon Blaster
+    m_Localized: "Fotong\xF8b"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461778
-    m_Localized: (da) Pulse Pistol
+    m_Localized: Pulspistol
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461779
-    m_Localized: (da) Shotgun
+    m_Localized: "Haglb\xF8sse"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461780
-    m_Localized: (da) Boltzap
+    m_Localized: "Str\xF8mbr\xF8st"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461781
-    m_Localized: (da) Tranq Gun
+    m_Localized: "Bed\xF8velsespistol"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461782
-    m_Localized: (da) Large Health Pack (100)
+    m_Localized: Stor livspakke (100)
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461783
-    m_Localized: (da) Medium Health Pack (50)
+    m_Localized: Mellem livspakke (50)
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461784
-    m_Localized: (da) Small Health Pack (25)
+    m_Localized: Lille livspakke (25)
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461785
-    m_Localized: (da) Leaf Blower
+    m_Localized: "L\xF8vbl\xE6ser"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461786
-    m_Localized: (da) Baseball Bat
+    m_Localized: Rundboldbat
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461787
-    m_Localized: (da) Frying Pan
+    m_Localized: Stegepande
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461788
-    m_Localized: (da) Inflatable Hammer
+    m_Localized: Oppustelig hammer
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461789
-    m_Localized: (da) Sledge Hammer
+    m_Localized: Mukkert
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461790
-    m_Localized: (da) Prodzap
+    m_Localized: "Str\xF8mpistol"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461791
-    m_Localized: (da) Sword
+    m_Localized: "Sv\xE6rd"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461792
-    m_Localized: (da) Explosive Mine
+    m_Localized: "Spr\xE6ngmine"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461793
-    m_Localized: (da) Shockwave Mine
+    m_Localized: "Trykb\xF8lgemine"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461794
-    m_Localized: (da) Trapzap
+    m_Localized: "Str\xF8msaks"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461801
-    m_Localized: (da) Zero Gravity Orb
+    m_Localized: Nultyngdekraftskugle
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461802
-    m_Localized: (da) Phase Bridge
+    m_Localized: Fasebro
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461803
-    m_Localized: (da) Energy Crystal
+    m_Localized: Energikrystal
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461804
-    m_Localized: (da) Defibro
+    m_Localized: Hjertestarter Jeremias
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461805
-    m_Localized: (da) Rubber Duck
+    m_Localized: Badeand
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461806
-    m_Localized: (da) Roll Staff
+    m_Localized: Trillestav
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461807
-    m_Localized: (da) Void Staff
+    m_Localized: Tomrumsstav
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461808
-    m_Localized: (da) Zero Gravity Staff
+    m_Localized: Nultyngdekraftsstav
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461809
-    m_Localized: (da) Death Head Battery Upgrade
+    m_Localized: "D\xF8dningehovedsbatteri-opgradering"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461810
-    m_Localized: (da) Map Player Count Upgrade
+    m_Localized: "Spillerantal p\xE5 kort-opgradering"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461811
-    m_Localized: (da) Crouch Rest Upgrade
+    m_Localized: Dukrestitutions-opgradering
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461812
-    m_Localized: (da) Stamina Upgrade
+    m_Localized: Kondiopgradering
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461813
-    m_Localized: (da) Extra Jump Upgrade
+    m_Localized: Ekstrahop-opgradering
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461814
-    m_Localized: (da) Range Upgrade
+    m_Localized: "R\xE6kkeviddeopgradering"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461815
-    m_Localized: (da) Strength Upgrade
+    m_Localized: Styrkeopgradering
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461816
-    m_Localized: (da) Health Upgrade
+    m_Localized: Livsopgradering
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461817
-    m_Localized: (da) Sprint Speed Upgrade
+    m_Localized: Sprinthastighedsopgradering
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461818
-    m_Localized: (da) Tumble Climb Upgrade
+    m_Localized: Tumleklatre-opgradering
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461819
-    m_Localized: (da) Tumble Launch Upgrade
+    m_Localized: Tumlekast-opgradering
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461820
-    m_Localized: (da) Tumble Wings Upgrade
+    m_Localized: Tumlevinge-opgradering
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461821
-    m_Localized: (da) Valuable Tracker
+    m_Localized: "V\xE6rdigenstandsvejviser"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461822
-    m_Localized: (da) Hauler
+    m_Localized: Fragteren
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461823
-    m_Localized: (da) Scout
+    m_Localized: Spejderen
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461824
-    m_Localized: (da) Semibot Walkie
+    m_Localized: Semibot-walkie
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461825
-    m_Localized: (da) Semibot Walkies
+    m_Localized: Semibot-walkier
     m_Metadata:
       m_Items: []
   - m_Id: 26108414590353408
-    m_Localized: (da) Upgrades
+    m_Localized: Opgraderinger
     m_Metadata:
       m_Items: []
   - m_Id: 26109748462911488
-    m_Localized: (da) Level
+    m_Localized: Niveau
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386432
-    m_Localized: (da) Crouch Rest
+    m_Localized: Dukrestitution
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386433
-    m_Localized: (da) Death Head Battery
+    m_Localized: "D\xF8dningehovedsbatteri"
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386434
-    m_Localized: (da) Extra Jump
+    m_Localized: Ekstrahop
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386435
-    m_Localized: (da) Health
+    m_Localized: Liv
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386436
-    m_Localized: (da) Tumble Launch
+    m_Localized: Tumlekast
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386437
-    m_Localized: (da) Map Player Count
+    m_Localized: "Spillerantal p\xE5 kort"
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386438
-    m_Localized: (da) Range
+    m_Localized: "R\xE6kkevidde"
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386439
-    m_Localized: (da) Sprint Speed
+    m_Localized: Sprinthastighed
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386440
-    m_Localized: (da) Stamina
+    m_Localized: Kondi
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386441
-    m_Localized: (da) Strength
+    m_Localized: Styrke
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386442
-    m_Localized: (da) Tumble Climb
+    m_Localized: Tumleklatring
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386443
-    m_Localized: (da) Tumble Wings
+    m_Localized: Tumlevinger
     m_Metadata:
       m_Items: []
   - m_Id: 26516244123594752
-    m_Localized: (da) Animal
+    m_Localized: Dyr
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760576
-    m_Localized: (da) Banger
+    m_Localized: Bumkarl
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760577
-    m_Localized: (da) Clown
+    m_Localized: Klovn
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760579
-    m_Localized: (da) Cleanup Crew
+    m_Localized: "Reng\xF8ringsselskab"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760580
-    m_Localized: (da) Bowtie
+    m_Localized: "Butterfly B\xF8rge"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760581
-    m_Localized: (da) Peeper
+    m_Localized: Smugkigger
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760582
-    m_Localized: (da) Apex Predator
+    m_Localized: Topkonsument
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760583
-    m_Localized: (da) Elsa
+    m_Localized: Elsa
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760584
-    m_Localized: (da) Mentalist
+    m_Localized: "Sindsuver\xE6n"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954880
-    m_Localized: (da) Gnome
+    m_Localized: Nisse
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954881
-    m_Localized: (da) Headman
+    m_Localized: Hovedmand
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954882
-    m_Localized: (da) Headgrab
+    m_Localized: Hovedhapser
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954883
-    m_Localized: (da) Heart Hugger
+    m_Localized: Hjerteknuser
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954884
-    m_Localized: (da) Hidden
+    m_Localized: Skjulius
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954885
-    m_Localized: (da) Huntsman
+    m_Localized: "J\xE6ger"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954886
-    m_Localized: (da) Oogly
+    m_Localized: "Glo\xE5nd"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954887
-    m_Localized: (da) Robe
+    m_Localized: "K\xE5be"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954888
-    m_Localized: (da) Reaper
+    m_Localized: Mejer
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954889
-    m_Localized: (da) Loom
+    m_Localized: Dunkel
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954890
-    m_Localized: (da) Spewer
+    m_Localized: "\xD8rler"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954891
-    m_Localized: (da) Trudge
+    m_Localized: Trasker
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954892
-    m_Localized: (da) Gambit
+    m_Localized: Hasard
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954893
-    m_Localized: (da) Shadow Child
+    m_Localized: Skyggebarn
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954894
-    m_Localized: (da) Tick
+    m_Localized: "T\xE6ge"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954895
-    m_Localized: (da) Bella
+    m_Localized: Dingeline
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954896
-    m_Localized: (da) Chef
+    m_Localized: Kok
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954897
-    m_Localized: (da) Upscream
+    m_Localized: "Opskr\xE5l"
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954898
-    m_Localized: (da) Rugrat
+    m_Localized: Snotunge
     m_Metadata:
       m_Items: []
   - m_Id: 26516244148760578
-    m_Localized: (da) Birthday Boy
+    m_Localized: "F\xF8dselsdagsbarn"
     m_Metadata:
       m_Items: []
   - m_Id: 26547416404832256
-    m_Localized: (da) Hold to Reroll ({cost})
+    m_Localized: Hold nede for at ryste posen ({cost})
     m_Metadata:
       m_Items:
       - rid: 6163163424511229959
   - m_Id: 26602567563980800
-    m_Localized: (da) King of the Losers!
+    m_Localized: Kongen af taberne!
     m_Metadata:
       m_Items: []
   - m_Id: 26602567568175104
-    m_Localized: (da) Everyone's a Loser!
+    m_Localized: I er tabere alle sammen!
     m_Metadata:
       m_Items: []
   - m_Id: 26602567568175105
-    m_Localized: (da) Last Loser Standing
+    m_Localized: "Sidste taber p\xE5 skansen"
     m_Metadata:
       m_Items: []
   - m_Id: 26602567568175106
-    m_Localized: (da) Game Over
+    m_Localized: Spillet er ude
     m_Metadata:
       m_Items: []
   - m_Id: 26610272068415488
-    m_Localized: '(da) The Broken Ones:'
+    m_Localized: 'De smadrede:'
     m_Metadata:
       m_Items: []
   - m_Id: 30522141892837376
-    m_Localized: '(da) Mode: Strong'
+    m_Localized: 'Tilstand: Kraftig'
     m_Metadata:
       m_Items: []
   - m_Id: 30522141918003200
-    m_Localized: '(da) Mode: Weak'
+    m_Localized: 'Tilstand: Svag'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37110069994258432
+    m_Localized: 'Chat:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37111979069472768
+    m_Localized: 'Tryk [interact]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56998176310747136
+    m_Localized: Pony
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086219382784
+    m_Localized: Intet signal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509706196234240
+    m_Localized: "Indk\xF8bsliste"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086252937217
+    m_Localized: Tom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915759992832
+    m_Localized: Brug [pushPull] og sigt med [aim] for at justere afstanden af ting
+      du har fat i.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915806130176
+    m_Localized: "Mens du har fat i noget med [grab], hold [pushPull] nede for at
+      justerer afstanden med [aim] indtil du har fyldt forl\xF8bsindikatoren!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128640
+    m_Localized: Menneskepistol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128641
+    m_Localized: Genopladningskugle
     m_Metadata:
       m_Items: []
   references:

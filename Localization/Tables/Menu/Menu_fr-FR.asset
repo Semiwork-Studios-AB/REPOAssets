@@ -1,0 +1,1688 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menu_fr-FR
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: 6578110d0d7f6fd47b65a5fbe8aef088, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2515126557588324488
+  m_TableData:
+  - m_Id: 33712689940168712
+    m_Localized: "Votre version\_: {versionSelf}\nVersion du salon\_: {version}"
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324488
+  - m_Id: 53350507566661632
+    m_Localized: "Voulez-vous vraiment rejoindre le salon\_?\n{lobbyName}"
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324488
+  - m_Id: 5801515992834048
+    m_Localized: '{players:list:{}|,   |   et   }'
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324488
+  - m_Id: 33437954593423360
+    m_Localized: "Le nombre maximal de fichiers de sauvegarde est de {limit}. Veuillez
+      supprimer des fichiers afin de lib\xE9rer des emplacements de sauvegarde."
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324488
+  - m_Id: 23207164712574976
+    m_Localized: "{ping}\_ms"
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324488
+  - m_Id: 23197572767145984
+    m_Localized: "{ping}\_ms"
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324488
+  - m_Id: 30862829524254720
+    m_Localized: Niveau {number}
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324488
+  - m_Id: 62270994624512
+    m_Localized: "Partie priv\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790336
+    m_Localized: Partie publique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790337
+    m_Localized: Rejoindre un(e) ami(e)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790338
+    m_Localized: Solo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790339
+    m_Localized: Didacticiel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21739271462313984
+    m_Localized: Personnaliser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790340
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790341
+    m_Localized: Quitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728038916096
+    m_Localized: "H\xE9berger une partie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887616
+    m_Localized: "Choisissez la personne avec l\u2019ordinateur le plus performant\npour
+      h\xE9berger la partie.\n\nEst-ce que c\u2019est vous\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887617
+    m_Localized: "Bien s\xFBr que oui\_! :)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887618
+    m_Localized: "Euh, non... :\u2019("
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887619
+    m_Localized: Avertissement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887620
+    m_Localized: "En jouant avec des inconnus, vous pourriez tomber sur des tricheurs
+      ou des personnes pas tr\xE8s sympathiques..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887621
+    m_Localized: Je comprends
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887622
+    m_Localized: Non merci :(
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170002669568
+    m_Localized: Quitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029696
+    m_Localized: "Fermer l\u2019application\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029697
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029698
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735488
+    m_Localized: Menu principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735489
+    m_Localized: "Retourner au menu principal\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735490
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735491
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029699
+    m_Localized: Autodestruction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029700
+    m_Localized: "C\u2019est vraiment votre d\xE9cision\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029701
+    m_Localized: "C\u2019est fini pour moi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029702
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689910808576
+    m_Localized: Exclu(e)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168704
+    m_Localized: "Vous avez \xE9t\xE9 exclu(e) par l\u2019h\xF4te."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168705
+    m_Localized: "Mince, d\u2019accord"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168706
+    m_Localized: "D\xE9connect\xE9(e)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390400
+    m_Localized: "Cause\_:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168708
+    m_Localized: Chargement trop long
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168709
+    m_Localized: "H\xF4te d\xE9connect\xE9(e)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390401
+    m_Localized: "L\u2019acc\xE8s \xE0 ce salon vous est interdit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168710
+    m_Localized: "Mince, d\u2019accord"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168711
+    m_Localized: "Versions diff\xE9rentes"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168713
+    m_Localized: "Mince, d\u2019accord"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168714
+    m_Localized: "Salon ferm\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168715
+    m_Localized: "Le salon a ferm\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168716
+    m_Localized: "Mince, d\u2019accord"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507528912896
+    m_Localized: Rejoindre un serveur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661633
+    m_Localized: "Ouais\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661634
+    m_Localized: "Non\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235048194048
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554176
+    m_Localized: Continuer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554177
+    m_Localized: Personnaliser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554178
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554179
+    m_Localized: Autodestruction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554180
+    m_Localized: Lunes actives
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554181
+    m_Localized: Menu principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554182
+    m_Localized: Quitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118074785792
+    m_Localized: Lunes actives
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757312
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757313
+    m_Localized: Croissant de lune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757314
+    m_Localized: "L\u2019espace soin du camion restaure d\xE9sormais 35\_points de
+      vie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757315
+    m_Localized: "Il est plus difficile de renverser les monstres \xE0 l\u2019aide
+      des objets de valeur."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757316
+    m_Localized: Demi-lune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757317
+    m_Localized: Les monstres surchargent le rayon tracteur.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757318
+    m_Localized: "Les monstres subissent davantage de d\xE9g\xE2ts en tombant dans
+      des trous, mais ils peuvent survivre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757319
+    m_Localized: "L\u2019espace soin du camion restaure d\xE9sormais 25\_points de
+      vie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757320
+    m_Localized: Pleine lune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757321
+    m_Localized: "L\u2019effet de surcharge du rayon tracteur augmente de 25\_%."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757322
+    m_Localized: "Les monstres subissent moins de d\xE9g\xE2ts en tombant dans des
+      trous."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757323
+    m_Localized: Super lune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757324
+    m_Localized: "Lorsqu\u2019ils sont d\xE9truits, les orbes ennemis explosent."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757325
+    m_Localized: "L\u2019effet de surcharge du rayon tracteur augmente de 50\_%."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757326
+    m_Localized: "Les monstres subissent encore moins de d\xE9g\xE2ts en tombant
+      dans des trous."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029706
+    m_Localized: < Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029707
+    m_Localized: Nouvelle partie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029708
+    m_Localized: Mode solo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029709
+    m_Localized: Mode multijoueur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029710
+    m_Localized: "Parties sauvegard\xE9es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029711
+    m_Localized: "Parties sauvegard\xE9es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029712
+    m_Localized: "Voici tout ce que vous avez accompli jusqu\u2019\xE0 maintenant.
+      Vous pouvez reprendre n\u2019importe quelle partie l\xE0 o\xF9 vous l\u2019avez
+      laiss\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029713
+    m_Localized: Supprimer la sauvegarde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029714
+    m_Localized: Charger la sauvegarde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029715
+    m_Localized: Utiliser un fichier de backup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10257803930230784
+    m_Localized: (Cliquer pour renommer)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7715786482245632
+    m_Localized: Fichier de sauvegarde corrompu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029717
+    m_Localized: "Lune actuelle\_:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549056
+    m_Localized: "Butin total\_:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549057
+    m_Localized: "Pardon\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549058
+    m_Localized: "Appuyez sur \xAB\_Supprimer la sauvegarde\_\xBB pour supprimer\nla
+      totalit\xE9 du dossier."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33065608682569728
+    m_Localized: "Et tout \xE7a, sans l\u2019aide de personne\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7730571982659584
+    m_Localized: Oh-oh...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7730572012019712
+    m_Localized: Fichier de sauvegarde corrompu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179729825792
+    m_Localized: Renommer la sauvegarde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179754991616
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179754991617
+    m_Localized: Valider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296960
+    m_Localized: Nouvelle partie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296961
+    m_Localized: "Voulez-vous commencer une nouvelle partie\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296962
+    m_Localized: "Oui\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296963
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954568257536
+    m_Localized: Limite de fichiers de sauvegarde atteinte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954593423361
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853696
+    m_Localized: Charger la sauvegarde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853697
+    m_Localized: "Charger ce fichier de sauvegarde\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853698
+    m_Localized: "Oui\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853699
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853700
+    m_Localized: Supprimer la sauvegarde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853701
+    m_Localized: "Voulez-vous VRAIMENT supprimer cette sauvegarde D\xC9FINITIVEMENT\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853702
+    m_Localized: "Oui\_! :\u2019)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853703
+    m_Localized: Non...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853704
+    m_Localized: Restaurer le fichier de backup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853705
+    m_Localized: "\xC9craser ce fichier de sauvegarde en utilisant le fichier de
+      backup le plus r\xE9cent\_?\n\nCette action est irr\xE9versible\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853706
+    m_Localized: "Oui\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853707
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853708
+    m_Localized: "R\xE9gions"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853709
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853710
+    m_Localized: "Choisir la meilleure r\xE9gion"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853711
+    m_Localized: Asie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853712
+    m_Localized: Australie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853713
+    m_Localized: Canada (est)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853714
+    m_Localized: "Chine m\xE9tropolitaine"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853715
+    m_Localized: Europe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853716
+    m_Localized: Hong Kong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853717
+    m_Localized: Inde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853718
+    m_Localized: Japon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853719
+    m_Localized: Afrique du Sud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853720
+    m_Localized: "Am\xE9rique du Sud"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853721
+    m_Localized: "Cor\xE9e du Sud"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853722
+    m_Localized: Turquie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853723
+    m_Localized: "\xC9mirats arabes unis"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853724
+    m_Localized: "\xC9tats-Unis (est)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853725
+    m_Localized: "\xC9tats-Unis (ouest)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853726
+    m_Localized: "\xC9tats-Unis (sud central)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074834644992
+    m_Localized: Partie publique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810816
+    m_Localized: "Matchmaking al\xE9atoire"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810817
+    m_Localized: Liste de serveurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810818
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810819
+    m_Localized: Liste de serveurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810820
+    m_Localized: Recherche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810821
+    m_Localized: "Cr\xE9er un nouveau serveur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810822
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810823
+    m_Localized: Recherche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810824
+    m_Localized: Valider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810825
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810826
+    m_Localized: "Cr\xE9er un nouveau serveur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810827
+    m_Localized: Valider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810828
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343564980224
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534656
+    m_Localized: Gameplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534657
+    m_Localized: Graphismes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534658
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534659
+    m_Localized: Commandes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534660
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534661
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534662
+    m_Localized: "Activ\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534663
+    m_Localized: "D\xE9sactiv\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534664
+    m_Localized: Activer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534665
+    m_Localized: Maintenir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938048
+    m_Localized: "D\xE9sactiv\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938049
+    m_Localized: "Tr\xE8s bas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938050
+    m_Localized: Bas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938051
+    m_Localized: Moyen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938052
+    m_Localized: "D\xE9faut"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938053
+    m_Localized: "D\xE9sactiv\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938054
+    m_Localized: Affichage minimal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938055
+    m_Localized: Affichage maximal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938056
+    m_Localized: "Fen\xEAtr\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938057
+    m_Localized: "Plein \xE9cran"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938058
+    m_Localized: "Illimit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938059
+    m_Localized: "Tr\xE8s bas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938060
+    m_Localized: Bas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938061
+    m_Localized: Moyen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938062
+    m_Localized: "\xC9lev\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938063
+    m_Localized: "Tr\xE8s \xE9lev\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938064
+    m_Localized: "Tr\xE8s bas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938065
+    m_Localized: Bas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938066
+    m_Localized: Moyen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938067
+    m_Localized: "\xC9lev\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938068
+    m_Localized: "Tr\xE8s \xE9lev\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938069
+    m_Localized: "Tr\xE8s bas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938070
+    m_Localized: Bas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938071
+    m_Localized: Moyen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938072
+    m_Localized: "\xC9lev\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938073
+    m_Localized: "Tr\xE8s \xE9lev\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938074
+    m_Localized: Bas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938075
+    m_Localized: Moyen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938076
+    m_Localized: "D\xE9faut"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938077
+    m_Localized: Aucun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534674
+    m_Localized: Gameplay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534675
+    m_Localized: "R\xE9initialiser les param\xE8tres par d\xE9faut"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605050462208
+    m_Localized: "R\xE9initialiser les param\xE8tres de gameplay"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822336
+    m_Localized: "R\xE9initialiser les param\xE8tres de gameplay par d\xE9faut\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822337
+    m_Localized: "Oui\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822338
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534676
+    m_Localized: Conseils
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534677
+    m_Localized: Nom des joueurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534678
+    m_Localized: "Photosensibilit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534679
+    m_Localized: Arachnophobie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534680
+    m_Localized: "Sensibilit\xE9 de la vis\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534681
+    m_Localized: "Fluidit\xE9 de la cam\xE9ra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534682
+    m_Localized: "Tremblements de la cam\xE9ra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534683
+    m_Localized: "Stabilit\xE9 de la cam\xE9ra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534684
+    m_Localized: "Vitesse de la cam\xE9ra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36617102426701824
+    m_Localized: "Inverser la vis\xE9e verticale"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534686
+    m_Localized: "D\xE9s\xE9quiper auto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534687
+    m_Localized: Infos Discord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534688
+    m_Localized: "Cosm\xE9tiques"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822339
+    m_Localized: Graphismes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534689
+    m_Localized: "R\xE9initialiser les param\xE8tres par d\xE9faut"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822340
+    m_Localized: "R\xE9initialiser les param\xE8tres graphiques par d\xE9faut"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822341
+    m_Localized: "R\xE9initialiser les param\xE8tres graphiques\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822342
+    m_Localized: "Oui\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822343
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534690
+    m_Localized: "Mode fen\xEAtr\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534691
+    m_Localized: V-Sync
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534692
+    m_Localized: Gamma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534693
+    m_Localized: FPS max.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534694
+    m_Localized: "Distance de la lumi\xE8re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534695
+    m_Localized: "Qualit\xE9 des ombres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534696
+    m_Localized: Distance des ombres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534697
+    m_Localized: Flou de mouvement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534698
+    m_Localized: Distorsion optique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534699
+    m_Localized: Flou lumineux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534700
+    m_Localized: Aberration chromatique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534701
+    m_Localized: Grain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534702
+    m_Localized: Effets de glitchs visuels
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534703
+    m_Localized: Pixellisation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54361496021958656
+    m_Localized: "Qualit\xE9 des reflets"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534704
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534705
+    m_Localized: "R\xE9initialiser les param\xE8tres par d\xE9faut"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723968
+    m_Localized: "R\xE9initialiser les param\xE8tres audio par d\xE9faut"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723969
+    m_Localized: "R\xE9initialiser les param\xE8tres audio\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723970
+    m_Localized: "Oui\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723971
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534706
+    m_Localized: Volume principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534707
+    m_Localized: Volume de la musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10942035694444544
+    m_Localized: Volume des effets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534709
+    m_Localized: "Volume du chat de proximit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10942035694444545
+    m_Localized: "Volume de la synth\xE8se vocale"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534711
+    m_Localized: Micro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534712
+    m_Localized: Volume du micro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534713
+    m_Localized: Appuyer pour parler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534714
+    m_Localized: Commandes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534715
+    m_Localized: "R\xE9initialiser les param\xE8tres par d\xE9faut"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723972
+    m_Localized: "R\xE9initialiser les commandes par d\xE9faut"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723973
+    m_Localized: "R\xE9initialiser les commandes\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723974
+    m_Localized: "Oui\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723975
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53646107088584704
+    m_Localized: "Appuyer sur la touche \xE0 assigner"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534716
+    m_Localized: Mouvement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534717
+    m_Localized: Avancer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534718
+    m_Localized: "Aller \xE0 gauche"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534719
+    m_Localized: Reculer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534720
+    m_Localized: "Aller \xE0 droite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534721
+    m_Localized: Sauter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534722
+    m_Localized: "S\u2019accroupir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534723
+    m_Localized: Sprinter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534724
+    m_Localized: Acrobaties
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534725
+    m_Localized: Rayon tracteur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534726
+    m_Localized: Saisir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534727
+    m_Localized: Pivoter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534728
+    m_Localized: Repousser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534729
+    m_Localized: Attirer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534730
+    m_Localized: Autre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534731
+    m_Localized: Carte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534732
+    m_Localized: Interagir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534733
+    m_Localized: "Inventaire\_1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534734
+    m_Localized: "Inventaire\_2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534735
+    m_Localized: "Inventaire\_3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534736
+    m_Localized: Chat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534737
+    m_Localized: Valider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534738
+    m_Localized: Retour
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534739
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534740
+    m_Localized: Point de vue suivant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534741
+    m_Localized: "Point de vue pr\xE9c\xE9dent"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534742
+    m_Localized: Appuyer pour parler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534743
+    m_Localized: "Activer/d\xE9sactiver le micro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534744
+    m_Localized: Expressions joueurs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145570844672
+    m_Localized: "Col\xE8re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593408
+    m_Localized: Tristesse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593409
+    m_Localized: Suspicion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593410
+    m_Localized: "Yeux ferm\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593411
+    m_Localized: Peur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593412
+    m_Localized: Joie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534751
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534752
+    m_Localized: "Mod\xE8les"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534753
+    m_Localized: "T\xEAte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534754
+    m_Localized: Bras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534755
+    m_Localized: Corps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534756
+    m_Localized: Jambes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534757
+    m_Localized: Valider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534758
+    m_Localized: "S\xE9lectionner une couleur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534759
+    m_Localized: Valider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534760
+    m_Localized: Supprimer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534761
+    m_Localized: Couvre-chef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534762
+    m_Localized: Accessoire bras droit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534763
+    m_Localized: Accessoire bras gauche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534764
+    m_Localized: Accessoire jambe droite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534765
+    m_Localized: Accessoire jambe gauche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534766
+    m_Localized: "Haut de la t\xEAte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534767
+    m_Localized: "Bas de la t\xEAte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534768
+    m_Localized: Haut du corps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534769
+    m_Localized: Bas du corps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534770
+    m_Localized: Bras droit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534771
+    m_Localized: Bras gauche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534772
+    m_Localized: Jambe droite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534773
+    m_Localized: Jambe gauche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534774
+    m_Localized: Rayon tracteur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534775
+    m_Localized: "Paupi\xE8re droite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728960
+    m_Localized: "Paupi\xE8re gauche"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21470840070594560
+    m_Localized: Haut du visage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21470840091566080
+    m_Localized: Milieu du visage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728962
+    m_Localized: Oreilles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728963
+    m_Localized: Accessoire yeux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15231403103870976
+    m_Localized: Accessoire pied droit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728965
+    m_Localized: Accessoire haut du corps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728966
+    m_Localized: Accessoire bas du corps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15231403133231104
+    m_Localized: Accessoire pied gauche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728969
+    m_Localized: "Peinture haut de la t\xEAte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728970
+    m_Localized: "Peinture bas de la t\xEAte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728961
+    m_Localized: Peinture haut du corps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728968
+    m_Localized: Peinture bas du corps
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008624496640
+    m_Localized: Peinture bras droit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468160
+    m_Localized: Peinture bras gauche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468161
+    m_Localized: Peinture jambe droite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468162
+    m_Localized: Peinture jambe gauche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16702161813680128
+    m_Localized: Bas du visage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728971
+    m_Localized: "Effacer le mod\xE8le"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728972
+    m_Localized: "Voulez-vous VRAIMENT supprimer ce mod\xE8le D\xC9FINITIVEMENT\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728973
+    m_Localized: "Oui\_! :\u2019)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728974
+    m_Localized: Non...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241957765120
+    m_Localized: "R\xE9initialiser"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930944
+    m_Localized: "Voulez-vous vraiment annuler tous les changements et retirer les
+      cosm\xE9tiques\_?\nCette action est irr\xE9versible\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930945
+    m_Localized: "Oui\_! :\u2019)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930946
+    m_Localized: Non...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930947
+    m_Localized: "R\xE9initialiser"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930948
+    m_Localized: "Voulez-vous vraiment annuler tous les changements\_?\n\nCette action
+      est irr\xE9versible\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930949
+    m_Localized: "Oui\_! :\u2019)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930950
+    m_Localized: Non...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930951
+    m_Localized: "R\xE9initialiser"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930952
+    m_Localized: "Voulez-vous vraiment retirer les cosm\xE9tiques\_?\n\nCette action
+      est irr\xE9versible\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930953
+    m_Localized: "Oui\_! :\u2019)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930954
+    m_Localized: Non...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930955
+    m_Localized: "Apparence al\xE9atoire"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930956
+    m_Localized: "Voulez-vous vraiment obtenir une apparence et des cosm\xE9tiques
+      al\xE9atoires\_?\n\nCette action est irr\xE9versible\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930957
+    m_Localized: "Oui\_! :\u2019)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930958
+    m_Localized: Non...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930959
+    m_Localized: "Apparence al\xE9atoire"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930960
+    m_Localized: "Voulez-vous vraiment obtenir une apparence al\xE9atoire\_?\n\nCette
+      action est irr\xE9versible\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930961
+    m_Localized: "Oui\_! :\u2019)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930962
+    m_Localized: Non...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930963
+    m_Localized: "Apparence al\xE9atoire"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930964
+    m_Localized: "Voulez-vous vraiment obtenir des cosm\xE9tiques al\xE9atoires\_?\n\nCette
+      action est irr\xE9versible\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930965
+    m_Localized: "Oui\_! :\u2019)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930966
+    m_Localized: Non...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835840
+    m_Localized: Modifier la couleur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835841
+    m_Localized: "Cette action remplacera les couleurs sur toutes les parties du
+      corps ainsi que tous les cosm\xE9tiques.\n\nCeci est irr\xE9versible\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835842
+    m_Localized: "Oui\_! :\u2019)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835843
+    m_Localized: Non...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930967
+    m_Localized: Modifier la couleur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930968
+    m_Localized: "Cette action remplacera les couleurs sur toutes les parties du
+      corps.\n\nCeci est irr\xE9versible\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930969
+    m_Localized: "Oui\_! :\u2019)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930970
+    m_Localized: Non...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930971
+    m_Localized: Modifier la couleur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930972
+    m_Localized: "Cette action remplacera les couleurs de tous les cosm\xE9tiques.\n\nCeci
+      est irr\xE9versible\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930973
+    m_Localized: "Oui\_! :\u2019)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930974
+    m_Localized: Non...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15590857783631872
+    m_Localized: Mot de passe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15590857808797696
+    m_Localized: Passer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15673645669015552
+    m_Localized: Valider
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116045647872
+    m_Localized: Salon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008000
+    m_Localized: Appuyer sur [chat] pour discuter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008001
+    m_Localized: Lancer la partie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16030297698066432
+    m_Localized: Les joueurs rejoignent la partie...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008002
+    m_Localized: Inviter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008003
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008004
+    m_Localized: Personnaliser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008005
+    m_Localized: Quitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008006
+    m_Localized: Lancer la partie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008007
+    m_Localized: "Tout le monde est pr\xEAt\_?\n\nUne fois la partie lanc\xE9e,\nplus
+      personne ne peut la rejoindre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008008
+    m_Localized: "Oui\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008009
+    m_Localized: "Non, un instant\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008010
+    m_Localized: Quitter le salon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008011
+    m_Localized: "Voulez-vous vraiment quitter\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008012
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008013
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26475650059841536
+    m_Localized: "Avertissement sur la photosensibilit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26475650085007360
+    m_Localized: Ce jeu contient des flashs lumineux.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26475650085007361
+    m_Localized: "Certaines personnes peuvent \xEAtre sujettes \xE0 des crises d\u2019\xE9pilepsie
+      lors de l\u2019exposition \xE0 certains ph\xE9nom\xE8nes lumineux. Si vous
+      \xE9prouvez la moindre g\xEAne en jouant, veuillez quitter le jeu imm\xE9diatement
+      et consulter un m\xE9decin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972608
+    m_Localized: Chargement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972609
+    m_Localized: "Le chargement s\u2019\xE9ternise\_?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972610
+    m_Localized: Appuyer sur [back] pour retourner au menu principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30862829494894592
+    m_Localized: Boutique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30862829524254721
+    m_Localized: Fin de partie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599407521792
+    m_Localized: Station-service
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687616
+    m_Localized: "D\xE9charge"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687617
+    m_Localized: Station McJannek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687618
+    m_Localized: Manoir du Directeur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687619
+    m_Localized: "Mus\xE9e d\u2019art humain"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687620
+    m_Localized: "Acad\xE9mie de Vif-Balai"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474048
+    m_Localized: "Complexe touristique de la vall\xE9e de Solpierre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474049
+    m_Localized: "{hours:conditional:{hours}\_h |}{minutes:conditional:{minutes}\_m
+      |}{seconds:conditional:{seconds}\_s|}"
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324488
+  references:
+    version: 2
+    RefIds:
+    - rid: 2515126557588324488
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 33712689940168712
+        - id: 53350507566661632
+        - id: 5801515992834048
+        - id: 33437954593423360
+        - id: 23207164712574976
+        - id: 23197572767145984
+        - id: 30862829524254720
+        - id: 74362528585474049

@@ -1,0 +1,586 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: TTS Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: TTS
+  m_TableCollectionNameGuidString: bc4b19486e3f94d4a9fd44e4d2661ea1
+  m_Entries:
+  - m_Id: 2168907096064
+    m_Key: SELF_DESTRUCT.LINE_1
+    m_Metadata:
+      m_Items:
+      - rid: 4469188718814036085
+  - m_Id: 2168965816320
+    m_Key: SELF_DESTRUCT.LINE_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816321
+    m_Key: SELF_DESTRUCT.LINE_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816322
+    m_Key: SELF_DESTRUCT.LINE_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816323
+    m_Key: SELF_DESTRUCT.LINE_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816324
+    m_Key: SELF_DESTRUCT.LINE_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816325
+    m_Key: SELF_DESTRUCT.LINE_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816326
+    m_Key: SELF_DESTRUCT.LINE_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816327
+    m_Key: SELF_DESTRUCT.LINE_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816328
+    m_Key: SELF_DESTRUCT.LINE_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816329
+    m_Key: SELF_DESTRUCT.LINE_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816330
+    m_Key: SELF_DESTRUCT.LINE_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816331
+    m_Key: SELF_DESTRUCT.LINE_13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816332
+    m_Key: SELF_DESTRUCT.LINE_14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816333
+    m_Key: SELF_DESTRUCT.LINE_15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816334
+    m_Key: SELF_DESTRUCT.LINE_16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816335
+    m_Key: SELF_DESTRUCT.LINE_17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816336
+    m_Key: SELF_DESTRUCT.LINE_18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816337
+    m_Key: SELF_DESTRUCT.LINE_19
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816338
+    m_Key: SELF_DESTRUCT.LINE_20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816339
+    m_Key: SELF_DESTRUCT.LINE_21
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816340
+    m_Key: SELF_DESTRUCT.LINE_22
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816341
+    m_Key: SELF_DESTRUCT.LINE_23
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816342
+    m_Key: SELF_DESTRUCT.LINE_24
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816343
+    m_Key: SELF_DESTRUCT.LINE_25
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816344
+    m_Key: SELF_DESTRUCT.LINE_26
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816345
+    m_Key: SELF_DESTRUCT.LINE_27
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816346
+    m_Key: SELF_DESTRUCT_CANCEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816347
+    m_Key: LEFT_BEHIND.LINE_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816348
+    m_Key: LEFT_BEHIND.LINE_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816349
+    m_Key: LEFT_BEHIND.LINE_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816350
+    m_Key: LEFT_BEHIND.LINE_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816351
+    m_Key: LEFT_BEHIND.LINE_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816352
+    m_Key: LEFT_BEHIND.LINE_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816353
+    m_Key: LEFT_BEHIND.LINE_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816354
+    m_Key: LEFT_BEHIND.LINE_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816355
+    m_Key: LEFT_BEHIND.LINE_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816356
+    m_Key: LEFT_BEHIND.LINE_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816357
+    m_Key: LEFT_BEHIND.LINE_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816358
+    m_Key: LEFT_BEHIND.LINE_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816359
+    m_Key: LEFT_BEHIND.LINE_13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816360
+    m_Key: LEFT_BEHIND.LINE_14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816361
+    m_Key: LEFT_BEHIND.LINE_15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816362
+    m_Key: LEFT_BEHIND.LINE_16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816363
+    m_Key: LEFT_BEHIND.LINE_17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816364
+    m_Key: LEFT_BEHIND.LINE_18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816365
+    m_Key: LEFT_BEHIND.LINE_19
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816366
+    m_Key: LEFT_BEHIND.LINE_20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816367
+    m_Key: LEFT_BEHIND.LINE_21
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816368
+    m_Key: LEFT_BEHIND.LINE_22
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816369
+    m_Key: LEFT_BEHIND.LINE_23
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816370
+    m_Key: LEFT_BEHIND.LINE_24
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816371
+    m_Key: LEFT_BEHIND.LINE_25
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816372
+    m_Key: LEFT_BEHIND.LINE_26
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816373
+    m_Key: LEFT_BEHIND.LINE_27
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816374
+    m_Key: LEFT_BEHIND.LINE_28
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816375
+    m_Key: LEFT_BEHIND.LINE_29
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816376
+    m_Key: LEFT_BEHIND.LINE_30
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816377
+    m_Key: TRUCK_WARNING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816378
+    m_Key: BETRAYAL_FAREWELL.LINE_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816379
+    m_Key: BETRAYAL_FAREWELL.LINE_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816380
+    m_Key: BETRAYAL_FAREWELL.LINE_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816381
+    m_Key: BETRAYAL_FAREWELL.LINE_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816382
+    m_Key: BETRAYAL_FAREWELL.LINE_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816383
+    m_Key: BETRAYAL_FAREWELL.LINE_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816384
+    m_Key: BETRAYAL_FAREWELL.LINE_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816385
+    m_Key: BETRAYAL_FAREWELL.LINE_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816386
+    m_Key: BETRAYAL_FAREWELL.LINE_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816387
+    m_Key: BETRAYAL_FAREWELL.LINE_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816388
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816389
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816390
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816391
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816392
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816393
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816394
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816395
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816396
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816397
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816398
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816399
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816400
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816401
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816402
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816403
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816404
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816405
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816406
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_19
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816407
+    m_Key: LOVE_POTION.TARGET_PLAYER.LINE_20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816408
+    m_Key: LOVE_POTION.TARGET_POTION.LINE_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816409
+    m_Key: LOVE_POTION.TARGET_POTION.LINE_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816410
+    m_Key: LOVE_POTION.TARGET_POTION.LINE_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816411
+    m_Key: LOVE_POTION.TARGET_POTION.LINE_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816412
+    m_Key: LOVE_POTION.TARGET_POTION.LINE_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816413
+    m_Key: LOVE_POTION.TARGET_POTION.LINE_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816414
+    m_Key: LOVE_POTION.TARGET_POTION.LINE_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816415
+    m_Key: LOVE_POTION.TARGET_POTION.LINE_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816416
+    m_Key: LOVE_POTION.TARGET_POTION.LINE_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816417
+    m_Key: LOVE_POTION.TARGET_POTION.LINE_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816418
+    m_Key: OUCH.LINE_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816419
+    m_Key: OUCH.LINE_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816420
+    m_Key: OUCH.LINE_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816421
+    m_Key: OUCH.LINE_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816422
+    m_Key: OUCH.LINE_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816423
+    m_Key: OUCH.LINE_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816424
+    m_Key: OUCH.LINE_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816425
+    m_Key: OUCH.LINE_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816426
+    m_Key: OUCH.LINE_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816427
+    m_Key: OUCH.LINE_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816428
+    m_Key: OUCH.LINE_11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816429
+    m_Key: OUCH.LINE_12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816430
+    m_Key: OUCH.LINE_13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816431
+    m_Key: OUCH.LINE_14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816432
+    m_Key: OUCH.LINE_15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816433
+    m_Key: OUCH.LINE_16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816434
+    m_Key: OUCH.LINE_17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816435
+    m_Key: OUCH.LINE_18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816436
+    m_Key: OUCH.LINE_19
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816437
+    m_Key: MUSEUM.ROBOT.COUNTDOWN_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816438
+    m_Key: MUSEUM.ROBOT.COUNTDOWN_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816439
+    m_Key: MUSEUM.ROBOT.COUNTDOWN_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816440
+    m_Key: MUSEUM.ROBOT.GREEN_LIGHT_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816441
+    m_Key: MUSEUM.ROBOT.GREEN_LIGHT_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816442
+    m_Key: MUSEUM.ROBOT.GREEN_LIGHT_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816443
+    m_Key: MUSEUM.ROBOT.GREEN_LIGHT_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816444
+    m_Key: MUSEUM.ROBOT.GREEN_LIGHT_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816445
+    m_Key: MUSEUM.ROBOT.GREEN_LIGHT_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816446
+    m_Key: MUSEUM.ROBOT.GREEN_LIGHT_7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816447
+    m_Key: MUSEUM.ROBOT.GREEN_LIGHT_8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816448
+    m_Key: MUSEUM.ROBOT.GREEN_LIGHT_9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816449
+    m_Key: MUSEUM.ROBOT.GREEN_LIGHT_10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816450
+    m_Key: MUSEUM.ROBOT.RED_LIGHT_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816451
+    m_Key: MUSEUM.ROBOT.RED_LIGHT_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816452
+    m_Key: MUSEUM.ROBOT.RED_LIGHT_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816453
+    m_Key: MUSEUM.ROBOT.RED_LIGHT_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816454
+    m_Key: MUSEUM.ROBOT.RED_LIGHT_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816455
+    m_Key: MUSEUM.ROBOT.RED_LIGHT_6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816456
+    m_Key: MUSEUM.ROBOT.RED_LIGHT_7
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4469188718814036053
+  references:
+    version: 2
+    RefIds:
+    - rid: 4469188718814036053
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1790096827575
+    - rid: 4469188718814036085
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: Text-To-Speech feature which will add voice to these localized
+          lines

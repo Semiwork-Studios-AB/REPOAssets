@@ -1,0 +1,625 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TTS_da-DK
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: da-DK
+  m_SharedData: {fileID: 11400000, guid: bc4b19486e3f94d4a9fd44e4d2661ea1, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2601145633132773461
+  m_TableData:
+  - m_Id: 2168965816320
+    m_Localized: Far vel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816328
+    m_Localized: vi ses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816329
+    m_Localized: ses
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816334
+    m_Localized: hej hej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816335
+    m_Localized: farvel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816338
+    m_Localized: hej hej... ...eller?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816339
+    m_Localized: "det her kommer til at g\xF8re ondt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816340
+    m_Localized: det er ude med mig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816341
+    m_Localized: hvorfor mig?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816342
+    m_Localized: Jeg er ked af det
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816343
+    m_Localized: jeg kan se lyset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816344
+    m_Localized: "s\xF8rgeligt men n\xF8dvendigt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816346
+    m_Localized: SELVDESTRUKTION AFBRUDT!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816347
+    m_Localized: I har forladt mig.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816348
+    m_Localized: De har forladt mig.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816349
+    m_Localized: "Mit hold har forr\xE5dt mig."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816350
+    m_Localized: Alle har glemt mig.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816351
+    m_Localized: "Mine venner har d\xF8dsd\xF8mt mig."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816357
+    m_Localized: "Jeg f\xF8ler mig fortabt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816358
+    m_Localized: Hvorfor ventede de ikke?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816359
+    m_Localized: Hvad har jeg gjort galt?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816360
+    m_Localized: Jeg kan ikke tro det.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816361
+    m_Localized: Hvor kunne de?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816362
+    m_Localized: Det her sker bare ikke.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816363
+    m_Localized: "S\xE5 er jeg alene."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816364
+    m_Localized: "De var mit eneste h\xE5b."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816437
+    m_Localized: tre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816438
+    m_Localized: to
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816439
+    m_Localized: en
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168907096064
+    m_Localized: jeg er smuttet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816365
+    m_Localized: Jeg burde have vidst.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816366
+    m_Localized: "Det er s\xE5 uretf\xE6rdigt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816380
+    m_Localized: jeg er ked af det
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816381
+    m_Localized: Jeg fejlede
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816382
+    m_Localized: "\xE5h nej, ikke igen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816384
+    m_Localized: Jeg troede jeg havde venner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816385
+    m_Localized: Jeg troede vi var et hold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816386
+    m_Localized: Jeg troede vi stod sammen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816387
+    m_Localized: 'Jeg troede vi var en familie
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816388
+    m_Localized: "{playerName} f\xE5r mit hjerte til at sige bip bop."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816389
+    m_Localized: "Hver gang jeg ser {playerName}, g\xE5r jeg konkurs."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816390
+    m_Localized: "Jeg f\xE5r lyst til en tur i V.O.G.N.en med {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816391
+    m_Localized: "{playerName} er bare s\xE5 super mega robocute, ikk'?"
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816392
+    m_Localized: '{playerName} er min yndlingstroldmand.'
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816393
+    m_Localized: "Jeg vil virkelig bare v\xE6re sammen med {playerName}!"
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816394
+    m_Localized: "N\xE5r jeg t\xE6nker p\xE5 {playerName} kan jeg ikke lade v\xE6re
+      med at hente den nyeste opdatering."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816395
+    m_Localized: "{playerName}, du f\xE5r mig til at sige gaga ding dong."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816396
+    m_Localized: "Jeg kan ikke vente til jeg skal g\xF8re skattemanden glad igen
+      sammen med {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816397
+    m_Localized: "Jeg vil seri\xF8st bare til Japan med {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816398
+    m_Localized: "Jeg tror jeg er robovarm p\xE5 {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816399
+    m_Localized: "{playerName} har det mest \xF8konomiskt stabile smil."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816400
+    m_Localized: "{playerName} er som den mest opgraderede dr\xF8m."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816401
+    m_Localized: "N\xE5r jeg ser {playerName}, s\xE5 robodanser jeg indeni."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816402
+    m_Localized: '{playerName} er min yndlingsfjollerik.'
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816403
+    m_Localized: Jeg kan ikke vente med at robokilde {playerName} igen.
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816404
+    m_Localized: "{playerName}, du g\xF8r min dag bedre!"
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816405
+    m_Localized: "{playerName} f\xE5r mit hjerte til at sige jubiiiii."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816406
+    m_Localized: "Jeg f\xE5r bare lyst til at dele hemmeligheder med {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816407
+    m_Localized: "Kan ikke la' v\xE6re med at smile p\xE5 grund af {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 2601145633132773461
+  - m_Id: 2168965816418
+    m_Localized: Av! Avs! Av for filan!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816419
+    m_Localized: Av! Av! Av!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816420
+    m_Localized: Ej! Av! Avs!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816421
+    m_Localized: Av for hulen da!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816422
+    m_Localized: Avs! Avs! Avs!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816423
+    m_Localized: fejl fejl fejl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816424
+    m_Localized: systemfejl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816425
+    m_Localized: alvorlig fejl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816426
+    m_Localized: fejl 404
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816427
+    m_Localized: runtime error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816428
+    m_Localized: "nu v\xE6lter jeg sgi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816429
+    m_Localized: "v\xE6lter nu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816430
+    m_Localized: "\xE5\xE5\xE5\xE5\xE5\xE5\xE5\xE5\xE5\xE5\xE5h!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816431
+    m_Localized: "\xE5\xE5\xE5\xE5h nejjj!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816440
+    m_Localized: "s\xE5 m\xE5 du bev\xE6ge dig"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816441
+    m_Localized: dans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816442
+    m_Localized: "l\xF8b"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816443
+    m_Localized: "bev\xE6g din krop"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816444
+    m_Localized: "forts\xE6t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816445
+    m_Localized: hurtigere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816446
+    m_Localized: snur rundt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816447
+    m_Localized: "kom s\xE5 kom s\xE5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816448
+    m_Localized: underhold mig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816449
+    m_Localized: ryst din krop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816450
+    m_Localized: stop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816451
+    m_Localized: "ikk bev\xE6g dig"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816452
+    m_Localized: frys
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816453
+    m_Localized: "st\xE5 stille"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816454
+    m_Localized: "ikk r\xF8r dig"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816455
+    m_Localized: "ikke \xE9t skridt til"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816456
+    m_Localized: bliv
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816321
+    m_Localized: Adieu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816322
+    m_Localized: sayonara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816323
+    m_Localized: Auf Wiedersehen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816324
+    m_Localized: adios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816325
+    m_Localized: ciao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816326
+    m_Localized: Au Revoir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816327
+    m_Localized: hasta la vista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816330
+    m_Localized: ha' et godt liv
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816331
+    m_Localized: ha' det sjovt uden mig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816332
+    m_Localized: vi ses lige pludselig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816333
+    m_Localized: mojn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816336
+    m_Localized: AAAAAAAAAAAA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816337
+    m_Localized: AAAAAAAAAAAAAAAAAAAAAAA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816345
+    m_Localized: "N\xC5 MEN HEJ HEJ!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816352
+    m_Localized: Truppen har ladt mig i stikken.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816353
+    m_Localized: Gruppen har efterladt mig.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816354
+    m_Localized: De er alle sammen ligeglade med mig.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816355
+    m_Localized: "Dem jeg stolede p\xE5 har forladt mig."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816356
+    m_Localized: Mine kammerater har efterladt mig.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816367
+    m_Localized: "De har d\xF8dsd\xF8mt mig alene..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816368
+    m_Localized: De har ladt mig i stikken...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816369
+    m_Localized: "De har efterladt mig i m\xF8rket..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816370
+    m_Localized: "Uden s\xE5 meget som et ord har de forladt mig..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816371
+    m_Localized: Uden varsel forsvandt de...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816372
+    m_Localized: Forladt i stilhed...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816373
+    m_Localized: "De forr\xE5dte mig uden at se sig tilbage..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816374
+    m_Localized: 'De har glemt mig, uden anger... '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816375
+    m_Localized: "Nu har dem jeg stolede p\xE5 d\xF8dsd\xF8mt mig."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816376
+    m_Localized: "Nu har mine k\xE6reste venner ladt mig i stikken."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816377
+    m_Localized: "Jeg m\xE5 tilbage til flyttebilen inden for..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816378
+    m_Localized: "forr\xE6deri"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816379
+    m_Localized: "forr\xE6deri detekteret"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816383
+    m_Localized: "mange b\xE6kke sm\xE5 g\xF8r en stor \xE5"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816408
+    m_Localized: "Den her trylledrik er seri\xF8st s\xE5 robonuttet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816409
+    m_Localized: "Jeg er over m\xE5nen over den her trylledrik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816410
+    m_Localized: "Den her trylledrik f\xE5r mig til at sige bip bop"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816411
+    m_Localized: Den her trylledrik er min elskling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816412
+    m_Localized: "Hver gang jeg ser den her trylledrik, erkl\xE6rer jeg min k\xE6rlighed."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816413
+    m_Localized: "Den her trylledrik g\xF8r min dag helt vildt fed."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816414
+    m_Localized: Jeg har en svaghed for den her trylledrik.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816415
+    m_Localized: Livet er fantastisk med den her trylledrik.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816416
+    m_Localized: Den her trylledrik sparker mit hjerte i gang.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816417
+    m_Localized: "Bare tanken om den her trylledrik g\xF8r mig glad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816432
+    m_Localized: AAAAAA! AAA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816433
+    m_Localized: AAAAAAAAAAAAAA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816434
+    m_Localized: AAAAAAAAAAAAAAAAAAAAAAAAAAA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816435
+    m_Localized: "\xC5H! \xC5H! \xC5H!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816436
+    m_Localized: AA! AA! AA!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2601145633132773461
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 2168965816388
+        - id: 2168965816389
+        - id: 2168965816390
+        - id: 2168965816391
+        - id: 2168965816392
+        - id: 2168965816393
+        - id: 2168965816394
+        - id: 2168965816395
+        - id: 2168965816396
+        - id: 2168965816397
+        - id: 2168965816398
+        - id: 2168965816399
+        - id: 2168965816400
+        - id: 2168965816401
+        - id: 2168965816402
+        - id: 2168965816403
+        - id: 2168965816404
+        - id: 2168965816405
+        - id: 2168965816406
+        - id: 2168965816407

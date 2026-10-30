@@ -28,7 +28,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790337
-    m_Localized: Tag med en ven
+    m_Localized: Tilslut en vens spil
     m_Metadata:
       m_Items: []
   - m_Id: 62271019790338
@@ -74,7 +74,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887621
-    m_Localized: "Jeg forst\xE5r"
+    m_Localized: "Forst\xE5et"
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887622
@@ -102,7 +102,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029700
-    m_Localized: "Helt s\xE6ri\xF8st?"
+    m_Localized: "Helt seri\xF8st?"
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029701
@@ -326,19 +326,19 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853723
-    m_Localized: Forenede Arabiske Emirater
+    m_Localized: FAE
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853724
-    m_Localized: "Amerikas Forenede Staters \xF8stlige del"
+    m_Localized: "\xD8st-USA"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853725
-    m_Localized: Amerikas Forenede Staters vestlige del
+    m_Localized: Vest-USA
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853726
-    m_Localized: Amerikas Forenede Staters sydlige centraldel
+    m_Localized: Sydcentral-USA
     m_Metadata:
       m_Items: []
   - m_Id: 10581343564980224
@@ -429,10 +429,6 @@ MonoBehaviour:
     m_Localized: Kameraanimationer
     m_Metadata:
       m_Items: []
-  - m_Id: 10581343598534685
-    m_Localized: Omvend lodret sigtning
-    m_Metadata:
-      m_Items: []
   - m_Id: 10581343598534686
     m_Localized: Hold automatisk fast i udstyr du tager frem
     m_Metadata:
@@ -442,7 +438,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534688
-    m_Localized: Udseende
+    m_Localized: "T\xF8j"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534689
@@ -590,7 +586,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534727
-    m_Localized: Drej
+    m_Localized: "Rot\xE9r"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534728
@@ -666,7 +662,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534752
-    m_Localized: Looks
+    m_Localized: Udseender
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534753
@@ -730,11 +726,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534768
-    m_Localized: Toppen af kroppen
+    m_Localized: Overkroppen
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534769
-    m_Localized: Bunden af kroppen
+    m_Localized: Underkroppen
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534770
@@ -766,7 +762,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728961
-    m_Localized: "M\xF8nster p\xE5 toppen af kroppen"
+    m_Localized: "M\xF8nster p\xE5 overkroppen"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728962
@@ -786,7 +782,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728968
-    m_Localized: "M\xF8nster p\xE5 bunden af kroppen"
+    m_Localized: "M\xF8nster p\xE5 underkroppen"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728969
@@ -798,11 +794,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728971
-    m_Localized: Slet look
+    m_Localized: Slet udseende
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728972
-    m_Localized: "Er du HELT SIKKER p\xE5 at du vil slette det her look FOR EVIGT?"
+    m_Localized: "Er du HELT SIKKER p\xE5 at du vil slette det her udseende FOR EVIGT?"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728973
@@ -1091,7 +1087,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15592435403972610
-    m_Localized: Tryk [menu] for at afslutte til hovedmenuen
+    m_Localized: Tryk [back] for at afslutte til hovedmenuen
     m_Metadata:
       m_Items: []
   - m_Id: 15661116045647872
@@ -1099,7 +1095,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008000
-    m_Localized: Tryk [chat] for at chatte
+    m_Localized: Tryk [chat] for at skrive
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008001
@@ -1119,7 +1115,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008005
-    m_Localized: Skrid
+    m_Localized: Smut
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008006
@@ -1127,7 +1123,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008007
-    m_Localized: "Er alle klar?\n\nN\xE5r spillet k\xF8rer kan nye spillere ikke
+    m_Localized: "Er alle klar?\n\nN\xE5r spillet er i gang kan nye spillere ikke
       komme med."
     m_Metadata:
       m_Items: []
@@ -1458,7 +1454,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 30857599407521792
-    m_Localized: Servicestationen
+    m_Localized: Tankstationen
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687616
@@ -1466,7 +1462,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687617
-    m_Localized: McJannek stationen
+    m_Localized: McJannek Station
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687618
@@ -1474,15 +1470,15 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687619
-    m_Localized: Museet for menneskets kunst
+    m_Localized: Museet for menneskelig kunst
     m_Metadata:
       m_Items: []
   - m_Id: 30857599432687620
-    m_Localized: "Vimsekost h\xF8jskole"
+    m_Localized: Vimsekost Kostskole
     m_Metadata:
       m_Items: []
   - m_Id: 30862829494894592
-    m_Localized: "K\xF8bmanden"
+    m_Localized: "K\xF8bmand"
     m_Metadata:
       m_Items: []
   - m_Id: 30862829524254720
@@ -1495,7 +1491,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 33065608682569728
-    m_Localized: Du gjorde det helt selv!
+    m_Localized: Det her klarede du helt alene!
     m_Metadata:
       m_Items: []
   - m_Id: 33437954568257536
@@ -1545,7 +1541,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 33712689940168710
-    m_Localized: Okay, nederen
+    m_Localized: Okay, fedt nok...
     m_Metadata:
       m_Items: []
   - m_Id: 33712689940168711
@@ -1553,11 +1549,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 33712689940168712
-    m_Localized: 'Spillobbyen bruger version:
+    m_Localized: 'Din version: {versionSelf}
 
-      {version}'
+      Lobbyens version: {version}'
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 7803763168112017414
   - m_Id: 33712689940168713
     m_Localized: Okay, nederen
     m_Metadata:
@@ -1574,6 +1571,158 @@ MonoBehaviour:
     m_Localized: Okay, nederen
     m_Metadata:
       m_Items: []
+  - m_Id: 33791074834644992
+    m_Localized: Offenligt spil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810816
+    m_Localized: "Tilf\xE6ldig gruppesammens\xE6tning"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810817
+    m_Localized: Serverliste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810818
+    m_Localized: Tilbage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810819
+    m_Localized: Serverliste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810820
+    m_Localized: "S\xF8g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810821
+    m_Localized: Lav ny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810822
+    m_Localized: Tilbage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810823
+    m_Localized: "S\xF8g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810824
+    m_Localized: Godkend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810825
+    m_Localized: Tilbage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810826
+    m_Localized: Lav ny server
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810827
+    m_Localized: Godkend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810828
+    m_Localized: Tilbage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36617102426701824
+    m_Localized: Omvend lodret sigtning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507528912896
+    m_Localized: Tilslut dig serveren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661632
+    m_Localized: "Er du sikker p\xE5 du vil v\xE6re med?\n{lobbyName}"
+    m_Metadata:
+      m_Items:
+      - rid: 7803763168112017414
+  - m_Id: 53350507566661633
+    m_Localized: Jeps!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661634
+    m_Localized: Niks!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53646107088584704
+    m_Localized: "Tryk p\xE5 ny tast"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54361496021958656
+    m_Localized: Spejlkvalitet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474049
+    m_Localized: '{hours:conditional:{hours}t |}{minutes:conditional:{minutes}m |}{seconds:conditional:{seconds}s|}
+
+'
+    m_Metadata:
+      m_Items:
+      - rid: 7803763168112017414
+  - m_Id: 74362528585474048
+    m_Localized: Solstensdalen Feriepark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74361386170310656
+    m_Localized: "H\xE5ndkontrol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474050
+    m_Localized: Tekst-til-tale sprog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856340672512
+    m_Localized: "Skub / tr\xE6k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615552
+    m_Localized: "Brugergr\xE6nseflade"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615553
+    m_Localized: "N\xE6ste fane"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615554
+    m_Localized: Forrige fane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87379731429711872
+    m_Localized: Sigteacceleration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062029873152
+    m_Localized: "K\xF8ret\xF8j"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010496
+    m_Localized: accelerer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010497
+    m_Localized: Brems / bak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010498
+    m_Localized: Skrid til venstre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010499
+    m_Localized: "Skrid til h\xF8jre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010500
+    m_Localized: "P\xE5stigning af k\xF8ret\xF8j"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010501
+    m_Localized: Udtrykshjul
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
@@ -1587,3 +1736,6 @@ MonoBehaviour:
         - id: 23207164712574976
         - id: 30862829524254720
         - id: 33437954593423360
+        - id: 33712689940168712
+        - id: 53350507566661632
+        - id: 74362528585474049

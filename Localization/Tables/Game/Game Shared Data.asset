@@ -18,23 +18,19 @@ MonoBehaviour:
   - m_Id: 76998412316672
     m_Key: EXTRACTION.TAX_RETURN
     m_Metadata:
-      m_Items:
-      - rid: 3967077751450763316
+      m_Items: []
   - m_Id: 76998429093888
     m_Key: EXTRACTION.LOCKED
     m_Metadata:
-      m_Items:
-      - rid: 3967077751450763317
+      m_Items: []
   - m_Id: 76998429093889
     m_Key: EXTRACTION.READY
     m_Metadata:
-      m_Items:
-      - rid: 3967077751450763318
+      m_Items: []
   - m_Id: 76998429093890
     m_Key: EXTRACTION.ACTIVE
     m_Metadata:
-      m_Items:
-      - rid: 3967077751450763319
+      m_Items: []
   - m_Id: 1545717751721984
     m_Key: EXTRACTION.EXTRACTING
     m_Metadata:
@@ -46,13 +42,11 @@ MonoBehaviour:
   - m_Id: 33712840729591808
     m_Key: TRUCK_SCREEN.TAXMAN
     m_Metadata:
-      m_Items:
-      - rid: 3989850923563483138
+      m_Items: []
   - m_Id: 33712840754757632
     m_Key: TRUCK_SCREEN.DESTROYING_SLACKERS
     m_Metadata:
-      m_Items:
-      - rid: 3989850923563483139
+      m_Items: []
   - m_Id: 33712840754757633
     m_Key: TRUCK_SCREEN.STARTING_ENGINE
     m_Metadata:
@@ -64,8 +58,7 @@ MonoBehaviour:
   - m_Id: 21794657889497088
     m_Key: COSMETIC_SHOP_MACHINE.NEW
     m_Metadata:
-      m_Items:
-      - rid: 722373875959857159
+      m_Items: []
   - m_Id: 25878060419940352
     m_Key: VALUABLE_BOX.TOO_BIG
     m_Metadata:
@@ -85,40 +78,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 722373875959857159
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: Header shown over newly unlocked cosmetics for the Cosmetic
-          Shop Machine screen.
     - rid: 3967077747386744844
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
         m_CustomEpoch: 1770626762708
-    - rid: 3967077751450763316
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: In-game text displayed when extracting surplus money (a tax
-          refund or tax rebate).
-    - rid: 3967077751450763317
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: In-game text displayed when extraction is not yet available
-          (locked).
-    - rid: 3967077751450763318
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: In-game text displayed when an extraction can be activated.
-    - rid: 3967077751450763319
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: In-game text displayed when an extraction is active.
-    - rid: 3989850923563483138
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: In-game text display on the truck's screen. Represents the
-          Taxman's username in the simulated chat.
-    - rid: 3989850923563483139
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: In-game text display on the truck's screen when leaving the
-          level before all players are back in the truck.

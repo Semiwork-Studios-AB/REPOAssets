@@ -20,653 +20,659 @@ MonoBehaviour:
     - rid: 6163163424511229957
   m_TableData:
   - m_Id: 2984229311066112
-    m_Localized: (pt-PT) Extraction point activated
+    m_Localized: "Ponto de extra\xE7\xE3o ativado"
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231936
-    m_Localized: (pt-PT) Extraction point completed
+    m_Localized: "Ponto de extra\xE7\xE3o conclu\xEDdo"
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231937
-    m_Localized: (pt-PT) Fill the extraction point with valuables
+    m_Localized: "Enche o ponto de extra\xE7\xE3o com objetos de valor"
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231938
-    m_Localized: (pt-PT) Avoid the grenades!
+    m_Localized: Evita as granadas!
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231939
-    m_Localized: (pt-PT) Find the next extraction point
+    m_Localized: "Encontra o pr\xF3ximo ponto de extra\xE7\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 2984229336231940
-    m_Localized: (pt-PT) Get back to the truck!
+    m_Localized: "Volta para o cami\xE3o!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442524647424
-    m_Localized: (pt-PT) Good job!
+    m_Localized: Bom trabalho!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813248
-    m_Localized: (pt-PT) Use [move] to move.
+    m_Localized: Usa [move] para te mover.
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813249
-    m_Localized: (pt-PT) Move to fill the progress bar!
+    m_Localized: Move-te para encher a barra de progresso!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813250
-    m_Localized: (pt-PT) Use [move] on your keyboard until the progress bar is filled!
+    m_Localized: "Usa [move] no teclado at\xE9 a barra de progresso ficar cheia!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813251
-    m_Localized: (pt-PT) Press [jump] to jump.
+    m_Localized: Prime [jump] para saltar.
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813252
-    m_Localized: (pt-PT) Jump to fill the progress bar!
+    m_Localized: Salta para encher a barra de progresso!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813253
-    m_Localized: (pt-PT) Press [jump] to do jumps until the progress bar is filled!
+    m_Localized: "Prime [jump] para saltar at\xE9 a barra de progresso ficar cheia!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813254
-    m_Localized: (pt-PT) Press [crouch] to sneak. Monsters are less likely to see
-      you.
+    m_Localized: "Prime [crouch] para te esgueirares. Assim, \xE9 menos prov\xE1vel
+      que os monstros te vejam."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813255
-    m_Localized: (pt-PT) Sneak to fill the progress bar!
+    m_Localized: Esgueira-te para encher a barra de progresso!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813256
-    m_Localized: (pt-PT) Hold [crouch] and use [move] until the progess is filled!
+    m_Localized: "Mant\xE9m [crouch] premido e usa [move] at\xE9 a barra de progresso
+      ficar cheia!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813257
-    m_Localized: (pt-PT) Use [crouch] to sneak under stuff and hide.
+    m_Localized: "Mant\xE9m [crouch] premido para te esconderes debaixo de objetos."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813258
-    m_Localized: (pt-PT) Hide to fill the progress bar!
+    m_Localized: Esconde-te para encher a barra de progresso!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813259
-    m_Localized: (pt-PT) Hold [crouch] and walk in under a prop, stay there until
-      you fill the progress bar!
+    m_Localized: "Mantendo [crouch], passa por baixo de um objeto e fica l\xE1 at\xE9
+      encheres a barra de progresso!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813260
-    m_Localized: (pt-PT) Hold down [sprint] to sprint. This drains your energy.
+    m_Localized: "Mant\xE9m [sprint] premido para correr. Isto consome energia."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813261
-    m_Localized: (pt-PT) Sprint to fill the progress bar!
+    m_Localized: Corre para encher a barra de progresso
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813262
-    m_Localized: (pt-PT) Hold [sprint] and use [move] to sprint until you filled
-      the progress bar! If the energy runs out, wait for it to regenerate!
+    m_Localized: "Mant\xE9m [sprint] premido e usa [move] para correr at\xE9 encheres
+      a barra de progresso! Se ficares sem energia, espera que recupere!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813263
-    m_Localized: (pt-PT) Run and press [tumble] to fall with style. Jumping also
-      helps!
+    m_Localized: "Corre e prime [tumble] para ca\xEDres com estilo. Saltar tamb\xE9m
+      ajuda!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813264
-    m_Localized: (pt-PT) Run, jump and fall to fill the progress bar!
+    m_Localized: Corre, salta e cai para encheres a barra de progresso!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813265
-    m_Localized: (pt-PT) Run with [sprint], jump with [jump] and press [tumble] to
-      throw yourself. Do it until you fill the progress bar!
+    m_Localized: "Corre com [sprint], salta com [jump] e prime [tumble] para te lan\xE7ares.
+      Repete at\xE9 encheres a barra de progresso!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813266
-    m_Localized: (pt-PT) Grab objects using [grab].
+    m_Localized: Agarra objetos com [grab].
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813267
-    m_Localized: (pt-PT) Carry that thing to fill the progress bar!
+    m_Localized: Transporta esse objeto para encheres a barra de progresso!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813268
-    m_Localized: (pt-PT) Press and hold [grab] on an object until you fill the progress
-      bar!
+    m_Localized: "Mant\xE9m [grab] premido num objeto at\xE9 encheres a barra de
+      progresso!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813269
-    m_Localized: (pt-PT) Use [push] to alter the distance of grabbed objects.
+    m_Localized: "Usa [pushAndPull] para ajustar a dist\xE2ncia dos objetos agarrados."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813270
-    m_Localized: (pt-PT) Alter the distance of a grabbed item!
+    m_Localized: "Ajusta a dist\xE2ncia de um objeto agarrado!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813271
-    m_Localized: (pt-PT) Press and hold [grab] on an object and use [push] to alter
-      the distance of the item you grabbed!
+    m_Localized: "Mant\xE9m [grab] premido num objeto e usa [pushAndPull] para ajustar
+      a dist\xE2ncia do objeto agarrado!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813272
-    m_Localized: (pt-PT) Rotate grabbed objects using [grab2].
+    m_Localized: Gira os objetos agarrados com [grab2].
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813273
-    m_Localized: (pt-PT) Rotate stuff to fill the progress bar!
+    m_Localized: Gira objetos para encheres a barra de progresso!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813274
-    m_Localized: (pt-PT) While holding an object with [grab], press and hold [grab2]
-      and move your aim to rotate it. Rotate until you fill the progress bar!
+    m_Localized: "Enquanto seguras um objeto com [grab], mant\xE9m [grab2] premido
+      e move a mira para o girares. Continua at\xE9 encheres a barra de progresso!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813275
-    m_Localized: (pt-PT) Grab and press [interact] to toggle items.
+    m_Localized: Pega num objeto e prime [interact] para o ligar ou desligar.
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813276
-    m_Localized: (pt-PT) Toggle that thing on and off!
+    m_Localized: Liga e desliga esse objeto!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813277
-    m_Localized: (pt-PT) Grab the ball with [grab] and toggle it on and off using
-      [interact] until you fill the progress bar!
+    m_Localized: "Agarra a bola com [grab] e usa [interact] para a ligares e desligares
+      at\xE9 encheres a barra de progresso!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813278
-    m_Localized: (pt-PT) Grab an Item and use [inventory1]/[inventory2]/[inventory3]
-      to put it in your inventory.
+    m_Localized: "Agarra um objeto e usa [inventory1]/[inventory2]/[inventory3] para
+      o guardares no invent\xE1rio."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813279
-    m_Localized: (pt-PT) Fill your entire inventory!
+    m_Localized: "Enche todo o invent\xE1rio!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813280
-    m_Localized: (pt-PT) While holding an item with [grab], press [inventory1]/[inventory2]/[inventory3].
-      Fill all spots in your inventory to complete the progress bar!
+    m_Localized: "Enquanto seguras um objeto com [grab], prime [inventory1]/[inventory2]/[inventory3].
+      Preenche todos os espa\xE7os do invent\xE1rio para completares a barra de progresso!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813281
-    m_Localized: (pt-PT) Use [inventory1]/[inventory2]/[inventory3] to take items
-      out of your inventory.
+    m_Localized: "Use [inventory1]/[inventory2]/[inventory3] para retirar itens do
+      invent\xE1rio."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813282
-    m_Localized: (pt-PT) Empty your entire inventory!
+    m_Localized: "Esvazia todo o invent\xE1rio!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813283
-    m_Localized: (pt-PT) Use [inventory1]/[inventory2]/[inventory3] and empty all
-      spots to fill the progress bar!
+    m_Localized: "Usa [inventory1]/[inventory2]/[inventory3] e esvazia todos os espa\xE7os
+      para encheres a barra de progresso!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813284
-    m_Localized: (pt-PT) Use [map] to view the map. The map is <b><u>IMPORTANT</u></b>
-      for navigation.
+    m_Localized: "Usa [map] para veres o mapa. O mapa \xE9 <b><u>IMPORTANTE</u></b>
+      para te orientares."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442549813285
-    m_Localized: (pt-PT) Check the map!
+    m_Localized: Consulta o mapa!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201856
-    m_Localized: (pt-PT) Hold down [map] and view it until you have filled the progress
-      bar!
+    m_Localized: "Mant\xE9m [map] premido e consulta o mapa at\xE9 encheres a barra
+      de progresso!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201857
-    m_Localized: (pt-PT) This is a C.A.R.T. Grab it by the handle.
+    m_Localized: "Isto \xE9 um C.A.R.T. Agarra-o pelo puxador."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201858
-    m_Localized: (pt-PT) Walk around with the C.A.R.T. a little!
+    m_Localized: Anda um pouco com o C.A.R.T.!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201859
-    m_Localized: (pt-PT) Grab the C.A.R.T. by the handle with [grab] and walk around
-      with it until you have filled the progress bar!
+    m_Localized: "Agarra o C.A.R.T. pelo puxador com [grab] e anda com ele at\xE9
+      encheres a barra de progresso!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201860
-    m_Localized: (pt-PT) Fill C.A.R.T.s with valuables. C.A.R.T.s are <b><u>IMPORTANT</u></b>
-      for carrying more stuff.
+    m_Localized: "Enche os C.A.R.T.s com objetos de valor. Os C.A.R.T.s s\xE3o <b><u>IMPORTANTES</u></b>
+      para transportares mais coisas."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201861
-    m_Localized: (pt-PT) Fill the C.A.R.T. with valuables!
+    m_Localized: Enche o C.A.R.T. com objetos de valor!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201862
-    m_Localized: (pt-PT) Put three items into the C.A.R.T.
+    m_Localized: "Coloca tr\xEAs objetos no C.A.R.T."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201863
-    m_Localized: (pt-PT) Activate and fill <b><u>EXTRACTION POINTS</u></b> with valuables.
+    m_Localized: "Ativa e enche os <b><u>PONTOS DE EXTRA\xC7\xC3O</u></b> com objetos
+      de valor."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201864
-    m_Localized: (pt-PT) Extract the valuables!
+    m_Localized: Extrai os objetos de valor!
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201865
-    m_Localized: (pt-PT) HELLO! FILL THE <b><u>EXTRACTION POINT</u></b> WITH VALUABLES!
+    m_Localized: "OL\xC1! ENCHE O <b><u>PONTO DE EXTRA\xC7\xC3O</u></b> COM OBJETOS
+      DE VALOR!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201866
-    m_Localized: (pt-PT) Enter the <b><u>TRUCK</u></b> and send a message to your
-      boss in order to leave a level.
+    m_Localized: "Entra no <b><u>CAMI\xC3O</u></b> e envia uma mensagem ao teu chefe
+      para sa\xEDres do n\xEDvel."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201867
-    m_Localized: (pt-PT) Get into the truck and send a message!
+    m_Localized: "Entra no cami\xE3o e envia uma mensagem!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201868
-    m_Localized: (pt-PT) Walk into the truck, grab and hold the message area on the
-      truck screen with [grab] to send a message!
+    m_Localized: "Entra no cami\xE3o, agarra a \xE1rea da mensagem no ecr\xE3 com
+      [grab] e mant\xE9m premido para enviar a mensagem!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201869
-    m_Localized: (pt-PT) Share your health with other players by grabbing their necks!
+    m_Localized: "Partilha a tua sa\xFAde com outros jogadores agarrando-os pelo
+      pesco\xE7o!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201870
-    m_Localized: (pt-PT) Revive other players by extracting their heads!
+    m_Localized: "Reanima outros jogadores extraindo-lhes a cabe\xE7a!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201871
-    m_Localized: (pt-PT) Buy <b><u>POWER CRYSTALS</u></b> for the <b><u>CHARGING
-      STATION</u></b> to recharge and repair your gear!
+    m_Localized: "Compra <b><u>CRISTAIS DE ENERGIA</u></b> para a <b><u>ESTA\xC7\xC3O
+      DE CARREGAMENTO</u></b> recarregar e reparar o teu equipamento!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201872
-    m_Localized: (pt-PT) Only one <b><u>EXTRACTION POINT</u></b> can be active at
-      a time, find the current one using your map!
+    m_Localized: "S\xF3 pode estar ativo um <b><u>PONTO DE EXTRA\xC7\xC3O</u></b>
+      de cada vez. Usa o mapa para encontrares o ponto ativo!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201873
-    m_Localized: (pt-PT) Press [chat] to open the chat! It's fun!
+    m_Localized: "Prime [chat] para abrir o chat! \xC9 divertido!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201874
-    m_Localized: (pt-PT) Time to leave, the truck heals you and revives carried player
-      heads!
+    m_Localized: "Est\xE1 na hora de sair! O cami\xE3o cura-te e reanima as cabe\xE7as
+      de jogadores que levares contigo!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201875
-    m_Localized: (pt-PT) This level has multiple <b><u>EXTRACTION POINTS</u></b>,
-      you must clear them all to leave!
+    m_Localized: "Este n\xEDvel tem v\xE1rios <b><u>PONTOS DE EXTRA\xC7\xC3O</u></b>.
+      Tens de concluir todos para poderes sair!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201876
-    m_Localized: (pt-PT) This is the <b><u>SHOP</u></b>, extract items to purchase.
-      No harm lasts here!
+    m_Localized: "Esta \xE9 a <b><u>LOJA</u></b>. Extrai os objetos que quiseres
+      comprar. Aqui, nenhum dano \xE9 permanente!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201877
-    m_Localized: (pt-PT) Use [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6]
-      to make expressions. You can even mix!
+    m_Localized: "Usa [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6]
+      para fazeres express\xF5es. At\xE9 podes combin\xE1-las!"
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201878
-    m_Localized: (pt-PT) Grabbing an enemy will now cause overcharge, when full you
-      get blasted.
+    m_Localized: "Agarrar um monstro passa agora a causar sobrecarga. Quando chegar
+      ao m\xE1ximo, \xE9s lan\xE7ado pelos ares."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201879
-    m_Localized: (pt-PT) Multiple people will dampen the overcharge effect.
+    m_Localized: "V\xE1rias pessoas reduzem o efeito da sobrecarga."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201880
-    m_Localized: (pt-PT) While dead your head charges, use that charge to briefly
-      possess your head.
+    m_Localized: "Enquanto est\xE1s morto, a tua cabe\xE7a acumula carga. Usa-a para
+      controlares a cabe\xE7a por breves instantes."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201881
-    m_Localized: (pt-PT) While possessing your head, hold [jump] to jump. Hold to
-      jump higher at a greater cost.
+    m_Localized: "Enquanto controlas a tua cabe\xE7a, mant\xE9m [jump] premido para
+      saltar. Quanto mais tempo mantiveres, mais alto saltas e mais carga gastas."
     m_Metadata:
       m_Items: []
   - m_Id: 18554442558201882
-    m_Localized: (pt-PT) PET THE DOG!
+    m_Localized: "FAZ FESTAS \xC0 CADELA!"
     m_Metadata:
       m_Items: []
   - m_Id: 22956499448881152
-    m_Localized: (pt-PT) [menu] to skip
+    m_Localized: '[back] para ignorar'
     m_Metadata:
       m_Items: []
   - m_Id: 23598574554132480
-    m_Localized: (pt-PT) Fill <b><u>EXTRACTION POINTS</u></b> with valuables.
+    m_Localized: "Enche os <b><u>PONTOS DE EXTRA\xC7\xC3O</u></b> com objetos de
+      valor."
     m_Metadata:
       m_Items: []
   - m_Id: 23609344067186688
-    m_Localized: (pt-PT) This is a <b><u>COSMETIC BOX</u></b>, extract it for a reward.
+    m_Localized: "Esta \xE9 uma <b><u>CAIXA DE COSM\xC9TICOS</u></b>. Extrai-a para
+      receberes algo especial!"
     m_Metadata:
       m_Items: []
   - m_Id: 23609344088158208
-    m_Localized: (pt-PT) If it gets damaged, you can <b><u>HEAL</u></b> it using
-      your own health.
+    m_Localized: "Se a caixa sofrer danos, podes <b><u>REPAR\xC1-LA</u></b> usando
+      a tua pr\xF3pria sa\xFAde."
     m_Metadata:
       m_Items: []
   - m_Id: 23623549780570112
-    m_Localized: (pt-PT) Insert <b><u>TAX TOKENS</u></b> into the shop machine to
-      claim your rewards.
+    m_Localized: "Insere <b><u>TOKENS DE IMPOSTO</u></b> na m\xE1quina da loja para
+      receberes as tuas recompensas."
     m_Metadata:
       m_Items: []
   - m_Id: 23920995436847104
-    m_Localized: (pt-PT) FOCUS
+    m_Localized: FOCO
     m_Metadata:
       m_Items: []
   - m_Id: 25797701263065088
-    m_Localized: (pt-PT) Buy stuff in the shop
+    m_Localized: Compra coisas na loja
     m_Metadata:
       m_Items: []
   - m_Id: 25797701284036608
-    m_Localized: (pt-PT) Enjoy the ride, recharge stuff and GEAR UP!
+    m_Localized: Aproveita a viagem, recupera energias e PREPARA-TE!
     m_Metadata:
       m_Items: []
   - m_Id: 25822090339713024
-    m_Localized: (pt-PT) Press [interact] to insert tax token
+    m_Localized: Prime [interact] para inserires o token de imposto.
     m_Metadata:
       m_Items: []
   - m_Id: 26094195824295936
-    m_Localized: (pt-PT) C.A.R.T. Cannon
+    m_Localized: "C.A.R.T Canh\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461760
-    m_Localized: (pt-PT) C.A.R.T. Laser
+    m_Localized: C.A.R.T. Laser
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461761
-    m_Localized: (pt-PT) C.A.R.T.
+    m_Localized: C.A.R.T.
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461762
-    m_Localized: (pt-PT) POCKET C.A.R.T.
+    m_Localized: C.A.R.T. de Bolso
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461763
-    m_Localized: (pt-PT) Recharge Drone
+    m_Localized: Drone de recarga
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461764
-    m_Localized: (pt-PT) Feather Drone
+    m_Localized: Drone de Leveza
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461766
-    m_Localized: (pt-PT) Indestructible Drone
+    m_Localized: Drone de Invulnerabilidade
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461767
-    m_Localized: (pt-PT) Roll Drone
+    m_Localized: Drone Rola-Tudo
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461768
-    m_Localized: (pt-PT) Zero Gravity Drone
+    m_Localized: Drone de Gravidade Zero
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461769
-    m_Localized: (pt-PT) Duck Bucket
+    m_Localized: Bal-de-Pato
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461770
-    m_Localized: (pt-PT) Extraction Tracker
+    m_Localized: "Localizador de Pontos de Extra\xE7\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461771
-    m_Localized: (pt-PT) Duct Taped Grenades
+    m_Localized: Granada com Fita Adesiva
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461772
-    m_Localized: (pt-PT) Grenade
+    m_Localized: Granada
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461773
-    m_Localized: (pt-PT) Human Grenade
+    m_Localized: Granada Humana
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461774
-    m_Localized: (pt-PT) Shockwave Grenade
+    m_Localized: Granada Onda Choque
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461775
-    m_Localized: (pt-PT) Stun Grenade
+    m_Localized: Granada Atordoante
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461776
-    m_Localized: (pt-PT) Gun
+    m_Localized: Arma
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461777
-    m_Localized: (pt-PT) Photon Blaster
+    m_Localized: "Blaster de F\xF3tons"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461778
-    m_Localized: (pt-PT) Pulse Pistol
+    m_Localized: Pistola de Pulso
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461779
-    m_Localized: (pt-PT) Shotgun
+    m_Localized: "Ca\xE7adeira"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461780
-    m_Localized: (pt-PT) Boltzap
+    m_Localized: Boltzap
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461781
-    m_Localized: (pt-PT) Tranq Gun
+    m_Localized: Arma Tranquilizante
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461782
-    m_Localized: (pt-PT) Large Health Pack (100)
+    m_Localized: Kit de Vida Grande (100)
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461783
-    m_Localized: (pt-PT) Medium Health Pack (50)
+    m_Localized: "Kit de Vida M\xE9dio (50)"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461784
-    m_Localized: (pt-PT) Small Health Pack (25)
+    m_Localized: Kit de Vida Pequeno (25)
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461785
-    m_Localized: (pt-PT) Leaf Blower
+    m_Localized: Soprador de Folhas
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461786
-    m_Localized: (pt-PT) Baseball Bat
+    m_Localized: Taco de Basebol
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461787
-    m_Localized: (pt-PT) Frying Pan
+    m_Localized: Frigideira
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461788
-    m_Localized: (pt-PT) Inflatable Hammer
+    m_Localized: "Martelo Insufl\xE1vel"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461789
-    m_Localized: (pt-PT) Sledge Hammer
+    m_Localized: Marreta
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461790
-    m_Localized: (pt-PT) Prodzap
+    m_Localized: Prodzap
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461791
-    m_Localized: (pt-PT) Sword
+    m_Localized: Espada
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461792
-    m_Localized: (pt-PT) Explosive Mine
+    m_Localized: Mina Explosiva
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461793
-    m_Localized: (pt-PT) Shockwave Mine
+    m_Localized: Mina Onda Choque
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461794
-    m_Localized: (pt-PT) Trapzap
+    m_Localized: Trapzap
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461801
-    m_Localized: (pt-PT) Zero Gravity Orb
+    m_Localized: Orbe Zero Gravidade
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461802
-    m_Localized: (pt-PT) Phase Bridge
+    m_Localized: "Ponte Energ\xE9tica"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461803
-    m_Localized: (pt-PT) Energy Crystal
+    m_Localized: "Cristal Energ\xE9tico"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461804
-    m_Localized: (pt-PT) Defibro
+    m_Localized: Defibro
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461805
-    m_Localized: (pt-PT) Rubber Duck
+    m_Localized: Pato de Borracha
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461806
-    m_Localized: (pt-PT) Roll Staff
+    m_Localized: Cajado Rolante
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461807
-    m_Localized: (pt-PT) Void Staff
+    m_Localized: Cajado do Abismo
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461808
-    m_Localized: (pt-PT) Zero Gravity Staff
+    m_Localized: Cajado Zero Gravidade
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461809
-    m_Localized: (pt-PT) Death Head Battery Upgrade
+    m_Localized: "Upgrade Carga Cabe\xE7a Solta"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461810
-    m_Localized: (pt-PT) Map Player Count Upgrade
+    m_Localized: Upgrade Jogadores no Mapa
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461811
-    m_Localized: (pt-PT) Crouch Rest Upgrade
+    m_Localized: Upgrade Descanso Agachado
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461812
-    m_Localized: (pt-PT) Stamina Upgrade
+    m_Localized: Upgrade de Stamina
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461813
-    m_Localized: (pt-PT) Extra Jump Upgrade
+    m_Localized: Upgrade Salto Extra
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461814
-    m_Localized: (pt-PT) Range Upgrade
+    m_Localized: Upgrade de Alcance
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461815
-    m_Localized: (pt-PT) Strength Upgrade
+    m_Localized: "Upgrade de For\xE7a"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461816
-    m_Localized: (pt-PT) Health Upgrade
+    m_Localized: Upgrade de Vida
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461817
-    m_Localized: (pt-PT) Sprint Speed Upgrade
+    m_Localized: Upgrade de Sprint
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461818
-    m_Localized: (pt-PT) Tumble Climb Upgrade
+    m_Localized: Upgrade de Escalada em Tombo
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461819
-    m_Localized: (pt-PT) Tumble Launch Upgrade
+    m_Localized: "Upgrade de Lan\xE7e em Tombo"
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461820
-    m_Localized: (pt-PT) Tumble Wings Upgrade
+    m_Localized: Upgrade Asas de Tombo
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461821
-    m_Localized: (pt-PT) Valuable Tracker
+    m_Localized: Localizador de Objetos de Valor
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461822
-    m_Localized: (pt-PT) Hauler
+    m_Localized: Carregador
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461823
-    m_Localized: (pt-PT) Scout
+    m_Localized: Explorador
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461824
-    m_Localized: (pt-PT) Semibot Walkie
+    m_Localized: Semibot Walkie
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461825
-    m_Localized: (pt-PT) Semibot Walkies
+    m_Localized: Semibot Walkies
     m_Metadata:
       m_Items: []
   - m_Id: 26108414590353408
-    m_Localized: (pt-PT) Upgrades
+    m_Localized: Upgrades
     m_Metadata:
       m_Items: []
   - m_Id: 26109748462911488
-    m_Localized: (pt-PT) Level
+    m_Localized: "N\xEDvel"
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386432
-    m_Localized: (pt-PT) Crouch Rest
+    m_Localized: Descanso Agachado
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386433
-    m_Localized: (pt-PT) Death Head Battery
+    m_Localized: "Carga da Cabe\xE7a Solta"
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386434
-    m_Localized: (pt-PT) Extra Jump
+    m_Localized: Salto Extra
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386435
-    m_Localized: (pt-PT) Health
+    m_Localized: Vida
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386436
-    m_Localized: (pt-PT) Tumble Launch
+    m_Localized: "Lan\xE7e em Tombo"
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386437
-    m_Localized: (pt-PT) Map Player Count
+    m_Localized: "N\xFAmero de Jogadores no Mapa"
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386438
-    m_Localized: (pt-PT) Range
+    m_Localized: Alcance
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386439
-    m_Localized: (pt-PT) Sprint Speed
+    m_Localized: Velocidade de Corrida
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386440
-    m_Localized: (pt-PT) Stamina
+    m_Localized: Stamina
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386441
-    m_Localized: (pt-PT) Strength
+    m_Localized: "For\xE7a"
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386442
-    m_Localized: (pt-PT) Tumble Climb
+    m_Localized: Escalada em Tombo
     m_Metadata:
       m_Items: []
   - m_Id: 26173625242386443
-    m_Localized: (pt-PT) Tumble Wings
+    m_Localized: Asas de Tombo
     m_Metadata:
       m_Items: []
   - m_Id: 26516244123594752
@@ -742,7 +748,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954889
-    m_Localized: (pt-PT) Loom
+    m_Localized: Loom
     m_Metadata:
       m_Items: []
   - m_Id: 26516244152954890
@@ -786,7 +792,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 26547416404832256
-    m_Localized: (pt-PT) Hold to Reroll ({cost})
+    m_Localized: Manter para sortear ({cost})
     m_Metadata:
       m_Items:
       - rid: 6163163424511229957
@@ -803,7 +809,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 26602567568175106
-    m_Localized: (pt-PT) Game Over
+    m_Localized: Game Over
     m_Metadata:
       m_Items: []
   - m_Id: 26610272068415488
@@ -811,11 +817,53 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 30522141892837376
-    m_Localized: '(pt-PT) Mode: Strong'
+    m_Localized: 'Modo: Potente'
     m_Metadata:
       m_Items: []
   - m_Id: 30522141918003200
-    m_Localized: '(pt-PT) Mode: Weak'
+    m_Localized: 'Modo: Reduzido'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37110069994258432
+    m_Localized: 'Chat:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37111979069472768
+    m_Localized: 'Prime [interact]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915759992832
+    m_Localized: "Usa [pushPull] e aponta com [aim] para ajustar a dist\xE2ncia dos
+      objetos agarrados."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56998176310747136
+    m_Localized: "P\xF3nei"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086219382784
+    m_Localized: 'Sinal Offline '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509706196234240
+    m_Localized: Lista de compras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086252937217
+    m_Localized: Vazio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915806130176
+    m_Localized: "Enquanto agarras um objeto com [grab], mant\xE9m [pushPull] premido
+      para ajustar a dist\xE2ncia com [aim] at\xE9 encheres a barra de progresso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128640
+    m_Localized: Arma humana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128641
+    m_Localized: Orbe de carregamento
     m_Metadata:
       m_Items: []
   references:

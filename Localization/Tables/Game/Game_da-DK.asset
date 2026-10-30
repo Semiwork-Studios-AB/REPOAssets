@@ -19,59 +19,59 @@ MonoBehaviour:
     m_Items: []
   m_TableData:
   - m_Id: 76998412316672
-    m_Localized: (da) Tax Return
+    m_Localized: Skatterefusion
     m_Metadata:
       m_Items: []
   - m_Id: 76998429093888
-    m_Localized: (da) Locked
+    m_Localized: "L\xE5st"
     m_Metadata:
       m_Items: []
   - m_Id: 76998429093889
-    m_Localized: (da) Ready
+    m_Localized: Klar
     m_Metadata:
       m_Items: []
   - m_Id: 76998429093890
-    m_Localized: (da) Active
+    m_Localized: Aktiv
     m_Metadata:
       m_Items: []
   - m_Id: 1545717751721984
-    m_Localized: (da) Extracting
+    m_Localized: Udvinder
     m_Metadata:
       m_Items: []
   - m_Id: 1545717772693504
-    m_Localized: (da) Completed
+    m_Localized: "F\xE6rdig"
     m_Metadata:
       m_Items: []
   - m_Id: 21794657889497088
-    m_Localized: (da) New
+    m_Localized: Nyhed
     m_Metadata:
       m_Items: []
   - m_Id: 25878060419940352
-    m_Localized: (da) Too big
+    m_Localized: For stor
     m_Metadata:
       m_Items: []
   - m_Id: 25878060449300480
-    m_Localized: (da) Too full
+    m_Localized: For fuld
     m_Metadata:
       m_Items: []
   - m_Id: 25878060449300481
-    m_Localized: (da) Extract
+    m_Localized: Udvind
     m_Metadata:
       m_Items: []
   - m_Id: 33712840729591808
-    m_Localized: (da) Taxman
+    m_Localized: Skattemand
     m_Metadata:
       m_Items: []
   - m_Id: 33712840754757632
-    m_Localized: (da) Destroying Slackers
+    m_Localized: "Tilintetg\xF8r dr\xF8nnerter"
     m_Metadata:
       m_Items: []
   - m_Id: 33712840754757633
-    m_Localized: (da) Starting Engine
+    m_Localized: Starter motoren
     m_Metadata:
       m_Items: []
   - m_Id: 33712840754757634
-    m_Localized: (da) Hitting the Road
+    m_Localized: Tager afsted
     m_Metadata:
       m_Items: []
   references:

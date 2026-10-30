@@ -178,8 +178,7 @@ MonoBehaviour:
   - m_Id: 5450952597549056
     m_Localized: 'Total Haul:'
     m_Metadata:
-      m_Items:
-      - rid: 3967078086496223239
+      m_Items: []
   - m_Id: 5190661053853696
     m_Localized: Load Save
     m_Metadata:
@@ -435,10 +434,6 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 10581343598534684
     m_Localized: Camera Animation
-    m_Metadata:
-      m_Items: []
-  - m_Id: 10581343598534685
-    m_Localized: Invert Vertical Aim
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534686
@@ -1102,7 +1097,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15592435403972610
-    m_Localized: Press [menu] to exit to main menu
+    m_Localized: Press [back] to exit to main menu
     m_Metadata:
       m_Items: []
   - m_Id: 15661116045647872
@@ -1482,7 +1477,7 @@ MonoBehaviour:
       m_Items:
       - rid: 3967078086496223239
   - m_Id: 26475650059841536
-    m_Localized: Photosensivity Warning
+    m_Localized: Photosensitivity Warning
     m_Metadata:
       m_Items: []
   - m_Id: 26475650085007360
@@ -1583,11 +1578,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 33712689940168712
-    m_Localized: 'Game lobby is using version:
+    m_Localized: 'Your Version: {versionSelf}
 
-      {version}'
+      Lobby Version: {version}'
     m_Metadata:
-      m_Items: []
+      m_Items:
+      - rid: 3967078086496223239
   - m_Id: 33712689940168713
     m_Localized: Ok Dang
     m_Metadata:
@@ -1668,6 +1664,162 @@ MonoBehaviour:
     m_Localized: Back
     m_Metadata:
       m_Items: []
+  - m_Id: 36617102426701824
+    m_Localized: Invert Vertical Aim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507528912896
+    m_Localized: Join Server
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661632
+    m_Localized: 'Are you sure you want to join?
+
+      {lobbyName}'
+    m_Metadata:
+      m_Items:
+      - rid: 3967078086496223239
+  - m_Id: 53350507566661633
+    m_Localized: Yep!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661634
+    m_Localized: Nope!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53646107088584704
+    m_Localized: Press New Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54361496021958656
+    m_Localized: Mirror Quality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474049
+    m_Localized: '{hours:conditional:{hours}h |}{minutes:conditional:{minutes}m |}{seconds:conditional:{seconds}s|}'
+    m_Metadata:
+      m_Items:
+      - rid: 3967078086496223239
+  - m_Id: 74362528585474048
+    m_Localized: Sunstone Valley Resort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74361386170310656
+    m_Localized: Gamepad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474050
+    m_Localized: Text-to-Speech Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81298091666300928
+    m_Localized: Match Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856340672512
+    m_Localized: Push / Pull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615552
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615553
+    m_Localized: Tab Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615554
+    m_Localized: Tab Previous
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615555
+    m_Localized: Click
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87379731429711872
+    m_Localized: Aim Acceleration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062029873152
+    m_Localized: Vehicle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010496
+    m_Localized: Accelerate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010497
+    m_Localized: Brake / Reverse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010498
+    m_Localized: Drift Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010499
+    m_Localized: Drift Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010500
+    m_Localized: Vehicle Mounting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010501
+    m_Localized: Expression Wheel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269605806080
+    m_Localized: Grab Lead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166208
+    m_Localized: Grab Lead Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166209
+    m_Localized: Melee Grab Lead
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166210
+    m_Localized: Melee Grab Lead Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166211
+    m_Localized: Rumble
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484512382976
+    m_Localized: Combined
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484554326016
+    m_Localized: Separated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338642206720
+    m_Localized: Expression Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338684149760
+    m_Localized: Push/Pull Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442817417216
+    m_Localized: Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442855165952
+    m_Localized: Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93863369772097536
+    m_Localized: Expression Wheel Stick
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94776138692288512
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
@@ -1676,9 +1828,11 @@ MonoBehaviour:
       data:
         m_Entries: 
         m_SharedEntries:
-        - id: 5450952597549056
         - id: 5801515992834048
         - id: 23197572767145984
         - id: 23207164712574976
         - id: 30862829524254720
         - id: 33437954593423360
+        - id: 33712689940168712
+        - id: 53350507566661632
+        - id: 74362528585474049

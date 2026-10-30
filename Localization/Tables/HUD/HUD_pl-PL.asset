@@ -1,0 +1,877 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HUD_pl-PL
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: 64fd365dff4a0674f9ea9125eb765214, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2515126557588324462
+  m_TableData:
+  - m_Id: 26547416404832256
+    m_Localized: "Przytrzymaj, aby wylosowa\u0107 ponownie ({cost})"
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324462
+  - m_Id: 22956499448881152
+    m_Localized: "[back], aby pomin\u0105\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229311066112
+    m_Localized: Aktywowano punkt ekstrakcji
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231936
+    m_Localized: "Uko\u0144czono punkt ekstrakcji"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23920995436847104
+    m_Localized: ZADANIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231937
+    m_Localized: "Wype\u0142nij punkt ekstrakcji warto\u015Bciowymi przedmiotami"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231938
+    m_Localized: "Unikaj granat\xF3w!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231939
+    m_Localized: "Znajd\u017A kolejny punkt ekstrakcji"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231940
+    m_Localized: "Wr\xF3\u0107 do ci\u0119\u017Car\xF3wki!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25797701263065088
+    m_Localized: "Kup co\u015B w sklepie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25797701284036608
+    m_Localized: "Ciesz si\u0119 przeja\u017Cd\u017Ck\u0105, pod\u0142aduj sprz\u0119t
+      i DOZBR\xD3J SI\u0118!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442524647424
+    m_Localized: Dobra robota!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813248
+    m_Localized: "U\u017Cyj [move], aby si\u0119 poruszy\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813249
+    m_Localized: "Poruszaj si\u0119, aby wype\u0142ni\u0107 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813250
+    m_Localized: "U\u017Cyj [move] na swoim urz\u0105dzeniu, a\u017C wype\u0142ni
+      si\u0119 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813251
+    m_Localized: "Wci\u015Bnij [jump], aby podskoczy\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813252
+    m_Localized: "Skacz, aby wype\u0142ni\u0107 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813253
+    m_Localized: "Wci\u015Bnij [jump], aby skaka\u0107, a\u017C wype\u0142ni si\u0119
+      pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813254
+    m_Localized: "Wci\u015Bnij [crouch], aby si\u0119 skrada\u0107. Wtedy potworom
+      b\u0119dzie trudniej ci\u0119 dostrzec."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813255
+    m_Localized: "Skradaj si\u0119, aby wype\u0142ni\u0107 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813256
+    m_Localized: "Przytrzymaj [crouch] i u\u017Cyj [move], a\u017C wype\u0142ni si\u0119
+      pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813257
+    m_Localized: "U\u017Cyj [crouch], aby skrada\u0107 si\u0119 pod rzeczami i chowa\u0107
+      si\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813258
+    m_Localized: "Schowaj si\u0119, aby wype\u0142ni\u0107 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813259
+    m_Localized: "Przytrzymaj [crouch], wejd\u017A pod przedmiot i zosta\u0144 tam,
+      a\u017C wype\u0142ni si\u0119 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813260
+    m_Localized: "Przytrzymaj [sprint], aby biec. Ta czynno\u015B\u0107 zu\u017Cywa
+      energi\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813261
+    m_Localized: "Biegaj, aby wype\u0142ni\u0107 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813262
+    m_Localized: "Przytrzymaj [sprint] i u\u017Cyj [move], aby biega\u0107, a\u017C
+      wype\u0142ni si\u0119 pasek post\u0119pu! Je\u015Bli zabraknie ci energii,
+      poczekaj, a\u017C si\u0119 zregeneruje!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813263
+    m_Localized: "Biegnij i wci\u015Bnij [tumble], aby pa\u015B\u0107 ze stylem.
+      Skok r\xF3wnie\u017C pomaga!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813264
+    m_Localized: "Biegaj, skacz i padaj, aby wype\u0142ni\u0107 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813265
+    m_Localized: "Biegnij [sprint], skocz [jump] i wci\u015Bnij [tumble], aby rzuci\u0107
+      si\u0119 do przodu. R\xF3b to, a\u017C wype\u0142ni si\u0119 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813266
+    m_Localized: "Chwytaj przedmioty za pomoc\u0105 [grab]."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813267
+    m_Localized: "No\u015B t\u0119 rzecz, aby wype\u0142ni\u0107 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813268
+    m_Localized: "Wci\u015Bnij i trzymaj [grab] na przedmiocie, a\u017C wype\u0142ni
+      si\u0119 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813269
+    m_Localized: "U\u017Cyj [pushAndPull], aby zmieni\u0107 dystans od niesionego
+      przedmiotu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813270
+    m_Localized: Zmieniaj dystans od niesionego przedmiotu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813271
+    m_Localized: "Wci\u015Bnij i przytrzymaj [grab] na przedmiocie i u\u017Cyj [pushAndPull],
+      aby zmieni\u0107 dystans od niesionego przedmiotu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813272
+    m_Localized: "Obracaj trzymane przedmioty za pomoc\u0105 [grab2]."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813273
+    m_Localized: "Obracaj przedmioty, aby wype\u0142ni\u0107 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813274
+    m_Localized: "Podczas trzymania przedmiotu za pomoc\u0105 [grab] wci\u015Bnij
+      i przytrzymaj [grab2] i poruszaj celownikiem, aby go obraca\u0107. Obracaj
+      przedmiot, a\u017C wype\u0142ni si\u0119 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813275
+    m_Localized: "Chwy\u0107 i wci\u015Bnij [interact], aby w\u0142\u0105cza\u0107
+      i wy\u0142\u0105cza\u0107 przedmioty."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813276
+    m_Localized: "W\u0142\u0105cz i wy\u0142\u0105cz ten przedmiot!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813277
+    m_Localized: "Chwy\u0107 kul\u0119 [grab], a nast\u0119pnie w\u0142\u0105czaj
+      j\u0105 i wy\u0142\u0105czaj, u\u017Cywaj\u0105c [interact], a\u017C wype\u0142ni
+      si\u0119 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813278
+    m_Localized: "Chwy\u0107 przedmiot i u\u017Cyj [inventory1]/[inventory2]/[inventory3],
+      aby od\u0142o\u017Cy\u0107 go do ekwipunku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813279
+    m_Localized: "Zape\u0142nij ca\u0142y ekwipunek!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813280
+    m_Localized: "Podczas trzymania przedmiotu [grab] wci\u015Bnij [inventory1]/[inventory2]/[inventory3].
+      Zape\u0142nij wszystkie miejsca w ekwipunku, aby wype\u0142ni\u0107 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813281
+    m_Localized: "U\u017Cyj [inventory1]/[inventory2]/[inventory3], aby wyci\u0105ga\u0107
+      przedmioty z ekwipunku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813282
+    m_Localized: "Opr\xF3\u017Cnij ca\u0142y ekwipunek!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813283
+    m_Localized: "U\u017Cyj [inventory1]/[inventory2]/[inventory3] i zwolnij wszystkie
+      miejsca w ekwipunku, aby wype\u0142ni\u0107 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813284
+    m_Localized: "U\u017Cyj [map], aby spojrze\u0107 na map\u0119. Mapa jest <b><u>NIEZB\u0118DNA</u></b>
+      do orientacji w terenie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813285
+    m_Localized: "Sprawd\u017A map\u0119!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201856
+    m_Localized: "Przytrzymaj [map] i patrz na ni\u0105, a\u017C wype\u0142ni si\u0119
+      pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201857
+    m_Localized: "Oto W.Z.K. Chwy\u0107 go za uchwyt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201858
+    m_Localized: "Pochod\u017A troch\u0119 z W.Z.K.!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201859
+    m_Localized: "Z\u0142ap W.Z.K. za uchwyt za pomoc\u0105 [grab] i pochod\u017A
+      z nim troch\u0119, a\u017C wype\u0142ni si\u0119 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201860
+    m_Localized: "Wype\u0142niaj W.Z.K.-i warto\u015Bciowymi przedmiotami. W.Z.K.-i
+      s\u0105 <b><u>KLUCZOWE</u></b>, je\u015Bli chcesz zabra\u0107 wi\u0119cej rzeczy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201861
+    m_Localized: "Wype\u0142nij W.Z.K. warto\u015Bciowymi przedmiotami!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201862
+    m_Localized: "Umie\u015B\u0107 trzy przedmioty w W.Z.K."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201863
+    m_Localized: "Aktywuj i zape\u0142nij <b><u>PUNKTY EKSTRAKCJI</u></b> warto\u015Bciowymi
+      przedmiotami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201864
+    m_Localized: "Dokonaj ekstrakcji warto\u015Bciowych przedmiot\xF3w!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201865
+    m_Localized: "CZE\u015A\u0106! ZAPE\u0141NIJ <b><u>PUNKT EKSTRAKCJI</u></b> WARTO\u015ACIOWYMI
+      PRZEDMIOTAMI!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201866
+    m_Localized: "Wejd\u017A do <b><u>CI\u0118\u017BAR\xD3WKI</u></b> i prze\u015Blij
+      wiadomo\u015B\u0107 do szefa, aby opu\u015Bci\u0107 poziom."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201867
+    m_Localized: "Wejd\u017A do ci\u0119\u017Car\xF3wki i wy\u015Blij wiadomo\u015B\u0107!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201868
+    m_Localized: "Wejd\u017A do ci\u0119\u017Car\xF3wki, chwy\u0107 i przytrzymaj
+      obszar z wiadomo\u015Bciami na wy\u015Bwietlaczu ci\u0119\u017Car\xF3wki za
+      pomoc\u0105 [grab], aby wys\u0142a\u0107 wiadomo\u015B\u0107!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201869
+    m_Localized: "Podziel si\u0119 zdrowiem z innymi graczami, chwytaj\u0105c ich
+      za szyj\u0119!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201870
+    m_Localized: "Przywracaj do \u017Cycia innych graczy przez ekstrakcj\u0119 ich
+      g\u0142\xF3w!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201871
+    m_Localized: "Kupuj <b><u>KRYSZTA\u0141Y ENERGII</u></b> do <b><u>STACJI \u0141ADOWANIA</u></b>,
+      aby na\u0142adowa\u0107 i naprawi\u0107 sw\xF3j sprz\u0119t!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201872
+    m_Localized: "Tylko jeden <b><u>PUNKT EKSTRAKCJI</u></b> mo\u017Ce by\u0107 aktywny
+      na raz. Znajdziesz go na mapie!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201873
+    m_Localized: "Wci\u015Bnij [chat], aby otworzy\u0107 okno czatu! Ubaw po pachy!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201874
+    m_Localized: "Czas wraca\u0107, ci\u0119\u017Car\xF3wka ci\u0119 uleczy i przywr\xF3ci
+      do \u017Cycia graczy, kt\xF3rych g\u0142owy przyniesiesz!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201875
+    m_Localized: "Ten poziom ma kilka <b><u>PUNKT\xD3W EKSTRAKCJI</u></b>. Aby opu\u015Bci\u0107
+      poziom, musisz wype\u0142ni\u0107 je wszystkie!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201876
+    m_Localized: "Oto <b><u>SKLEP</u></b>, dokonuj ekstrakcji przedmiot\xF3w, aby
+      robi\u0107 zakupy. Tutaj nikomu nie dzieje si\u0119 krzywda!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201877
+    m_Localized: "U\u017Cyj [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6],
+      aby wyrazi\u0107 swoje emocje. Mo\u017Cesz te\u017C je miesza\u0107!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201878
+    m_Localized: "Chwytanie potwora od teraz b\u0119dzie powodowa\u0107 przeci\u0105\u017Cenie.
+      Je\u015Bli pasek si\u0119 zape\u0142ni, otrzymasz obra\u017Cenia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201879
+    m_Localized: "Wi\u0119ksza liczba os\xF3b zmniejszy efekt przeci\u0105\u017Cenia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201880
+    m_Localized: "Gdy zginiesz, twoja g\u0142owa si\u0119 \u0142aduje, u\u017Cyj
+      tego \u0142adunku, aby na kr\xF3tk\u0105 chwil\u0119 przej\u0105\u0107 nad
+      ni\u0105 kontrol\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201881
+    m_Localized: "Podczas kontrolowania swojej g\u0142owy przytrzymaj [jump], aby
+      skoczy\u0107. Przytrzymaj, aby skoczy\u0107 wy\u017Cej, ale zu\u017Cy\u0107
+      wi\u0119cej energii."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201882
+    m_Localized: "POG\u0141ASZCZ PIESKA!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23598574554132480
+    m_Localized: "Zape\u0142nij <b><u>PUNKTY EKSTRAKCJI</u></b> warto\u015Bciowymi
+      przedmiotami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23609344067186688
+    m_Localized: "Oto <b><u>KOSMETYCZKA</u></b>, dostarcz j\u0105 do punktu ekstrakcji,
+      aby otrzyma\u0107 nagrod\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23609344088158208
+    m_Localized: "Je\u015Bli zostanie uszkodzona, mo\u017Cesz j\u0105 <b><u>NAPRAWI\u0106</u></b>,
+      po\u015Bwi\u0119caj\u0105c w\u0142asne zdrowie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23623549780570112
+    m_Localized: "Wrzu\u0107 <b><u>\u017BETON PODATKOWY</u></b> do automatu, aby
+      odebra\u0107 nagrod\u0119."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25822090339713024
+    m_Localized: "Wci\u015Bnij [interact], aby wrzuci\u0107 \u017Ceton podatkowy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195824295936
+    m_Localized: "Dzia\u0142ko W.Z.K."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461760
+    m_Localized: Laser W.Z.K.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30522141892837376
+    m_Localized: 'Tryb: Silny'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30522141918003200
+    m_Localized: "Tryb: S\u0142aby"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461761
+    m_Localized: W.Z.K.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461762
+    m_Localized: W.Z.K. kieszonkowy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461763
+    m_Localized: "Dron \u0142aduj\u0105cy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461764
+    m_Localized: "Dron pi\xF3rkowy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461766
+    m_Localized: Niezniszczalny dron
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461767
+    m_Localized: Dron turlania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461768
+    m_Localized: "Dron niewa\u017Cko\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461769
+    m_Localized: Kacze wiadro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461770
+    m_Localized: "Detektor punkt\xF3w ekstrakcji"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461771
+    m_Localized: "Granaty sklejone ta\u015Bm\u0105"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461772
+    m_Localized: Granat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461773
+    m_Localized: Ludzki granat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461774
+    m_Localized: "Granat wstrz\u0105sowy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461775
+    m_Localized: "Granat og\u0142uszaj\u0105cy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461776
+    m_Localized: Pistolet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461777
+    m_Localized: Blaster fotonowy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461778
+    m_Localized: Pistolet pulsacyjny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461779
+    m_Localized: Strzelba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461780
+    m_Localized: Elektrokusza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461781
+    m_Localized: "Pistolet usypiaj\u0105cy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461782
+    m_Localized: "Du\u017Ca apteczka (100)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461783
+    m_Localized: "\u015Arednia apteczka (50)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461784
+    m_Localized: "Ma\u0142a apteczka (25)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461785
+    m_Localized: "Dmuchawa do li\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461786
+    m_Localized: Kij bejsbolowy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461787
+    m_Localized: Patelnia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461788
+    m_Localized: "Dmuchany m\u0142otek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461789
+    m_Localized: "M\u0142ot"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461790
+    m_Localized: Paralizator
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461791
+    m_Localized: Miecz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461792
+    m_Localized: Mina wybuchowa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461793
+    m_Localized: Mina uderzeniowa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461794
+    m_Localized: "Elektropu\u0142apka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461801
+    m_Localized: "Kula niewa\u017Cko\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461802
+    m_Localized: Most fazowy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461803
+    m_Localized: "Kryszta\u0142 energii"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461804
+    m_Localized: Defibryloziom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461805
+    m_Localized: Gumowa kaczka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461806
+    m_Localized: Kostur turlania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461807
+    m_Localized: "Kostur pr\xF3\u017Cni"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461808
+    m_Localized: "Kostur niewa\u017Cko\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461809
+    m_Localized: "Ulepszenie baterii martwej g\u0142owy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461810
+    m_Localized: Ulepszenie licznika graczy na mapie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461811
+    m_Localized: Ulepszenie odpoczynku podczas kucania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461812
+    m_Localized: "Ulepszenie wytrzyma\u0142o\u015Bci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461813
+    m_Localized: Ulepszenie dodatkowego skoku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461814
+    m_Localized: "Ulepszenie zasi\u0119gu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461815
+    m_Localized: "Ulepszenie si\u0142y"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461816
+    m_Localized: Ulepszenie zdrowia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461817
+    m_Localized: "Ulepszenie szybko\u015Bci biegu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461818
+    m_Localized: Ulepszenie skulonej wspinaczki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461819
+    m_Localized: Ulepszenie skulonego wyskoku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461820
+    m_Localized: "Ulepszenie skulonych skrzyde\u0142"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461821
+    m_Localized: "Detektor warto\u015Bciowych przedmiot\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461822
+    m_Localized: Zbieracz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461823
+    m_Localized: Zwiadowca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461824
+    m_Localized: "Kr\xF3tkofal\xF3wka semibota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461825
+    m_Localized: "Kr\xF3tkofal\xF3wki semibota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26109748462911488
+    m_Localized: Poziom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26108414590353408
+    m_Localized: Ulepszenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386432
+    m_Localized: Odpoczynek podczas kucania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386433
+    m_Localized: "Bateria martwej g\u0142owy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386434
+    m_Localized: Dodatkowy skok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386435
+    m_Localized: Zdrowie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386436
+    m_Localized: Skulony wyskok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386437
+    m_Localized: Licznik graczy na mapie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386438
+    m_Localized: "Zasi\u0119g"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386439
+    m_Localized: "Szybko\u015B\u0107 biegu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386440
+    m_Localized: "Wytrzyma\u0142o\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386441
+    m_Localized: "Si\u0142a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386442
+    m_Localized: Skulona wspinaczka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386443
+    m_Localized: "Skulone skrzyd\u0142a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244123594752
+    m_Localized: "Zwierz\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760576
+    m_Localized: Bomber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760577
+    m_Localized: Klaun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760578
+    m_Localized: Solenizant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760579
+    m_Localized: "Ekipa sprz\u0105taj\u0105ca"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760580
+    m_Localized: Muszka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760581
+    m_Localized: "Podgl\u0105dacz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760582
+    m_Localized: "Drapie\u017Cnik alfa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760583
+    m_Localized: Elsa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760584
+    m_Localized: "\u015Awirus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954880
+    m_Localized: Gnom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954881
+    m_Localized: "G\u0142owacki"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954882
+    m_Localized: "G\u0142owo\u0142apacz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954883
+    m_Localized: "Serco\u015Bcisk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954884
+    m_Localized: Cichociemny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954885
+    m_Localized: "\u0141owczy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954886
+    m_Localized: Brziidal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954887
+    m_Localized: "P\u0142aszczyk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954888
+    m_Localized: "\u017Bniwiarz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954889
+    m_Localized: Zjawa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954890
+    m_Localized: "Bu\u017Aka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954891
+    m_Localized: Rycerz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954892
+    m_Localized: Gambit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954893
+    m_Localized: Dziecko cienia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954894
+    m_Localized: Kleszcz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954895
+    m_Localized: Bella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954896
+    m_Localized: Szef kuchni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954897
+    m_Localized: Wyjec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954898
+    m_Localized: Bachor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56998176310747136
+    m_Localized: Kucyk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567563980800
+    m_Localized: "Kr\xF3l przegranych!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175104
+    m_Localized: Sami frajerzy!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175105
+    m_Localized: Ostatni frajer na polu bitwy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175106
+    m_Localized: Koniec gry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26610272068415488
+    m_Localized: 'Zepsuci:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37110069994258432
+    m_Localized: 'Czat:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37111979069472768
+    m_Localized: "Wci\u015Bnij [interact]"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086219382784
+    m_Localized: "Brak sygna\u0142u"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509706196234240
+    m_Localized: "Lista zakup\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086252937217
+    m_Localized: Pusta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915759992832
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2515126557588324462
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 26547416404832256

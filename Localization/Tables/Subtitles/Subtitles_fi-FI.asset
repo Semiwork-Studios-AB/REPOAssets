@@ -1,0 +1,303 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Subtitles_fi-FI
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: fi-FI
+  m_SharedData: {fileID: 11400000, guid: d7769f30d4d5aeb45ab0918f43fed15a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1049453162127360
+    m_Localized: "Noh, pist\xE4 mut purkkiin"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049453208264704
+    m_Localized: ja kutsu mua "pavuks"!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067686980214784
+    m_Localized: "M\xE4 n\xE4en kivihehkun"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687022157824
+    m_Localized: "jopa kun mun silm\xE4t ovat kiinni!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352128
+    m_Localized: HA! HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352129
+    m_Localized: "N\xE4in ihmiset puhuivat aikoinaan."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352130
+    m_Localized: Kivihehku koostuu valaisevista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352131
+    m_Localized: "korkea energisist\xE4 hiukkasista,"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352132
+    m_Localized: "jotka s\xE4teilee aurinkokivist\xE4."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352133
+    m_Localized: Vuonna--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907347210240
+    m_Localized: Heido, kamu!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365444215693312
+    m_Localized: Nosta aurinkokivi korvallesi,
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365444215693313
+    m_Localized: ja se saattaa kutittaa aivosolujasi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153282
+    m_Localized: Saatat kuulla laulun!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153283
+    m_Localized: "En kuule yhtik\xE4s mit\xE4\xE4n!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153284
+    m_Localized: "Ehk\xE4 se johtuu siit\xE4, ett\xE4 minulla ei ole"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153285
+    m_Localized: ihmisaivoja!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153286
+    m_Localized: "Mit\xE4 tarkoitat?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153287
+    m_Localized: "Olemme ihmisi\xE4!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153288
+    m_Localized: "Eik\xF6 niin?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734112038912
+    m_Localized: Hei vierailija!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981952
+    m_Localized: Tervetuloa Aurinkokivilomakeskukseen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981953
+    m_Localized: "Kaikista t\xE4sm\xE4llisin edustus"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981954
+    m_Localized: "meid\xE4n mahtavasta kristallikaivoshistoriasta."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981955
+    m_Localized: 'Mukaan lukien kaikki '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981956
+    m_Localized: nykyajan mukavuudet--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981957
+    m_Localized: Minun nimi on Jenni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981958
+    m_Localized: "ja olen ty\xF6skennellyt t\xE4\xE4ll\xE4 --"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981959
+    m_Localized: 73...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981960
+    m_Localized: ... vuotta!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981961
+    m_Localized: Toivottavasti nautit vierailustasi!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981962
+    m_Localized: Wifi salasana on...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981963
+    m_Localized: 6...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981964
+    m_Localized: 7...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981965
+    m_Localized: 4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981966
+    m_Localized: 4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428943054823424
+    m_Localized: 4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852471349248
+    m_Localized: "Kivihehku on tulevaisuuden energial\xE4hde!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709376
+    m_Localized: "Ilman sit\xE4,"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709377
+    m_Localized: ei olisi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709378
+    m_Localized: robootteja!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438646992363520
+    m_Localized: "N\xE4ill\xE4 kaivosvaunuilla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112256
+    m_Localized: matkustettiin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112257
+    m_Localized: pimeisiin, vaarallisiin kaivoksiin, joissa me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112258
+    m_Localized: kaivosmiehet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112259
+    m_Localized: tutkimme ja kaivoimme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112260
+    m_Localized: "aurinkokivi\xE4!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112261
+    m_Localized: Kuinka ironista onkaan,
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112262
+    m_Localized: "ett\xE4 niit\xE4 ajaaksesi,"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112263
+    m_Localized: "et voi olla alaik\xE4inen!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191595347968
+    m_Localized: "Meid\xE4n maailma,"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096704
+    m_Localized: "toimii n\xE4iden omituisten hehkuvien kivien avulla."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096705
+    m_Localized: "Tiesitk\xF6, ett\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096706
+    m_Localized: "vain kourallinen n\xE4it\xE4 kivi\xE4 riitt\xE4\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096707
+    m_Localized: ison kaupungin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096708
+    m_Localized: "py\xF6ritt\xE4miseen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096709
+    m_Localized: "Aika kiinnostavaa, eik\xF6s?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375914909696
+    m_Localized: Hei lapset!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375961047040
+    m_Localized: "Mitk\xE4 n\xE4ist\xE4 el\xE4in\xE4\xE4nist\xE4 eiv\xE4t ole syntyper\xE4isesti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375961047041
+    m_Localized: Aurinkokivilaaksosta?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782301851648
+    m_Localized: Noniin, pojat. Pystytte siihen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406080
+    m_Localized: Loppukiri!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406081
+    m_Localized: "Melkein perill\xE4!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406082
+    m_Localized: Ha ha!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406083
+    m_Localized: "Aika hullu tilanne, eik\xF6?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406084
+    m_Localized: "N\xE4in asiat hoidetaan t\xE4\xE4ll\xE4p\xE4in."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5022492442746880
+    m_Localized: Minun hevonen on KUOLLUT--
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717449428992
+    m_Localized: "P\xF6\xF6!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717491372032
+    m_Localized: "Olen piilossa vihre\xE4n sylinterin takana!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717491372033
+    m_Localized: Ha ha ha!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -30,8 +30,7 @@ MonoBehaviour:
   - m_Id: 23920995436847104
     m_Key: FOCUS.PREFIX
     m_Metadata:
-      m_Items:
-      - rid: 6163163265947926530
+      m_Items: []
   - m_Id: 2984229336231937
     m_Key: FOCUS.EXTRACTION.FILL_VALUABLES
     m_Metadata:
@@ -59,8 +58,7 @@ MonoBehaviour:
   - m_Id: 18554442524647424
     m_Key: TUTORIAL.TRANSITION_TEXT
     m_Metadata:
-      m_Items:
-      - rid: 6163162926145601539
+      m_Items: []
   - m_Id: 18554442549813248
     m_Key: TUTORIAL.MOVEMENT.TEXT
     m_Metadata:
@@ -340,8 +338,7 @@ MonoBehaviour:
   - m_Id: 25822090339713024
     m_Key: COSMETIC_SHOP_MACHINE.INFO_TEXT
     m_Metadata:
-      m_Items:
-      - rid: 6163163379451559948
+      m_Items: []
   - m_Id: 26094195824295936
     m_Key: ITEM.CART_CANNON
     m_Metadata:
@@ -762,6 +759,10 @@ MonoBehaviour:
     m_Key: ENEMY.VALUABLE_THROWER
     m_Metadata:
       m_Items: []
+  - m_Id: 56998176310747136
+    m_Key: ENEMY.SNATCHER
+    m_Metadata:
+      m_Items: []
   - m_Id: 26547416404832256
     m_Key: UPGRADE_STAND.INTERACT
     m_Metadata:
@@ -786,6 +787,42 @@ MonoBehaviour:
     m_Key: SPECTATE_LIST.HEADER
     m_Metadata:
       m_Items: []
+  - m_Id: 37110069994258432
+    m_Key: CHAT.PREFIX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37111979069472768
+    m_Key: SPECTATE_HEAD.PROMPT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086219382784
+    m_Key: MAP.SIGNAL_OFFLINE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509706196234240
+    m_Key: MAP.SHOP.TITLE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086252937217
+    m_Key: MAP.SHOP.EMPTY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915759992832
+    m_Key: TUTORIAL.GAMEPAD_PUSHING_AND_PULLING.TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915806130176
+    m_Key: TUTORIAL.GAMEPAD_PUSHING_AND_PULLING.DUMMY_TEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128640
+    m_Key: ITEM.GUN_REVOLVER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128641
+    m_Key: ITEM.ORB_BATTERY
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
@@ -797,15 +834,3 @@ MonoBehaviour:
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
         m_CustomEpoch: 1770626771185
-    - rid: 6163162926145601539
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: Text shown to users directly after completing a tutorial task.
-    - rid: 6163163265947926530
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: A prefix shown directly before the focus objective text.
-    - rid: 6163163379451559948
-      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
-      data:
-        m_CommentText: Interact text shown when looking at the Cosmetic Shop Machine.

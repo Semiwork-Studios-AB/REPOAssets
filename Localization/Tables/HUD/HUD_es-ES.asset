@@ -1,0 +1,861 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HUD_es-ES
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: 64fd365dff4a0674f9ea9125eb765214, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2515126557588324460
+  m_TableData:
+  - m_Id: 26547416404832256
+    m_Localized: "Mant\xE9n para cambiar ({cost})"
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324460
+  - m_Id: 22956499448881152
+    m_Localized: '[back] para saltar'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229311066112
+    m_Localized: "Punto de extracci\xF3n activado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231936
+    m_Localized: "Punto de extracci\xF3n completado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23920995436847104
+    m_Localized: OBJETIVO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231937
+    m_Localized: "Llena el punto de extracci\xF3n con objetos de valor"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231938
+    m_Localized: "\xA1Evita las granadas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231939
+    m_Localized: "Busca el siguiente punto de extracci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231940
+    m_Localized: "\xA1Vuelve al cami\xF3n!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25797701263065088
+    m_Localized: Compra cosas en la tienda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25797701284036608
+    m_Localized: "\xA1Disfruta del viaje, recarga cosas y EQU\xCDPATE!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442524647424
+    m_Localized: "\xA1Bien hecho!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813248
+    m_Localized: Usa [move] para moverte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813249
+    m_Localized: "\xA1Mu\xE9vete para llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813250
+    m_Localized: "\xA1Usa [move] en tu dispositivo hasta llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813251
+    m_Localized: Pulsa [jump] para saltar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813252
+    m_Localized: "\xA1Salta para llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813253
+    m_Localized: "\xA1Pulsa [jump] para dar saltos hasta llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813254
+    m_Localized: "Pulsa [crouch] para ir a hurtadillas. As\xED hay menos posibilidades
+      de que te vean los monstruos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813255
+    m_Localized: "\xA1Ve a hurtadillas para llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813256
+    m_Localized: "\xA1Mant\xE9n [crouch] y usa [move] hasta llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813257
+    m_Localized: Usa [crouch] para meterte bajo cosas y esconderte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813258
+    m_Localized: "\xA1Esc\xF3ndete para llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813259
+    m_Localized: "\xA1Mant\xE9n [crouch], m\xE9tete debajo de algo y qu\xE9date ah\xED
+      hasta llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813260
+    m_Localized: "Mant\xE9n [sprint] para correr. Esto reducir\xE1 tu aguante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813261
+    m_Localized: "\xA1Corre para llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813262
+    m_Localized: "\xA1Mant\xE9n [sprint] y usa [move] para correr hasta llenar la
+      barra de progreso! Si se te agota el aguante, \xA1espera a recuperarlo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813263
+    m_Localized: "Corre y pulsa [tumble] para caerte con estilo. \xA1Saltar tambi\xE9n
+      ayuda!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813264
+    m_Localized: "\xA1Corre, salta y t\xEDrate para llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813265
+    m_Localized: "Corre con [sprint], salta con [jump] y pulsa [tumble] para tirarte.
+      \xA1Hazlo hasta llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813266
+    m_Localized: Agarra objetos con [grab].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813267
+    m_Localized: "\xA1Lleva esa cosa para llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813268
+    m_Localized: "\xA1Pulsa y mant\xE9n [grab] con un objeto hasta llenar la barra
+      de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813269
+    m_Localized: "\xA1Usa [pushAndPull] para cambiar la distancia de los objetos
+      que agarres!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813270
+    m_Localized: "\xA1Cambia la distancia de un objeto agarrado!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813271
+    m_Localized: "\xA1Pulsa y mant\xE9n [grab] con un objeto y usa [pushAndPull]
+      para cambiar la distancia del objeto agarrado!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813272
+    m_Localized: Rota los objetos agarrados con [grab2].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813273
+    m_Localized: "\xA1Rota objetos para llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813274
+    m_Localized: "Mientras agarras un objeto con [grab], pulsa y mant\xE9n [grab2]
+      y mueve la c\xE1mara para rotarlo. \xA1R\xF3talo hasta llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813275
+    m_Localized: Agarra y pulsa [interact] para activar objetos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813276
+    m_Localized: "\xA1Activa y desactiva eso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813277
+    m_Localized: "\xA1Agarra la bola con [grab] para activarla y desactivarla usando
+      [interact] hasta llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813278
+    m_Localized: Agarra un objeto y usa [inventory1]/[inventory2]/[inventory3] para
+      ponerlo en tu inventario.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813279
+    m_Localized: "\xA1Llena todo tu inventario!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813280
+    m_Localized: "Mientras agarras un objeto con [grab], pulsa [inventory1]/[inventory2]/[inventory3].
+      \xA1Llena todos los espacios del inventario para llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813281
+    m_Localized: Usa [inventory1]/[inventory2]/[inventory3] para sacar objetos de
+      tu inventario.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813282
+    m_Localized: "\xA1Vac\xEDa todo tu inventario!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813283
+    m_Localized: "\xA1Usa [inventory1]/[inventory2]/[inventory3] y vac\xEDa todos
+      los espacios para llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813284
+    m_Localized: Usa [map] para ver el mapa. El mapa es muy <b><u>IMPORTANTE</u></b>
+      para ubicarte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813285
+    m_Localized: "\xA1Consulta el mapa!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201856
+    m_Localized: "\xA1Mant\xE9n [map] y m\xEDralo hasta llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201857
+    m_Localized: "Esto es un C.A.R.R.O. Ag\xE1rralo por el manillar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201858
+    m_Localized: "\xA1Camina un poco con el C.A.R.R.O.!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201859
+    m_Localized: "\xA1Agarra el C.A.R.R.O. por el manillar con [grab] y camina un
+      poco hasta llenar la barra de progreso!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201860
+    m_Localized: "Llena el C.A.R.R.O. con objetos de valor. El C.A.R.R.O. es muy
+      <b><u>IMPORTANTE</u></b> para llevar m\xE1s cosas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201861
+    m_Localized: "\xA1Llena el C.A.R.R.O. de objetos de valor!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201862
+    m_Localized: Pon tres objetos en el C.A.R.R.O.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201863
+    m_Localized: "Activa y llena los <b><u>PUNTOS DE EXTRACCI\xD3N</u></b> con objetos
+      de valor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201864
+    m_Localized: "\xA1Extrae los objetos de valor!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201865
+    m_Localized: "\xA1HOLA! \xA1LLENA EL <b><u>PUNTO DE EXTRACCI\xD3N</u></b> CON
+      OBJETOS DE VALOR!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201866
+    m_Localized: "Entra en el <b><u>CAMI\xD3N</u></b> y env\xEDa un mensaje a tu
+      jefe para salir del nivel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201867
+    m_Localized: "\xA1Entra en el cami\xF3n y env\xEDa un mensaje!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201868
+    m_Localized: "\xA1Entra en el cami\xF3n y agarra y mant\xE9n la zona de mensaje
+      de la pantalla del cami\xF3n con [grab] para enviar un mensaje!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201869
+    m_Localized: "\xA1Comparte tu salud con otros compa\xF1eros agarrando sus cuellos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201870
+    m_Localized: "\xA1Extrae las cabezas de otros compa\xF1eros para revivirlos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201871
+    m_Localized: "\xA1Compra <b><u>CRISTALES DE ENERG\xCDA</u></b> para la <b><u>ESTACI\xD3N
+      DE CARGA</u></b> para recargar y reparar tu equipamiento!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201872
+    m_Localized: "No puede haber m\xE1s de un <b><u>PUNTO DE EXTRACCI\xD3N </u></b>
+      activo al mismo tiempo. \xA1Busca el actual usando tu mapa!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201873
+    m_Localized: "\xA1Pulsa [chat] para abrir el chat! \xA1Te lo pasar\xE1s de locos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201874
+    m_Localized: "Hora de irse. \xA1El cami\xF3n te cura y revive las cabezas de
+      los jugadores que lleve!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201875
+    m_Localized: "Este nivel tiene varios <b><u>PUNTOS DE EXTRACCI\xD3N</u></b>,
+      \xA1debes completarlos todos para poder irte!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201876
+    m_Localized: "Esta es la <b><u>TIENDA</u></b>, extrae objetos para comprarlos
+      en la tienda. \xA1El da\xF1o que se produzca en la tienda se queda en la tienda!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201877
+    m_Localized: "Usa [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6]
+      para expresarte. \xA1Hasta puedes mezclar emociones!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201878
+    m_Localized: "Agarrar monstruos ahora causar\xE1 sobrecarga. Cuando llegue al
+      m\xE1ximo, se producir\xE1 un chispazo que te empujar\xE1."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201879
+    m_Localized: Varias personas pueden mitigar el efecto de sobrecarga.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201880
+    m_Localized: Cuando mueres, tu cabeza se carga; usa esa carga para poseer tu
+      cabeza brevemente.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201881
+    m_Localized: "Mientras posees tu cabeza, mant\xE9n [jump] para saltar. Mant\xE9n
+      para saltar m\xE1s alto con un coste mayor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201882
+    m_Localized: "\xA1ACARICIA EL PERRO!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23598574554132480
+    m_Localized: "Llena los <b><u>PUNTOS DE EXTRACCI\xD3N<</u></b> con objetos de
+      valor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23609344067186688
+    m_Localized: "Esto es una <b><u>CAJA DE COSM\xC9TICOS</u></b>, extr\xE1ela para
+      obtener una recompensa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23609344088158208
+    m_Localized: "Si recibe da\xF1o, puedes <b><u>REPARARLA</u></b> con tu propia
+      salud."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23623549780570112
+    m_Localized: "Introduce <b><u>FICHAS DE IMPUESTO</u></b> en la m\xE1quina de
+      la tienda para recoger tus recompensas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25822090339713024
+    m_Localized: Pulsa [interact] para introducir fichas de impuesto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195824295936
+    m_Localized: "Ca\xF1\xF3n de C.A.R.R.O."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461760
+    m_Localized: "L\xE1ser de C.A.R.R.O."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30522141892837376
+    m_Localized: 'Modo: Fuerte'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30522141918003200
+    m_Localized: "Modo: D\xE9bil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461761
+    m_Localized: C.A.R.R.O.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461762
+    m_Localized: C.A.R.R.O. DE BOLSILLO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461763
+    m_Localized: Dron de recarga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461764
+    m_Localized: Dron pluma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461766
+    m_Localized: Dron indestructible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461767
+    m_Localized: Dron centrifugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461768
+    m_Localized: Dron de gravedad cero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461769
+    m_Localized: Cubo de pato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461770
+    m_Localized: "Rastreador de extracci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461771
+    m_Localized: Granadas con cinta adhesiva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461772
+    m_Localized: Granada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461773
+    m_Localized: Granada humana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461774
+    m_Localized: Granada de onda expansiva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461775
+    m_Localized: Granada aturdidora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461776
+    m_Localized: Pistola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461777
+    m_Localized: Pistola de fotones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461778
+    m_Localized: "Pistola cin\xE9tica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461779
+    m_Localized: Escopeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461780
+    m_Localized: Electroballesta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461781
+    m_Localized: Pistola tranquilizante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461782
+    m_Localized: Paquete de salud grande (100)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461783
+    m_Localized: Paquete de salud mediano (50)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461784
+    m_Localized: "Paquete de salud peque\xF1o (25)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461785
+    m_Localized: Soplahojas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461786
+    m_Localized: "Bate de b\xE9isbol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461787
+    m_Localized: "Sart\xE9n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461788
+    m_Localized: Martillo inflable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461789
+    m_Localized: "Alm\xE1dena"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461790
+    m_Localized: "T\xE1ser"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461791
+    m_Localized: Espada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461792
+    m_Localized: Mina explosiva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461793
+    m_Localized: Mina de onda expansiva
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461794
+    m_Localized: Electrotrampa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461801
+    m_Localized: Orbe de gravedad cero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461802
+    m_Localized: Holopuente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461803
+    m_Localized: "Cristal de energ\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461804
+    m_Localized: "Defibr\xF3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461805
+    m_Localized: Patito de goma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461806
+    m_Localized: "Bast\xF3n centrifugador"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461807
+    m_Localized: "Bast\xF3n de v\xF3rtice"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461808
+    m_Localized: "Bast\xF3n de gravedad cero"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461809
+    m_Localized: "Mejora de bater\xEDa de cabeza suelta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461810
+    m_Localized: Mejora de contador de jugadores en el mapa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461811
+    m_Localized: Mejora de descanso al agacharte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461812
+    m_Localized: Mejora de aguante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461813
+    m_Localized: Mejora de salto adicional
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461814
+    m_Localized: Mejora de alcance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461815
+    m_Localized: Mejora de fuerza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461816
+    m_Localized: Mejora de salud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461817
+    m_Localized: Mejora de velocidad al correr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461818
+    m_Localized: Mejora de trepar al tirarte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461819
+    m_Localized: Mejora de lanzamiento al tirarte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461820
+    m_Localized: Mejora de planear al tirarte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461821
+    m_Localized: Rastreador de objetos de valor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461822
+    m_Localized: Almacenador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461823
+    m_Localized: Moto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461824
+    m_Localized: Walkie semibot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461825
+    m_Localized: Walkies semibot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26109748462911488
+    m_Localized: Nivel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26108414590353408
+    m_Localized: Mejoras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386432
+    m_Localized: Descanso al agacharte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386433
+    m_Localized: "Bater\xEDa de cabeza suelta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386434
+    m_Localized: Salto adicional
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386435
+    m_Localized: Salud
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386436
+    m_Localized: Lanzamiento al tirarte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386437
+    m_Localized: Contador de jugadores en el mapa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386438
+    m_Localized: Alcance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386439
+    m_Localized: Velocidad al correr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386440
+    m_Localized: Aguante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386441
+    m_Localized: Fuerza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386442
+    m_Localized: Trepar al tirarte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386443
+    m_Localized: Planear al tirarte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244123594752
+    m_Localized: Animal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760576
+    m_Localized: Petardo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760577
+    m_Localized: Payaso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760578
+    m_Localized: "Cumplea\xF1ero"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760579
+    m_Localized: Equipo de limpieza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760580
+    m_Localized: Pajarita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760581
+    m_Localized: Pipeador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760582
+    m_Localized: Superdepredador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760583
+    m_Localized: Elsa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760584
+    m_Localized: Mentalista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954880
+    m_Localized: Gnomo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954881
+    m_Localized: Cabecilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954882
+    m_Localized: Agarracabezas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954883
+    m_Localized: "Coraz\xF3n abrazador"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954884
+    m_Localized: Oculto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954885
+    m_Localized: Cazador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954886
+    m_Localized: Horrendo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954887
+    m_Localized: "T\xFAnica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954888
+    m_Localized: Segadora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954889
+    m_Localized: Imponencia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954890
+    m_Localized: Escupidor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954891
+    m_Localized: Calvario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954892
+    m_Localized: Gambito
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954893
+    m_Localized: "Ni\xF1o sombra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954894
+    m_Localized: Garrapata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954895
+    m_Localized: Bella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954896
+    m_Localized: Chef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954897
+    m_Localized: "Grit\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954898
+    m_Localized: Mocoso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56998176310747136
+    m_Localized: Poni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567563980800
+    m_Localized: "\xA1Rey de los fracasados!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175104
+    m_Localized: "\xA1Todo el mundo es un fracasado!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175105
+    m_Localized: "\xDAltimo fracasado en pie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175106
+    m_Localized: Fin del juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26610272068415488
+    m_Localized: "Los ca\xEDdos:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37110069994258432
+    m_Localized: 'Chat:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37111979069472768
+    m_Localized: 'Pulsa [interact]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086219382784
+    m_Localized: "Se\xF1al sin conexi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509706196234240
+    m_Localized: Lista de la compra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086252937217
+    m_Localized: "Vac\xEDo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915759992832
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2515126557588324460
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 26547416404832256

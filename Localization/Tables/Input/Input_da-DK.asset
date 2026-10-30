@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Input_da-DK
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: da-DK
+  m_SharedData: {fileID: 11400000, guid: f761f3bb4028f7c489d15d8dfebd3f88, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 568811503720071265
+  m_TableData:
+  - m_Id: 981386387456
+    m_Localized: Escape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981424136192
+    m_Localized: Mellemrum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981424136193
+    m_Localized: Retur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981424136194
+    m_Localized: Tab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330496
+    m_Localized: Pil op
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330497
+    m_Localized: Pil ned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330498
+    m_Localized: Pil venstre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330499
+    m_Localized: "Pil h\xF8jre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330500
+    m_Localized: Venstre Skift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330501
+    m_Localized: "H\xF8jre Skift"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330502
+    m_Localized: Venstre Alt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330503
+    m_Localized: "H\xF8jre Alt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330504
+    m_Localized: Venstre Kontrol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330505
+    m_Localized: "H\xF8jre Kontrol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330508
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330509
+    m_Localized: Backspace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330510
+    m_Localized: Side ned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330511
+    m_Localized: Side op
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330512
+    m_Localized: Hjem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330513
+    m_Localized: Slut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330514
+    m_Localized: "Inds\xE6t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330515
+    m_Localized: Slet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330516
+    m_Localized: Caps Lock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330517
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330518
+    m_Localized: Num Lock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330519
+    m_Localized: Taltast {value}
+    m_Metadata:
+      m_Items:
+      - rid: 568811503720071265
+  - m_Id: 981428330520
+    m_Localized: Taltast Enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330521
+    m_Localized: Venstre museknap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330522
+    m_Localized: Midterste museknap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330523
+    m_Localized: "H\xF8jre museknap"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330524
+    m_Localized: Museknap Frem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330526
+    m_Localized: Scroll op/ned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330527
+    m_Localized: "Scroll venstre/h\xF8jre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330528
+    m_Localized: Museknap {value}
+    m_Metadata:
+      m_Items:
+      - rid: 568811503720071265
+  - m_Id: 2676774395904
+    m_Localized: Multimedie play/pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302213200076800
+    m_Localized: Museknap Tilbage
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 568811503720071265
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 981428330519
+        - id: 981428330528

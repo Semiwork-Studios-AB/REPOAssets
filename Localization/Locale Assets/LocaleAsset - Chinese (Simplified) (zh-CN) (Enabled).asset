@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d049f928dd8dc640a57a3a9f3af4079, type: 3}
+  m_Name: LocaleAsset - Chinese (Simplified) (zh-CN) (Enabled)
+  m_EditorClassIdentifier: 
+  NativeName: "\u7B80\u4F53\u4E2D\u6587"
+  RightToLeft: 0
+  Enabled: 1
+  LocaleReference: {fileID: 11400000, guid: 2f9f71929d40f2245b4678e9e36ab3e1, type: 2}
+  cultureOverride: {fileID: 0}

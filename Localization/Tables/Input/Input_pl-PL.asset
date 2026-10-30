@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Input_pl-PL
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pl-PL
+  m_SharedData: {fileID: 11400000, guid: f761f3bb4028f7c489d15d8dfebd3f88, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2515126557588324477
+  m_TableData:
+  - m_Id: 981428330519
+    m_Localized: Klawiatura numeryczna {value}
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324477
+  - m_Id: 981428330528
+    m_Localized: Mysz {value}
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324477
+  - m_Id: 981386387456
+    m_Localized: Escape
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981424136192
+    m_Localized: Spacja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981424136193
+    m_Localized: Enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981424136194
+    m_Localized: Tab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330496
+    m_Localized: "Strza\u0142ka w g\xF3r\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330497
+    m_Localized: "Strza\u0142ka w d\xF3\u0142"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330498
+    m_Localized: "Strza\u0142ka w lewo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330499
+    m_Localized: "Strza\u0142ka w prawo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330500
+    m_Localized: Lewy Shift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330501
+    m_Localized: Prawy Shift
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330502
+    m_Localized: Lewy Alt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330503
+    m_Localized: Prawy Alt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330504
+    m_Localized: Lewy Control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330505
+    m_Localized: Prawy Control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330508
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330509
+    m_Localized: Backspace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330510
+    m_Localized: Page Down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330511
+    m_Localized: Page Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330512
+    m_Localized: Home
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330513
+    m_Localized: End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330514
+    m_Localized: Insert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330515
+    m_Localized: Delete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330516
+    m_Localized: Caps Lock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330517
+    m_Localized: Pause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330518
+    m_Localized: Num Lock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330520
+    m_Localized: Klawiatura numeryczna Enter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2676774395904
+    m_Localized: Odtwarzaj/Wstrzymaj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330521
+    m_Localized: Lewy przycisk myszy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330522
+    m_Localized: "\u015Arodkowy przycisk myszy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330523
+    m_Localized: Prawy przycisk myszy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330524
+    m_Localized: "Przycisk boczny myszy \u2013 dalej"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 302213200076800
+    m_Localized: "Przycisk boczny myszy \u2013 wstecz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330526
+    m_Localized: "Rolka w g\xF3r\u0119/d\xF3\u0142"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 981428330527
+    m_Localized: Rolka w lewo/prawo
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2515126557588324477
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 981428330519
+        - id: 981428330528

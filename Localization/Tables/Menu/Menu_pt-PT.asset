@@ -52,17 +52,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887616
-    m_Localized: '(pt-PT) The friend with the best computer
-
-      should host.
-
-
-      Are
-      you this friend?'
+    m_Localized: "O amigo com o melhor computador\ndeve ser o anfitri\xE3o.\n\n\xC9s
+      tu esse amigo?"
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887617
-    m_Localized: 'Haha sim! :) '
+    m_Localized: Haha sim! :)
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887618
@@ -139,11 +134,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029708
-    m_Localized: Modo a solo
+    m_Localized: Um Jogador
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029709
-    m_Localized: Modo multiplayer
+    m_Localized: Multiplayer
     m_Metadata:
       m_Items: []
   - m_Id: 4093170032029710
@@ -183,7 +178,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5450952597549056
-    m_Localized: '(pt-PT) Total Haul:'
+    m_Localized: Total arrecadado
     m_Metadata:
       m_Items: []
   - m_Id: 5450952597549057
@@ -195,24 +190,24 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5801515992834048
-    m_Localized: (pt-PT) {players:list:{}|,   |   and   }
+    m_Localized: '{players:list:{}|, | e }'
     m_Metadata:
       m_Items:
       - rid: 7803763168112017411
   - m_Id: 7730571982659584
-    m_Localized: (pt-PT) Uh Oh!
+    m_Localized: Ups!
     m_Metadata:
       m_Items: []
   - m_Id: 7730572012019712
-    m_Localized: (pt-PT) Corrupted Save File
+    m_Localized: Save corrompido
     m_Metadata:
       m_Items: []
   - m_Id: 8038179729825792
-    m_Localized: (pt-PT) Rename Save
+    m_Localized: Mudar nome do save
     m_Metadata:
       m_Items: []
   - m_Id: 8038179754991616
-    m_Localized: (pt-PT) Back
+    m_Localized: Voltar
     m_Metadata:
       m_Items: []
   - m_Id: 8038179754991617
@@ -220,11 +215,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853696
-    m_Localized: (pt-PT) Load Save
+    m_Localized: Carregar save
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853697
-    m_Localized: (pt-PT) Load this save file?
+    m_Localized: Queres carregar este save?
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853698
@@ -236,11 +231,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853700
-    m_Localized: (pt-PT) Delete Save
+    m_Localized: Eliminar save
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853701
-    m_Localized: (pt-PT) Are you REALLY SURE you want to delete this save FOREVER?
+    m_Localized: TENS MESMO A CERTEZA de que queres eliminar este save PARA SEMPRE?
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853702
@@ -252,15 +247,12 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853704
-    m_Localized: (pt-PT) Restore From Backup
+    m_Localized: Restaurar do backup
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853705
-    m_Localized: '(pt-PT) Overwrite this save file with the latest backup?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Substituir este save pelo backup mais recente?\n\nEsta a\xE7\xE3o
+      \xE9 irrevers\xEDvel!"
     m_Metadata:
       m_Items: []
   - m_Id: 5190661053853706
@@ -348,43 +340,43 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343564980224
-    m_Localized: (pt-PT) Settings
+    m_Localized: "Defini\xE7\xF5es"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534656
-    m_Localized: (pt-PT) Gameplay
+    m_Localized: Jogabilidade
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534657
-    m_Localized: (pt-PT) Graphics
+    m_Localized: "Gr\xE1ficos"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534658
-    m_Localized: (pt-PT) Audio
+    m_Localized: "\xC1udio"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534659
-    m_Localized: (pt-PT) Controls
+    m_Localized: Controlos
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534660
-    m_Localized: (pt-PT) Language
+    m_Localized: Idioma
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534661
-    m_Localized: (pt-PT) Back
+    m_Localized: Voltar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534662
-    m_Localized: (pt-PT) On
+    m_Localized: Ligado
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534663
-    m_Localized: (pt-PT) Off
+    m_Localized: Desligado
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534664
-    m_Localized: (pt-PT) Toggle
+    m_Localized: Alternar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534665
@@ -392,757 +384,745 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534674
-    m_Localized: (pt-PT) Gameplay
+    m_Localized: Jogabilidade
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534675
-    m_Localized: (pt-PT) Reset to Default Settings
+    m_Localized: "Repor predefini\xE7\xF5es"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534676
-    m_Localized: (pt-PT) Tips
+    m_Localized: Dicas
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534677
-    m_Localized: (pt-PT) Player Names
+    m_Localized: Nomes dos jogadores
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534678
-    m_Localized: (pt-PT) Photosensitivity
+    m_Localized: Fotossensibilidade
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534679
-    m_Localized: (pt-PT) Arachnophobia
+    m_Localized: Aracnofobia
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534680
-    m_Localized: (pt-PT) Aim Sensitivity
+    m_Localized: Sensibilidade da mira
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534681
-    m_Localized: (pt-PT) Camera Smoothing
+    m_Localized: "Suaviza\xE7\xE3o da c\xE2mara"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534682
-    m_Localized: (pt-PT) Camera Shake
+    m_Localized: "Vibra\xE7\xE3o da c\xE2mara"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534683
-    m_Localized: (pt-PT) Camera Noise
+    m_Localized: "Ru\xEDdo da c\xE2mara"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534684
-    m_Localized: (pt-PT) Camera Animation
-    m_Metadata:
-      m_Items: []
-  - m_Id: 10581343598534685
-    m_Localized: (pt-PT) Invert Vertical Aim
+    m_Localized: "Anima\xE7\xE3o da c\xE2mara"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534686
-    m_Localized: (pt-PT) Item Unequip Auto Hold
+    m_Localized: Manter premido ao desequipar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534687
-    m_Localized: (pt-PT) Rich Presence
+    m_Localized: Rich Presence
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534688
-    m_Localized: (pt-PT) Cosmetics
+    m_Localized: "Cosm\xE9ticos"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534689
-    m_Localized: (pt-PT) Reset to Default Settings
+    m_Localized: "Repor predefini\xE7\xF5es"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534690
-    m_Localized: (pt-PT) Window Mode
+    m_Localized: Modo de janela
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534691
-    m_Localized: (pt-PT) VSync
+    m_Localized: VSync
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534692
-    m_Localized: (pt-PT) Gamma
+    m_Localized: Gamma
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534693
-    m_Localized: (pt-PT) Max FPS
+    m_Localized: "FPS m\xE1x."
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534694
-    m_Localized: (pt-PT) Light Distance
+    m_Localized: "Dist\xE2ncia da ilumina\xE7\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534695
-    m_Localized: (pt-PT) Shadow Quality
+    m_Localized: Qualidade das sombras
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534696
-    m_Localized: (pt-PT) Shadow Distance
+    m_Localized: "Dist\xE2ncia das sombras"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534697
-    m_Localized: (pt-PT) Motion Blur
+    m_Localized: Desfoque de movimento
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534698
-    m_Localized: (pt-PT) Lens Distortion
+    m_Localized: "Distor\xE7\xE3o da lente"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534699
-    m_Localized: (pt-PT) Bloom
+    m_Localized: Bloom
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534700
-    m_Localized: (pt-PT) Chromatic Aberration
+    m_Localized: "Aberra\xE7\xE3o crom\xE1tica"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534701
-    m_Localized: (pt-PT) Grain
+    m_Localized: "Granula\xE7\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534702
-    m_Localized: (pt-PT) Glitch Loop
+    m_Localized: Glitch Loop
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534703
-    m_Localized: (pt-PT) Pixelation
+    m_Localized: "Pixeliza\xE7\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534704
-    m_Localized: (pt-PT) Audio
+    m_Localized: "\xC1udio"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534705
-    m_Localized: (pt-PT) Reset to Default Settings
+    m_Localized: "Repor predefini\xE7\xF5es"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534706
-    m_Localized: (pt-PT) Master Volume
+    m_Localized: Volume Geral
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534707
-    m_Localized: (pt-PT) Music Volume
+    m_Localized: "Volume M\xFAsica"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534709
-    m_Localized: (pt-PT) Proximity Voice Volume
+    m_Localized: Volume Vozes
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534711
-    m_Localized: (pt-PT) Microphone
+    m_Localized: Microfone
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534712
-    m_Localized: (pt-PT) Microphone Volume
+    m_Localized: Volume Microfone
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534713
-    m_Localized: (pt-PT) Push to Talk
+    m_Localized: Premir para falar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534714
-    m_Localized: (pt-PT) Controls
+    m_Localized: Controlos
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534715
-    m_Localized: (pt-PT) Reset to Default Settings
+    m_Localized: "Repor predefini\xE7\xF5es"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534716
-    m_Localized: (pt-PT) Movement
+    m_Localized: Movimento
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534717
-    m_Localized: (pt-PT) Move Forward
+    m_Localized: Frente
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534718
-    m_Localized: (pt-PT) Move Left
+    m_Localized: Esquerda
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534719
-    m_Localized: (pt-PT) Move Back
+    m_Localized: "Tr\xE1s"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534720
-    m_Localized: (pt-PT) Move Right
+    m_Localized: Direita
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534721
-    m_Localized: (pt-PT) Jump
+    m_Localized: Saltar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534722
-    m_Localized: (pt-PT) Crouch
+    m_Localized: Agachar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534723
-    m_Localized: (pt-PT) Sprint
+    m_Localized: Correr
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534724
-    m_Localized: (pt-PT) Tumble
+    m_Localized: Tombar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534725
-    m_Localized: (pt-PT) Grabbing
+    m_Localized: Agarrar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534726
-    m_Localized: (pt-PT) Grabbing
+    m_Localized: Agarrar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534727
-    m_Localized: (pt-PT) Rotate
+    m_Localized: Rodar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534728
-    m_Localized: (pt-PT) Push
+    m_Localized: Empurrar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534729
-    m_Localized: (pt-PT) Pull
+    m_Localized: Puxar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534730
-    m_Localized: (pt-PT) Other
+    m_Localized: Outros
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534731
-    m_Localized: (pt-PT) Map
+    m_Localized: Mapa
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534732
-    m_Localized: (pt-PT) Interact
+    m_Localized: Interagir
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534733
-    m_Localized: (pt-PT) Inventory 1
+    m_Localized: "Invent\xE1rio 1"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534734
-    m_Localized: (pt-PT) Inventory 2
+    m_Localized: "Invent\xE1rio 2"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534735
-    m_Localized: (pt-PT) Inventory 3
+    m_Localized: "Invent\xE1rio 3"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534736
-    m_Localized: (pt-PT) Chat
+    m_Localized: Chat
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534737
-    m_Localized: (pt-PT) Confirm
+    m_Localized: Confirmar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534738
-    m_Localized: (pt-PT) Back
+    m_Localized: Voltar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534739
-    m_Localized: (pt-PT) Menu
+    m_Localized: Menu
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534740
-    m_Localized: (pt-PT) Spectate Next
+    m_Localized: Ver jogador seguinte
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534741
-    m_Localized: (pt-PT) Spectate Previous
+    m_Localized: Ver jogador anterior
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534742
-    m_Localized: (pt-PT) Push to Talk
+    m_Localized: Premir para falar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534743
-    m_Localized: (pt-PT) Toggle Mute
+    m_Localized: Ativar/desativar som
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534744
-    m_Localized: (pt-PT) Player Expressions
+    m_Localized: "Express\xF5es do jogador"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534751
-    m_Localized: (pt-PT) Language
+    m_Localized: Idioma
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534752
-    m_Localized: (pt-PT) Presets
+    m_Localized: "Predefini\xE7\xF5es"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534753
-    m_Localized: (pt-PT) Head
+    m_Localized: "Cabe\xE7a"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534754
-    m_Localized: (pt-PT) Arms
+    m_Localized: "Bra\xE7os"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534755
-    m_Localized: (pt-PT) Body
+    m_Localized: Corpo
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534756
-    m_Localized: (pt-PT) Legs
+    m_Localized: Pernas
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534757
-    m_Localized: (pt-PT) Confirm
+    m_Localized: Confirmar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534758
-    m_Localized: (pt-PT) Select Color
+    m_Localized: Selecionar cor
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534759
-    m_Localized: (pt-PT) Confirm
+    m_Localized: Confirmar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534760
-    m_Localized: (pt-PT) Delete
+    m_Localized: Eliminar
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534761
-    m_Localized: (pt-PT) Hat
+    m_Localized: "Chap\xE9u"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534762
-    m_Localized: (pt-PT) Armwear Right
+    m_Localized: "Acess\xF3rio / bra\xE7o dir."
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534763
-    m_Localized: (pt-PT) Armwear Left
+    m_Localized: "Acess\xF3rio / bra\xE7o esq."
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534764
-    m_Localized: (pt-PT) Legwear Right
+    m_Localized: "Acess\xF3rio / perna dir."
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534765
-    m_Localized: (pt-PT) Legwear Left
+    m_Localized: "Acess\xF3rio / perna esq."
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534766
-    m_Localized: (pt-PT) Head Top
+    m_Localized: "Cabe\xE7a / topo"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534767
-    m_Localized: (pt-PT) Head Bottom
+    m_Localized: "Cabe\xE7a / base"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534768
-    m_Localized: (pt-PT) Body Top
+    m_Localized: Corpo / cima
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534769
-    m_Localized: (pt-PT) Body Bottom
+    m_Localized: Corpo / baixo
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534770
-    m_Localized: (pt-PT) Arm Right
+    m_Localized: "Bra\xE7o direito"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534771
-    m_Localized: (pt-PT) Arm Left
+    m_Localized: "Bra\xE7o esquerdo"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534772
-    m_Localized: (pt-PT) Leg Right
+    m_Localized: Perna direita
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534773
-    m_Localized: (pt-PT) Leg Left
+    m_Localized: Perna esquerda
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534774
-    m_Localized: (pt-PT) Grabber
+    m_Localized: Garra
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534775
-    m_Localized: (pt-PT) Eye Lid Right
+    m_Localized: "P\xE1lpebra direita"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728960
-    m_Localized: (pt-PT) Eye Lid Left
+    m_Localized: "P\xE1lpebra esquerda"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728961
-    m_Localized: (pt-PT) Body Top Overlay
+    m_Localized: Efeito / corpo sup.
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728962
-    m_Localized: (pt-PT) Ears
+    m_Localized: Orelhas
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728963
-    m_Localized: (pt-PT) Eyewear
+    m_Localized: "\xD3culos"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728965
-    m_Localized: (pt-PT) Bodywear Top
+    m_Localized: Roupa / corpo sup.
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728966
-    m_Localized: (pt-PT) Bodywear Bottom
+    m_Localized: Roupa / corpo inf.
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728968
-    m_Localized: (pt-PT) Body Bottom Overlay
+    m_Localized: Efeito / corpo inf.
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728969
-    m_Localized: (pt-PT) Head Top Overlay
+    m_Localized: "Efeito / topo da cabe\xE7a"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728970
-    m_Localized: (pt-PT) Head Bottom Overlay
+    m_Localized: "Efeito / base da cabe\xE7a"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728971
-    m_Localized: (pt-PT) Delete Preset
+    m_Localized: "Eliminar predefini\xE7\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728972
-    m_Localized: (pt-PT) Are you REALLY SURE you want to delete this preset FOREVER?
+    m_Localized: "Queres MESMO apagar esta predefini\xE7\xE3o PARA SEMPRE?"
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728973
-    m_Localized: (pt-PT) Yes! :')
+    m_Localized: Sim! :')
     m_Metadata:
       m_Items: []
   - m_Id: 10581343602728974
-    m_Localized: (pt-PT) No...
+    m_Localized: "N\xE3o..."
     m_Metadata:
       m_Items: []
   - m_Id: 10625145570844672
-    m_Localized: (pt-PT) Angry
+    m_Localized: Zangado
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593408
-    m_Localized: (pt-PT) Sad
+    m_Localized: Triste
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593409
-    m_Localized: (pt-PT) Suspicious
+    m_Localized: Desconfiado
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593410
-    m_Localized: (pt-PT) Eyes Closed
+    m_Localized: Olhos fechados
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593411
-    m_Localized: (pt-PT) Scared
+    m_Localized: Assustado
     m_Metadata:
       m_Items: []
   - m_Id: 10625145608593412
-    m_Localized: (pt-PT) Happy
+    m_Localized: Feliz
     m_Metadata:
       m_Items: []
   - m_Id: 10892493724835840
-    m_Localized: (pt-PT) Change Color
+    m_Localized: Alterar cor
     m_Metadata:
       m_Items: []
   - m_Id: 10892493724835841
-    m_Localized: '(pt-PT) This will replace the colors on all body parts and cosmetics.
-
-
-      This
-      is irreversible!'
+    m_Localized: "Isto vai substituir as cores de todas as partes do corpo.\n\nEsta
+      a\xE7\xE3o \xE9 irrevers\xEDvel!"
     m_Metadata:
       m_Items: []
   - m_Id: 10892493724835842
-    m_Localized: (pt-PT) Yes! :')
+    m_Localized: Sim! :')
     m_Metadata:
       m_Items: []
   - m_Id: 10892493724835843
-    m_Localized: (pt-PT) No...
+    m_Localized: "N\xE3o..."
     m_Metadata:
       m_Items: []
   - m_Id: 10942035694444544
-    m_Localized: (pt-PT) SFX Volume
+    m_Localized: Volume Sons
     m_Metadata:
       m_Items: []
   - m_Id: 10942035694444545
-    m_Localized: (pt-PT) Text to Speech Volume
+    m_Localized: Volume Chat
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938048
-    m_Localized: (pt-PT) Off
+    m_Localized: Desligado
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938049
-    m_Localized: (pt-PT) Very Low
+    m_Localized: Muito Baixo
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938050
-    m_Localized: (pt-PT) Low
+    m_Localized: Baixo
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938051
-    m_Localized: (pt-PT) Medium
+    m_Localized: "M\xE9dio"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938052
-    m_Localized: (pt-PT) Default
+    m_Localized: "Predefini\xE7\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938053
-    m_Localized: (pt-PT) Off
+    m_Localized: Desligado
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938054
-    m_Localized: (pt-PT) Minimal
+    m_Localized: "M\xEDnimo"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938055
-    m_Localized: (pt-PT) Full
+    m_Localized: Completo
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938056
-    m_Localized: (pt-PT) Windowed
+    m_Localized: Em janela
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938057
-    m_Localized: (pt-PT) Fullscreen
+    m_Localized: "Ecr\xE3 Inteiro"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938058
-    m_Localized: (pt-PT) Unlimited
+    m_Localized: Ilimitado
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938059
-    m_Localized: (pt-PT) Very Low
+    m_Localized: Muito Baixo
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938060
-    m_Localized: (pt-PT) Low
+    m_Localized: Baixo
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938061
-    m_Localized: (pt-PT) Medium
+    m_Localized: "M\xE9dio"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938062
-    m_Localized: (pt-PT) High
+    m_Localized: Alto
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938063
-    m_Localized: (pt-PT) Very High
+    m_Localized: Muito Alto
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938064
-    m_Localized: (pt-PT) Very Low
+    m_Localized: Muito Baixo
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938065
-    m_Localized: (pt-PT) Low
+    m_Localized: Baixo
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938066
-    m_Localized: (pt-PT) Medium
+    m_Localized: "M\xE9dio"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938067
-    m_Localized: (pt-PT) High
+    m_Localized: Alto
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938068
-    m_Localized: (pt-PT) Very High
+    m_Localized: Muito Alto
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938069
-    m_Localized: (pt-PT) Very Low
+    m_Localized: Muito Baixo
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938070
-    m_Localized: (pt-PT) Low
+    m_Localized: Baixo
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938071
-    m_Localized: (pt-PT) Medium
+    m_Localized: "M\xE9dio"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938072
-    m_Localized: (pt-PT) High
+    m_Localized: Alto
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938073
-    m_Localized: (pt-PT) Very High
+    m_Localized: Muito Alto
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938074
-    m_Localized: (pt-PT) Small
+    m_Localized: Pequeno
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938075
-    m_Localized: (pt-PT) Medium
+    m_Localized: "M\xE9dio"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938076
-    m_Localized: (pt-PT) Default
+    m_Localized: "Predefini\xE7\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 10978902791938077
-    m_Localized: (pt-PT) None
+    m_Localized: Nenhum
     m_Metadata:
       m_Items: []
   - m_Id: 11624605050462208
-    m_Localized: (pt-PT) Reset Gameplay Settings
+    m_Localized: "Repor defini\xE7\xF5es de jogabilidade"
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822336
-    m_Localized: (pt-PT) Reset gameplay settings to default?
+    m_Localized: "Repor as defini\xE7\xF5es de jogabilidade?"
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822337
-    m_Localized: (pt-PT) Yes!
+    m_Localized: Sim!
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822338
-    m_Localized: (pt-PT) No
+    m_Localized: "N\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822339
-    m_Localized: (pt-PT) Graphics
+    m_Localized: "Gr\xE1ficos"
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822340
-    m_Localized: (pt-PT) Reset Graphics Settings
+    m_Localized: "Repor defini\xE7\xF5es gr\xE1ficas"
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822341
-    m_Localized: (pt-PT) Reset graphics settings to default?
+    m_Localized: "Repor defini\xE7\xF5es gr\xE1ficas para valores predefinidos?"
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822342
-    m_Localized: (pt-PT) Yes!
+    m_Localized: Sim!
     m_Metadata:
       m_Items: []
   - m_Id: 11624605079822343
-    m_Localized: (pt-PT) No
+    m_Localized: "N\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723968
-    m_Localized: (pt-PT) Reset Audio Settings
+    m_Localized: "Repor defini\xE7\xF5es de \xE1udio"
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723969
-    m_Localized: (pt-PT) Reset audio settings to default?
+    m_Localized: "Repor defini\xE7\xF5es de \xE1udio para a predefini\xE7\xE3o?"
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723970
-    m_Localized: (pt-PT) Yes!
+    m_Localized: Sim!
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723971
-    m_Localized: (pt-PT) No
+    m_Localized: "N\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723972
-    m_Localized: (pt-PT) Reset Controls Settings
+    m_Localized: "Repor defini\xE7\xF5es dos controlos"
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723973
-    m_Localized: (pt-PT) Reset controls settings to default?
+    m_Localized: "Repor defini\xE7\xF5es dos controlos para a predefini\xE7\xE3o?"
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723974
-    m_Localized: (pt-PT) Yes!
+    m_Localized: Sim!
     m_Metadata:
       m_Items: []
   - m_Id: 11669347536723975
-    m_Localized: (pt-PT) No
+    m_Localized: "N\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 15231403103870976
-    m_Localized: (pt-PT) Footwear Right
+    m_Localized: "Cal\xE7ado / p\xE9 dir."
     m_Metadata:
       m_Items: []
   - m_Id: 15231403133231104
-    m_Localized: (pt-PT) Footwear Left
+    m_Localized: "Cal\xE7ado / p\xE9 esq."
     m_Metadata:
       m_Items: []
   - m_Id: 15240008624496640
-    m_Localized: (pt-PT) Arm Right Overlay
+    m_Localized: "Efeito / bra\xE7o dir."
     m_Metadata:
       m_Items: []
   - m_Id: 15240008645468160
-    m_Localized: (pt-PT) Arm Left Overlay
+    m_Localized: "Efeito / bra\xE7o esq."
     m_Metadata:
       m_Items: []
   - m_Id: 15240008645468161
-    m_Localized: (pt-PT) Leg Right Overlay
+    m_Localized: Efeito / perna dir.
     m_Metadata:
       m_Items: []
   - m_Id: 15240008645468162
-    m_Localized: (pt-PT) Leg Left Overlay
+    m_Localized: Efeito / perna esq.
     m_Metadata:
       m_Items: []
   - m_Id: 15590857783631872
-    m_Localized: (pt-PT) Password
+    m_Localized: Palavra-passe
     m_Metadata:
       m_Items: []
   - m_Id: 15590857808797696
-    m_Localized: (pt-PT) Skip
+    m_Localized: Ignorar
     m_Metadata:
       m_Items: []
   - m_Id: 15592435403972608
-    m_Localized: (pt-PT) Loading
+    m_Localized: A carregar
     m_Metadata:
       m_Items: []
   - m_Id: 15592435403972609
-    m_Localized: (pt-PT) Stuck in loading?
+    m_Localized: Preso no carregamento?
     m_Metadata:
       m_Items: []
   - m_Id: 15592435403972610
-    m_Localized: (pt-PT) Press [menu] to exit to main menu
+    m_Localized: Prime [back] para voltar ao menu principal
     m_Metadata:
       m_Items: []
   - m_Id: 15661116045647872
-    m_Localized: (pt-PT) Lobby
+    m_Localized: Lobby
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008000
-    m_Localized: (pt-PT) Press [chat] to chat
+    m_Localized: Prime [chat] para conversar
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008001
-    m_Localized: (pt-PT) Start Game
+    m_Localized: Iniciar jogo
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008002
-    m_Localized: (pt-PT) Invite
+    m_Localized: Convidar
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008003
-    m_Localized: (pt-PT) Settings
+    m_Localized: "Defini\xE7\xF5es"
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008004
-    m_Localized: (pt-PT) Customize
+    m_Localized: Personalizar
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008005
-    m_Localized: (pt-PT) Leave
+    m_Localized: Sair
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008006
-    m_Localized: (pt-PT) Start Game
+    m_Localized: Iniciar jogo
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008007
-    m_Localized: '(pt-PT) Everyone ready?
-
-
-      Once the game is started
-
-      new
-      players cannot join.'
+    m_Localized: "Est\xE1 toda a gente pronta?\n\nQuando o jogo come\xE7ar, j\xE1
+      n\xE3o podem entrar novos jogadores."
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008008
@@ -1150,7 +1130,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008009
-    m_Localized: (pt-PT) No wait!
+    m_Localized: "N\xE3o, espera!"
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008010
@@ -1162,11 +1142,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008012
-    m_Localized: 'Sim '
+    m_Localized: Sim
     m_Metadata:
       m_Items: []
   - m_Id: 15661116075008013
-    m_Localized: (pt-PT) No
+    m_Localized: "N\xE3o"
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296960
@@ -1174,7 +1154,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296961
-    m_Localized: (pt-PT) Do you want to start a game?
+    m_Localized: Queres iniciar um jogo?
     m_Metadata:
       m_Items: []
   - m_Id: 15667952224296962
@@ -1186,183 +1166,159 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 15673645669015552
-    m_Localized: (pt-PT) Confirm
+    m_Localized: Confirmar
     m_Metadata:
       m_Items: []
   - m_Id: 16030297698066432
-    m_Localized: (pt-PT) Player Joining...
+    m_Localized: Jogador a entrar...
     m_Metadata:
       m_Items: []
   - m_Id: 16702161813680128
-    m_Localized: (pt-PT) Face Lower
+    m_Localized: Rosto / inf.
     m_Metadata:
       m_Items: []
   - m_Id: 17747241957765120
-    m_Localized: (pt-PT) Clear
+    m_Localized: Descartar
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930944
-    m_Localized: '(pt-PT) Are you sure you want to unequip all body parts and cosmetics?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Queres mesmo tirar todas as partes do corpo e cosm\xE9ticos?\n\nEsta
+      a\xE7\xE3o \xE9 irrevers\xEDvel!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930945
-    m_Localized: (pt-PT) Yes! :')
+    m_Localized: Sim! :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930946
-    m_Localized: (pt-PT) No...
+    m_Localized: "N\xE3o..."
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930947
-    m_Localized: (pt-PT) Clear
+    m_Localized: Descartar
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930948
-    m_Localized: '(pt-PT) Are you sure you want to unequip all body parts?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Queres mesmo tirar todas as partes do corpo?\n\nEsta a\xE7\xE3o
+      \xE9 irrevers\xEDvel!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930949
-    m_Localized: (pt-PT) Yes! :')
+    m_Localized: Sim! :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930950
-    m_Localized: (pt-PT) No...
+    m_Localized: "N\xE3o..."
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930951
-    m_Localized: (pt-PT) Clear
+    m_Localized: Descartar
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930952
-    m_Localized: '(pt-PT) Are you sure you want to unequip all cosmetics?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Queres mesmo tirar todos os cosm\xE9ticos?\n\nEsta a\xE7\xE3o \xE9
+      irrevers\xEDvel!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930953
-    m_Localized: (pt-PT) Yes! :')
+    m_Localized: Sim! :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930954
-    m_Localized: (pt-PT) No...
+    m_Localized: "N\xE3o..."
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930955
-    m_Localized: (pt-PT) Randomize
+    m_Localized: Aleatorizar
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930956
-    m_Localized: '(pt-PT) Are you sure you want to randomize all body parts and cosmetics?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Queres mesmo aleatorizar todas as partes do corpo e cosm\xE9ticos?\n\nEsta
+      a\xE7\xE3o \xE9 irrevers\xEDvel!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930957
-    m_Localized: (pt-PT) Yes! :')
+    m_Localized: Sim! :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930958
-    m_Localized: (pt-PT) No...
+    m_Localized: "N\xE3o..."
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930959
-    m_Localized: (pt-PT) Randomize
+    m_Localized: Aleatorizar
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930960
-    m_Localized: '(pt-PT) Are you sure you want to randomize all body parts?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Queres mesmo aleatorizar todas as partes do corpo?\n\nEsta a\xE7\xE3o
+      \xE9 irrevers\xEDvel!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930961
-    m_Localized: (pt-PT) Yes! :')
+    m_Localized: Sim! :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930962
-    m_Localized: (pt-PT) No...
+    m_Localized: "N\xE3o..."
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930963
-    m_Localized: (pt-PT) Randomize
+    m_Localized: Aleatorizar
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930964
-    m_Localized: '(pt-PT) Are you sure you want to randomize all cosmetics?
-
-
-      This
-      is irreversible!'
+    m_Localized: "Queres mesmo aleatorizar todos os cosm\xE9ticos?\n\nEsta a\xE7\xE3o
+      \xE9 irrevers\xEDvel!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930965
-    m_Localized: (pt-PT) Yes! :')
+    m_Localized: Sim! :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930966
-    m_Localized: (pt-PT) No...
+    m_Localized: "N\xE3o..."
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930967
-    m_Localized: (pt-PT) Change Color
+    m_Localized: Alterar cor
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930968
-    m_Localized: '(pt-PT) This will replace the colors on all body parts.
-
-
-      This
-      is irreversible!'
+    m_Localized: "Isto vai substituir as cores de todas as partes do corpo.\n\nEsta
+      a\xE7\xE3o \xE9 irrevers\xEDvel!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930969
-    m_Localized: (pt-PT) Yes! :')
+    m_Localized: Sim! :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930970
-    m_Localized: (pt-PT) No...
+    m_Localized: "N\xE3o..."
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930971
-    m_Localized: (pt-PT) Change Color
+    m_Localized: Alterar cor
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930972
-    m_Localized: '(pt-PT) This will replace the colors on all cosmetics.
-
-
-      This
-      is irreversible!'
+    m_Localized: "Isto vai substituir as cores de todos os cosm\xE9ticos\n\nEsta
+      a\xE7\xE3o \xE9 irrevers\xEDvel!"
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930973
-    m_Localized: (pt-PT) Yes! :')
+    m_Localized: Sim! :')
     m_Metadata:
       m_Items: []
   - m_Id: 17747241982930974
-    m_Localized: (pt-PT) No...
+    m_Localized: "N\xE3o..."
     m_Metadata:
       m_Items: []
   - m_Id: 21470840070594560
-    m_Localized: (pt-PT) Face Upper
+    m_Localized: Rosto / cima
     m_Metadata:
       m_Items: []
   - m_Id: 21470840091566080
-    m_Localized: (pt-PT) Face Middle
+    m_Localized: Rosto / centro
     m_Metadata:
       m_Items: []
   - m_Id: 21739271462313984
@@ -1418,7 +1374,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757314
-    m_Localized: (pt-PT) The truck healer now restores 35 health.
+    m_Localized: "O sistema de cura do cami\xE3o passa a restaurar 35 de vida."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757315
@@ -1430,15 +1386,16 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757317
-    m_Localized: (pt-PT) Monsters now overcharge your grabber.
+    m_Localized: Os monstros passam a sobrecarregar a tua garra.
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757318
-    m_Localized: (pt-PT) Monsters take heavy damage from pits, but can survive.
+    m_Localized: Os monstros sofrem grandes danos ao cair em fossos, mas conseguem
+      sobreviver.
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757319
-    m_Localized: (pt-PT) The truck healer now restores 25 health.
+    m_Localized: "O sistema de cura do cami\xE3o passa a restaurar 25 de vida."
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757320
@@ -1446,12 +1403,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757321
-    m_Localized: (pt-PT) Monsters now overcharge your grabber by a total increase
-      of 25%
+    m_Localized: A sobrecarga da tua garra causada pelos monstros aumenta para 25%.
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757322
-    m_Localized: (pt-PT) Monsters now take less damage from pits.
+    m_Localized: Agora, os monstros sofrem menos dano ao cair em fossos.
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757323
@@ -1463,36 +1419,36 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757325
-    m_Localized: (pt-PT) Monsters now overcharge your grabber by a total increase
-      of 50%
+    m_Localized: A sobrecarga da tua garra causada pelos monstros aumenta para 50%
     m_Metadata:
       m_Items: []
   - m_Id: 22911118095757326
-    m_Localized: (pt-PT) Monsters now take even less damage from pits.
+    m_Localized: Os monstros tornam-se ainda mais resistentes aos danos causados
+      por fossos.
     m_Metadata:
       m_Items: []
   - m_Id: 23197572767145984
-    m_Localized: (pt-PT) {ping} ms
+    m_Localized: '{ping} ms'
     m_Metadata:
       m_Items:
       - rid: 7803763168112017411
   - m_Id: 23207164712574976
-    m_Localized: (pt-PT) {ping} ms
+    m_Localized: '{ping} ms'
     m_Metadata:
       m_Items:
       - rid: 7803763168112017411
   - m_Id: 26475650059841536
-    m_Localized: (pt-PT) Photosensivity Warning
+    m_Localized: Aviso de fotossensibilidade
     m_Metadata:
       m_Items: []
   - m_Id: 26475650085007360
-    m_Localized: (pt-PT) This game contains flashing lights.
+    m_Localized: "Este jogo cont\xE9m luzes intermitentes."
     m_Metadata:
       m_Items: []
   - m_Id: 26475650085007361
-    m_Localized: (pt-PT) Some individuals may experience epileptic seizures when
-      exposed to light patterns and flashing lights. If you feel any discomfort when
-      playing, immediately stop playing and consult a doctor.
+    m_Localized: "Algumas pessoas podem sofrer crises epil\xE9ticas quando expostas
+      a padr\xF5es luminosos e luzes intermitentes. Se sentires algum desconforto
+      enquanto jogas, para imediatamente e consulta um m\xE9dico."
     m_Metadata:
       m_Items: []
   - m_Id: 30857599407521792
@@ -1520,34 +1476,34 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 30862829494894592
-    m_Localized: (pt-PT) Shop
+    m_Localized: Loja
     m_Metadata:
       m_Items: []
   - m_Id: 30862829524254720
-    m_Localized: (pt-PT) Level {number}
+    m_Localized: "N\xEDvel {number}"
     m_Metadata:
       m_Items:
       - rid: 7803763168112017411
   - m_Id: 30862829524254721
-    m_Localized: (pt-PT) Game Over
+    m_Localized: Fim do jogo
     m_Metadata:
       m_Items: []
   - m_Id: 33065608682569728
-    m_Localized: (pt-PT) You did it all alone!
+    m_Localized: Fizeste tudo sozinho!
     m_Metadata:
       m_Items: []
   - m_Id: 33437954568257536
-    m_Localized: (pt-PT) Save File Limit Reached
+    m_Localized: Limite de saves atingido
     m_Metadata:
       m_Items: []
   - m_Id: 33437954593423360
-    m_Localized: (pt-PT) You can only have {limit} save files at a time. Please delete
-      some save files to make room for new ones.
+    m_Localized: "S\xF3 podes ter {limit} saves de cada vez. Elimina alguns spots
+      para salvares jogos novos."
     m_Metadata:
       m_Items:
       - rid: 7803763168112017411
   - m_Id: 33437954593423361
-    m_Localized: (pt-PT) OK
+    m_Localized: OK
     m_Metadata:
       m_Items: []
   - m_Id: 33712689910808576
@@ -1555,11 +1511,11 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 33712689940168704
-    m_Localized: "O host p\xF4s-te na rua"
+    m_Localized: "Foste expulso pelo anfitri\xE3o."
     m_Metadata:
       m_Items: []
   - m_Id: 33712689940168705
-    m_Localized: "\xC9 pr\xF3 lado que durmo melhor"
+    m_Localized: Ok, pronto
     m_Metadata:
       m_Items: []
   - m_Id: 33712689940168706
@@ -1567,7 +1523,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 33712689940168710
-    m_Localized: Ok, bolas
+    m_Localized: Ok, pronto
     m_Metadata:
       m_Items: []
   - m_Id: 33712689940168714
@@ -1575,11 +1531,254 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 33712689940168716
-    m_Localized: Ok, bolas
+    m_Localized: Ok, pronto
     m_Metadata:
       m_Items: []
   - m_Id: 33714292684390400
     m_Localized: 'Causa:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168712
+    m_Localized: "A tua vers\xE3o: {versionSelf}\nVers\xE3o do lobby: {version}"
+    m_Metadata:
+      m_Items:
+      - rid: 7803763168112017411
+  - m_Id: 36617102426701824
+    m_Localized: Inverter mira vertical
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168708
+    m_Localized: Bloqueado no carregamento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168709
+    m_Localized: "O anfitri\xE3o perdeu a liga\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390401
+    m_Localized: Foste banido deste lobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168711
+    m_Localized: "Vers\xE3o incompat\xEDvel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168713
+    m_Localized: Ok, pronto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168715
+    m_Localized: O lobby fechou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507528912896
+    m_Localized: Entrar no servidor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661632
+    m_Localized: 'Tens a certeza de que queres entrar?
+
+      {lobbyName}'
+    m_Metadata:
+      m_Items:
+      - rid: 7803763168112017411
+  - m_Id: 53350507566661633
+    m_Localized: Bora!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661634
+    m_Localized: Nope!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074834644992
+    m_Localized: "Jogo p\xFAblico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810816
+    m_Localized: "Partida aleat\xF3ria"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810817
+    m_Localized: Lista de servidores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810818
+    m_Localized: Voltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810819
+    m_Localized: Lista de servidores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810820
+    m_Localized: Pesquisar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810821
+    m_Localized: Criar novo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810822
+    m_Localized: Voltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810823
+    m_Localized: Pesquisar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810824
+    m_Localized: Confirmar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810825
+    m_Localized: Voltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810826
+    m_Localized: Criar novo servidor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810827
+    m_Localized: Confirmar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810828
+    m_Localized: Voltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54361496021958656
+    m_Localized: Qualidade dos reflexos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53646107088584704
+    m_Localized: "Premir novo bot\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74361386170310656
+    m_Localized: Comando
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474048
+    m_Localized: Resort Sunstone Valley
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474049
+    m_Localized: '{hours:conditional:{hours}t |}{minutes:conditional:{minutes}m |}{seconds:conditional:{seconds}s|}
+
+'
+    m_Metadata:
+      m_Items:
+      - rid: 7803763168112017411
+  - m_Id: 74362528585474050
+    m_Localized: "Idioma de convers\xE3o de texto em voz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81298091666300928
+    m_Localized: Usar o idioma do jogo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856340672512
+    m_Localized: Empurrar/ Puxar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615552
+    m_Localized: 'Interface '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615553
+    m_Localized: Separador seguinte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615554
+    m_Localized: Separador anterior
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615555
+    m_Localized: Clicar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87379731429711872
+    m_Localized: "Acelera\xE7\xE3o da mira"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062029873152
+    m_Localized: "Ve\xEDculo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010496
+    m_Localized: Acelerar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010497
+    m_Localized: "Travar / Marcha-atr\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010498
+    m_Localized: Derrapar para a esquerda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010499
+    m_Localized: Derrapar para a direita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010500
+    m_Localized: "Entrar no ve\xEDculo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010501
+    m_Localized: "Roda de express\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269605806080
+    m_Localized: "Avan\xE7o ao agarrar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166208
+    m_Localized: "Velocidade de avan\xE7o ao agarrar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166209
+    m_Localized: "Avan\xE7o da arma corpo a corpo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166210
+    m_Localized: "Velocidade de avan\xE7o da arma corpo a corpo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166211
+    m_Localized: "Vibra\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94776138692288512
+    m_Localized: "Vibra\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484512382976
+    m_Localized: Combinado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484554326016
+    m_Localized: Separado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338642206720
+    m_Localized: "Modo de express\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338684149760
+    m_Localized: Modo de empurrar/puxar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442817417216
+    m_Localized: Direita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442855165952
+    m_Localized: Esquerda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93863369772097536
+    m_Localized: "Man\xEDpulo das express\xF5es"
     m_Metadata:
       m_Items: []
   references:
@@ -1595,3 +1794,6 @@ MonoBehaviour:
         - id: 23207164712574976
         - id: 30862829524254720
         - id: 33437954593423360
+        - id: 33712689940168712
+        - id: 53350507566661632
+        - id: 74362528585474049

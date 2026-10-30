@@ -1,0 +1,874 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: HUD_fr-FR
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: fr-FR
+  m_SharedData: {fileID: 11400000, guid: 64fd365dff4a0674f9ea9125eb765214, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2515126557588324457
+  m_TableData:
+  - m_Id: 26547416404832256
+    m_Localized: Maintenir pour retenter votre chance ({cost})
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324457
+  - m_Id: 22956499448881152
+    m_Localized: '[back] pour passer'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229311066112
+    m_Localized: "Point d\u2019extraction activ\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231936
+    m_Localized: "Mission d\u2019extraction termin\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23920995436847104
+    m_Localized: FOCUS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231937
+    m_Localized: "Rapportez le butin au point d\u2019extraction"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231938
+    m_Localized: "\xC9vitez les grenades\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231939
+    m_Localized: "Trouvez le prochain point d\u2019extraction"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2984229336231940
+    m_Localized: "Retournez au camion\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25797701263065088
+    m_Localized: "Achetez des articles \xE0 la boutique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25797701284036608
+    m_Localized: "Profitez du trajet, r\xE9approvisionnez-vous et \xC9QUIPEZ-VOUS\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442524647424
+    m_Localized: "Beau boulot\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813248
+    m_Localized: "Utilisez [move] pour vous d\xE9placer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813249
+    m_Localized: "D\xE9placez-vous pour remplir la barre de progression\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813250
+    m_Localized: "Utilisez [move] jusqu\u2019\xE0 ce que la barre de progression
+      soit remplie\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813251
+    m_Localized: Appuyez sur [jump] pour sauter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813252
+    m_Localized: "Sautez pour remplir la barre de progression\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813253
+    m_Localized: "Appuyez sur [jump] pour sauter jusqu\u2019\xE0 ce que la barre
+      de progression soit remplie\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813254
+    m_Localized: "Appuyez sur [crouch] pour vous accroupir. Les monstres auront plus
+      de mal \xE0 vous voir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813255
+    m_Localized: "Restez en position accroupie pour remplir la barre de progression\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813256
+    m_Localized: "Maintenez [crouch] et utilisez [move] jusqu\u2019\xE0 ce que la
+      barre de progression soit remplie\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813257
+    m_Localized: "Utilisez [crouch] pour vous faufiler sous des \xE9l\xE9ments du
+      d\xE9cor et vous cacher."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813258
+    m_Localized: "Cachez-vous pour remplir la barre de progression\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813259
+    m_Localized: "Maintenez [crouch] et glissez-vous sous un \xE9l\xE9ment du d\xE9cor,
+      puis restez en place jusqu\u2019\xE0 ce que la barre de progression soit remplie\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813260
+    m_Localized: "Maintenez [sprint] pour sprinter. Cette action consomme de l\u2019\xE9nergie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813261
+    m_Localized: "Sprintez pour remplir la barre de progression\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813262
+    m_Localized: "Maintenez [sprint] et utilisez [move] pour sprinter jusqu\u2019\xE0
+      ce que la barre de progression soit remplie\_! Si vous tombez \xE0 court d\u2019\xE9nergie,
+      attendez qu\u2019elle se r\xE9g\xE9n\xE8re\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813263
+    m_Localized: "Courez et appuyez sur [tumble] pour effectuer une glissade tout
+      en \xE9l\xE9gance. Sauter peut aider\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813264
+    m_Localized: "Courez, sautez et effectuez une glissade pour remplir la barre
+      de progression\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813265
+    m_Localized: "Courez avec [sprint], sautez avec [jump] et appuyez sur [tumble]
+      pour effectuer une glissade. R\xE9p\xE9tez ces actions jusqu\u2019\xE0 ce que
+      la barre de progression soit remplie\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813266
+    m_Localized: Saisissez des objets en utilisant [grab].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813267
+    m_Localized: "Transportez l\u2019objet pour remplir la barre de progression\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813268
+    m_Localized: "Maintenez [grab] sur un objet jusqu\u2019\xE0 ce que la barre de
+      progression soit remplie\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813269
+    m_Localized: "Utilisez [pushAndPull] pour modifier la distance \xE0 laquelle
+      vous tenez un objet devant vous."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813270
+    m_Localized: "Modifiez la distance d\u2019un objet que vous tenez\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813271
+    m_Localized: "Maintenez [grab] sur un objet et utilisez [pushAndPull] pour modifier
+      la distance de l\u2019objet\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813272
+    m_Localized: Faites pivoter les objets que vous tenez en utilisant [grab2].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813273
+    m_Localized: "Faites pivoter un objet pour remplir la barre de progression\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813274
+    m_Localized: "Lorsque vous tenez un objet avec [grab], maintenez [grab2] et d\xE9placez
+      la vis\xE9e pour le faire pivoter. Continuez jusqu\u2019\xE0 ce que la barre
+      de progression soit remplie\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813275
+    m_Localized: "Saisissez un objet et appuyez sur [interact] pour l\u2019activer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813276
+    m_Localized: "Activez et d\xE9sactivez l\u2019objet\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813277
+    m_Localized: "Saisissez la balle avec [grab], puis activez-la et d\xE9sactivez-la
+      en utilisant [interact] jusqu\u2019\xE0 ce que la barre de progression soit
+      remplie\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813278
+    m_Localized: "Saisissez un objet et utilisez [inventory1]/[inventory2]/[inventory3]
+      pour l\u2019ajouter \xE0 votre inventaire."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813279
+    m_Localized: "Remplissez votre inventaire\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813280
+    m_Localized: "Lorsque vous tenez un objet \xE0 l\u2019aide de la touche [grab],
+      appuyez sur [inventory1]/[inventory2]/[inventory3]. Assignez un objet \xE0
+      chaque emplacement pour remplir la barre de progression\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813281
+    m_Localized: "Utilisez [inventory1]/[inventory2]/[inventory3] pour sortir des
+      objets de l\u2019inventaire."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813282
+    m_Localized: "Videz votre inventaire\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813283
+    m_Localized: "Utilisez [inventory1]/[inventory2]/[inventory3] pour vider tous
+      les emplacements de l\u2019inventaire et remplir la barre de progression\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813284
+    m_Localized: "Utilisez [map] pour afficher la carte. La carte est <b><u>IMPORTANTE</u></b>
+      pour vous rep\xE9rer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442549813285
+    m_Localized: "Consultez la carte\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201856
+    m_Localized: "Maintenez [map] et gardez la carte affich\xE9e jusqu\u2019\xE0
+      ce que la barre de progression soit remplie\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201857
+    m_Localized: "Voici un C.A.D.D.I.E. Attrapez-le par la poign\xE9e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201858
+    m_Localized: "Faites un petit tour avec le C.A.D.D.I.E.\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201859
+    m_Localized: "Prenez le C.A.D.D.I.E. par la poign\xE9e avec [grab] et d\xE9placez-vous
+      jusqu\u2019\xE0 ce que la barre de progression soit remplie\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201860
+    m_Localized: "Remplissez les C.A.D.D.I.E.s d\u2019objets de valeur. Les C.A.D.D.I.E.s
+      sont <b><u>IMPORTANTS</u></b> pour transporter davantage de butin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201861
+    m_Localized: "Remplissez le C.A.D.D.I.E. d\u2019objets de valeur\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201862
+    m_Localized: "D\xE9posez trois objets dans le C.A.D.D.I.E."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201863
+    m_Localized: "Activez les <b><u>POINTS D\u2019EXTRACTION</u></b> et rapportez-y
+      un maximum de butin."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201864
+    m_Localized: "Trouvez les objets de valeur\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201865
+    m_Localized: "BONJOUR\_! RAPPORTEZ DU BUTIN AU <b><u>POINT D\u2019EXCTRACTION</u></b>\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201866
+    m_Localized: "Entrez dans le <b><u>CAMION</u></b> et envoyez un message \xE0
+      votre patron pour quitter le niveau."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201867
+    m_Localized: "Montez dans le camion et envoyez un message\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201868
+    m_Localized: "Montez dans le camion et maintenez [grab] sur l\u2019espace messagerie
+      de l\u2019\xE9cran du camion pour envoyer un message\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201869
+    m_Localized: "Partagez vos points de vie avec d\u2019autres joueurs en les attrapant
+      par le cou\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201870
+    m_Localized: "R\xE9animez les autres joueurs en r\xE9cup\xE9rant leurs t\xEAtes\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201871
+    m_Localized: "Achetez des <b><u>CRISTAUX D\u2019\xC9NERGIE</u></b> pour la <b><u>STATION
+      DE RECHARGE</u></b> afin de recharger et r\xE9parer votre \xE9quipement\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201872
+    m_Localized: "Un seul <b><u>POINT D\u2019EXTRACTION</u></b> peut \xEAtre actif
+      \xE0 la fois. Trouvez le point actif \xE0 l\u2019aide de la carte\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201873
+    m_Localized: "Appuyer sur [chat] pour ouvrir le chat\_! \xC7a va \xEAtre amusant\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201874
+    m_Localized: "Il est temps de partir. Le camion vous soigne et r\xE9anime les
+      joueurs dont vous avez r\xE9cup\xE9r\xE9 la t\xEAte\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201875
+    m_Localized: "Ce niveau comporte de multiples <b><u>POINTS D\u2019EXTRACTION</u></b>.
+      Terminez-les tous pour pouvoir quitter le niveau\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201876
+    m_Localized: "Voici la <b><u>BOUTIQUE</u></b>. R\xE9cup\xE9rez des objets de
+      valeur pour obtenir de l\u2019\xE9quipement. Les d\xE9g\xE2ts subis seront
+      soign\xE9s en sortant\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201877
+    m_Localized: "Utilisez [expression1]/[expression2]/[expression3]/[expression4]/[expression5]/[expression6]
+      pour exprimer vos \xE9motions. Vous pouvez m\xEAme faire des m\xE9langes\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201878
+    m_Localized: "Si vous utilisez votre rayon tracteur sur un monstre, une jauge
+      de surcharge appara\xEEtra. Si la jauge est remplie, votre personnage sera
+      violemment repouss\xE9 en arri\xE8re."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201879
+    m_Localized: "Si plusieurs joueurs utilisent leur rayon tracteur sur un monstre,
+      l\u2019effet de surcharge diminue."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201880
+    m_Localized: "Lorsque vous mourez, utilisez la charge de la batterie de votre
+      t\xEAte pour la poss\xE9der un bref moment."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201881
+    m_Localized: "Pendant la possession, maintenez [jump] pour sauter. Un appui prolong\xE9
+      permet de sauter plus haut, mais cela consomme davantage d\u2019\xE9nergie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18554442558201882
+    m_Localized: "OH, LE JOLI TOUTOU\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23598574554132480
+    m_Localized: "Rapportez un maximum d\u2019objets de valeur aux <b><u>POINTS D\u2019EXTRACTION</u></b>."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23609344067186688
+    m_Localized: "Voici une <b><u>BO\xCETE DE COSM\xC9TIQUES</u></b>. R\xE9cup\xE9rez-la
+      pour obtenir une r\xE9compense."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23609344088158208
+    m_Localized: "En cas de d\xE9g\xE2ts, vous pouvez <b><u>SOIGNER</u></b> la bo\xEEte
+      en d\xE9pensant vos points de vie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23623549780570112
+    m_Localized: "Ins\xE9rez des <b><u>JETONS</u></b> dans la machine de la boutique
+      pour obtenir vos r\xE9compenses."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25822090339713024
+    m_Localized: "Appuyer sur [interact] pour ins\xE9rer un jeton"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195824295936
+    m_Localized: "C.A.D.D.I.E.\_\u2013\_Canon"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461760
+    m_Localized: "C.A.D.D.I.E.\_\u2013\_Laser"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30522141892837376
+    m_Localized: "Mode\_: Puissant"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30522141918003200
+    m_Localized: "Mode\_: Faible"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461761
+    m_Localized: C.A.D.D.I.E.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461762
+    m_Localized: C.A.D.D.I.E. de poche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461763
+    m_Localized: Drone de recharge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461764
+    m_Localized: "Drone ail\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461766
+    m_Localized: Drone indestructible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461767
+    m_Localized: Drone pivotant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461768
+    m_Localized: "Drone z\xE9ro gravit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461769
+    m_Localized: Seau canard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461770
+    m_Localized: "D\xE9tecteur de point d\u2019extraction"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461771
+    m_Localized: "Grenades scotch\xE9es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461772
+    m_Localized: Grenade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461773
+    m_Localized: Grenade humaine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461774
+    m_Localized: "Grenade \xE0 onde de choc"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461775
+    m_Localized: "Grenade \xE9tourdissante"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461776
+    m_Localized: "Arme \xE0 feu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461777
+    m_Localized: "Blaster \xE0 photons"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461778
+    m_Localized: "Pistolet \xE0 impulsions"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461779
+    m_Localized: "Fusil \xE0 pompe"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461780
+    m_Localized: "Arbal\xE8te \xE9tourdissante"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461781
+    m_Localized: Fusil tranquillisant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461782
+    m_Localized: Grand kit de soin (100)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461783
+    m_Localized: Kit de soin moyen (50)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461784
+    m_Localized: Petit kit de soin (25)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461785
+    m_Localized: Souffleur de feuilles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461786
+    m_Localized: Batte de baseball
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461787
+    m_Localized: "Po\xEAle \xE0 frire"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461788
+    m_Localized: Marteau gonflable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461789
+    m_Localized: Masse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461790
+    m_Localized: "\xC9lectrocuteur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461791
+    m_Localized: "\xC9p\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461792
+    m_Localized: Mine explosive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461793
+    m_Localized: "Mine \xE0 onde de choc"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461794
+    m_Localized: "Pi\xE8ge \xE9tourdissant"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461801
+    m_Localized: "Orbe z\xE9ro gravit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461802
+    m_Localized: Pont portable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461803
+    m_Localized: "Cristal d\u2019\xE9nergie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461804
+    m_Localized: "D\xE9fibrillateur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461805
+    m_Localized: Canard en caoutchouc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461806
+    m_Localized: "B\xE2ton pivotant"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461807
+    m_Localized: "B\xE2ton \xE0 vortex"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461808
+    m_Localized: "B\xE2ton z\xE9ro gravit\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461809
+    m_Localized: "Am\xE9lioration\_\u2013\_Batterie de t\xEAte flottante"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461810
+    m_Localized: "Am\xE9lioration\_\u2013\_Compteur de joueurs sur la carte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461811
+    m_Localized: "Am\xE9lioration\_\u2013\_Repos en position accroupie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461812
+    m_Localized: "Am\xE9lioration\_\u2013\_\xC9nergie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461813
+    m_Localized: "Am\xE9lioration\_\u2013\_Saut suppl\xE9mentaire"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461814
+    m_Localized: "Am\xE9lioration\_\u2013\_Port\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461815
+    m_Localized: "Am\xE9lioration\_\u2013\_Force"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461816
+    m_Localized: "Am\xE9lioration\_\u2013\_Sant\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461817
+    m_Localized: "Am\xE9lioration\_\u2013\_Vitesse de sprint"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461818
+    m_Localized: "Am\xE9lioration\_\u2013\_Escalade acrobatique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461819
+    m_Localized: "Am\xE9lioration\_\u2013\_Saut acrobatique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461820
+    m_Localized: "Am\xE9lioration\_\u2013\_Vol acrobatique"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461821
+    m_Localized: "D\xE9tecteur d\u2019objets de valeur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461822
+    m_Localized: Transporteur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461823
+    m_Localized: "\xC9claireur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461824
+    m_Localized: Talkie-walkie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26094195849461825
+    m_Localized: Talkie-walkies
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26109748462911488
+    m_Localized: Niveau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26108414590353408
+    m_Localized: "Am\xE9liorations"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386432
+    m_Localized: Repos accroupi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386433
+    m_Localized: "Batterie de t\xEAte flottante"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386434
+    m_Localized: "Saut suppl\xE9mentaire"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386435
+    m_Localized: "Sant\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386436
+    m_Localized: Saut acrobatique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386437
+    m_Localized: Compteur de joueurs sur la carte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386438
+    m_Localized: "Port\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386439
+    m_Localized: Vitesse de sprint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386440
+    m_Localized: "\xC9nergie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386441
+    m_Localized: Force
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386442
+    m_Localized: Escalade acrobatique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26173625242386443
+    m_Localized: Vol acrobatique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244123594752
+    m_Localized: Animal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760576
+    m_Localized: "Cr\xE2ne explosif"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760577
+    m_Localized: Clown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760578
+    m_Localized: "M\xF4me endimanch\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760579
+    m_Localized: Nettoyeur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760580
+    m_Localized: "N\u0153ud pap\u2019"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760581
+    m_Localized: Mouchard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760582
+    m_Localized: "Superpr\xE9dateur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760583
+    m_Localized: Elsa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244148760584
+    m_Localized: Mentaliste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954880
+    m_Localized: Gnome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954881
+    m_Localized: Directeur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954882
+    m_Localized: "Mangeur de t\xEAte"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954883
+    m_Localized: "C\u0153ur carnivore"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954884
+    m_Localized: Invisible
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954885
+    m_Localized: Chasseur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954886
+    m_Localized: Reluqueur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954887
+    m_Localized: Veuve
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954888
+    m_Localized: Faucheuse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954889
+    m_Localized: "\xC9chalas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954890
+    m_Localized: Cracheur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954891
+    m_Localized: "Tra\xEEnard"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954892
+    m_Localized: Roulette
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954893
+    m_Localized: Enfant-ombre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954894
+    m_Localized: Tique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954895
+    m_Localized: Bella
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954896
+    m_Localized: Chef
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954897
+    m_Localized: Hurleur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26516244152954898
+    m_Localized: Marmot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 56998176310747136
+    m_Localized: Poney
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567563980800
+    m_Localized: "Vainqueur des perdants\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175104
+    m_Localized: "Tous des perdants\_!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175105
+    m_Localized: "Il n\u2019en restera qu\u2019un"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26602567568175106
+    m_Localized: Fin de partie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26610272068415488
+    m_Localized: "Bons pour la casse\_:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37110069994258432
+    m_Localized: "Chat\_:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37111979069472768
+    m_Localized: 'Appuyer sur [interact]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086219382784
+    m_Localized: Signal perdu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509706196234240
+    m_Localized: "Liste d\u2019articles"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59509086252937217
+    m_Localized: Vide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915759992832
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 2515126557588324457
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 26547416404832256

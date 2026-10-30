@@ -1,0 +1,1683 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Menu_es-419
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: es-419
+  m_SharedData: {fileID: 11400000, guid: 6578110d0d7f6fd47b65a5fbe8aef088, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 2515126557588324492
+  m_TableData:
+  - m_Id: 33712689940168712
+    m_Localized: "Tu versi\xF3n: {versionSelf}\nVersi\xF3n de la sala: {version}"
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324492
+  - m_Id: 53350507566661632
+    m_Localized: "\xBFEn verdad quieres unirte?\n{lobbyName}"
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324492
+  - m_Id: 5801515992834048
+    m_Localized: '{players:list:{}|,   |   y   }'
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324492
+  - m_Id: 33437954593423360
+    m_Localized: Solo puedes tener {limit} partidas guardadas a la vez. Si quieres
+      crear una nueva, debes eliminar alguna de las que tienes.
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324492
+  - m_Id: 23207164712574976
+    m_Localized: '{ping} ms'
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324492
+  - m_Id: 23197572767145984
+    m_Localized: '{ping} ms'
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324492
+  - m_Id: 30862829524254720
+    m_Localized: Nivel {number}
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324492
+  - m_Id: 62270994624512
+    m_Localized: Partida privada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790336
+    m_Localized: "Partida p\xFAblica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790337
+    m_Localized: Unirse a amistad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790338
+    m_Localized: Un solo jugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790339
+    m_Localized: Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21739271462313984
+    m_Localized: "Personalizaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790340
+    m_Localized: Ajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 62271019790341
+    m_Localized: Salir del juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728038916096
+    m_Localized: Organizar partida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887616
+    m_Localized: "Lo ideal es que la partida la organice quien tenga la mejor computadora.\n\n\xBFEres
+      t\xFA?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887617
+    m_Localized: "\xA1Por supuesto! :)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887618
+    m_Localized: Creo que no :(
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887619
+    m_Localized: Aviso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887620
+    m_Localized: "Si juegas con gente desconocida, podr\xEDas encontrarte con personas
+      tramposas o groseras."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887621
+    m_Localized: Comprendo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754728059887622
+    m_Localized: No, gracias :(
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170002669568
+    m_Localized: Salir del juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029696
+    m_Localized: "\xBFCerrar toda la aplicaci\xF3n?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029697
+    m_Localized: "S\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029698
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735488
+    m_Localized: "Men\xFA principal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735489
+    m_Localized: "\xBFSalir al men\xFA principal?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735490
+    m_Localized: "S\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21828124860735491
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029699
+    m_Localized: "Autodestrucci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029700
+    m_Localized: "\xBFEn verdad quieres hacerlo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029701
+    m_Localized: "Lleg\xF3 mi final."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029702
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689910808576
+    m_Localized: "Expulsi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168704
+    m_Localized: "El anfitri\xF3n te expuls\xF3."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168705
+    m_Localized: Ay, caramba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168706
+    m_Localized: "Desconexi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390400
+    m_Localized: 'Motivo:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168708
+    m_Localized: "Se trab\xF3 el proceso de carga."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168709
+    m_Localized: "Se desconect\xF3 el anfitri\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33714292684390401
+    m_Localized: Te vetaron de esta sala.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168710
+    m_Localized: Ay, caramba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168711
+    m_Localized: "Versi\xF3n err\xF3nea del juego."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168713
+    m_Localized: Ay, caramba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168714
+    m_Localized: Sala cerrada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168715
+    m_Localized: "Se cerr\xF3 la sala."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33712689940168716
+    m_Localized: Ay, caramba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507528912896
+    m_Localized: Unirse a servidor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661633
+    m_Localized: "\xA1Sip!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53350507566661634
+    m_Localized: "\xA1Nop!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235048194048
+    m_Localized: "Men\xFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554176
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554177
+    m_Localized: "Personalizaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554178
+    m_Localized: Ajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554179
+    m_Localized: "Autodestrucci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554180
+    m_Localized: Lunas activas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554181
+    m_Localized: "Men\xFA principal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21825235077554182
+    m_Localized: Salir del juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118074785792
+    m_Localized: Lunas activas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757312
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757313
+    m_Localized: Luna creciente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757314
+    m_Localized: "El sanador del cami\xF3n ahora restaura 35 de vida."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757315
+    m_Localized: "Ahora es m\xE1s dif\xEDcil derribar monstruos con objetos valiosos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757316
+    m_Localized: Media luna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757317
+    m_Localized: Los monstruos ahora sobrecargan tu mecanismo de agarre.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757318
+    m_Localized: "Los monstruos reciben mucho da\xF1o al caer en fosas, pero pueden
+      sobrevivir."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757319
+    m_Localized: "El sanador del cami\xF3n ahora restaura 25 de vida."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757320
+    m_Localized: Luna llena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757321
+    m_Localized: Los monstruos pueden sobrecargar tu mecanismo de agarre para un
+      total del 25%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757322
+    m_Localized: "Los monstruos reciben menos da\xF1o al caer en fosas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757323
+    m_Localized: Superluna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757324
+    m_Localized: Los orbes enemigos explotan cuando se destruyen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757325
+    m_Localized: Los monstruos pueden sobrecargar tu mecanismo de agarre para un
+      total del 50%.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22911118095757326
+    m_Localized: "Los monstruos reciben a\xFAn menos da\xF1o al caer en fosas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029706
+    m_Localized: < Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029707
+    m_Localized: Nueva partida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029708
+    m_Localized: Modo de un jugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029709
+    m_Localized: Modo multijugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029710
+    m_Localized: Partidas guardadas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029711
+    m_Localized: Partidas guardadas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029712
+    m_Localized: "Aqu\xED sigue toda la diversi\xF3n que ya disfrutaste, junto con
+      la oportunidad de continuar desde donde te quedaste."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029713
+    m_Localized: Borrar partida guardada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029714
+    m_Localized: Cargar partida guardada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029715
+    m_Localized: Usar respaldo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10257803930230784
+    m_Localized: (Haz clic para cambiar de nombre)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7715786482245632
+    m_Localized: Partida guardada corrompida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4093170032029717
+    m_Localized: 'Luna actual:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549056
+    m_Localized: 'Dinero total:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549057
+    m_Localized: "\xA1Disculpa!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5450952597549058
+    m_Localized: "Presiona \"Borrar partida guardada\" para eliminar \ntoda la carpeta
+      de partidas guardadas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33065608682569728
+    m_Localized: "\xA1Lo hiciste por tu cuenta!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7730571982659584
+    m_Localized: "\xA1Ay, no!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7730572012019712
+    m_Localized: Partida guardada corrompida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179729825792
+    m_Localized: Cambiar nombre de partida guardada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179754991616
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8038179754991617
+    m_Localized: Confirmar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296960
+    m_Localized: Nueva partida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296961
+    m_Localized: "\xBFQuieres comenzar una partida?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296962
+    m_Localized: "\xA1S\xED!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15667952224296963
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954568257536
+    m_Localized: "Se alcanz\xF3 el l\xEDmite de partidas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33437954593423361
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853696
+    m_Localized: Cargar partida guardada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853697
+    m_Localized: "\xBFCargar esta partida?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853698
+    m_Localized: "\xA1S\xED!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853699
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853700
+    m_Localized: Borrar partida guardada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853701
+    m_Localized: "\xBFEN VERDAD quieres eliminar esta partida guardada PARA SIEMPRE?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853702
+    m_Localized: "\xA1S\xED! :')"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853703
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853704
+    m_Localized: Restaurar desde respaldo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853705
+    m_Localized: "\xBFQuieres sobrescribir esta partida con el respaldo m\xE1s reciente?\n\n\xA1Esto
+      no se puede revertir!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853706
+    m_Localized: "\xA1S\xED!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853707
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853708
+    m_Localized: Regiones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853709
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853710
+    m_Localized: "Elegir la mejor regi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853711
+    m_Localized: Asia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853712
+    m_Localized: Australia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853713
+    m_Localized: "Canad\xE1 (este)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853714
+    m_Localized: China continental
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853715
+    m_Localized: Europa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853716
+    m_Localized: Hong Kong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853717
+    m_Localized: India
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853718
+    m_Localized: "Jap\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853719
+    m_Localized: "Sud\xE1frica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853720
+    m_Localized: "Am\xE9rica del Sur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853721
+    m_Localized: Corea del Sur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853722
+    m_Localized: "Turqu\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853723
+    m_Localized: "Emiratos \xC1rabes Unidos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853724
+    m_Localized: Estados Unidos (este)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853725
+    m_Localized: Estados Unidos (oeste)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5190661053853726
+    m_Localized: Estados Unidos (sur/centro)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074834644992
+    m_Localized: "Partida p\xFAblica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810816
+    m_Localized: Emparejamiento aleatorio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810817
+    m_Localized: Lista de servidores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810818
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810819
+    m_Localized: Lista de servidores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810820
+    m_Localized: Buscar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810821
+    m_Localized: Crear nuevo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810822
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810823
+    m_Localized: Buscar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810824
+    m_Localized: Confirmar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810825
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810826
+    m_Localized: Crear servidor nuevo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810827
+    m_Localized: Confirmar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33791074859810828
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343564980224
+    m_Localized: Ajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534656
+    m_Localized: Jugabilidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534657
+    m_Localized: "Gr\xE1ficos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534658
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534659
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534660
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534661
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534662
+    m_Localized: "S\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534663
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534664
+    m_Localized: Alternar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534665
+    m_Localized: Mantener
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938048
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938049
+    m_Localized: Muy baja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938050
+    m_Localized: Baja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938051
+    m_Localized: Media
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938052
+    m_Localized: Predeterminada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938053
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938054
+    m_Localized: "M\xEDnima"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938055
+    m_Localized: Completa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938056
+    m_Localized: En ventana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938057
+    m_Localized: Pantalla completa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938058
+    m_Localized: "Sin l\xEDmite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938059
+    m_Localized: Muy baja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938060
+    m_Localized: Baja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938061
+    m_Localized: Media
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938062
+    m_Localized: Alta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938063
+    m_Localized: Muy alta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938064
+    m_Localized: Muy baja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938065
+    m_Localized: Baja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938066
+    m_Localized: Media
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938067
+    m_Localized: Alta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938068
+    m_Localized: Muy alta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938069
+    m_Localized: Muy baja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938070
+    m_Localized: Baja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938071
+    m_Localized: Media
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938072
+    m_Localized: Alta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938073
+    m_Localized: Muy alta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938074
+    m_Localized: "Peque\xF1o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938075
+    m_Localized: Mediano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938076
+    m_Localized: Predeterminado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10978902791938077
+    m_Localized: Ninguna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534674
+    m_Localized: Jugabilidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534675
+    m_Localized: Restablecer a ajustes predeterminados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605050462208
+    m_Localized: Restablecer ajustes de jugabilidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822336
+    m_Localized: "\xBFRestablecer los ajustes de jugabilidad a sus valores predeterminados?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822337
+    m_Localized: "\xA1S\xED!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822338
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534676
+    m_Localized: Consejos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534677
+    m_Localized: Nombres de jugadores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534678
+    m_Localized: Fotosensibilidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534679
+    m_Localized: Aracnofobia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534680
+    m_Localized: Sensibilidad de apuntado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534681
+    m_Localized: "Suavizado de c\xE1mara"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534682
+    m_Localized: "Oscilaci\xF3n de c\xE1mara"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534683
+    m_Localized: "Ruido de c\xE1mara"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534684
+    m_Localized: "Animaci\xF3n de c\xE1mara"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36617102426701824
+    m_Localized: Invertir apuntado vertical
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534686
+    m_Localized: "Retirar objeto en autom\xE1tico al mantener presionado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534687
+    m_Localized: Presencia enriquecida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534688
+    m_Localized: "Est\xE9ticos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822339
+    m_Localized: "Gr\xE1ficos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534689
+    m_Localized: Restablecer a ajustes predeterminados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822340
+    m_Localized: "Restablecer ajustes gr\xE1ficos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822341
+    m_Localized: "\xBFRestablecer los ajustes gr\xE1ficos a sus valores predeterminados?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822342
+    m_Localized: "\xA1S\xED!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11624605079822343
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534690
+    m_Localized: Modo ventana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534691
+    m_Localized: "Sincronizaci\xF3n vertical"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534692
+    m_Localized: Gamma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534693
+    m_Localized: "FPS m\xE1x."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534694
+    m_Localized: Distancia de luz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534695
+    m_Localized: Calidad de sombras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534696
+    m_Localized: Distancia de sombras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534697
+    m_Localized: Desenfoque de movimiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534698
+    m_Localized: "Distorsi\xF3n de lente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534699
+    m_Localized: Bloom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534700
+    m_Localized: "Aberraci\xF3n crom\xE1tica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534701
+    m_Localized: Granulado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534702
+    m_Localized: "Distorsi\xF3n VHS"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534703
+    m_Localized: Pixelado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54361496021958656
+    m_Localized: Calidad de reflejo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534704
+    m_Localized: Audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534705
+    m_Localized: Restablecer a ajustes predeterminados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723968
+    m_Localized: Restablecer ajustes de audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723969
+    m_Localized: "\xBFRestablecer ajustes de audio a sus valores predeterminados?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723970
+    m_Localized: "\xA1S\xED!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723971
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534706
+    m_Localized: Volumen principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534707
+    m_Localized: "Volumen de m\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10942035694444544
+    m_Localized: Volumen de efectos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534709
+    m_Localized: Volumen de proximidad de voz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10942035694444545
+    m_Localized: Volumen de texto a voz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534711
+    m_Localized: "Micr\xF3fono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534712
+    m_Localized: "Volumen de micr\xF3fono"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534713
+    m_Localized: Presionar para hablar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534714
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534715
+    m_Localized: Restablecer a ajustes predeterminados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723972
+    m_Localized: Restablecer ajustes de controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723973
+    m_Localized: "\xBFRestablecer los ajustes de controles a sus valores predeterminados?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723974
+    m_Localized: "\xA1S\xED!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11669347536723975
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53646107088584704
+    m_Localized: "Presiona un bot\xF3n nuevo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534716
+    m_Localized: Movimiento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534717
+    m_Localized: 'Movimiento: adelante'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534718
+    m_Localized: 'Movimiento: izquierda'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534719
+    m_Localized: "Movimiento: atr\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534720
+    m_Localized: 'Movimiento: derecha'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534721
+    m_Localized: Saltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534722
+    m_Localized: Agacharse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534723
+    m_Localized: Correr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534724
+    m_Localized: Bola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534725
+    m_Localized: Sujetar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534726
+    m_Localized: Sujetar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534727
+    m_Localized: Girar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534728
+    m_Localized: Empujar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534729
+    m_Localized: Tirar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534730
+    m_Localized: Otro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534731
+    m_Localized: Mapa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534732
+    m_Localized: Interactuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534733
+    m_Localized: Inventario 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534734
+    m_Localized: Inventario 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534735
+    m_Localized: Inventario 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534736
+    m_Localized: Chat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534737
+    m_Localized: Confirmar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534738
+    m_Localized: Volver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534739
+    m_Localized: "Men\xFA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534740
+    m_Localized: Observar (siguiente)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534741
+    m_Localized: Observar (anterior)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534742
+    m_Localized: Presionar para hablar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534743
+    m_Localized: Alternar silencio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534744
+    m_Localized: Expresiones de jugadores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145570844672
+    m_Localized: Enojo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593408
+    m_Localized: Tristeza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593409
+    m_Localized: Sospecha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593410
+    m_Localized: Ojos cerrados
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593411
+    m_Localized: Miedo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10625145608593412
+    m_Localized: Felicidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534751
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534752
+    m_Localized: Preajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534753
+    m_Localized: Cabeza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534754
+    m_Localized: Brazos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534755
+    m_Localized: Cuerpo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534756
+    m_Localized: Piernas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534757
+    m_Localized: Confirmar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534758
+    m_Localized: Elegir color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534759
+    m_Localized: Confirmar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534760
+    m_Localized: Eliminar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534761
+    m_Localized: Sombrero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534762
+    m_Localized: Prenda de brazo (derecho)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534763
+    m_Localized: Prenda de brazo (izquierdo)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534764
+    m_Localized: Prenda de pierna (derecha)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534765
+    m_Localized: Prenda de pierna (izquierda)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534766
+    m_Localized: Cabeza (superior)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534767
+    m_Localized: Cabeza (inferior)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534768
+    m_Localized: Cuerpo (superior)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534769
+    m_Localized: Cuerpo (inferior)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534770
+    m_Localized: Brazo (derecho)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534771
+    m_Localized: Brazo (izquierdo)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534772
+    m_Localized: Pierna (derecha)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534773
+    m_Localized: Pierna (izquierda)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534774
+    m_Localized: Mecanismo de agarre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343598534775
+    m_Localized: "P\xE1rpado (derecho)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728960
+    m_Localized: "P\xE1rpado (izquierdo)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21470840070594560
+    m_Localized: Cara (superior)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21470840091566080
+    m_Localized: Cara (centro)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728962
+    m_Localized: Orejas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728963
+    m_Localized: Anteojos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15231403103870976
+    m_Localized: Calzado (derecho)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728965
+    m_Localized: Prenda para cuerpo (superior)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728966
+    m_Localized: Prenda para cuerpo (inferior)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15231403133231104
+    m_Localized: Calzado (izquierdo)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728969
+    m_Localized: "Superposici\xF3n cabeza (superior)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728970
+    m_Localized: "Superposici\xF3n cabeza (inferior)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728961
+    m_Localized: "Superposici\xF3n cuerpo (superior)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728968
+    m_Localized: "Superposici\xF3n cuerpo (inferior)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008624496640
+    m_Localized: "Superposici\xF3n brazo (derecho)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468160
+    m_Localized: "Superposici\xF3n brazo (izquierdo)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468161
+    m_Localized: "Superposici\xF3n pierna (derecha)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15240008645468162
+    m_Localized: "Superposici\xF3n pierna (izquierda)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16702161813680128
+    m_Localized: Cara (inferior)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728971
+    m_Localized: Eliminar preajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728972
+    m_Localized: "\xBFEN VERDAD quieres eliminar este preajuste PARA SIEMPRE?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728973
+    m_Localized: "\xA1S\xED! :')"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10581343602728974
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241957765120
+    m_Localized: Restablecer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930944
+    m_Localized: "\xBFEn verdad quieres retirar todas las partes corporales y elementos
+      est\xE9ticos?\n\n\xA1Esto no se puede revertir!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930945
+    m_Localized: "\xA1S\xED! :')"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930946
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930947
+    m_Localized: Restablecer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930948
+    m_Localized: "\xBFEn verdad quieres retirar todas las partes corporales?\n\n\xA1Esto
+      no se puede revertir!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930949
+    m_Localized: "\xA1S\xED! :')"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930950
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930951
+    m_Localized: Restablecer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930952
+    m_Localized: "\xBFEn verdad quieres retirar todos los elementos est\xE9ticos?\n\n\xA1Esto
+      no se puede revertir!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930953
+    m_Localized: "\xA1S\xED! :')"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930954
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930955
+    m_Localized: Aleatorio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930956
+    m_Localized: "\xBFEn verdad quieres establecer todas las partes corporales y
+      elementos est\xE9ticos como aleatorios?\n\n\xA1Esto no se puede revertir!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930957
+    m_Localized: "\xA1S\xED! :')"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930958
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930959
+    m_Localized: Aleatorio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930960
+    m_Localized: "\xBFEn verdad quieres establecer todas las partes corporales como
+      aleatorias?\n\n\xA1Esto no se puede revertir!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930961
+    m_Localized: "\xA1S\xED! :')"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930962
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930963
+    m_Localized: Aleatorio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930964
+    m_Localized: "\xBFEn verdad quieres establecer todos los elementos est\xE9ticos
+      como aleatorios?\n\n\xA1Esto no se puede revertir!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930965
+    m_Localized: "\xA1S\xED! :')"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930966
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835840
+    m_Localized: Cambiar de color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835841
+    m_Localized: "Esto reemplazar\xE1 los colores de todas las partes corporales
+      y elementos est\xE9ticos.\n\n\xA1Esto es irreversible!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835842
+    m_Localized: "\xA1S\xED! :')"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10892493724835843
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930967
+    m_Localized: Cambiar de color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930968
+    m_Localized: "Esto reemplazar\xE1 los colores de todas las partes corporales.\n\n\xA1Esto
+      es irreversible!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930969
+    m_Localized: "\xA1S\xED! :')"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930970
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930971
+    m_Localized: Cambiar de color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930972
+    m_Localized: "Esto reemplazar\xE1 los colores de todos los elementos est\xE9ticos.\n\n\xA1Esto
+      es irreversible!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930973
+    m_Localized: "\xA1S\xED! :')"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17747241982930974
+    m_Localized: No...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15590857783631872
+    m_Localized: "Contrase\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15590857808797696
+    m_Localized: Omitir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15673645669015552
+    m_Localized: Confirmar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116045647872
+    m_Localized: Sala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008000
+    m_Localized: Presiona [chat] para chatear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008001
+    m_Localized: Comenzar partida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16030297698066432
+    m_Localized: "Jugador uni\xE9ndose"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008002
+    m_Localized: Invitar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008003
+    m_Localized: Ajustes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008004
+    m_Localized: "Personalizaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008005
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008006
+    m_Localized: Comenzar partida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008007
+    m_Localized: "\xBFTienen todo listo?\n\nUna vez que comience la partida\nno pueden
+      unirse m\xE1s jugadores."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008008
+    m_Localized: "\xA1S\xED!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008009
+    m_Localized: "\xA1No, espera!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008010
+    m_Localized: Salir de la sala.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008011
+    m_Localized: "\xBFEn verdad?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008012
+    m_Localized: "S\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15661116075008013
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26475650059841536
+    m_Localized: Aviso de fotosensibilidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26475650085007360
+    m_Localized: Este juego contiene luces parpadeantes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26475650085007361
+    m_Localized: "Hay personas que pueden experimentar episodios de epilepsia tras
+      la exposici\xF3n a luces parpadeantes o con dise\xF1os. Si sientes alguna incomodidad
+      mientras juegas, termina tu sesi\xF3n de juego y consulta a un m\xE9dico."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972608
+    m_Localized: Cargando
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972609
+    m_Localized: "\xBFTe quedaste en la pantalla de carga?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15592435403972610
+    m_Localized: "Presiona [back] para salir al men\xFA principal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30862829494894592
+    m_Localized: Tienda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30862829524254721
+    m_Localized: Fin del juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599407521792
+    m_Localized: "Estaci\xF3n de servicio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687616
+    m_Localized: Arena de desechos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687617
+    m_Localized: "Estaci\xF3n McJannek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687618
+    m_Localized: "Mansi\xF3n Cabezota"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687619
+    m_Localized: Museo de arte humano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30857599432687620
+    m_Localized: Academia Escobaveloz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474048
+    m_Localized: Hotel Valle Soleado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 74362528585474049
+    m_Localized: '{hours:conditional:{hours} h |}{minutes:conditional:{minutes} m
+      |}{seconds:conditional:{seconds} s|}'
+    m_Metadata:
+      m_Items:
+      - rid: 2515126557588324492
+  references:
+    version: 2
+    RefIds:
+    - rid: 2515126557588324492
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 33712689940168712
+        - id: 53350507566661632
+        - id: 5801515992834048
+        - id: 33437954593423360
+        - id: 23207164712574976
+        - id: 23197572767145984
+        - id: 30862829524254720
+        - id: 74362528585474049
