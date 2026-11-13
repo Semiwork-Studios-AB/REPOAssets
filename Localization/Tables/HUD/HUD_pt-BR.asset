@@ -361,7 +361,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 23920995436847104
-    m_Localized: (pt-BR) FOCUS
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 25797701263065088
@@ -505,7 +505,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461792
-    m_Localized: (pt-BR) Explosive Mine
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 26094195849461793

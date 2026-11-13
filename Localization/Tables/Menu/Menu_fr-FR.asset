@@ -1670,6 +1670,118 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
       - rid: 2515126557588324488
+  - m_Id: 74362528585474050
+    m_Localized: "Synth\xE8se vocale"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81298091666300928
+    m_Localized: "Utiliser la m\xEAme langue"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856340672512
+    m_Localized: Pousser / Tirer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615552
+    m_Localized: IU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615553
+    m_Localized: Onglet suivant
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615554
+    m_Localized: "Onglet pr\xE9c\xE9dent"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615555
+    m_Localized: Cliquer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87379731429711872
+    m_Localized: "Vitesse de vis\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062029873152
+    m_Localized: "V\xE9hicule"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010496
+    m_Localized: "Acc\xE9l\xE9rer"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010497
+    m_Localized: "Freiner / Marche arri\xE8re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010498
+    m_Localized: "D\xE9raper \xE0 gauche"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010499
+    m_Localized: "D\xE9raper \xE0 droite"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010500
+    m_Localized: "Monter \xE0 bord du v\xE9hicule"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010501
+    m_Localized: Roue des expressions
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269605806080
+    m_Localized: "Contr\xF4le du rayon tracteur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166208
+    m_Localized: Vitesse du rayon tracteur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166209
+    m_Localized: "Contr\xF4le du rayon en m\xEAl\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166210
+    m_Localized: "Vitesse du rayon en m\xEAl\xE9e"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166211
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94776138692288512
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484512382976
+    m_Localized: "Combin\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484554326016
+    m_Localized: "S\xE9par\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338642206720
+    m_Localized: "Mode d\u2019expression"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338684149760
+    m_Localized: Mode Pousser/Tirer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442817417216
+    m_Localized: Droite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442855165952
+    m_Localized: Gauche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93863369772097536
+    m_Localized: Joystick Roue des expressions
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

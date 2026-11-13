@@ -885,7 +885,22 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 84133915759992832
-    m_Localized: 
+    m_Localized: "\uBD99\uC7A1\uC740 \uBB3C\uAC74\uC758 \uAC70\uB9AC\uB97C \uC870\uC808\uD560
+      \uB54C\uB294 [pushPull] \uC4F0\uACE0 [aim] \uC368\uC11C \uC870\uC900\uD574\uC694."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915806130176
+    m_Localized: "[grab] \uC368\uC11C \uBB3C\uCCB4\uB97C \uBD99\uC7A1\uC740 \uCC44,
+      \uC9C4\uD589\uB3C4 \uBC14\uAC00 \uCC30 \uB54C\uAE4C\uC9C0 [pushPull] \uAFB9
+      \uB204\uB974\uACE0 [aim] \uC368\uC11C \uAC70\uB9AC\uB97C \uC870\uC808\uD574\uC694!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128640
+    m_Localized: "\uC778\uAC04 \uCD1D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128641
+    m_Localized: "\uCDA9\uC804 \uAD6C\uCCB4"
     m_Metadata:
       m_Items: []
   references:

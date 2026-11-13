@@ -1,3 +1,17 @@
 ﻿.idea/
 .vscode/
 *.meta
+
+!Localization/**/*.asset.meta
+!Localization/**/*.cs.meta
+Localization/Google Sheets Service.asset
+Localization/Google Sheets Service.asset.meta
+Localization/Tables/*/*.asset
+Localization/Tables/*/*.asset.meta
+!Localization/Tables/*/*_*.asset
+!Localization/Tables/*/*_*.asset.meta
+!Localization/Tables/*/* Shared Data.asset
+!Localization/Tables/*/* Shared Data.asset.meta
+Localization/**/*.cs
+Localization/**/*.prefab
+Localization/**/*.prefab.meta

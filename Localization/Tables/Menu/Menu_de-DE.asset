@@ -1661,7 +1661,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 74362528585474048
-    m_Localized: Resort Tal Sonnenstein
+    m_Localized: Resort-Tal Sonnenstein
     m_Metadata:
       m_Items: []
   - m_Id: 74362528585474049
@@ -1670,6 +1670,118 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
       - rid: 2515126557588324490
+  - m_Id: 74362528585474050
+    m_Localized: Sprache der Text-zu-Sprache-Ausgabe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81298091666300928
+    m_Localized: Sprache angleichen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856340672512
+    m_Localized: Schieben/Ziehen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615552
+    m_Localized: "Nutzeroberfl\xE4che"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615553
+    m_Localized: "N\xE4chster Reiter"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615554
+    m_Localized: Vorheriger Reiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615555
+    m_Localized: Klicken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87379731429711872
+    m_Localized: Zielbeschleunigung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062029873152
+    m_Localized: Fahrzeug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010496
+    m_Localized: Beschleunigen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010497
+    m_Localized: "Bremsen/Zur\xFCcksetzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010498
+    m_Localized: Nach links driften
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010499
+    m_Localized: Nach rechts driften
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010500
+    m_Localized: Aufsitzen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010501
+    m_Localized: Emote-Rad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269605806080
+    m_Localized: Greif-Vorlauf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166208
+    m_Localized: Greif-Vorlauftempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166209
+    m_Localized: Nahkampf-Vorlauf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166210
+    m_Localized: Nahkampf-Vorlauftempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166211
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94776138692288512
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484512382976
+    m_Localized: Kombiniert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484554326016
+    m_Localized: Getrennt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338642206720
+    m_Localized: Emote-Modus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338684149760
+    m_Localized: Schieben-/Ziehen-Modus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442817417216
+    m_Localized: Rechts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442855165952
+    m_Localized: Links
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93863369772097536
+    m_Localized: "Stick f\xFCrs Emote-Rad"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

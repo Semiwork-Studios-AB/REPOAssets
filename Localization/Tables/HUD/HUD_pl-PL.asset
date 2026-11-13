@@ -863,7 +863,22 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 84133915759992832
-    m_Localized: 
+    m_Localized: "U\u017Cyj [pushPull] oraz celowania [aim], aby zmieni\u0107 dystans
+      od trzymanego przedmiotu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915806130176
+    m_Localized: "Podczas trzymania przedmiotu za pomoc\u0105 [grab] przytrzymaj
+      [pushPull], aby zmienia\u0107 dystans za pomoc\u0105 [aim], a\u017C wype\u0142ni
+      si\u0119 pasek post\u0119pu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128640
+    m_Localized: "Ludzka bro\u0144"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128641
+    m_Localized: "Kula \u0142adowania"
     m_Metadata:
       m_Items: []
   references:

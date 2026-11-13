@@ -1723,6 +1723,66 @@ MonoBehaviour:
     m_Localized: Udtrykshjul
     m_Metadata:
       m_Items: []
+  - m_Id: 81298091666300928
+    m_Localized: Samme som sprog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615555
+    m_Localized: Klik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269605806080
+    m_Localized: "Hapsef\xF8ring"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166208
+    m_Localized: "Hapsef\xF8ringshastighed"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166209
+    m_Localized: "N\xE6rkampsv\xE5benhapsef\xF8ring"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166210
+    m_Localized: "N\xE6rkampsv\xE5benhapsef\xF8ringshastighed"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166211
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94776138692288512
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484512382976
+    m_Localized: Kombineret
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484554326016
+    m_Localized: Separat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338642206720
+    m_Localized: Udtrykstilstand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338684149760
+    m_Localized: "Tilstand for skub / tr\xE6k"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442817417216
+    m_Localized: "H\xF8jre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442855165952
+    m_Localized: Venstre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93863369772097536
+    m_Localized: Styrepind til udstrykshjul
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

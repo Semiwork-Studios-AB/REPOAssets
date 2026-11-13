@@ -813,7 +813,19 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 84133915759992832
-    m_Localized: 
+    m_Localized: "[pushPull]\u3068[aim]\u3067\u3001\u63B4\u3093\u3060\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8\u3068\u306E\u8DDD\u96E2\u3092\u8ABF\u6574\u3067\u304D\u308B\u3088\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915806130176
+    m_Localized: "[grab]\u3067\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8\u3092\u63B4\u307F\u3001[pushPull]\u3092\u9577\u62BC\u3057\u3057\u306A\u304C\u3089[aim]\u3067\u8DDD\u96E2\u3092\u8ABF\u6574\u3057\u3066\u3001\u30D7\u30ED\u30B0\u30EC\u30B9\u30D0\u30FC\u3092\u6E80\u305F\u305D\u3046\uFF01"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128640
+    m_Localized: "\u4EBA\u9593\u306E\u9283"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128641
+    m_Localized: "\u30C1\u30E3\u30FC\u30B8\u30AA\u30FC\u30D6"
     m_Metadata:
       m_Items: []
   references:

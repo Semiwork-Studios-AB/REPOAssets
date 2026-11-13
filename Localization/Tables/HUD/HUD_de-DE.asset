@@ -857,7 +857,22 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 84133915759992832
-    m_Localized: 
+    m_Localized: "Nutze [pushPull] und ziele mit [aim], um die Entfernung gegriffener
+      Objekte zu ver\xE4ndern."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915806130176
+    m_Localized: "Halte [pushPull] gedr\xFCckt, w\xE4hrend du ein Objekt mit [grab]
+      greifst, um mit [aim] die Entfernung zu ver\xE4ndern, bis der Fortschrittsbalken
+      voll ist!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128640
+    m_Localized: Menschenknarre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128641
+    m_Localized: Ladekugel
     m_Metadata:
       m_Items: []
   references:

@@ -69,8 +69,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887620
-    m_Localized: (pt-BR) While playing with random players you may come across cheaters
-      or really mean people...
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 754728059887621
@@ -381,7 +380,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534665
-    m_Localized: (pt-BR) Hold
+    m_Localized: 
     m_Metadata:
       m_Items: []
   - m_Id: 10581343598534674

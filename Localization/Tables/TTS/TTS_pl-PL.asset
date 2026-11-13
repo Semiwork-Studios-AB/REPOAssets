@@ -16,8 +16,612 @@ MonoBehaviour:
     m_Code: pl-PL
   m_SharedData: {fileID: 11400000, guid: bc4b19486e3f94d4a9fd44e4d2661ea1, type: 2}
   m_Metadata:
-    m_Items: []
-  m_TableData: []
+    m_Items:
+    - rid: 278565723208155232
+  m_TableData:
+  - m_Id: 2168907096064
+    m_Localized: "mam ju\u017C do\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816320
+    m_Localized: "\u017Begnajcie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816321
+    m_Localized: Adie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816322
+    m_Localized: Sajonara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816323
+    m_Localized: Aufidersyjn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816324
+    m_Localized: Adios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816325
+    m_Localized: Ciao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816326
+    m_Localized: "O rew\u0142a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816327
+    m_Localized: Asta la vista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816328
+    m_Localized: Do zobaczenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816329
+    m_Localized: Nara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816330
+    m_Localized: Siemano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816331
+    m_Localized: Siema nara pa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816332
+    m_Localized: nara kopara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816333
+    m_Localized: papatki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816334
+    m_Localized: pa pa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816335
+    m_Localized: pa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816336
+    m_Localized: AAAAAAAAAAAACH!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816337
+    m_Localized: AAAAAAAAAAAAAAAAAAAAAAACH!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816338
+    m_Localized: "pa\u2026 \u2026a?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816339
+    m_Localized: To zaboli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816340
+    m_Localized: "To ju\u017C m\xF3j koniec"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816341
+    m_Localized: dlaczego ja?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816342
+    m_Localized: Przepraszam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816343
+    m_Localized: "widz\u0119 \u015Bwiate\u0142ko"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816344
+    m_Localized: przykre, ale konieczne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816345
+    m_Localized: "HEJ D\xC5!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816346
+    m_Localized: AUTODESTRUKCJA ANULOWANA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816347
+    m_Localized: "Zostawili\u015Bcie mnie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816348
+    m_Localized: Zostawili mnie.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816349
+    m_Localized: "Moja dru\u017Cyna mnie zdradzi\u0142a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816350
+    m_Localized: Wszyscy o mnie zapomnieli.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816351
+    m_Localized: Przyjaciele zgotowali mi ten los.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816352
+    m_Localized: "Ekipa mnie opu\u015Bci\u0142a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816353
+    m_Localized: "Grupa mnie porzuci\u0142a."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816354
+    m_Localized: "Wszyscy si\u0119 mnie wyrzekli."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816355
+    m_Localized: Zdradzili moje zaufanie.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816356
+    m_Localized: "Moi towarzysze mnie opu\u015Bcili."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816357
+    m_Localized: Nie wiem, gdzie jestem.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816358
+    m_Localized: Dlaczego nie zaczekali?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816359
+    m_Localized: "Co posz\u0142o nie tak?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816360
+    m_Localized: "Nie mog\u0119 w to uwierzy\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816361
+    m_Localized: Jak mogli?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816362
+    m_Localized: "To si\u0119 nie dzieje."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816363
+    m_Localized: "I ju\u017C nikogo nie ma."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816364
+    m_Localized: "Byli moj\u0105 jedyn\u0105 nadziej\u0105."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816365
+    m_Localized: "Mo\u017Cna by\u0142o si\u0119 domy\u015Bli\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816366
+    m_Localized: To niesprawiedliwe.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816367
+    m_Localized: "Zostawili mnie na pastw\u0119 losu\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816368
+    m_Localized: "Zostawili mnie w samotno\u015Bci..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816369
+    m_Localized: "Zostawili mnie w ciemno\u015Bci..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816370
+    m_Localized: "Odeszli bez s\u0142owa..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816371
+    m_Localized: "Zostawili mnie bez ostrze\u017Cenia..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816372
+    m_Localized: "Zostawili mnie bez zaj\u0105kni\u0119cia..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816373
+    m_Localized: Zdradzili mnie i nawet nie spojrzeli wstecz...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816374
+    m_Localized: "Zapomnieli o mnie bez \u017Calu..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816375
+    m_Localized: "A teraz porzucili mnie ci, kt\xF3rym ufam."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816376
+    m_Localized: A teraz moi towarzysze mnie porzucili.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816377
+    m_Localized: "Musz\u0119 wr\xF3ci\u0107 do ci\u0119\u017Car\xF3wki za..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816378
+    m_Localized: Zdrada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816379
+    m_Localized: "Wykryto zdrad\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816380
+    m_Localized: Przepraszam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816381
+    m_Localized: "Nie uda\u0142o mi si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816382
+    m_Localized: "Tylko nie zn\xF3w to"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816383
+    m_Localized: "W kupie si\u0142a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816384
+    m_Localized: "Wydawa\u0142o mi si\u0119, \u017Ce jeste\u015Bmy przyjaci\xF3\u0142mi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816385
+    m_Localized: "Wydawa\u0142o mi si\u0119, \u017Ce jeste\u015Bmy dru\u017Cyn\u0105"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816386
+    m_Localized: "Wydawa\u0142o mi si\u0119, \u017Ce jeste\u015Bmy w tym razem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816387
+    m_Localized: "Wydawa\u0142o mi si\u0119, \u017Ce jeste\u015Bmy rodzin\u0105"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816388
+    m_Localized: "{playerName} sprawia, \u017Ce moje serce robi BIP BOP."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816389
+    m_Localized: "Bankrutuj\u0119 za ka\u017Cdym razem, gdy widz\u0119 robota {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816390
+    m_Localized: "Chc\u0119 si\u0119 przejecha\u0107 W.Z.K. tylko z robotem {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816391
+    m_Localized: Wiecie, kto jest super-mega-robouroczy? To {playerName}.
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816392
+    m_Localized: "{playerName} to m\xF3j ulubiony czarodziej."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816393
+    m_Localized: "Tak bardzo chc\u0119 by\u0107 z robotem {playerName}!"
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816394
+    m_Localized: "My\u015Blenie o robocie {playerName} sprawia, \u017Ce sterowniki
+      mi si\u0119 same aktualizuj\u0105."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816395
+    m_Localized: "{playerName}, sprawiasz, \u017Ce robi\u0119 gaga ding dong."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816396
+    m_Localized: "Nie mog\u0119 si\u0119 doczeka\u0107, \u017Ceby zadowoli\u0107
+      Poborc\u0119 podatkowego razem z robotem {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816397
+    m_Localized: "Chc\u0119 wyjecha\u0107 w Bieszczady z robotem {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816398
+    m_Localized: "Chyba co\u015B roboczuj\u0119 do robota {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816399
+    m_Localized: "{playerName} ma najbardziej ustatkowany finansowo u\u015Bmiech."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816400
+    m_Localized: "{playerName} jest jak sen z najnowsz\u0105 aktualizacj\u0105."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816401
+    m_Localized: "Za ka\u017Cdym razem, gdy widz\u0119 robota {playerName}, w \u015Brodku
+      robota\u0144cz\u0119."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816402
+    m_Localized: "{playerName} to m\xF3j ulubiony b\u0142azen."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816403
+    m_Localized: "Nie mog\u0119 si\u0119 doczeka\u0107, \u017Ceby zn\xF3w porobo\u0142askota\u0107
+      robota {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816404
+    m_Localized: "{playerName}, robisz mi dzie\u0144!"
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816405
+    m_Localized: Moje serce robi STUKU PUKU na widok robota {playerName}.
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816406
+    m_Localized: "Chc\u0119 si\u0119 podzieli\u0107 tajemnicami z robotem {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816407
+    m_Localized: "Przez robota {playerName} nie mog\u0119 przesta\u0107 si\u0119
+      u\u015Bmiecha\u0107."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155232
+  - m_Id: 2168965816408
+    m_Localized: Ta mikstura jest po prostu robostyczna.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816409
+    m_Localized: "Tak bardzo uwielbiam t\u0119 mikstur\u0119!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816410
+    m_Localized: "My\u015Blenie o tej miksturze sprawia, \u017Ce robi\u0119 bip bop."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816411
+    m_Localized: "Ta mikstura skrad\u0142a mi serce."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816412
+    m_Localized: "Za ka\u017Cdym razem, gdy widz\u0119 t\u0119 mikstur\u0119, wyznaj\u0119
+      mi\u0142o\u015B\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816413
+    m_Localized: "Ta mikstura sprawia, \u017Ce m\xF3j dzie\u0144 jest super mega\u015Bny."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816414
+    m_Localized: "Chyba mam s\u0142abo\u015B\u0107 do tej mikstury."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816415
+    m_Localized: "\u017Bycie z t\u0105 mikstur\u0105 jest wspania\u0142e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816416
+    m_Localized: "Ta mikstura sprawia, \u017Ce moje serce si\u0119 uruchamia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816417
+    m_Localized: "Samo my\u015Blenie o tej miksturze daje mi rado\u015B\u0107."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816418
+    m_Localized: "Au\u0107! Au\u0107! Au\u0107!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816419
+    m_Localized: Oj! Oj! Oj!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816420
+    m_Localized: Aj! Aj! Aj!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816421
+    m_Localized: "Auci! Auciu! A\u0142atki!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816422
+    m_Localized: "A\u0142a! A\u0142a! A\u0142a!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816423
+    m_Localized: "b\u0142\u0105d b\u0142\u0105d b\u0142\u0105d"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816424
+    m_Localized: "b\u0142\u0105d systemu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816425
+    m_Localized: "b\u0142\u0105d krytyczny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816426
+    m_Localized: "b\u0142\u0105d 404"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816427
+    m_Localized: "b\u0142\u0105d czasu wykonywania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816428
+    m_Localized: spadam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816429
+    m_Localized: padam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816430
+    m_Localized: ooooooooch!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816431
+    m_Localized: o nieeeee!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816432
+    m_Localized: AAAAAACH! AACH!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816433
+    m_Localized: AAAAAAAAAAAAAACH!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816434
+    m_Localized: AAAAAAAAAAAAAAAAAAAAAAAAAAACH!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816435
+    m_Localized: OCH! OCH! OCH!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816436
+    m_Localized: ACH! ACH! ACH!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816437
+    m_Localized: trzy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816438
+    m_Localized: dwa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816439
+    m_Localized: jeden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816440
+    m_Localized: "mo\u017Cna si\u0119 rusza\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816441
+    m_Localized: "ta\u0144czy\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816442
+    m_Localized: "biega\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816443
+    m_Localized: "wygina\u0107 \u015Bmia\u0142o cia\u0142o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816444
+    m_Localized: "rusza\u0107 si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816445
+    m_Localized: szybciej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816446
+    m_Localized: "kr\u0119\u0107 si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816447
+    m_Localized: dalej, dalej, dalej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816448
+    m_Localized: zabaw mnie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816449
+    m_Localized: "wier\u0107 si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816450
+    m_Localized: stop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816451
+    m_Localized: "nie rusza\u0107 si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816452
+    m_Localized: "sta\u0107 w miejscu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816453
+    m_Localized: bez ruchu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816454
+    m_Localized: "nie porusza\u0107 si\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816455
+    m_Localized: ani kroku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816456
+    m_Localized: "sta\u0107"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 278565723208155232
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 2168965816388
+        - id: 2168965816389
+        - id: 2168965816390
+        - id: 2168965816391
+        - id: 2168965816392
+        - id: 2168965816393
+        - id: 2168965816394
+        - id: 2168965816395
+        - id: 2168965816396
+        - id: 2168965816397
+        - id: 2168965816398
+        - id: 2168965816399
+        - id: 2168965816400
+        - id: 2168965816401
+        - id: 2168965816402
+        - id: 2168965816403
+        - id: 2168965816404
+        - id: 2168965816405
+        - id: 2168965816406
+        - id: 2168965816407

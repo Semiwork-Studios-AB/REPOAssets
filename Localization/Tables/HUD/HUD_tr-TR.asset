@@ -869,7 +869,22 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 84133915759992832
-    m_Localized: 
+    m_Localized: "Tutulan nesneleri kendine yakla\u015Ft\u0131r\u0131p uzakla\u015Ft\u0131rmak
+      i\xE7in [pushPull] tu\u015Funa bas ve [aim] ile ni\u015Fan al."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915806130176
+    m_Localized: "[grab] ile nesneleri tutarken [pushPull] tu\u015Funu bas\u0131l\u0131
+      tutarak [aim] ile ilerleme bar\u0131 dolana kadar kendine yakla\u015Ft\u0131r\u0131p
+      uzakla\u015Ft\u0131r."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128640
+    m_Localized: "\u0130nsan T\xFCfe\u011Fi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128641
+    m_Localized: "\u015Earj K\xFCresi"
     m_Metadata:
       m_Items: []
   references:

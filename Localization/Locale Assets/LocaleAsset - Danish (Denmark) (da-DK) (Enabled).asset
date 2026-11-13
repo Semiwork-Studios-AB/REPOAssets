@@ -16,3 +16,4 @@ MonoBehaviour:
   RightToLeft: 0
   Enabled: 1
   LocaleReference: {fileID: 11400000, guid: 206f25f83a706ec4881f9410d9e93931, type: 2}
+  CanSetOnLoad: 1

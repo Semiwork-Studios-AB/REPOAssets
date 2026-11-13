@@ -850,7 +850,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 84133915759992832
-    m_Localized: 
+    m_Localized: Usa [pushPull] y apuntar [aim] para cambiar la distancia de los
+      objetos que agarres.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915806130176
+    m_Localized: "Cuando sujetes un objeto con [grab], mant\xE9n presionado [pushPull]
+      para cambiar la distancia con [aim] hasta llenar la barra de progreso."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128640
+    m_Localized: Arma humana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128641
+    m_Localized: Orbe de carga
     m_Metadata:
       m_Items: []
   references:

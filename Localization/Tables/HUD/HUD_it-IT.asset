@@ -845,7 +845,21 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 84133915759992832
-    m_Localized: 
+    m_Localized: Usa [pushPull] e mira [aim] per modificare la distanza degli oggetti
+      afferrati.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84133915806130176
+    m_Localized: Mentre afferri un oggetto con [grab], tieni premuto [pushPull] e
+      modifica la distanza con [aim] fino a riempire la barra dei progressi!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128640
+    m_Localized: Pistola umana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87698885110128641
+    m_Localized: Sfera di ricarica
     m_Metadata:
       m_Items: []
   references:
