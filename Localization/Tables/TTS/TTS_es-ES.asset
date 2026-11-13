@@ -16,8 +16,607 @@ MonoBehaviour:
     m_Code: es-ES
   m_SharedData: {fileID: 11400000, guid: bc4b19486e3f94d4a9fd44e4d2661ea1, type: 2}
   m_Metadata:
-    m_Items: []
-  m_TableData: []
+    m_Items:
+    - rid: 278565723208155229
+  m_TableData:
+  - m_Id: 2168907096064
+    m_Localized: Me voy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816320
+    m_Localized: Saludos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816321
+    m_Localized: Adieu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816322
+    m_Localized: Sayonara.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816323
+    m_Localized: Auf Wiedersehen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816324
+    m_Localized: "Adi\xF3s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816325
+    m_Localized: Ciao.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816326
+    m_Localized: Au revoir.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816327
+    m_Localized: Hasta la vista.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816328
+    m_Localized: Hasta luego.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816329
+    m_Localized: Nos vemos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816330
+    m_Localized: Paz y AMOR.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816331
+    m_Localized: Te veo luego.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816332
+    m_Localized: Chao, pescao.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816333
+    m_Localized: Me piro, vampiro.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816334
+    m_Localized: Bye, bye.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816335
+    m_Localized: Deu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816336
+    m_Localized: "\xA1AAAAAAAAAAAAH!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816337
+    m_Localized: "\xA1AAAAAAAAAAAAAAAAAAAAAAAH!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816338
+    m_Localized: "Adi\xF3s... \xBFEh?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816339
+    m_Localized: Esto va a doler.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816340
+    m_Localized: Me ha llegado el momento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816341
+    m_Localized: "\xBFPor qu\xE9 yo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816342
+    m_Localized: Lo siento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816343
+    m_Localized: Veo la luz.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816344
+    m_Localized: Triste, pero necesario.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816345
+    m_Localized: "HEJ D\xC5!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816346
+    m_Localized: "\xA1SECUENCIA DE AUTODESTRUCCI\xD3N CANCELADA!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816347
+    m_Localized: Me has dejado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816348
+    m_Localized: Me han abandonado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816349
+    m_Localized: Mi equipo me ha traicionado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816350
+    m_Localized: "Todo el mundo se ha olvidado de m\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816351
+    m_Localized: Mis amigos me han condenado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816352
+    m_Localized: "El escuadr\xF3n me ha desterrado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816353
+    m_Localized: "El grupo se ha deshecho de m\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816354
+    m_Localized: Todos me han descartado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816355
+    m_Localized: Me fiaba de ellos y me han dejado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816356
+    m_Localized: "Mis compa\xF1eros me han abandonado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816357
+    m_Localized: Me siento perdido.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816358
+    m_Localized: "\xBFPor qu\xE9 no me han esperado?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816359
+    m_Localized: "\xBFQu\xE9 he hecho mal?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816360
+    m_Localized: No me lo puedo creer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816361
+    m_Localized: "\xBFC\xF3mo han podido?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816362
+    m_Localized: Esto no puede estar pasando.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816363
+    m_Localized: "Ahora dependo de m\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816364
+    m_Localized: "Eran mi \xFAnica esperanza."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816365
+    m_Localized: "Deber\xEDa haberlo sabido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816366
+    m_Localized: Es tan injusto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816367
+    m_Localized: "Me han dejado atr\xE1s a mi suerte..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816368
+    m_Localized: Me han abandonado y dejado a solas...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816369
+    m_Localized: Me han dejado tirado en la oscuridad...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816370
+    m_Localized: Me han dejado sin decir ni mu...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816371
+    m_Localized: "Me han dejado aqu\xED sin avisar..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816372
+    m_Localized: Me han abandonado en silencio...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816373
+    m_Localized: "Me han traicionado sin mirar atr\xE1s..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816374
+    m_Localized: "Se han olvidado de m\xED sin remordimientos..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816375
+    m_Localized: Bueno, aquellos en quienes confiaba me han condenado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816376
+    m_Localized: "Bueno, mis compa\xF1eros me han abandonado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816377
+    m_Localized: "Tengo que llegar al cami\xF3n en..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816378
+    m_Localized: "Traici\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816379
+    m_Localized: "Traici\xF3n detectada"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816380
+    m_Localized: Lo siento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816381
+    m_Localized: He fallado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816382
+    m_Localized: Ay, no, otra vez no.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816383
+    m_Localized: "El trabajo en equipo contribuye al sue\xF1o del equipo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816384
+    m_Localized: "Pensaba que \xE9ramos amigos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816385
+    m_Localized: "Pensaba que \xE9ramos un equipo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816386
+    m_Localized: "Pensaba que est\xE1bamos juntos en esto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816387
+    m_Localized: "Pensaba que \xE9ramos una familia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816388
+    m_Localized: "{playerName} hace que mi coraz\xF3n lata fuerte."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816389
+    m_Localized: Cada vez que veo a {playerName}, lo pierdo todo.
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816390
+    m_Localized: Solo me quiero subir al C.A.R.R.O. con {playerName}.
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816391
+    m_Localized: "{playerName} es todo un guapobot, \xBFsabes?"
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816392
+    m_Localized: '{playerName} es mi mago favorito.'
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816393
+    m_Localized: "\xA1Solo quiero estar con {playerName}!"
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816394
+    m_Localized: "Pensar en {playerName} hace que se me descargue la \xFAltima actualizaci\xF3n."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816395
+    m_Localized: '{playerName}, me enamoras el chip.'
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816396
+    m_Localized: Me muero por hacer feliz al recaudador con {playerName} otra vez.
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816397
+    m_Localized: "Solo quiero ir a Jap\xF3n con {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816398
+    m_Localized: Creo que {playerName} me hace sentir cortocircuitos.
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816399
+    m_Localized: "{playerName} tiene la sonrisa con m\xE1s estabilidad financiera."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816400
+    m_Localized: "{playerName} es como el sue\xF1o mejor actualizado."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816401
+    m_Localized: Cada vez que veo a {playerName}, mis transistores bailan un tango.
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816402
+    m_Localized: '{playerName} es mi idiota favorito.'
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816403
+    m_Localized: No puedo esperar a hacerle electrocosquillas a {playerName} otra
+      vez.
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816404
+    m_Localized: "{playerName}, \xA1me alegras el d\xEDa!"
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816405
+    m_Localized: "{playerName} hace que mi coraz\xF3n haga bum, bum."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816406
+    m_Localized: Solo quiero compartir secretos con {playerName}.
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816407
+    m_Localized: "No puedo parar de sonre\xEDr por culpa de {playerName}."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155229
+  - m_Id: 2168965816408
+    m_Localized: "Esta poci\xF3n es simplemente adorable."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816409
+    m_Localized: "\xA1Me encanta esta poci\xF3n!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816410
+    m_Localized: "Pensar en esta poci\xF3n me hace pitar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816411
+    m_Localized: "Esta poci\xF3n es mi tesoro favorito."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816412
+    m_Localized: "Cada vez que veo esta poci\xF3n, declaro mi amor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816413
+    m_Localized: "Esta poci\xF3n hace que mi d\xEDa sea alucinante."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816414
+    m_Localized: "Creo que tengo cierta debilidad por esta poci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816415
+    m_Localized: "La vida es maravillosa con esta poci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816416
+    m_Localized: "Esta poci\xF3n hace que mi coraz\xF3n se reinicie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816417
+    m_Localized: "Pensar en esta poci\xF3n me hace feliz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816418
+    m_Localized: "\xA1Ay! \xA1Ay! \xA1Ay!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816419
+    m_Localized: "\xA1Uy! \xA1Uy! \xA1Uy!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816420
+    m_Localized: "\xA1Uf! \xA1Uf! \xA1Uf!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816421
+    m_Localized: "\xA1Ay, ay! \xA1Uf! \xA1Auuuu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816422
+    m_Localized: "\xA1Auch! \xA1Auch! \xA1Auch!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816423
+    m_Localized: Error, error, error.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816424
+    m_Localized: Error del sistema.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816425
+    m_Localized: Error fatal.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816426
+    m_Localized: Error 404.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816427
+    m_Localized: "Error de ejecuci\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816428
+    m_Localized: Me voy a caer.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816429
+    m_Localized: Me caigo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816430
+    m_Localized: "\xA1Ooooooooh!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816431
+    m_Localized: "\xA1Ay, nooooo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816432
+    m_Localized: "\xA1AAAAAAH! \xA1AAH!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816433
+    m_Localized: "\xA1AAAAAAAAAAAAAAH!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816434
+    m_Localized: "\xA1AAAAAAAAAAAAAAAAAAAAAAAAAAAH!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816435
+    m_Localized: "\xA1OH! \xA1OH! \xA1OH!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816436
+    m_Localized: "\xA1AH! \xA1AH! \xA1AH!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816437
+    m_Localized: Tres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816438
+    m_Localized: Dos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816439
+    m_Localized: Uno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816440
+    m_Localized: Se permite el movimiento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816441
+    m_Localized: Baila.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816442
+    m_Localized: Corre.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816443
+    m_Localized: Mueve el cuerpo.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816444
+    m_Localized: "Sigue movi\xE9ndote."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816445
+    m_Localized: "M\xE1s r\xE1pido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816446
+    m_Localized: Gira.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816447
+    m_Localized: Vamos, vamos, vamos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816448
+    m_Localized: Entretenme.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816449
+    m_Localized: "Men\xE9ate."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816450
+    m_Localized: Alto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816451
+    m_Localized: Quieto.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816452
+    m_Localized: "Qu\xE9date quieto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816453
+    m_Localized: Ni un movimiento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816454
+    m_Localized: No te muevas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816455
+    m_Localized: Ni un paso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816456
+    m_Localized: "Qu\xE9date."
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 278565723208155229
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 2168965816388
+        - id: 2168965816389
+        - id: 2168965816390
+        - id: 2168965816391
+        - id: 2168965816392
+        - id: 2168965816393
+        - id: 2168965816394
+        - id: 2168965816395
+        - id: 2168965816396
+        - id: 2168965816397
+        - id: 2168965816398
+        - id: 2168965816399
+        - id: 2168965816400
+        - id: 2168965816401
+        - id: 2168965816402
+        - id: 2168965816403
+        - id: 2168965816404
+        - id: 2168965816405
+        - id: 2168965816406
+        - id: 2168965816407

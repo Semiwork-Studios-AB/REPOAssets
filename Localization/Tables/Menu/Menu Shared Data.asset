@@ -1747,6 +1747,18 @@ MonoBehaviour:
     m_Key: SETTINGS.GAMEPAD.EXPRESSION_WHEEL_STICK
     m_Metadata:
       m_Items: []
+  - m_Id: 96390601870663680
+    m_Key: SETTINGS.CONTROLS.CHAT_CONFIRM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96390601916801024
+    m_Key: SETTINGS.LANGUAGE.CUSTOM_TRANSLATIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96815191142948864
+    m_Key: SETTINGS.GAMEPAD.ROTATION_SENSITIVITY
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

@@ -1671,6 +1671,118 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
       - rid: 2515126557588324500
+  - m_Id: 74362528585474050
+    m_Localized: "Metinden Konu\u015Fma Dili"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81298091666300928
+    m_Localized: "E\u015Fle\u015Fen Dil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856340672512
+    m_Localized: "\u0130t / \xC7ek"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615552
+    m_Localized: "Aray\xFCz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615553
+    m_Localized: Sonraki Sekme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615554
+    m_Localized: "\xD6nceki Sekme"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615555
+    m_Localized: "T\u0131kla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87379731429711872
+    m_Localized: "Ni\u015Fan \u0130vmesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062029873152
+    m_Localized: "Ara\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010496
+    m_Localized: "H\u0131zlan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010497
+    m_Localized: Fren / Geri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010498
+    m_Localized: Sola Git
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010499
+    m_Localized: "Sa\u011Fa Git"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010500
+    m_Localized: Araca Binme
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010501
+    m_Localized: "Y\xFCz \u0130fadesi \xC7ark\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269605806080
+    m_Localized: "Tutma Kontrol\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166208
+    m_Localized: "Tutma Kontrol H\u0131z\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166209
+    m_Localized: "Yak\u0131n D\xF6v\xFC\u015F Tutma Kontrol\xFC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166210
+    m_Localized: "Yak\u0131n D\xF6v\xFC\u015F Tutma Kontrol H\u0131z\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166211
+    m_Localized: Rumble
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94776138692288512
+    m_Localized: "Titre\u015Fim"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484512382976
+    m_Localized: "Birle\u015Fik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484554326016
+    m_Localized: "Ayr\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338642206720
+    m_Localized: "Y\xFCz \u0130fadesi Modu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338684149760
+    m_Localized: "\u0130tme / \xC7ekme Modu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442817417216
+    m_Localized: "Sa\u011F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442855165952
+    m_Localized: Sol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93863369772097536
+    m_Localized: "Y\xFCz \u0130fadesi \xC7ark \xC7ubu\u011Fu"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

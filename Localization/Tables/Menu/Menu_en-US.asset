@@ -1801,7 +1801,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 92478338684149760
-    m_Localized: Push/Pull Mode
+    m_Localized: Push / Pull Mode
     m_Metadata:
       m_Items: []
   - m_Id: 92885442817417216
@@ -1818,6 +1818,18 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 94776138692288512
     m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96390601870663680
+    m_Localized: Chat Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96390601916801024
+    m_Localized: Custom Translations
+    m_Metadata:
+      m_Items: []
+  - m_Id: 96815191142948864
+    m_Localized: Rotation Sensitivity
     m_Metadata:
       m_Items: []
   references:

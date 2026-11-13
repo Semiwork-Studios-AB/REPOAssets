@@ -17,7 +17,287 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: d7769f30d4d5aeb45ab0918f43fed15a, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 1049453162127360
+    m_Localized: Do puchy mnie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049453208264704
+    m_Localized: "i m\xF3wcie mi \u201Efasolek\u201D!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067686980214784
+    m_Localized: "Widz\u0119 kamienny b\u0142ysk"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687022157824
+    m_Localized: "z zamkni\u0119tymi oczami!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352128
+    m_Localized: HA! HA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352129
+    m_Localized: "Tak w\u0142a\u015Bnie wtedy m\xF3wili."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352130
+    m_Localized: "Kamienny b\u0142ysk to"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352131
+    m_Localized: "wysokoenergetyczne cz\u0105steczki \u015Bwiat\u0142a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352132
+    m_Localized: "emitowane ze s\u0142onecznych g\u0142az\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352133
+    m_Localized: "W roku\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907347210240
+    m_Localized: "Uszanowanko, kole\u017Cko!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365444215693312
+    m_Localized: "Przytrzymaj s\u0142oneczny g\u0142az przy uchu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365444215693313
+    m_Localized: "a mo\u017Ce po\u0142echcze twoje neurony."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153282
+    m_Localized: "Mo\u017Cesz us\u0142ysze\u0107 piosenk\u0119!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153283
+    m_Localized: "Nic nie s\u0142ysz\u0119!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153284
+    m_Localized: "Mo\u017Ce dlatego, \u017Ce nie mam"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153285
+    m_Localized: "ludzkiego m\xF3zgu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153286
+    m_Localized: "Co masz na my\u015Bli?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153287
+    m_Localized: "Jeste\u015Bmy lud\u017Ami!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153288
+    m_Localized: Co nie?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734112038912
+    m_Localized: "Witam go\u015Bcia!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981952
+    m_Localized: "Witamy w Resorcie w Dolinie S\u0142onecznych G\u0142az\xF3w!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981953
+    m_Localized: Najbardziej autentycznej reprezentacji
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981954
+    m_Localized: "naszej wspania\u0142ej historii kopalni kryszta\u0142\xF3w."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981955
+    m_Localized: "Po\u0142\u0105czonej z wszystkimi udogodnieniami"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981956
+    m_Localized: "obecnych czas\xF3w\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981957
+    m_Localized: Jestem Jenny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981958
+    m_Localized: "i pracuj\u0119 tutaj od\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981959
+    m_Localized: 73...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981960
+    m_Localized: "\u2026 lat!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981961
+    m_Localized: "\u017Bycz\u0119 przyjemnego pobytu!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981962
+    m_Localized: "Has\u0142o do Wifi to\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981963
+    m_Localized: 6...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981964
+    m_Localized: 7...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981965
+    m_Localized: 4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981966
+    m_Localized: 4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428943054823424
+    m_Localized: 4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852471349248
+    m_Localized: "Kamienny b\u0142ysk to energia przysz\u0142o\u015Bci!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709376
+    m_Localized: Bez niej
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709377
+    m_Localized: "nie by\u0142oby\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709378
+    m_Localized: "robot\xF3w!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438646992363520
+    m_Localized: "Te w\xF3zki kopalniane"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112256
+    m_Localized: "by\u0142y wykorzystywane do przemierzania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112257
+    m_Localized: "ciemnych, niebezpiecznych kopalni, kt\xF3re my"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112258
+    m_Localized: "g\xF3rnicy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112259
+    m_Localized: "odkrywamy i z kt\xF3rych wydobywamy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112260
+    m_Localized: "s\u0142oneczne g\u0142azy!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112261
+    m_Localized: "Co zabawne\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112262
+    m_Localized: "z prawdziwym s\u0142o\u0144cem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112263
+    m_Localized: mamy niewiele do czynienia!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191595347968
+    m_Localized: "Nasz \u015Bwiat"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096704
+    m_Localized: "zasilany jest tymi przedziwnymi \u015Bwiec\u0105cymi g\u0142azami."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096705
+    m_Localized: "Czy wiesz, \u017Ce"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096706
+    m_Localized: wystarczy ledwie ich garstka,
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096707
+    m_Localized: "aby zasili\u0107 du\u017Cy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096708
+    m_Localized: obszar metropolitarny?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096709
+    m_Localized: Ciekawe, prawda?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375914909696
+    m_Localized: "Cze\u015B\u0107, dzieciaki!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375961047040
+    m_Localized: "Kt\xF3re z tych odg\u0142os\xF3w zwierz\u0105t nie pasuj\u0105"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375961047041
+    m_Localized: "do Doliny S\u0142onecznych G\u0142az\xF3w?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782301851648
+    m_Localized: "No dalej, dacie rad\u0119!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406080
+    m_Localized: "Jeszcze troszk\u0119!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406081
+    m_Localized: "Prawie jeste\u015Bcie!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406082
+    m_Localized: Ha ha!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406083
+    m_Localized: Szalone, co?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406084
+    m_Localized: "Tak to ju\u017C tutaj jest w naszych stronach!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5022492442746880
+    m_Localized: "M\xF3j ko\u0144 jest MARTWY\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717449428992
+    m_Localized: Buu!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717491372032
+    m_Localized: "Chowam si\u0119 za zielonym t\u0142okiem!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717491372033
+    m_Localized: Ha ha ha!
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

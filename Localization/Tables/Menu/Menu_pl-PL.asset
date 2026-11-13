@@ -1669,6 +1669,118 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
       - rid: 2515126557588324493
+  - m_Id: 74362528585474050
+    m_Localized: "J\u0119zyk zmiany tekstu na mow\u0119"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81298091666300928
+    m_Localized: "J\u0119zyk sesji"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856340672512
+    m_Localized: "Popchnij / poci\u0105gnij"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615552
+    m_Localized: UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615553
+    m_Localized: "Nast\u0119pna zak\u0142adka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615554
+    m_Localized: "Poprzednia zak\u0142adka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615555
+    m_Localized: Klik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87379731429711872
+    m_Localized: Przyspieszenie celowania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062029873152
+    m_Localized: Pojazd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010496
+    m_Localized: Przyspieszenie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010497
+    m_Localized: Hamulec / wsteczny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010498
+    m_Localized: Drift w lewo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010499
+    m_Localized: Drift w prawo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010500
+    m_Localized: "Wej\u015Bcie do pojazdu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010501
+    m_Localized: "Ko\u0142o gest\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269605806080
+    m_Localized: "Przew\xF3d chwytania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166208
+    m_Localized: "Pr\u0119dko\u015B\u0107 przewodu chwytania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166209
+    m_Localized: "Przew\xF3d chwytania wr\u0119cz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166210
+    m_Localized: "Pr\u0119dko\u015B\u0107 przewodu chwytania wr\u0119cz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166211
+    m_Localized: Wibracje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94776138692288512
+    m_Localized: Wibracje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484512382976
+    m_Localized: "Po\u0142\u0105czone"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484554326016
+    m_Localized: Osobno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338642206720
+    m_Localized: "Tryb ko\u0142a gest\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338684149760
+    m_Localized: "Tryb popychania / ci\u0105gni\u0119cia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442817417216
+    m_Localized: Prawo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442855165952
+    m_Localized: Lewo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93863369772097536
+    m_Localized: "Sterowanie ko\u0142em gest\xF3w"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:

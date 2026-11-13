@@ -16,8 +16,615 @@ MonoBehaviour:
     m_Code: tr-TR
   m_SharedData: {fileID: 11400000, guid: bc4b19486e3f94d4a9fd44e4d2661ea1, type: 2}
   m_Metadata:
-    m_Items: []
-  m_TableData: []
+    m_Items:
+    - rid: 278565723208155224
+  m_TableData:
+  - m_Id: 2168907096064
+    m_Localized: "hadi ka\xE7t\u0131m ben"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816320
+    m_Localized: Elveda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816321
+    m_Localized: Adieu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816322
+    m_Localized: sayonara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816323
+    m_Localized: Auf Wiedersehen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816324
+    m_Localized: adios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816325
+    m_Localized: ciao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816326
+    m_Localized: Au Revoir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816327
+    m_Localized: hasta la vista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816328
+    m_Localized: "Hadi G\xF6r\xFC\u015F\xFCr\xFCz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816329
+    m_Localized: "G\xF6r\xFC\u015F\xFCr\xFCz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816330
+    m_Localized: Selametle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816331
+    m_Localized: "Konu\u015Furuz yine"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816332
+    m_Localized: "Ho\u015F \xE7akal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816333
+    m_Localized: "G\xFCle g\xFCle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816334
+    m_Localized: bay bay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816335
+    m_Localized: hadi bay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816336
+    m_Localized: AAAAAAAAAAAAH!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816337
+    m_Localized: AAAAAAAAAAAAAAAAAAAAAAAH!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816338
+    m_Localized: "g\xF6r\xFC\u015F\xFCr\xFCz\u2026 ...yoksa?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816339
+    m_Localized: "\u015Eimdi naneyi yedik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816340
+    m_Localized: Benden bu kadar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816341
+    m_Localized: Niye ben?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816342
+    m_Localized: "\xDCzg\xFCn\xFCm"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816343
+    m_Localized: "I\u015F\u0131\u011F\u0131 g\xF6r\xFCyorum"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816344
+    m_Localized: "Ac\u0131 ama gerekli"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816345
+    m_Localized: "HEJ D\xC5!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816346
+    m_Localized: "KEND\u0130N\u0130 \u0130MHA ETME \u0130\u015ELEM\u0130 \u0130PTAL
+      ED\u0130LD\u0130!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816347
+    m_Localized: "Beni b\u0131rak\u0131p gittiniz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816348
+    m_Localized: Beni terk ettiler.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816349
+    m_Localized: "Ekibim beni satt\u0131."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816350
+    m_Localized: "Unutuldum aldat\u0131ld\u0131m."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816351
+    m_Localized: "Dostlar\u0131m hayat\u0131m\u0131 mahvetti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816352
+    m_Localized: "Tak\u0131m\u0131m beni y\xFCz\xFCst\xFC b\u0131rakt\u0131."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816353
+    m_Localized: Grubum beni ekti.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816354
+    m_Localized: "Hepsi de beni kirli bir mendil gibi f\u0131rlat\u0131p att\u0131."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816355
+    m_Localized: "G\xFCvendiklerim beni b\u0131rak\u0131p gittiler."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816356
+    m_Localized: "Yola \xE7\u0131kt\u0131klar\u0131m beni terk etti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816357
+    m_Localized: "Kendimi kaybolmu\u015F hissediyorum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816358
+    m_Localized: Neden beklemediler ki sanki?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816359
+    m_Localized: "Su\xE7um neydi benim?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816360
+    m_Localized: "B\xFCt\xFCn bunlara inanam\u0131yorum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816361
+    m_Localized: "Bunu bana nas\u0131l yapabildiler?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816362
+    m_Localized: "Bu ger\xE7ek olamaz."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816363
+    m_Localized: "Art\u0131k tek ba\u015F\u0131may\u0131m."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816364
+    m_Localized: "B\xFCt\xFCn umudum onlard\u0131."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816365
+    m_Localized: "B\xF6yle olaca\u011F\u0131n\u0131 bilmeliydim."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816366
+    m_Localized: "Bu d\xFCped\xFCz haks\u0131zl\u0131k."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816367
+    m_Localized: "Beni geride b\u0131rak\u0131p hayat\u0131m\u0131 mahvettiler\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816368
+    m_Localized: "Beni y\xFCz\xFCst\xFC, yapayaln\u0131z b\u0131rakt\u0131lar\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816369
+    m_Localized: "Beni karanl\u0131kta koyup gittiler\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816370
+    m_Localized: "Beni hi\xE7bir \u015Fey s\xF6ylemeden bir kenara kald\u0131r\u0131p
+      att\u0131lar\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816371
+    m_Localized: "Hi\xE7 \xE7akt\u0131rmadan beni b\u0131rak\u0131p gittiler\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816372
+    m_Localized: "Beni sessizli\u011Fe terk ettiler\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816373
+    m_Localized: "Arkalar\u0131na bile bakmadan beni sat\u0131p gittiler\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816374
+    m_Localized: "Beni unutup gitti vicdans\u0131zlar\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816375
+    m_Localized: "\u015Eimdi o g\xFCvendiklerim hayat\u0131m\u0131 mahvetti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816376
+    m_Localized: "Yola \xE7\u0131kt\u0131klar\u0131m, \u015Fimdi beni y\xFCz\xFCst\xFC
+      b\u0131rakt\u0131."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816377
+    m_Localized: "Kamyona binmeliyim\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816378
+    m_Localized: "satt\u0131lar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816379
+    m_Localized: "sat\u0131\u015Fa geldik"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816380
+    m_Localized: "\xDCzg\xFCn\xFCm"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816381
+    m_Localized: "\xC7uvallad\u0131m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816382
+    m_Localized: "Hay\u0131r ya... yine mi?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816383
+    m_Localized: "\u015Eahane i\u015Fler ekiple olur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816384
+    m_Localized: "Dost oldu\u011Fumuzu sanm\u0131\u015Ft\u0131m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816385
+    m_Localized: "Ekip oldu\u011Fumuzu sanm\u0131\u015Ft\u0131m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816386
+    m_Localized: "Bu i\u015Fte birlikteyiz sanm\u0131\u015Ft\u0131m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816387
+    m_Localized: "Aile oldu\u011Fumuzu sanm\u0131\u015Ft\u0131m"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816388
+    m_Localized: '{playerName} kalbimi bip bip ettiriyor.'
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816389
+    m_Localized: "{playerName} oyuncusunu her g\xF6rd\xFC\u011F\xFCmde otomatikman
+      iflas ediyorum."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816390
+    m_Localized: '{playerName} ile A.R.A.B.A.''ya binmek istiyorum.'
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816391
+    m_Localized: "{playerName} tatl\u0131l\u0131ktan \xF6l\xFCyor, de\u011Fil mi?"
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816392
+    m_Localized: "{playerName}, benim en sevdi\u011Fim b\xFCy\xFCc\xFCd\xFCr."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816393
+    m_Localized: "{playerName} ile olmak i\xE7in \xF6l\xFCp bitiyorum!"
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816394
+    m_Localized: "{playerName} oyuncusunu d\xFC\u015F\xFCn\xFCnce son g\xFCncellemeyi
+      indiresim geliyor."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816395
+    m_Localized: "{playerName}, seni g\xF6r\xFCnce \"gaga ding dong\" diyesim geliyor."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816396
+    m_Localized: "{playerName} ile birlikte vergi memurunu yine memnun edece\u011Fim
+      an\u0131n hayalini kuruyorum."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816397
+    m_Localized: '{playerName} ile Japonya''ya gitmek istiyorum.'
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816398
+    m_Localized: "{playerName} oyuncusuna kar\u015F\u0131 bir \u015Feyler hissediyorum
+      galiba."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816399
+    m_Localized: "{playerName} oyuncusunun bir g\xFCl\xFC\u015F\xFC var san\u0131rs\u0131n
+      g\xF6kten para ya\u011F\u0131yor."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816400
+    m_Localized: "{playerName}, uyanmak istemeyece\u011Fin bir r\xFCya gibi."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816401
+    m_Localized: "{playerName} oyuncusunu her g\xF6rd\xFC\u011F\xFCmde devrelerim
+      k\u0131p\u0131r k\u0131p\u0131r oluyor."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816402
+    m_Localized: "{playerName}, en sevdi\u011Fim \u015Fap\u015Firiktir."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816403
+    m_Localized: "{playerName} oyuncusunu tekrar g\u0131d\u0131klamak i\xE7in sab\u0131rs\u0131zlan\u0131yorum."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816404
+    m_Localized: "{playerName}, g\xFCn\xFCm\xFC g\xFCzelle\u015Ftiriyorsun!"
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816405
+    m_Localized: "{playerName} kalbimi k\xFCt k\xFCt att\u0131r\u0131yor."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816406
+    m_Localized: "{playerName} ile s\u0131rlar\u0131m\u0131 payla\u015Fmak istiyorum."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816407
+    m_Localized: "{playerName}, beni g\xFClmekten \xF6ld\xFCr\xFCyor."
+    m_Metadata:
+      m_Items:
+      - rid: 278565723208155224
+  - m_Id: 2168965816408
+    m_Localized: "Bu iksir a\u015F\u0131r\u0131 g\xFCzel."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816409
+    m_Localized: "Bu iksire adeta bay\u0131l\u0131yorum!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816410
+    m_Localized: Bu iksir beni bip bip ettiriyor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816411
+    m_Localized: "Bu iksir benim biricik a\u015Fk\u0131m."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816412
+    m_Localized: "Bu iksiri her g\xF6rd\xFC\u011F\xFCmde a\u015Fka geliyorum."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816413
+    m_Localized: "Bu iksir beni havalara u\xE7uruyor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816414
+    m_Localized: "San\u0131r\u0131m bu iksire kar\u015F\u0131 bir zaaf\u0131m var."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816415
+    m_Localized: "Bu iksirle hayat \u015Fahane."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816416
+    m_Localized: "Kalbim bu iksirle at\u0131yor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816417
+    m_Localized: "Bu iksiri d\xFC\u015F\xFCnmek bile mutlu ediyor."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816418
+    m_Localized: Ay! Ay! Ay!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816419
+    m_Localized: Ah! Ah! Ah!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816420
+    m_Localized: Of! Of! Of!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816421
+    m_Localized: Uf! Uf! Uf!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816422
+    m_Localized: "Aman\u0131n! Aman\u0131n! Aman\u0131n!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816423
+    m_Localized: hata hata hata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816424
+    m_Localized: "sistem hatas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816425
+    m_Localized: kritik hata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816426
+    m_Localized: "404 hatas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816427
+    m_Localized: "\xE7al\u0131\u015Fma zaman\u0131 hatas\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816428
+    m_Localized: "Ben d\xFC\u015F\xFCyom"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816429
+    m_Localized: "Y\u0131k\u0131l\u0131yorum"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816430
+    m_Localized: aaaaaaay!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816431
+    m_Localized: olamaaaaaz!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816432
+    m_Localized: AAAAAAH! AAH!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816433
+    m_Localized: AAAAAAAAAAAAAAH!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816434
+    m_Localized: AAAAAAAAAAAAAAAAAAAAAAAAAAAH!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816435
+    m_Localized: AY! AY! AY!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816436
+    m_Localized: AH! AH! AH!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816437
+    m_Localized: "\xFC\xE7"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816438
+    m_Localized: iki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816439
+    m_Localized: bir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816440
+    m_Localized: hareket serbest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816441
+    m_Localized: dans et
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816442
+    m_Localized: "ko\u015F"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816443
+    m_Localized: "kald\u0131r k\u0131\xE7\u0131n\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816444
+    m_Localized: hadi devam et
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816445
+    m_Localized: "daha h\u0131zl\u0131"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816446
+    m_Localized: "d\xF6n \u015F\xF6yle"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816447
+    m_Localized: hadi hadi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816448
+    m_Localized: "beni e\u011Flendir"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816449
+    m_Localized: o yana bu yana salla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816450
+    m_Localized: dur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816451
+    m_Localized: "k\u0131m\u0131ldamak yok"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816452
+    m_Localized: "oldu\u011Fun yerde kal"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816453
+    m_Localized: "\xF6ylece dur"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816454
+    m_Localized: "k\u0131p\u0131rdama"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816455
+    m_Localized: "bir ad\u0131m bile atma"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2168965816456
+    m_Localized: orada kal
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
-    RefIds: []
+    RefIds:
+    - rid: 278565723208155224
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 2168965816388
+        - id: 2168965816389
+        - id: 2168965816390
+        - id: 2168965816391
+        - id: 2168965816392
+        - id: 2168965816393
+        - id: 2168965816394
+        - id: 2168965816395
+        - id: 2168965816396
+        - id: 2168965816397
+        - id: 2168965816398
+        - id: 2168965816399
+        - id: 2168965816400
+        - id: 2168965816401
+        - id: 2168965816402
+        - id: 2168965816403
+        - id: 2168965816404
+        - id: 2168965816405
+        - id: 2168965816406
+        - id: 2168965816407

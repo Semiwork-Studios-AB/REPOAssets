@@ -17,7 +17,287 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: d7769f30d4d5aeb45ab0918f43fed15a, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 1049453162127360
+    m_Localized: Che sorpresa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049453208264704
+    m_Localized: per il mio cuore di latta!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067686980214784
+    m_Localized: "Vedo il pietrill\xECo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687022157824
+    m_Localized: anche a occhi chiusi!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352128
+    m_Localized: AH! AH!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352129
+    m_Localized: "\xC8 quello che dissero allora."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352130
+    m_Localized: "Il pietrill\xECo \xE8 generato"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352131
+    m_Localized: dalle particelle energetiche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352132
+    m_Localized: sprigionate dalle Pietresolari.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352133
+    m_Localized: Nell'anno...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907347210240
+    m_Localized: "Buond\xEC, compare!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365444215693312
+    m_Localized: Avvicina una Pietrasolare all'orecchio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365444215693313
+    m_Localized: "e ti solleticher\xE0 i neuroni."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153282
+    m_Localized: Sentirai una canzone!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153283
+    m_Localized: Io non sento niente!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153284
+    m_Localized: "Forse perch\xE9 non ho"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153285
+    m_Localized: un cervello umano!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153286
+    m_Localized: Che vuoi dire?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153287
+    m_Localized: Siamo umani!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153288
+    m_Localized: Giusto?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734112038912
+    m_Localized: "Ehil\xE0, ospite!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981952
+    m_Localized: Sei al Resort della Valle Pietrasolare!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981953
+    m_Localized: "La rappresentazione pi\xF9 autentica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981954
+    m_Localized: della nostra storia di estrattiva,
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981955
+    m_Localized: senza mai rinunciare ai comfort
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981956
+    m_Localized: "della modernit\xE0..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981957
+    m_Localized: Mi chiamo Jenny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981958
+    m_Localized: e lavoro qui da...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981959
+    m_Localized: ...73...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981960
+    m_Localized: ...anni!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981961
+    m_Localized: Buon divertimento!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981962
+    m_Localized: "La password del Wi-Fi \xE8..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981963
+    m_Localized: ...6...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981964
+    m_Localized: ...7...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981965
+    m_Localized: ...4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981966
+    m_Localized: ...4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428943054823424
+    m_Localized: ...4...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852471349248
+    m_Localized: "Il pietrill\xECo \xE8 l'energia del futuro!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709376
+    m_Localized: Senza di esso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709377
+    m_Localized: non ci sarebbero...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709378
+    m_Localized: i robot!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438646992363520
+    m_Localized: Questi carrelli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112256
+    m_Localized: servivano per attraversare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112257
+    m_Localized: le miniere buie e pericolose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112258
+    m_Localized: da cui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112259
+    m_Localized: noi minatori estraevamo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112260
+    m_Localized: le Pietresolari!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112261
+    m_Localized: A pensarci ora...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112262
+    m_Localized: ci mancava...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112263
+    m_Localized: qualche rotaia!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191595347968
+    m_Localized: Il nostro mondo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096704
+    m_Localized: "\xE8 alimentato da queste pietre luminose."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096705
+    m_Localized: Sapevi che
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096706
+    m_Localized: ne basta una manciata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096707
+    m_Localized: per alimentare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096708
+    m_Localized: un'area metropolitana?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096709
+    m_Localized: "\xC8 interessante, no?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375914909696
+    m_Localized: "Ehil\xE0, bambini!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375961047040
+    m_Localized: Quali versi di animali non sono nativi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375961047041
+    m_Localized: di Valle Pietrasolare?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782301851648
+    m_Localized: Forza, potete farcela!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406080
+    m_Localized: Solo un altro po'!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406081
+    m_Localized: Manca poco!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406082
+    m_Localized: Ah ah!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406083
+    m_Localized: Che situazione assurda, eh?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406084
+    m_Localized: "Da queste parti va cos\xEC!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5022492442746880
+    m_Localized: "Il mio cavallo \xE8 MORTO..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717449428992
+    m_Localized: Buuu!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717491372032
+    m_Localized: Mi nascondo dietro al cilindro verde!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717491372033
+    m_Localized: Ah ah ah!
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

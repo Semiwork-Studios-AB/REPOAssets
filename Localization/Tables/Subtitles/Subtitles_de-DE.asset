@@ -17,7 +17,287 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: d7769f30d4d5aeb45ab0918f43fed15a, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 1049453162127360
+    m_Localized: Da fliegt mir doch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1049453208264704
+    m_Localized: die Sicherung raus!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067686980214784
+    m_Localized: Der Steinschein ist so hell, ich seh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687022157824
+    m_Localized: ihn mit geschlossenen Augen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352128
+    m_Localized: HAHA!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352129
+    m_Localized: Das haben sie damals gesagt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352130
+    m_Localized: Der Steinschein besteht aus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352131
+    m_Localized: den geladenen Partikeln
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352132
+    m_Localized: der Sonnensteine.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1067687026352133
+    m_Localized: "Im Jahre\_\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907347210240
+    m_Localized: Howdy, Kumpel!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365444215693312
+    m_Localized: Halt einen Sonnenstein ans Ohr,
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1365444215693313
+    m_Localized: dann kitzelt er deine Neuronen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153282
+    m_Localized: "Vielleicht h\xF6rst du \u2019nen Song!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153283
+    m_Localized: "Ich h\xF6re gar nichts!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153284
+    m_Localized: Vielleicht, weil ich kein menschliches
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153285
+    m_Localized: Hirn habe!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153286
+    m_Localized: "Was soll das hei\xDFen?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153287
+    m_Localized: Wir sind Menschen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1363907389153288
+    m_Localized: Oder?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734112038912
+    m_Localized: Hallo, Besucher!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981952
+    m_Localized: Willkommen im Resort-Tal Sonnenstein!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981953
+    m_Localized: "Die authentischste Repr\xE4sentation"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981954
+    m_Localized: unserer tollen Kristallbergbaugeschichte.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981955
+    m_Localized: Mitsamt allen Annehmlichkeiten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981956
+    m_Localized: "der Moderne\_\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981957
+    m_Localized: "Ich hei\xDFe Jenny"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981958
+    m_Localized: "und ich arbeite hier schon seit\_\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981959
+    m_Localized: "73\_\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981960
+    m_Localized: "\u2026 Jahren!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981961
+    m_Localized: "Genie\xDFen Sie Ihren Aufenthalt!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981962
+    m_Localized: "Das W-LAN-Passwort lautet\_\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981963
+    m_Localized: "6\_\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981964
+    m_Localized: "7\_\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981965
+    m_Localized: "4\_\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1426734153981966
+    m_Localized: "4\_\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1428943054823424
+    m_Localized: "4\_\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852471349248
+    m_Localized: Steinschein ist die Energie der Zukunft!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709376
+    m_Localized: Ohne sie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709377
+    m_Localized: "g\xE4be es keine\_\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1435852500709378
+    m_Localized: Roboter!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438646992363520
+    m_Localized: Mit diesen Loren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112256
+    m_Localized: haben wir Minenarbeiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112257
+    m_Localized: "die gef\xE4hrlichen Minen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112258
+    m_Localized: erforscht und
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112259
+    m_Localized: die Sonnensteine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112260
+    m_Localized: gewonnen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112261
+    m_Localized: "Fahren\_\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112262
+    m_Localized: "d\xFCrfen nur jene\_\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1438647030112263
+    m_Localized: mit froher Miene!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191595347968
+    m_Localized: Unsere Welt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096704
+    m_Localized: funktioniert nur mit diesen leuchtenden Steinen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096705
+    m_Localized: Schon gewusst?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096706
+    m_Localized: Schon ein paar reichen aus, um eine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096707
+    m_Localized: "gro\xDFe Metropole"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096708
+    m_Localized: mit Energie zu versorgen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806191633096709
+    m_Localized: Echt spannend, oder?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375914909696
+    m_Localized: Hallo, Kinder!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375961047040
+    m_Localized: "Welches dieser Tierger\xE4usche h\xF6rt man nicht"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2505375961047041
+    m_Localized: in Tal Sonnenstein?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782301851648
+    m_Localized: Kommt schon, ihr schafft das!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406080
+    m_Localized: Nur noch ein bisschen!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406081
+    m_Localized: Fast geschafft!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406082
+    m_Localized: Haha!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406083
+    m_Localized: "Ganz sch\xF6n abgefahren, was?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3615782335406084
+    m_Localized: "So l\xE4uft das hier nun mal bei uns!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5022492442746880
+    m_Localized: "Mein Pferd ist TOT\_\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717449428992
+    m_Localized: Buuh!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717491372032
+    m_Localized: "Ich verstecke mich hinter dem gr\xFCnen Zylinder!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6150717491372033
+    m_Localized: Hahaha!
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

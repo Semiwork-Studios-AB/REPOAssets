@@ -1666,6 +1666,118 @@ MonoBehaviour:
     m_Metadata:
       m_Items:
       - rid: 2515126557588324491
+  - m_Id: 74362528585474050
+    m_Localized: Idioma de texto a voz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81298091666300928
+    m_Localized: Hacer coincidir el idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856340672512
+    m_Localized: Empujar / Tirar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615552
+    m_Localized: IU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615553
+    m_Localized: "Pesta\xF1a siguiente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615554
+    m_Localized: "Pesta\xF1a anterior"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81651856382615555
+    m_Localized: Clic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 87379731429711872
+    m_Localized: "Aceleraci\xF3n al apuntar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062029873152
+    m_Localized: "Veh\xEDculo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010496
+    m_Localized: Acelerar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010497
+    m_Localized: "Freno / Marcha atr\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010498
+    m_Localized: Derrapar a la izquierda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010499
+    m_Localized: Derrapar a la derecha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010500
+    m_Localized: "Montarse en veh\xEDculo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91410062076010501
+    m_Localized: "Rueda de expresi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269605806080
+    m_Localized: Alcance de agarre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166208
+    m_Localized: Velocidad de alcance de agarre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166209
+    m_Localized: Alcance agarre cuerpo a cuerpo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166210
+    m_Localized: Vel. alcance agarre cuerpo a cuerpo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91676269635166211
+    m_Localized: "Vibraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 94776138692288512
+    m_Localized: "Vibraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484512382976
+    m_Localized: Combinado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92122484554326016
+    m_Localized: Separado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338642206720
+    m_Localized: "Modo Expresi\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92478338684149760
+    m_Localized: Modo Empujar / Tirar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442817417216
+    m_Localized: Derecha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92885442855165952
+    m_Localized: Izquierda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 93863369772097536
+    m_Localized: "Selecci\xF3n de rueda de expresi\xF3n"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds:
